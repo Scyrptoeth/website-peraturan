@@ -4,8 +4,16 @@ import { conversionReports, displayTitle } from "../../lib/regulations";
 
 const [conversion] = conversionReports;
 const title = "QA Reverse Prompt PDF";
+const acceptanceChecks = [
+  ["Preflight PDF", "39 halaman, tidak terenkripsi, dan text layer terbaca."],
+  ["Metadata", `${conversion.metadata.document_type} Nomor ${conversion.metadata.number} Tahun ${conversion.metadata.year} dengan slug ${conversion.metadata.slug}.`],
+  ["Struktur", `${conversion.quality.paragraph_count} paragraf, ${conversion.quality.body_article_count} Pasal batang tubuh, ${conversion.quality.explanation_article_count} Pasal penjelasan.`],
+  ["Lampiran non-teks", "Tidak ada lampiran tabel, grafik, gambar, atau formulir yang masuk ke konten utama."],
+  ["Determinisme", "Rerun pipeline menghasilkan JSON yang sama jika generated_at diabaikan."]
+];
 const checks = [
   ["PDF source", conversion.metadata.source_file],
+  ["Source SHA-256", conversion.metadata.source_sha256],
   ["PDF pages", conversion.metadata.pdf_info.pages],
   ["Encrypted", conversion.metadata.pdf_info.encrypted],
   ["Tagged", conversion.metadata.pdf_info.tagged],
@@ -44,7 +52,7 @@ const checks = [
         <h1 id="qa-title">Uji reverse prompt: {displayTitle(conversion)}</h1>
         <p class="lede">
           Halaman ini membuktikan pipeline PDF ber-text-layer dapat menghasilkan data terstruktur
-          dari file `UU Nomor 20 Tahun 2014.pdf` tanpa memasukkannya dulu sebagai konten utama website.
+          dari file <code>UU Nomor 20 Tahun 2014.pdf</code> tanpa memasukkannya dulu sebagai konten utama website.
         </p>
       </section>
 
@@ -71,6 +79,21 @@ const checks = [
             <code>src/data/prototype-conversions/uu-nomor-20-tahun-2014.json</code>.
           </p>
         </aside>
+      </section>
+
+      <section class="panel qa-standard" aria-labelledby="acceptance-title">
+        <p class="eyebrow">Acceptance Test</p>
+        <h2 id="acceptance-title">Standar prototype yang dipakai untuk dokumen berikutnya</h2>
+        <div class="qa-list">
+          {
+            acceptanceChecks.map(([label, value]) => (
+              <div class="qa-item">
+                <strong>{label}</strong>
+                <p>{value}</p>
+              </div>
+            ))
+          }
+        </div>
       </section>
     </main>
   </body>
