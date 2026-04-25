@@ -1,0 +1,77 @@
+---
+import "../../styles/global.css";
+import { conversionReports, displayTitle } from "../../lib/regulations";
+
+const [conversion] = conversionReports;
+const title = "QA Reverse Prompt PDF";
+const checks = [
+  ["PDF source", conversion.metadata.source_file],
+  ["PDF pages", conversion.metadata.pdf_info.pages],
+  ["Encrypted", conversion.metadata.pdf_info.encrypted],
+  ["Tagged", conversion.metadata.pdf_info.tagged],
+  ["Paragraphs", String(conversion.quality.paragraph_count)],
+  ["Body articles", String(conversion.quality.body_article_count)],
+  ["Explanation articles", String(conversion.quality.explanation_article_count)],
+  ["State gazette", conversion.quality.has_state_gazette ? "Detected" : "Missing"],
+  ["Supplement", conversion.quality.has_supplement ? "Detected" : "Missing"],
+  ["Quality flags", conversion.quality.quality_flags.length ? conversion.quality.quality_flags.join(", ") : "None"]
+];
+---
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="QA hasil reverse prompt PDF ke data peraturan." />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">
+        <strong>Website Peraturan</strong>
+        <span>Energi Indonesia</span>
+      </a>
+      <nav class="nav-links" aria-label="Navigasi utama">
+        <a href="/">Pencarian</a>
+        <a href="/peraturan/uu-nomor-30-tahun-2009/">Konten Website</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <section class="panel" aria-labelledby="qa-title">
+        <p class="eyebrow">Prototype Conversion</p>
+        <h1 id="qa-title">Uji reverse prompt: {displayTitle(conversion)}</h1>
+        <p class="lede">
+          Halaman ini membuktikan pipeline PDF ber-text-layer dapat menghasilkan data terstruktur
+          dari file `UU Nomor 20 Tahun 2014.pdf` tanpa memasukkannya dulu sebagai konten utama website.
+        </p>
+      </section>
+
+      <section class="workbench">
+        <div class="panel">
+          <h2>Hasil QA</h2>
+          <div class="qa-list">
+            {
+              checks.map(([label, value]) => (
+                <div class="qa-item">
+                  <strong>{label}</strong>
+                  <p>{value}</p>
+                </div>
+              ))
+            }
+          </div>
+        </div>
+
+        <aside class="panel">
+          <p class="eyebrow">Status</p>
+          <h2 class="status-ok">Lulus prototype</h2>
+          <p>
+            JSON hasil konversi tersedia di repo pada
+            <code>src/data/prototype-conversions/uu-nomor-20-tahun-2014.json</code>.
+          </p>
+        </aside>
+      </section>
+    </main>
+  </body>
+</html>

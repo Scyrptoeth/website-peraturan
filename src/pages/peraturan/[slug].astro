@@ -1,0 +1,161 @@
+---
+import "../../styles/global.css";
+import { articleAnchors, displayTitle, regulations, type LegalParagraph, type RegulationPayload } from "../../lib/regulations";
+
+export function getStaticPaths() {
+  return regulations.map((regulation) => ({
+    params: { slug: regulation.metadata.slug },
+    props: { regulation }
+  }));
+}
+
+type Props = {
+  regulation: RegulationPayload;
+};
+
+const { regulation } = Astro.props;
+const title = displayTitle(regulation);
+const anchors = articleAnchors(regulation);
+const shortTitle = `${regulation.metadata.document_type} ${regulation.metadata.number}/${regulation.metadata.year}`;
+const qualityLabel = regulation.quality.quality_flags.length ? regulation.quality.quality_flags.join(", ") : "Bersih";
+
+function splitListLabel(paragraph: LegalParagraph): { label: string; body: string } | null {
+  if (!["paragraph", "letter", "number"].includes(paragraph.kind)) return null;
+  const match = paragraph.text.match(/^((?:\(\d+[A-Z]?\)|\d+[A-Z]?\.|[a-z]\.))\s+(.+)$/);
+  if (!match) return null;
+  return { label: match[1], body: match[2] };
+}
+---
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={`Full text ${title}`} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">
+        <strong>Website Peraturan</strong>
+        <span>Energi Indonesia</span>
+      </a>
+      <nav class="nav-links" aria-label="Navigasi utama">
+        <a href="/">Pencarian</a>
+        <a href="/prototype/reverse-prompt/">QA Pipeline</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <section class="detail-hero" aria-labelledby="document-title">
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+          <a href="/">Beranda</a>
+          <span>›</span>
+          <a href="/">Peraturan Energi</a>
+          <span>›</span>
+          <span>{shortTitle}</span>
+        </nav>
+        <div class="badge-row">
+          <span class="badge">{regulation.metadata.document_type}</span>
+          <span class="badge badge-status">Berlaku</span>
+          <span class="badge">Prototype</span>
+        </div>
+        <h1 id="document-title">{shortTitle}</h1>
+        <p class="detail-subtitle">{title}</p>
+        <dl class="metadata-grid">
+          <div>
+            <dt>Status</dt>
+            <dd>Berlaku</dd>
+          </div>
+          <div>
+            <dt>Tahun</dt>
+            <dd>{regulation.metadata.year}</dd>
+          </div>
+          <div>
+            <dt>Deskripsi</dt>
+            <dd>{title}</dd>
+          </div>
+        </dl>
+        <div class="tag-row" aria-label="Klasifikasi">
+          <span>Ketenagalistrikan</span>
+          <span>Energi</span>
+          <span>Undang-Undang</span>
+          <span>{qualityLabel}</span>
+        </div>
+        <div class="search-block">
+          <label for="document-search">Cari di dokumen ini</label>
+          <input id="document-search" type="search" autocomplete="off" placeholder="Cari kata di batang tubuh atau penjelasan" />
+          <div id="document-search-summary" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="doc-layout">
+        <aside class="doc-sidebar" aria-label="Navigasi dokumen">
+          <nav class="side-tabs" aria-label="Bagian dokumen">
+            <a href="#indeks" aria-current="page">Indeks</a>
+            <a href="#riwayat">Riwayat</a>
+            <a href="#peraturan-terkait">Peraturan Terkait</a>
+            <a href="#analisis">Analisis</a>
+          </nav>
+          <nav id="indeks" class="toc" aria-label="Daftar pasal">
+            <p class="toc-title">Daftar Isi</p>
+            {anchors.map((anchor) => <a href={`#${anchor.id}`}>{anchor.text}</a>)}
+          </nav>
+        </aside>
+
+        <article class="web-article" data-pagefind-body>
+          {
+            regulation.paragraphs.map((paragraph) => {
+              const label = splitListLabel(paragraph);
+              return (
+                <p
+                  id={paragraph.id}
+                  class={`legal-p legal-${paragraph.kind}`}
+                  data-kind={paragraph.kind}
+                  data-part={paragraph.part}
+                  data-text={paragraph.text.toLowerCase()}
+                >
+                  {label ? (
+                    <>
+                      <span class="legal-label">{label.label}</span>
+                      <span class="legal-body">{label.body}</span>
+                    </>
+                  ) : (
+                    paragraph.text
+                  )}
+                </p>
+              );
+            })
+          }
+        </article>
+      </section>
+    </main>
+
+    <script>
+      const input = document.getElementById("document-search") as HTMLInputElement | null;
+      const summary = document.getElementById("document-search-summary");
+      const paragraphs = Array.from(document.querySelectorAll(".legal-p"));
+
+      function runDocumentSearch() {
+        const query = String(input?.value || "").trim().toLowerCase();
+        let count = 0;
+        for (const paragraph of paragraphs) {
+          if (query.length < 2) {
+            paragraph.classList.remove("is-hidden");
+            continue;
+          }
+          const match = String(paragraph.getAttribute("data-text") || "").includes(query);
+          paragraph.classList.toggle("is-hidden", !match);
+          if (match) count += 1;
+        }
+        if (summary) {
+          summary.textContent = query.length < 2 ? "Seluruh dokumen ditampilkan." : `${count} paragraf cocok.`;
+        }
+      }
+
+      input?.addEventListener("input", runDocumentSearch);
+      runDocumentSearch();
+    </script>
+  </body>
+</html>

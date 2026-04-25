@@ -1,0 +1,4384 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/UU-Nomor-30-Tahun-2009-Format-PDF.pdf",
+    "source_sha256": "4cb3ae117809af83c0cd5df99743aeef301009ff6e3055bc772061153f53c241",
+    "document_type": "UU",
+    "number": "30",
+    "year": "2009",
+    "title": "KETENAGALISTRIKAN",
+    "slug": "uu-nomor-30-tahun-2009",
+    "pdf_info": {
+      "pages": "43",
+      "title": "UU 30 Tahun 2009",
+      "tagged": "no",
+      "encrypted": "no",
+      "pdf_version": "1.4"
+    },
+    "generated_at": "2026-04-25T15:52:34.673473+00:00"
+  },
+  "quality": {
+    "paragraph_count": 725,
+    "body_article_count": 58,
+    "explanation_article_count": 58,
+    "chapter_count": 17,
+    "part_count": 15,
+    "letter_count": 151,
+    "number_count": 25,
+    "has_explanation": true,
+    "has_state_gazette": true,
+    "has_supplement": true,
+    "quality_flags": []
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "title",
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "NOMOR 30 TAHUN 2009",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "KETENAGALISTRIKAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "PRESIDEN REPUBLIK INDONESIA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "opening",
+      "text": "Menimbang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "letter",
+      "text": "a. bahwa pembangunan nasional bertujuan untuk mewujudkan masyarakat adil dan makmur yang merata materiil dan spiritual berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "letter",
+      "text": "b. bahwa tenaga listrik mempunyai peran yang sangat penting dan strategis dalam mewujudkan tujuan pembangunan nasional maka usaha penyediaan tenaga listrik dikuasai oleh negara dan penyediaannya perlu terus ditingkatkan sejalan dengan perkembangan pembangunan agar tersedia tenaga listrik dalam jumlah yang cukup, merata, dan bermutu;",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "letter",
+      "text": "c. bahwa penyediaan tenaga listrik bersifat padat modal dan teknologi dan sejalan dengan prinsip otonomi daerah dan demokratisasi dalam tatanan kehidupan bermasyarakat, berbangsa, dan bernegara maka peran pemerintah daerah dan masyarakat dalam penyediaan tenaga listrik perlu ditingkatkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "letter",
+      "text": "d. bahwa di samping bermanfaat, tenaga listrik juga dapat membahayakan sehingga penyediaan dan pemanfaatannya harus memperhatikan ketentuan keselamatan ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "letter",
+      "text": "e. bahwa Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan tidak sesuai lagi dengan tuntutan perkembangan keadaan dan perubahan dalam kehidupan masyarakat sehingga perlu diganti dengan undang-undang yang baru;",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "letter",
+      "text": "f. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, huruf d, dan huruf e, perlu membentuk Undang-Undang tentang Ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "body",
+      "text": "Pasal 5 ayat (1), Pasal 18, Pasal 20, dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "body",
+      "text": "Dengan Persetujuan Bersama",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "body",
+      "text": "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "body",
+      "text": "dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "body",
+      "text": "PRESIDEN REPUBLIK INDONESIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "body",
+      "text": "UNDANG-UNDANG TENTANG KETENAGALISTRIKAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "chapter",
+      "text": "BAB I",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "body",
+      "text": "KETENTUAN UMUM",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "body",
+      "text": "Dalam Undang-Undang ini yang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "number",
+      "text": "1. Ketenagalistrikan adalah segala sesuatu yang menyangkut penyediaan dan pemanfaatan tenaga listrik serta usaha penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "number",
+      "text": "2. Tenaga listrik adalah suatu bentuk energi sekunder yang dibangkitkan, ditransmisikan, dan didistribusikan untuk segala macam keperluan, tetapi tidak meliputi listrik yang dipakai untuk komunikasi, elektronika, atau isyarat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "number",
+      "text": "3. Usaha penyediaan tenaga listrik adalah pengadaan tenaga listrik meliputi pembangkitan, transmisi, distribusi, dan penjualan tenaga listrik kepada konsumen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "number",
+      "text": "4. Pembangkitan tenaga listrik adalah kegiatan memproduksi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "number",
+      "text": "5. Transmisi tenaga listrik adalah penyaluran tenaga listrik dari pembangkitan ke sistem distribusi atau ke konsumen, atau penyaluran tenaga listrik antarsistem.",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "number",
+      "text": "6. Distribusi tenaga listrik adalah penyaluran tenaga listrik dari sistem transmisi atau dari pembangkitan ke konsumen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "number",
+      "text": "7. Konsumen adalah setiap orang atau badan yang membeli tenaga listrik dari pemegang izin usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "number",
+      "text": "8. Usaha penjualan tenaga listrik adalah kegiatan usaha penjualan tenaga listrik kepada konsumen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "number",
+      "text": "9. Rencana umum ketenagalistrikan adalah rencana pengembangan sistem penyediaan tenaga listrik yang meliputi bidang pembangkitan, transmisi, dan distribusi tenaga listrik yang diperlukan untuk memenuhi kebutuhan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "number",
+      "text": "10. Izin usaha penyediaan tenaga listrik adalah izin untuk melakukan usaha penyediaan tenaga listrik untuk kepentingan umum.",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "number",
+      "text": "11. Izin operasi adalah izin untuk melakukan penyediaan tenaga listrik untuk kepentingan sendiri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "number",
+      "text": "12. Wilayah usaha adalah wilayah yang ditetapkan Pemerintah sebagai tempat badan usaha distribusi dan/atau penjualan tenaga listrik melakukan usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "number",
+      "text": "13. Ganti rugi hak atas tanah adalah penggantian atas pelepasan atau penyerahan hak atas tanah berikut bangunan, tanaman, dan/atau benda lain yang terdapat di atas tanah tersebut.",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "number",
+      "text": "14. Kompensasi adalah pemberian sejumlah uang kepada pemegang hak atas tanah berikut bangunan, tanaman, dan/atau benda lain yang terdapat di atas tanah tersebut karena tanah tersebut digunakan secara tidak langsung untuk pembangunan ketenagalistrikan tanpa dilakukan pelepasan atau penyerahan hak atas tanah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "number",
+      "text": "15. Pemerintah Pusat, yang selanjutnya disebut Pemerintah, adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintah negara Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "number",
+      "text": "16. Pemerintah daerah adalah gubernur, bupati, atau walikota, dan perangkat daerah sebagai unsur penyelenggara Pemerintahan Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "number",
+      "text": "17. Menteri adalah menteri yang membidangi urusan ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "number",
+      "text": "18. Setiap orang adalah orang perorangan atau badan baik yang berbadan hukum maupun yang bukan berbadan hukum.",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "chapter",
+      "text": "BAB II",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "body",
+      "text": "ASAS DAN TUJUAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "paragraph",
+      "text": "(1) Pembangunan ketenagalistrikan menganut asas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "letter",
+      "text": "a. manfaat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "letter",
+      "text": "b. efisiensi berkeadilan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "letter",
+      "text": "c. berkelanjutan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "letter",
+      "text": "d. optimalisasi ekonomi dalam pemanfaatan sumber daya energi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "letter",
+      "text": "e. mengandalkan pada kemampuan sendiri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "letter",
+      "text": "f. kaidah usaha yang sehat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "letter",
+      "text": "g. keamanan dan keselamatan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "letter",
+      "text": "h. kelestarian fungsi lingkungan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "letter",
+      "text": "i. otonomi daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "paragraph",
+      "text": "(2) Pembangunan ketenagalistrikan bertujuan untuk menjamin ketersediaan tenaga listrik dalam jumlah yang cukup, kualitas yang baik, dan harga yang wajar dalam rangka meningkatkan kesejahteraan dan kemakmuran rakyat secara adil dan merata serta mewujudkan pembangunan yang berkelanjutan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "chapter",
+      "text": "BAB III",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "body",
+      "text": "PENGUASAAN DAN PENGUSAHAAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "body",
+      "text": "Penguasaan",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "paragraph",
+      "text": "(1) Penyediaan tenaga listrik dikuasai oleh negara yang penyelenggaraannya dilakukan oleh Pemerintah dan pemerintah daerah berlandaskan prinsip otonomi daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "paragraph",
+      "text": "(2) Untuk penyelenggaraan penyediaan tenaga listrik sebagaimana dimaksud pada ayat (1), Pemerintah dan pemerintah daerah sesuai dengan kewenangannya menetapkan kebijakan, pengaturan, pengawasan, dan melaksanakan usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "body",
+      "text": "Pengusahaan",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "paragraph",
+      "text": "(1) Pelaksanaan usaha penyediaan tenaga listrik oleh Pemerintah dan pemerintah daerah dilakukan oleh badan usaha milik negara dan badan usaha milik daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "paragraph",
+      "text": "(2) Badan usaha swasta, koperasi, dan swadaya masyarakat dapat berpartisipasi dalam usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "paragraph",
+      "text": "(3) Untuk penyediaan tenaga listrik sebagaimana dimaksud dalam Pasal 3 ayat (1), Pemerintah dan pemerintah daerah menyediakan dana untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "letter",
+      "text": "a. kelompok masyarakat tidak mampu;",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "letter",
+      "text": "b. pembangunan sarana penyediaan tenaga listrik di daerah yang belum berkembang;",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "letter",
+      "text": "c. pembangunan tenaga listrik di daerah terpencil dan perbatasan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "letter",
+      "text": "d. pembangunan listrik perdesaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "chapter",
+      "text": "BAB IV",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "body",
+      "text": "KEWENANGAN PENGELOLAAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "paragraph",
+      "text": "(1) Kewenangan Pemerintah di bidang ketenagalistrikan meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "letter",
+      "text": "a. penetapan kebijakan ketenagalistrikan nasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "letter",
+      "text": "b. penetapan peraturan perundang-undangan di bidang ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "letter",
+      "text": "c. penetapan pedoman, standar, dan kriteria di bidang ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "letter",
+      "text": "d. penetapan pedoman penetapan tarif tenaga listrik untuk konsumen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "letter",
+      "text": "e. penetapan rencana umum ketenagalistrikan nasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "letter",
+      "text": "f. penetapan wilayah usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "letter",
+      "text": "g. penetapan izin jual beli tenaga listrik lintas negara;",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "letter",
+      "text": "h. penetapan izin usaha penyediaan tenaga listrik untuk badan usaha yang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "number",
+      "text": "1. wilayah usahanya lintas provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "number",
+      "text": "2. dilakukan oleh badan usaha milik negara; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "number",
+      "text": "3. menjual tenaga listrik dan/atau menyewakan jaringan tenaga listrik kepada pemegang izin usaha penyediaan tenaga listrik yang ditetapkan oleh Pemerintah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "letter",
+      "text": "i. penetapan izin operasi yang fasilitas instalasinya mencakup lintas provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "letter",
+      "text": "j. penetapan tarif tenaga listrik untuk konsumen dari pemegang izin usaha penyediaan tenaga listrik yang ditetapkan oleh Pemerintah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "letter",
+      "text": "k. penetapan persetujuan harga jual tenaga listrik dan sewa jaringan tenaga listrik dari pemegang izin usaha penyediaan tenaga listrik yang ditetapkan oleh Pemerintah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "letter",
+      "text": "l. penetapan persetujuan penjualan kelebihan tenaga listrik dari pemegang izin operasi yang ditetapkan oleh Pemerintah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "letter",
+      "text": "m. penetapan izin usaha jasa penunjang tenaga listrik yang dilakukan oleh badan usaha milik negara atau penanam modal asing/mayoritas sahamnya dimiliki oleh penanam modal asing;",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "letter",
+      "text": "n. penetapan izin pemanfaatan jaringan tenaga listrik untuk kepentingan telekomunikasi, multimedia, dan informatika pada jaringan milik pemegang izin usaha penyediaan tenaga listrik atau izin operasi yang ditetapkan oleh Pemerintah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "letter",
+      "text": "o. pembinaan dan pengawasan kepada badan usaha di bidang ketenagalistrikan yang izinnya ditetapkan oleh Pemerintah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "letter",
+      "text": "p. pengangkatan inspektur ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "letter",
+      "text": "q. pembinaan jabatan fungsional inspektur ketenagalistrikan untuk seluruh tingkat pemerintahan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "letter",
+      "text": "r. penetapan sanksi administratif kepada badan usaha yang izinnya ditetapkan oleh Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "paragraph",
+      "text": "(2) Kewenangan pemerintah provinsi di bidang ketenagalistrikan meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "letter",
+      "text": "a. penetapan peraturan daerah provinsi di bidang ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "letter",
+      "text": "b. penetapan rencana umum ketenagalistrikan daerah provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "letter",
+      "text": "c. penetapan izin usaha penyediaan tenaga listrik untuk badan usaha yang wilayah usahanya lintas kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "letter",
+      "text": "d. penetapan izin operasi yang fasilitas instalasinya mencakup lintas kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "letter",
+      "text": "e. penetapan tarif tenaga listrik untuk konsumen dari pemegang izin usaha penyediaan tenaga listrik yang ditetapkan oleh pemerintah provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "letter",
+      "text": "f. penetapan persetujuan harga jual tenaga listrik dan sewa jaringan tenaga listrik untuk badan usaha yang menjual tenaga listrik dan/atau menyewakan jaringan tenaga listrik kepada badan usaha yang izinnya ditetapkan oleh pemerintah provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "letter",
+      "text": "g. penetapan persetujuan penjualan kelebihan tenaga listrik dari pemegang izin operasi yang izinnya ditetapkan oleh pemerintah provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "letter",
+      "text": "h. penetapan izin pemanfaatan jaringan tenaga listrik untuk kepentingan telekomunikasi, multimedia, dan informatika pada jaringan milik pemegang izin usaha penyediaan tenaga listrik atau izin operasi yang ditetapkan oleh pemerintah provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "letter",
+      "text": "i. pembinaan dan pengawasan kepada badan usaha di bidang ketenagalistrikan yang izinnya ditetapkan oleh pemerintah provinsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "letter",
+      "text": "j. pengangkatan inspektur ketenagalistrikan untuk provinsi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "letter",
+      "text": "k. penetapan sanksi administratif kepada badan usaha yang izinnya ditetapkan oleh pemerintah provinsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "paragraph",
+      "text": "(3) Kewenangan pemerintah kabupaten/kota di bidang ketenagalistrikan meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "letter",
+      "text": "a. penetapan peraturan daerah kabupaten/kota di bidang ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "letter",
+      "text": "b. penetapan rencana umum ketenagalistrikan daerah kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "letter",
+      "text": "c. penetapan izin usaha penyediaan tenaga listrik untuk badan usaha yang wilayah usahanya dalam kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "letter",
+      "text": "d. penetapan izin operasi yang fasilitas instalasinya dalam kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "letter",
+      "text": "e. penetapan tarif tenaga listrik untuk konsumen dari pemegang izin usaha penyediaan tenaga listrik yang ditetapkan oleh pemerintah kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "letter",
+      "text": "f. penetapan persetujuan harga jual tenaga listrik dan sewa jaringan tenaga listrik untuk badan usaha yang menjual tenaga listrik dan/atau menyewakan jaringan tenaga listrik kepada badan usaha yang izinnya ditetapkan oleh pemerintah kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "letter",
+      "text": "g. penetapan izin usaha jasa penunjang tenaga listrik bagi badan usaha yang mayoritas sahamnya dimiliki oleh penanam modal dalam negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "letter",
+      "text": "h. penetapan persetujuan penjualan kelebihan tenaga listrik dari pemegang izin operasi yang izinnya ditetapkan oleh pemerintah kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "letter",
+      "text": "i. penetapan izin pemanfaatan jaringan tenaga listrik untuk kepentingan telekomunikasi, multimedia, dan informatika pada jaringan milik pemegang izin usaha penyediaan tenaga listrik atau izin operasi yang ditetapkan oleh pemerintah kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "letter",
+      "text": "j. pembinaan dan pengawasan kepada badan usaha di bidang ketenagalistrikan yang izinnya ditetapkan oleh pemerintah kabupaten/kota;",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "letter",
+      "text": "k. pengangkatan inspektur ketenagalistrikan untuk kabupaten/kota; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "letter",
+      "text": "l. penetapan sanksi administratif kepada badan usaha yang izinnya ditetapkan oleh pemerintah kabupaten/kota.",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "chapter",
+      "text": "BAB V",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "body",
+      "text": "PEMANFAATAN SUMBER ENERGI PRIMER",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "paragraph",
+      "text": "(1) Sumber energi primer yang terdapat di dalam negeri dan/atau berasal dari luar negeri harus dimanfaatkan secara optimal sesuai dengan kebijakan energi nasional untuk menjamin penyediaan tenaga listrik yang berkelanjutan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "paragraph",
+      "text": "(2) Pemanfaatan sumber energi primer sebagaimana dimaksud pada ayat (1) harus dilaksanakan dengan mengutamakan sumber energi baru dan energi terbarukan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "paragraph",
+      "text": "(3) Pemanfaatan sumber energi primer yang terdapat di dalam negeri sebagaimana dimaksud pada ayat (1) diutamakan untuk kepentingan ketenagalistrikan nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "chapter",
+      "text": "BAB VI",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "body",
+      "text": "RENCANA UMUM KETENAGALISTRIKAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "paragraph",
+      "text": "(1) Rencana umum ketenagalistrikan nasional disusun berdasarkan pada kebijakan energi nasional dan ditetapkan oleh Pemerintah setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "paragraph",
+      "text": "(2) Rencana umum ketenagalistrikan nasional sebagaimana dimaksud pada ayat (1) disusun dengan mengikutsertakan pemerintah daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "paragraph",
+      "text": "(3) Rencana umum ketenagalistrikan daerah disusun berdasarkan pada rencana umum ketenagalistrikan nasional dan ditetapkan oleh pemerintah daerah setelah berkonsultasi dengan Dewan Perwakilan Rakyat Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "paragraph",
+      "text": "(4) Pedoman penyusunan rencana umum ketenagalistrikan sebagaimana dimaksud pada ayat (1) dan ayat (3) ditetapkan oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "chapter",
+      "text": "BAB VII",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "body",
+      "text": "USAHA KETENAGALISTRIKAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "body",
+      "text": "Usaha ketenagalistrikan terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "letter",
+      "text": "a. usaha penyediaan tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "letter",
+      "text": "b. usaha penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "body",
+      "text": "Usaha Penyediaan Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "body",
+      "text": "Usaha penyediaan tenaga listrik sebagaimana dimaksud dalam Pasal 8 huruf a terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "letter",
+      "text": "a. usaha penyediaan tenaga listrik untuk kepentingan umum; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "letter",
+      "text": "b. usaha penyediaan tenaga listrik untuk kepentingan sendiri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "paragraph",
+      "text": "(1) Usaha penyediaan tenaga listrik untuk kepentingan umum sebagaimana dimaksud dalam Pasal 9 huruf a meliputi jenis usaha:",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "letter",
+      "text": "d. penjualan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "paragraph",
+      "text": "(2) Usaha penyediaan tenaga listrik untuk kepentingan umum sebagaimana dimaksud pada ayat (1) dapat dilakukan secara terintegrasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "paragraph",
+      "text": "(3) Usaha penyediaan tenaga listrik untuk kepentingan umum sebagaimana dimaksud pada ayat (2) dilakukan oleh 1 (satu) badan usaha dalam 1 (satu) wilayah usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "paragraph",
+      "text": "(4) Pembatasan wilayah usaha sebagaimana dimaksud pada ayat (3) juga berlaku untuk usaha penyediaan tenaga listrik untuk kepentingan umum yang hanya meliputi distribusi tenaga listrik dan/atau penjualan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "paragraph",
+      "text": "(5) Wilayah usaha sebagaimana dimaksud pada ayat (3) dan ayat (4) ditetapkan oleh Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "paragraph",
+      "text": "(1) Usaha penyediaan tenaga listrik untuk kepentingan umum sebagaimana dimaksud dalam Pasal 10 ayat (1) dilaksanakan oleh badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, koperasi, dan swadaya masyarakat yang berusaha di bidang penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "paragraph",
+      "text": "(2) Badan usaha milik negara sebagaimana dimaksud pada ayat (1) diberi prioritas pertama melakukan usaha penyediaan tenaga listrik untuk kepentingan umum.",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "paragraph",
+      "text": "(3) Untuk wilayah yang belum mendapatkan pelayanan tenaga listrik, Pemerintah atau pemerintah daerah sesuai kewenangannya memberi kesempatan kepada badan usaha milik daerah, badan usaha swasta, atau koperasi sebagai penyelenggara usaha penyediaan tenaga listrik terintegrasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal tidak ada badan usaha milik daerah, badan usaha swasta, atau koperasi yang dapat menyediakan tenaga listrik di wilayah tersebut, Pemerintah wajib menugasi badan usaha milik negara untuk menyediakan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "body",
+      "text": "Usaha penyediaan tenaga listrik untuk kepentingan sendiri sebagaimana dimaksud dalam Pasal 9 huruf b meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "letter",
+      "text": "b. pembangkitan tenaga listrik dan distribusi tenaga listrik; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "letter",
+      "text": "c. pembangkitan tenaga listrik, transmisi tenaga listrik, dan distribusi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "body",
+      "text": "Usaha penyediaan tenaga listrik untuk kepentingan sendiri sebagaimana dimaksud dalam Pasal 12 dapat dilaksanakan oleh instansi pemerintah, pemerintah daerah, badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, koperasi, perseorangan, dan lembaga/badan usaha lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai usaha penyediaan tenaga listrik sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 13 diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "body",
+      "text": "Usaha Penunjang Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "body",
+      "text": "Usaha penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 8 huruf b terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "letter",
+      "text": "a. usaha jasa penunjang tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "letter",
+      "text": "b. usaha industri penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 15 huruf a meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "letter",
+      "text": "a. konsultansi dalam bidang instalasi penyediaan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "letter",
+      "text": "b. pembangunan dan pemasangan instalasi penyediaan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "letter",
+      "text": "c. pemeriksaan dan pengujian instalasi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "letter",
+      "text": "d. pengoperasian instalasi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "letter",
+      "text": "e. pemeliharaan instalasi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "letter",
+      "text": "f. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "letter",
+      "text": "g. pendidikan dan pelatihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "letter",
+      "text": "h. laboratorium pengujian peralatan dan pemanfaat tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "letter",
+      "text": "i. sertifikasi peralatan dan pemanfaat tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "letter",
+      "text": "j. sertifikasi kompetensi tenaga teknik ketenagalistrikan; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "letter",
+      "text": "k. usaha jasa lain yang secara langsung berkaitan dengan penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa penunjang tenaga listrik sebagaimana dimaksud pada ayat (1) dilaksanakan oleh badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, dan koperasi yang memiliki sertifikasi, klasifikasi, dan kualifikasi sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "paragraph",
+      "text": "(3) Badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, dan koperasi dalam melakukan usaha jasa penunjang tenaga listrik wajib mengutamakan produk dan potensi dalam negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai sertifikasi, klasifikasi, dan kualifikasi usaha jasa penunjang tenaga listrik diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "paragraph",
+      "text": "(1) Usaha industri penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 15 huruf b meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "letter",
+      "text": "a. usaha industri peralatan tenaga listrik; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "letter",
+      "text": "b. usaha industri pemanfaat tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0203",
+      "kind": "paragraph",
+      "text": "(2) Usaha industri penunjang tenaga listrik sebagaimana dimaksud pada ayat (1) dilaksanakan oleh badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, dan koperasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0204",
+      "kind": "paragraph",
+      "text": "(3) Badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, dan koperasi dalam melakukan usaha industri penunjang tenaga listrik wajib mengutamakan produk dan potensi dalam negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0205",
+      "kind": "paragraph",
+      "text": "(4) Kegiatan usaha industri penunjang tenaga listrik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0206",
+      "kind": "chapter",
+      "text": "BAB VIII",
+      "part": "body"
+    },
+    {
+      "id": "p-0207",
+      "kind": "body",
+      "text": "PERIZINAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0208",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0209",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0210",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0211",
+      "kind": "body",
+      "text": "Usaha penyediaan tenaga listrik dan usaha penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 8 dilaksanakan setelah mendapatkan izin usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0212",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0213",
+      "kind": "body",
+      "text": "Izin Usaha Penyediaan Tenaga Listrik dan Izin Operasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0214",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "body"
+    },
+    {
+      "id": "p-0215",
+      "kind": "paragraph",
+      "text": "(1) Izin usaha untuk menyediakan tenaga listrik terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0216",
+      "kind": "letter",
+      "text": "a. Izin usaha penyediaan tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0217",
+      "kind": "letter",
+      "text": "b. Izin operasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0218",
+      "kind": "paragraph",
+      "text": "(2) Setiap orang yang menyelenggarakan penyediaan tenaga listrik untuk kepentingan umum wajib memiliki izin usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0219",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "body"
+    },
+    {
+      "id": "p-0220",
+      "kind": "body",
+      "text": "Izin usaha penyediaan tenaga listrik sebagaimana dimaksud dalam Pasal 19 ayat (1) huruf a ditetapkan sesuai dengan jenis usahanya sebagaimana dimaksud dalam Pasal 10 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0221",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "body"
+    },
+    {
+      "id": "p-0222",
+      "kind": "body",
+      "text": "Pemerintah atau pemerintah daerah sesuai dengan kewenangannya menetapkan izin usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0223",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "body"
+    },
+    {
+      "id": "p-0224",
+      "kind": "body",
+      "text": "Izin operasi sebagaimana dimaksud dalam Pasal 19 ayat (1) huruf b diwajibkan untuk pembangkit tenaga listrik dengan kapasitas tertentu yang diatur dengan Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0225",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "body"
+    },
+    {
+      "id": "p-0226",
+      "kind": "paragraph",
+      "text": "(1) Izin operasi sebagaimana dimaksud dalam Pasal 22 ditetapkan oleh Pemerintah atau pemerintah daerah sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0227",
+      "kind": "paragraph",
+      "text": "(2) Izin operasi sebagaimana dimaksud pada ayat (1) ditetapkan setelah memenuhi persyaratan administratif, teknis, dan lingkungan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0228",
+      "kind": "paragraph",
+      "text": "(3) Pemegang izin operasi dapat menjual kelebihan tenaga listrik untuk dimanfaatkan bagi kepentingan umum setelah mendapat persetujuan dari Pemerintah atau pemerintah daerah sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0229",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "body"
+    },
+    {
+      "id": "p-0230",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai izin usaha penyediaan tenaga listrik dan izin operasi diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0231",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0232",
+      "kind": "body",
+      "text": "Izin Usaha Penunjang Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0233",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "body"
+    },
+    {
+      "id": "p-0234",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 15 huruf a dan Pasal 16 ayat (2) dilaksanakan setelah mendapatkan izin usaha jasa penunjang tenaga listrik dari Pemerintah atau pemerintah daerah sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0235",
+      "kind": "paragraph",
+      "text": "(2) Penetapan izin usaha jasa penunjang tenaga listrik dan izin usaha industri penunjang tenaga listrik dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0236",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "body"
+    },
+    {
+      "id": "p-0237",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai izin usaha jasa penunjang tenaga listrik diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0238",
+      "kind": "part",
+      "text": "Bagian Keempat",
+      "part": "body"
+    },
+    {
+      "id": "p-0239",
+      "kind": "body",
+      "text": "Hak dan Kewajiban Pemegang Izin Usaha Penyediaan Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0240",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "body"
+    },
+    {
+      "id": "p-0241",
+      "kind": "paragraph",
+      "text": "(1) Untuk kepentingan umum, pemegang izin usaha penyediaan tenaga listrik dalam melaksanakan usaha penyediaan tenaga listrik sebagaimana dimaksud dalam Pasal 10 ayat (1) berhak untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0242",
+      "kind": "letter",
+      "text": "a. melintasi sungai atau danau baik di atas maupun di bawah permukaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0243",
+      "kind": "letter",
+      "text": "b. melintasi laut baik di atas maupun di bawah permukaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0244",
+      "kind": "letter",
+      "text": "c. melintasi jalan umum dan jalan kereta api;",
+      "part": "body"
+    },
+    {
+      "id": "p-0245",
+      "kind": "letter",
+      "text": "d. masuk ke tempat umum atau perorangan dan menggunakannya untuk sementara waktu;",
+      "part": "body"
+    },
+    {
+      "id": "p-0246",
+      "kind": "letter",
+      "text": "e. menggunakan tanah dan melintas di atas atau di bawah tanah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0247",
+      "kind": "letter",
+      "text": "f. melintas di atas atau di bawah bangunan yang dibangun di atas atau di bawah tanah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0248",
+      "kind": "letter",
+      "text": "g. memotong dan/atau menebang tanaman yang menghalanginya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0249",
+      "kind": "paragraph",
+      "text": "(2) Dalam pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1), pemegang izin usaha penyediaan tenaga listrik harus melaksanakannya berdasarkan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0250",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "body"
+    },
+    {
+      "id": "p-0251",
+      "kind": "body",
+      "text": "Pemegang izin usaha penyediaan tenaga listrik wajib:",
+      "part": "body"
+    },
+    {
+      "id": "p-0252",
+      "kind": "letter",
+      "text": "a. menyediakan tenaga listrik yang memenuhi standar mutu dan keandalan yang berlaku;",
+      "part": "body"
+    },
+    {
+      "id": "p-0253",
+      "kind": "letter",
+      "text": "b. memberikan pelayanan yang sebaik-baiknya kepada konsumen dan masyarakat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0254",
+      "kind": "letter",
+      "text": "c. memenuhi ketentuan keselamatan ketenagalistrikan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0255",
+      "kind": "letter",
+      "text": "d. mengutamakan produk dan potensi dalam negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0256",
+      "kind": "part",
+      "text": "Bagian Kelima",
+      "part": "body"
+    },
+    {
+      "id": "p-0257",
+      "kind": "body",
+      "text": "Hak dan Kewajiban Konsumen",
+      "part": "body"
+    },
+    {
+      "id": "p-0258",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "body"
+    },
+    {
+      "id": "p-0259",
+      "kind": "paragraph",
+      "text": "(1) Konsumen berhak untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0260",
+      "kind": "letter",
+      "text": "a. mendapat pelayanan yang baik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0261",
+      "kind": "letter",
+      "text": "b. mendapat tenaga listrik secara terus-menerus dengan mutu dan keandalan yang baik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0262",
+      "kind": "letter",
+      "text": "c. memperoleh tenaga listrik yang menjadi haknya dengan harga yang wajar;",
+      "part": "body"
+    },
+    {
+      "id": "p-0263",
+      "kind": "letter",
+      "text": "d. mendapat pelayanan untuk perbaikan apabila ada gangguan tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0264",
+      "kind": "letter",
+      "text": "e. mendapat ganti rugi apabila terjadi pemadaman yang diakibatkan kesalahan dan/atau kelalaian pengoperasian oleh pemegang izin usaha penyediaan tenaga listrik sesuai syarat yang diatur dalam perjanjian jual beli tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0265",
+      "kind": "paragraph",
+      "text": "(2) Konsumen wajib:",
+      "part": "body"
+    },
+    {
+      "id": "p-0266",
+      "kind": "letter",
+      "text": "a. melaksanakan pengamanan terhadap bahaya yang mungkin timbul akibat pemanfaatan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0267",
+      "kind": "letter",
+      "text": "b. menjaga keamanan instalasi tenaga listrik milik konsumen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0268",
+      "kind": "letter",
+      "text": "c. memanfaatkan tenaga listrik sesuai dengan peruntukannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0269",
+      "kind": "letter",
+      "text": "d. membayar tagihan pemakaian tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0270",
+      "kind": "letter",
+      "text": "e. menaati persyaratan teknis di bidang ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0271",
+      "kind": "paragraph",
+      "text": "(3) Konsumen bertanggung jawab apabila karena kelalaiannya mengakibatkan kerugian pemegang izin usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0272",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai tanggung jawab konsumen sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0273",
+      "kind": "chapter",
+      "text": "BAB IX",
+      "part": "body"
+    },
+    {
+      "id": "p-0274",
+      "kind": "body",
+      "text": "PENGGUNAAN TANAH",
+      "part": "body"
+    },
+    {
+      "id": "p-0275",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "body"
+    },
+    {
+      "id": "p-0276",
+      "kind": "paragraph",
+      "text": "(1) Penggunaan tanah oleh pemegang izin usaha penyediaan tenaga listrik untuk melaksanakan haknya sebagaimana dimaksud dalam Pasal 27 dilakukan dengan memberikan ganti rugi hak atas tanah atau kompensasi kepada pemegang hak atas tanah, bangunan, dan tanaman sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0277",
+      "kind": "paragraph",
+      "text": "(2) Ganti rugi hak atas tanah sebagaimana dimaksud pada ayat (1) diberikan untuk tanah yang dipergunakan secara langsung oleh pemegang izin usaha penyediaan tenaga listrik dan bangunan serta tanaman di atas tanah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0278",
+      "kind": "paragraph",
+      "text": "(3) Kompensasi sebagaimana dimaksud pada ayat (1) diberikan untuk penggunaan tanah secara tidak langsung oleh pemegang izin usaha penyediaan tenaga listrik yang mengakibatkan berkurangnya nilai ekonomis atas tanah, bangunan, dan tanaman yang dilintasi transmisi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0279",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai perhitungan kompensasi sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0280",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal tanah yang digunakan pemegang izin usaha penyediaan tenaga listrik terdapat bagian-bagian tanah yang dikuasai oleh pemegang hak atas tanah atau pemakai tanah negara, sebelum memulai kegiatan, pemegang izin usaha penyediaan tenaga listrik wajib menyelesaikan masalah tanah tersebut sesuai dengan ketentuan peraturan perundang-undangan di bidang pertanahan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0281",
+      "kind": "paragraph",
+      "text": "(6) Dalam hal tanah yang digunakan pemegang izin usaha penyediaan tenaga listrik terdapat tanah ulayat, penyelesaiannya dilakukan berdasarkan peraturan perundang-undangan di bidang pertanahan dengan memperhatikan ketentuan hukum adat setempat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0282",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "body"
+    },
+    {
+      "id": "p-0283",
+      "kind": "body",
+      "text": "Kewajiban untuk memberi ganti rugi hak atas tanah atau kompensasi sebagaimana dimaksud dalam Pasal 30 ayat (1) tidak berlaku terhadap setiap orang yang sengaja mendirikan bangunan, menanam tanaman, dan lain-lain di atas tanah yang sudah memiliki izin lokasi untuk usaha penyediaan tenaga listrik dan sudah diberikan ganti rugi hak atas tanah atau kompensasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0284",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "body"
+    },
+    {
+      "id": "p-0285",
+      "kind": "paragraph",
+      "text": "(1) Penetapan dan tata cara pembayaran ganti rugi hak atas tanah atau kompensasi sebagaimana dimaksud dalam Pasal 30 dilakukan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0286",
+      "kind": "paragraph",
+      "text": "(2) Ganti rugi hak atas tanah atau kompensasi sebagaimana dimaksud dalam Pasal 30 dibebankan kepada pemegang izin usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0287",
+      "kind": "chapter",
+      "text": "BAB X",
+      "part": "body"
+    },
+    {
+      "id": "p-0288",
+      "kind": "body",
+      "text": "HARGA JUAL, SEWA JARINGAN, DAN TARIF TENAGA LISTRIK",
+      "part": "body"
+    },
+    {
+      "id": "p-0289",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0290",
+      "kind": "body",
+      "text": "Harga Jual Tenaga Listrik dan Sewa Jaringan Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0291",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "body"
+    },
+    {
+      "id": "p-0292",
+      "kind": "paragraph",
+      "text": "(1) Harga jual tenaga listrik dan sewa jaringan tenaga listrik ditetapkan berdasarkan prinsip usaha yang sehat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0293",
+      "kind": "paragraph",
+      "text": "(2) Pemerintah atau pemerintah daerah sesuai dengan kewenangannya memberikan persetujuan atas harga jual tenaga listrik dan sewa jaringan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0294",
+      "kind": "paragraph",
+      "text": "(3) Pemegang izin usaha penyediaan tenaga listrik dilarang menerapkan harga jual tenaga listrik dan sewa jaringan tenaga listrik tanpa persetujuan Pemerintah atau pemerintah daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0295",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0296",
+      "kind": "body",
+      "text": "Tarif Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0297",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "body"
+    },
+    {
+      "id": "p-0298",
+      "kind": "paragraph",
+      "text": "(1) Pemerintah sesuai dengan kewenangannya menetapkan tarif tenaga listrik untuk konsumen dengan persetujuan",
+      "part": "body"
+    },
+    {
+      "id": "p-0299",
+      "kind": "body",
+      "text": "Dewan Perwakilan Rakyat Republik Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0300",
+      "kind": "paragraph",
+      "text": "(2) Pemerintah daerah sesuai dengan kewenangannya menetapkan tarif tenaga listrik untuk konsumen dengan persetujuan Dewan Perwakilan Rakyat Daerah berdasarkan pedoman yang ditetapkan oleh Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0301",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal pemerintah daerah tidak dapat menetapkan tarif tenaga listrik sebagaimana dimaksud pada ayat (2), Pemerintah menetapkan tarif tenaga listrik untuk daerah tersebut dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0302",
+      "kind": "paragraph",
+      "text": "(4) Tarif tenaga listrik untuk konsumen sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) ditetapkan dengan memperhatikan keseimbangan kepentingan nasional, daerah, konsumen, dan pelaku usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0303",
+      "kind": "paragraph",
+      "text": "(5) Tarif tenaga listrik untuk konsumen sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat ditetapkan secara berbeda di setiap daerah dalam suatu wilayah usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0304",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "body"
+    },
+    {
+      "id": "p-0305",
+      "kind": "body",
+      "text": "Pemegang izin usaha penyediaan tenaga listrik dilarang menerapkan tarif tenaga listrik untuk konsumen yang tidak sesuai dengan penetapan Pemerintah atau pemerintah daerah sebagaimana dimaksud dalam Pasal 34.",
+      "part": "body"
+    },
+    {
+      "id": "p-0306",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "body"
+    },
+    {
+      "id": "p-0307",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara penetapan harga jual, sewa jaringan, dan tarif tenaga listrik sebagaimana dimaksud dalam Pasal 33 dan Pasal 34 diatur dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0308",
+      "kind": "body",
+      "text": "Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0309",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0310",
+      "kind": "body",
+      "text": "Jual Beli Tenaga Listrik Lintas Negara",
+      "part": "body"
+    },
+    {
+      "id": "p-0311",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "body"
+    },
+    {
+      "id": "p-0312",
+      "kind": "body",
+      "text": "Jual beli tenaga listrik lintas negara dilakukan oleh pemegang izin usaha penyediaan tenaga listrik berdasarkan izin Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0313",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "body"
+    },
+    {
+      "id": "p-0314",
+      "kind": "body",
+      "text": "Jual beli tenaga listrik lintas negara dapat dilakukan melalui pembelian atau penjualan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0315",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "body"
+    },
+    {
+      "id": "p-0316",
+      "kind": "body",
+      "text": "Pembelian tenaga listrik lintas negara sebagaimana dimaksud dalam Pasal 38 dapat dilakukan dengan syarat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0317",
+      "kind": "letter",
+      "text": "a. belum terpenuhinya kebutuhan tenaga listrik setempat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0318",
+      "kind": "letter",
+      "text": "b. hanya sebagai penunjang pemenuhan kebutuhan tenaga listrik setempat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0319",
+      "kind": "letter",
+      "text": "c. tidak merugikan kepentingan negara dan bangsa yang terkait dengan kedaulatan, keamanan, dan pembangunan ekonomi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0320",
+      "kind": "letter",
+      "text": "d. untuk meningkatkan mutu dan keandalan penyediaan tenaga listrik setempat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0321",
+      "kind": "letter",
+      "text": "e. tidak mengabaikan pengembangan kemampuan penyediaan tenaga listrik dalam negeri; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0322",
+      "kind": "letter",
+      "text": "f. tidak menimbulkan ketergantungan pengadaan tenaga listrik dari luar negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0323",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "body"
+    },
+    {
+      "id": "p-0324",
+      "kind": "body",
+      "text": "Penjualan tenaga listrik lintas negara sebagaimana dimaksud dalam Pasal 38 dapat dilakukan apabila:",
+      "part": "body"
+    },
+    {
+      "id": "p-0325",
+      "kind": "letter",
+      "text": "a. kebutuhan tenaga listrik setempat dan wilayah sekitarnya telah terpenuhi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0326",
+      "kind": "letter",
+      "text": "b. harga jual tenaga listrik tidak mengandung subsidi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0327",
+      "kind": "letter",
+      "text": "c. tidak mengganggu mutu dan keandalan penyediaan tenaga listrik setempat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0328",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "body"
+    },
+    {
+      "id": "p-0329",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai jual beli tenaga listrik lintas negara sebagaimana dimaksud dalam Pasal 37 sampai dengan Pasal 40 diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0330",
+      "kind": "chapter",
+      "text": "BAB XI",
+      "part": "body"
+    },
+    {
+      "id": "p-0331",
+      "kind": "body",
+      "text": "LINGKUNGAN HIDUP DAN KETEKNIKAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0332",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0333",
+      "kind": "body",
+      "text": "Lingkungan Hidup",
+      "part": "body"
+    },
+    {
+      "id": "p-0334",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "body"
+    },
+    {
+      "id": "p-0335",
+      "kind": "body",
+      "text": "Setiap kegiatan usaha ketenagalistrikan wajib memenuhi ketentuan yang disyaratkan dalam peraturan perundang-undangan di bidang lingkungan hidup.",
+      "part": "body"
+    },
+    {
+      "id": "p-0336",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0337",
+      "kind": "body",
+      "text": "Keteknikan",
+      "part": "body"
+    },
+    {
+      "id": "p-0338",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "body"
+    },
+    {
+      "id": "p-0339",
+      "kind": "body",
+      "text": "Keteknikan ketenagalistrikan terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0340",
+      "kind": "letter",
+      "text": "a. keselamatan ketenagalistrikan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0341",
+      "kind": "letter",
+      "text": "b. pemanfaatan jaringan tenaga listrik untuk kepentingan telekomunikasi, multimedia, dan informatika.",
+      "part": "body"
+    },
+    {
+      "id": "p-0342",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "body"
+    },
+    {
+      "id": "p-0343",
+      "kind": "paragraph",
+      "text": "(1) Setiap kegiatan usaha ketenagalistrikan wajib memenuhi ketentuan keselamatan ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0344",
+      "kind": "paragraph",
+      "text": "(2) Ketentuan keselamatan ketenagalistrikan sebagaimana dimaksud pada ayat (1) bertujuan untuk mewujudkan kondisi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0345",
+      "kind": "letter",
+      "text": "a. andal dan aman bagi instalasi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0346",
+      "kind": "letter",
+      "text": "b. aman dari bahaya bagi manusia dan makhluk hidup lainnya; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0347",
+      "kind": "letter",
+      "text": "c. ramah lingkungan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0348",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan keselamatan ketenagalistrikan sebagaimana dimaksud pada ayat (1) meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0349",
+      "kind": "letter",
+      "text": "a. pemenuhan standardisasi peralatan dan pemanfaat tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0350",
+      "kind": "letter",
+      "text": "b. pengamanan instalasi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0351",
+      "kind": "letter",
+      "text": "c. pengamanan pemanfaat tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0352",
+      "kind": "paragraph",
+      "text": "(4) Setiap instalasi tenaga listrik yang beroperasi wajib memiliki sertifikat laik operasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0353",
+      "kind": "paragraph",
+      "text": "(5) Setiap peralatan dan pemanfaat tenaga listrik wajib memenuhi ketentuan standar nasional Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0354",
+      "kind": "paragraph",
+      "text": "(6) Setiap tenaga teknik dalam usaha ketenagalistrikan wajib memiliki sertifikat kompetensi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0355",
+      "kind": "paragraph",
+      "text": "(7) Ketentuan mengenai keselamatan ketenagalistrikan, sertifikat laik operasi, standar nasional Indonesia, dan sertifikat kompetensi sebagaimana dimaksud pada ayat (1) sampai dengan ayat (6) diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0356",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "body"
+    },
+    {
+      "id": "p-0357",
+      "kind": "paragraph",
+      "text": "(1) Pemanfaatan jaringan tenaga listrik untuk kepentingan telekomunikasi, multimedia, dan informatika hanya dapat dilakukan sepanjang tidak mengganggu kelangsungan penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0358",
+      "kind": "paragraph",
+      "text": "(2) Pemanfaatan jaringan tenaga listrik sebagaimana dimaksud pada ayat (1) hanya dapat dilakukan dengan persetujuan pemilik jaringan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0359",
+      "kind": "paragraph",
+      "text": "(3) Pemanfaatan jaringan tenaga listrik sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan izin pemanfaatan jaringan yang diberikan oleh Pemerintah atau pemerintah daerah sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0360",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai pemanfaatan jaringan tenaga listrik sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0361",
+      "kind": "chapter",
+      "text": "BAB XII",
+      "part": "body"
+    },
+    {
+      "id": "p-0362",
+      "kind": "body",
+      "text": "PEMBINAAN DAN PENGAWASAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0363",
+      "kind": "article",
+      "text": "Pasal 46",
+      "part": "body"
+    },
+    {
+      "id": "p-0364",
+      "kind": "paragraph",
+      "text": "(1) Pemerintah atau pemerintah daerah sesuai dengan kewenangannya melakukan pembinaan dan pengawasan terhadap usaha penyediaan tenaga listrik dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0365",
+      "kind": "letter",
+      "text": "a. penyediaan dan pemanfaatan sumber energi untuk pembangkit tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0366",
+      "kind": "letter",
+      "text": "b. pemenuhan kecukupan pasokan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0367",
+      "kind": "letter",
+      "text": "c. pemenuhan persyaratan keteknikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0368",
+      "kind": "letter",
+      "text": "d. pemenuhan aspek perlindungan lingkungan hidup;",
+      "part": "body"
+    },
+    {
+      "id": "p-0369",
+      "kind": "letter",
+      "text": "e. pengutamaan pemanfaatan barang dan jasa dalam negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0370",
+      "kind": "letter",
+      "text": "f. penggunaan tenaga kerja asing;",
+      "part": "body"
+    },
+    {
+      "id": "p-0371",
+      "kind": "letter",
+      "text": "g. pemenuhan tingkat mutu dan keandalan penyediaan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0372",
+      "kind": "letter",
+      "text": "h. pemenuhan persyaratan perizinan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0373",
+      "kind": "letter",
+      "text": "i. penerapan tarif tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0374",
+      "kind": "letter",
+      "text": "j. pemenuhan mutu jasa yang diberikan oleh usaha penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0375",
+      "kind": "paragraph",
+      "text": "(2) Dalam melakukan pengawasan sebagaimana dimaksud pada ayat (1), Pemerintah dan pemerintah daerah dapat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0376",
+      "kind": "letter",
+      "text": "a. melakukan inspeksi pengawasan di lapangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0377",
+      "kind": "letter",
+      "text": "b. meminta laporan pelaksanaan usaha di bidang ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0378",
+      "kind": "letter",
+      "text": "c. melakukan penelitian dan evaluasi atas laporan pelaksanaan usaha di bidang ketenagalistrikan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0379",
+      "kind": "letter",
+      "text": "d. memberikan sanksi administratif terhadap pelanggaran ketentuan perizinan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0380",
+      "kind": "paragraph",
+      "text": "(3) Dalam melaksanakan pengawasan keteknikan sebagaimana dimaksud pada ayat (1), Pemerintah dan pemerintah daerah dibantu oleh inspektur ketenagalistrikan dan/atau Penyidik Pegawai Negeri Sipil.",
+      "part": "body"
+    },
+    {
+      "id": "p-0381",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai pembinaan dan pengawasan diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0382",
+      "kind": "chapter",
+      "text": "BAB XIII",
+      "part": "body"
+    },
+    {
+      "id": "p-0383",
+      "kind": "body",
+      "text": "PENYIDIKAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0384",
+      "kind": "article",
+      "text": "Pasal 47",
+      "part": "body"
+    },
+    {
+      "id": "p-0385",
+      "kind": "paragraph",
+      "text": "(1) Selain Penyidik Kepolisian Negara Republik Indonesia, Pejabat Pegawai Negeri Sipil tertentu yang lingkup tugas dan tanggung jawabnya di bidang ketenagalistrikan diberi wewenang khusus sebagai Penyidik sebagaimana dimaksud dalam Undang-Undang Hukum Acara Pidana untuk melakukan penyidikan tindak pidana di bidang ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0386",
+      "kind": "paragraph",
+      "text": "(2) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) berwenang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0387",
+      "kind": "letter",
+      "text": "a. melakukan pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana dalam kegiatan usaha ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0388",
+      "kind": "letter",
+      "text": "b. melakukan pemeriksaan terhadap setiap orang yang diduga melakukan tindak pidana dalam kegiatan usaha ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0389",
+      "kind": "letter",
+      "text": "c. memanggil orang untuk didengar dan diperiksa sebagai saksi atau tersangka dalam perkara tindak pidana dalam kegiatan usaha ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0390",
+      "kind": "letter",
+      "text": "d. menggeledah tempat yang diduga digunakan untuk melakukan tindak pidana dalam kegiatan usaha ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0391",
+      "kind": "letter",
+      "text": "e. melakukan pemeriksaan sarana dan prasarana kegiatan usaha ketenagalistrikan dan menghentikan penggunaan peralatan yang diduga digunakan untuk melakukan tindak pidana;",
+      "part": "body"
+    },
+    {
+      "id": "p-0392",
+      "kind": "letter",
+      "text": "f. menyegel dan/atau menyita alat kegiatan usaha ketenagalistrikan yang digunakan untuk melakukan tindak pidana sebagai alat bukti;",
+      "part": "body"
+    },
+    {
+      "id": "p-0393",
+      "kind": "letter",
+      "text": "g. mendatangkan tenaga ahli yang diperlukan dalam hubungannya dengan pemeriksaan perkara tindak pidana dalam kegiatan usaha ketenagalistrikan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0394",
+      "kind": "letter",
+      "text": "h. menangkap dan menahan pelaku tindak pidana di bidang ketenagalistrikan berdasarkan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0395",
+      "kind": "paragraph",
+      "text": "(3) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) memberitahukan dimulainya penyidikan perkara pidana kepada Pejabat Kepolisian Negara Republik Indonesia sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0396",
+      "kind": "paragraph",
+      "text": "(4) Pelaksanaan kewenangan sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0397",
+      "kind": "chapter",
+      "text": "BAB XIV",
+      "part": "body"
+    },
+    {
+      "id": "p-0398",
+      "kind": "body",
+      "text": "SANKSI ADMINISTRATIF",
+      "part": "body"
+    },
+    {
+      "id": "p-0399",
+      "kind": "article",
+      "text": "Pasal 48",
+      "part": "body"
+    },
+    {
+      "id": "p-0400",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 16 ayat (3), Pasal 17 ayat (3), Pasal 27 ayat (2), Pasal 28, Pasal 33 ayat (3), Pasal 35, Pasal 37, Pasal 42, atau Pasal 45 ayat (3) dikenai sanksi administratif berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0401",
+      "kind": "letter",
+      "text": "a. teguran tertulis;",
+      "part": "body"
+    },
+    {
+      "id": "p-0402",
+      "kind": "letter",
+      "text": "b. pembekuan kegiatan sementara; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0403",
+      "kind": "letter",
+      "text": "c. pencabutan izin usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0404",
+      "kind": "paragraph",
+      "text": "(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri, gubernur, atau bupati/walikota sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0405",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0406",
+      "kind": "chapter",
+      "text": "BAB XV",
+      "part": "body"
+    },
+    {
+      "id": "p-0407",
+      "kind": "body",
+      "text": "KETENTUAN PIDANA",
+      "part": "body"
+    },
+    {
+      "id": "p-0408",
+      "kind": "article",
+      "text": "Pasal 49",
+      "part": "body"
+    },
+    {
+      "id": "p-0409",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang melakukan usaha penyediaan tenaga listrik untuk kepentingan umum tanpa izin sebagaimana dimaksud dalam Pasal 19 ayat (2) dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0410",
+      "kind": "paragraph",
+      "text": "(2) Setiap orang yang melakukan usaha penyediaan tenaga listrik tanpa izin operasi sebagaimana dimaksud dalam Pasal 22 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0411",
+      "kind": "paragraph",
+      "text": "(3) Setiap orang yang menjual kelebihan tenaga listrik untuk dimanfaatkan bagi kepentingan umum tanpa persetujuan dari Pemerintah atau pemerintah daerah sebagaimana dimaksud dalam Pasal 23 ayat (3) dipidana dengan pidana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0412",
+      "kind": "article",
+      "text": "Pasal 50",
+      "part": "body"
+    },
+    {
+      "id": "p-0413",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang tidak memenuhi keselamatan ketenagalistrikan sebagaimana dimaksud dalam Pasal 44 ayat (1) yang mengakibatkan matinya seseorang karena tenaga listrik dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0414",
+      "kind": "paragraph",
+      "text": "(2) Apabila perbuatan sebagaimana dimaksud pada ayat (1) dilakukan oleh pemegang izin usaha penyediaan tenaga listrik atau pemegang izin operasi dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0415",
+      "kind": "paragraph",
+      "text": "(3) Selain pidana sebagaimana dimaksud pada ayat (2), pemegang izin usaha penyediaan tenaga listrik atau pemegang izin operasi juga diwajibkan untuk memberi ganti rugi kepada korban.",
+      "part": "body"
+    },
+    {
+      "id": "p-0416",
+      "kind": "paragraph",
+      "text": "(4) Penetapan dan tata cara pembayaran ganti rugi sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0417",
+      "kind": "article",
+      "text": "Pasal 51",
+      "part": "body"
+    },
+    {
+      "id": "p-0418",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang tidak memenuhi keselamatan ketenagalistrikan sebagaimana dimaksud dalam Pasal 44 ayat (1) sehingga mempengaruhi kelangsungan penyediaan tenaga listrik dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0419",
+      "kind": "paragraph",
+      "text": "(2) Apabila perbuatan sebagaimana dimaksud pada ayat (1) mengakibatkan terputusnya aliran listrik sehingga merugikan masyarakat, dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp2.500.000.000,00 (dua miliar lima ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0420",
+      "kind": "paragraph",
+      "text": "(3) Setiap orang yang menggunakan tenaga listrik yang bukan haknya secara melawan hukum dipidana dengan pidana penjara paling lama 7 (tujuh) tahun dan denda paling banyak Rp2.500.000.000,00 (dua miliar lima ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0421",
+      "kind": "article",
+      "text": "Pasal 52",
+      "part": "body"
+    },
+    {
+      "id": "p-0422",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang melakukan usaha penyediaan tenaga listrik yang tidak memenuhi kewajiban terhadap yang berhak atas tanah, bangunan, dan tanaman sebagaimana dimaksud dalam Pasal 30 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0423",
+      "kind": "paragraph",
+      "text": "(2) Selain pidana sebagaimana dimaksud pada ayat (1) dapat dikenai sanksi tambahan berupa pencabutan izin usaha penyediaan tenaga listrik atau izin operasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0424",
+      "kind": "article",
+      "text": "Pasal 53",
+      "part": "body"
+    },
+    {
+      "id": "p-0425",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan kegiatan usaha jasa penunjang tenaga listrik tanpa izin sebagaimana dimaksud dalam Pasal 25 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0426",
+      "kind": "article",
+      "text": "Pasal 54",
+      "part": "body"
+    },
+    {
+      "id": "p-0427",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang mengoperasikan instalasi tenaga listrik tanpa sertifikat laik operasi sebagaimana dimaksud dalam Pasal 44 ayat (4) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0428",
+      "kind": "paragraph",
+      "text": "(2) Setiap orang yang memproduksi, mengedarkan, atau memperjualbelikan peralatan dan pemanfaat tenaga listrik yang tidak sesuai dengan standar nasional Indonesia sebagaimana dimaksud dalam Pasal 44 ayat (5) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0429",
+      "kind": "article",
+      "text": "Pasal 55",
+      "part": "body"
+    },
+    {
+      "id": "p-0430",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 49 sampai dengan Pasal 54 dilakukan oleh badan usaha, pidana dikenakan terhadap badan usaha dan/atau pengurusnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0431",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal pidana sebagaimana dimaksud pada ayat (1) dikenakan terhadap badan usaha, pidana yang dikenakan berupa denda maksimal ditambah sepertiganya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0432",
+      "kind": "chapter",
+      "text": "BAB XVI",
+      "part": "body"
+    },
+    {
+      "id": "p-0433",
+      "kind": "body",
+      "text": "KETENTUAN PERALIHAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0434",
+      "kind": "article",
+      "text": "Pasal 56",
+      "part": "body"
+    },
+    {
+      "id": "p-0435",
+      "kind": "body",
+      "text": "Pada saat Undang-Undang ini mulai berlaku:",
+      "part": "body"
+    },
+    {
+      "id": "p-0436",
+      "kind": "number",
+      "text": "1. PT Perusahaan Listrik Negara (Persero) sebagai badan usaha milik negara yang dibentuk berdasarkan Peraturan Pemerintah Nomor 23 Tahun 1994 tentang Pengalihan Bentuk Perusahaan Umum (Perum) Listrik Negara menjadi Perusahaan Perseroan (Persero) dianggap telah memiliki izin usaha penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0437",
+      "kind": "number",
+      "text": "2. Dalam jangka waktu paling lama 2 (dua) tahun, Pemerintah telah melakukan penataan dan penetapan izin usaha penyediaan tenaga listrik kepada badan usaha milik negara sebagaimana dimaksud pada angka 1 sesuai dengan ketentuan Undang-Undang ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0438",
+      "kind": "number",
+      "text": "3. Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum, Izin Usaha Ketenagalistrikan Untuk Kepentingan Sendiri, dan Izin Usaha Penunjang Tenaga Listrik yang telah dikeluarkan berdasarkan Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan tetap berlaku sampai habis masa berlakunya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0439",
+      "kind": "number",
+      "text": "4. Dalam jangka waktu paling lama 2 (dua) tahun, pelaksanaan Izin Usaha Ketenagalistrikan Untuk Kepentingan Umum, Izin Usaha Ketenagalistrikan Untuk Kepentingan Sendiri, dan Izin Usaha Penunjang Tenaga Listrik yang telah dikeluarkan berdasarkan Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan sebagaimana dimaksud pada angka 3 disesuaikan dengan ketentuan Undang-Undang ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0440",
+      "kind": "chapter",
+      "text": "BAB XVII",
+      "part": "body"
+    },
+    {
+      "id": "p-0441",
+      "kind": "body",
+      "text": "KETENTUAN PENUTUP",
+      "part": "body"
+    },
+    {
+      "id": "p-0442",
+      "kind": "article",
+      "text": "Pasal 57",
+      "part": "body"
+    },
+    {
+      "id": "p-0443",
+      "kind": "paragraph",
+      "text": "(1) Pada saat Undang-Undang ini mulai berlaku, Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 3317) dicabut dan dinyatakan tidak berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0444",
+      "kind": "paragraph",
+      "text": "(2) Peraturan pelaksanaan di bidang ketenagalistrikan yang telah ada berdasarkan Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan tetap berlaku sepanjang tidak bertentangan atau belum diganti berdasarkan Undang-Undang ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0445",
+      "kind": "paragraph",
+      "text": "(3) Peraturan pelaksanaan Undang-Undang ini harus telah ditetapkan dalam waktu paling lama 1 (satu) tahun sejak Undang-Undang ini diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0446",
+      "kind": "article",
+      "text": "Pasal 58",
+      "part": "body"
+    },
+    {
+      "id": "p-0447",
+      "kind": "body",
+      "text": "Undang-Undang ini mulai berlaku pada tanggal",
+      "part": "body"
+    },
+    {
+      "id": "p-0448",
+      "kind": "body",
+      "text": "diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0449",
+      "kind": "body",
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0450",
+      "kind": "closing",
+      "text": "Disahkan di Jakarta pada tanggal 23 September 2009",
+      "part": "body"
+    },
+    {
+      "id": "p-0451",
+      "kind": "body",
+      "text": "PRESIDEN REPUBLIK INDONESIA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0452",
+      "kind": "body",
+      "text": "ttd.",
+      "part": "body"
+    },
+    {
+      "id": "p-0453",
+      "kind": "body",
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "part": "body"
+    },
+    {
+      "id": "p-0454",
+      "kind": "closing",
+      "text": "Diundangkan di Jakarta pada tanggal 23 September 2009",
+      "part": "body"
+    },
+    {
+      "id": "p-0455",
+      "kind": "body",
+      "text": "MENTERI HUKUM DAN HAK ASASI MANUSIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0456",
+      "kind": "body",
+      "text": "REPUBLIK INDONESIA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0457",
+      "kind": "body",
+      "text": "ttd.",
+      "part": "body"
+    },
+    {
+      "id": "p-0458",
+      "kind": "body",
+      "text": "ANDI MATTALATTA",
+      "part": "body"
+    },
+    {
+      "id": "p-0459",
+      "kind": "closing",
+      "text": "LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 133",
+      "part": "body"
+    },
+    {
+      "id": "p-0460",
+      "kind": "body",
+      "text": "Salinan sesuai dengan aslinya",
+      "part": "body"
+    },
+    {
+      "id": "p-0461",
+      "kind": "body",
+      "text": "SEKRETARIAT NEGARA RI Deputi Menteri Sekretaris Negara Bidang Perundang-undangan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0462",
+      "kind": "body",
+      "text": "ttd.",
+      "part": "body"
+    },
+    {
+      "id": "p-0463",
+      "kind": "body",
+      "text": "Muhammad Sapta Murti",
+      "part": "body"
+    },
+    {
+      "id": "p-0464",
+      "kind": "explanation_heading",
+      "text": "PENJELASAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0465",
+      "kind": "explanation_heading",
+      "text": "ATAS",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0466",
+      "kind": "explanation_body",
+      "text": "UNDANG-UNDANG REPUBLIK INDONESIA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0467",
+      "kind": "explanation_body",
+      "text": "NOMOR 30 TAHUN 2009",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0468",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0469",
+      "kind": "explanation_body",
+      "text": "KETENAGALISTRIKAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0470",
+      "kind": "explanation_heading",
+      "text": "I. UMUM",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0471",
+      "kind": "explanation_body",
+      "text": "Pembangunan sektor ketenagalistrikan bertujuan untuk memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa guna mewujudkan tujuan pembangunan nasional, yaitu menciptakan masyarakat adil dan makmur yang merata materiil dan spiritual berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Tenaga listrik, sebagai salah satu hasil pemanfaatan kekayaan alam, mempunyai peranan penting bagi negara dalam mewujudkan pencapaian tujuan pembangunan nasional. Mengingat arti penting tenaga listrik bagi negara dalam mewujudkan kesejahteraan masyarakat dalam segala bidang dan sejalan dengan ketentuan dalam Pasal 33 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang ini menyatakan bahwa usaha penyediaan tenaga listrik dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat yang penyelenggaraannya dilakukan oleh Pemerintah dan pemerintah daerah. Pemerintah dan pemerintah daerah sesuai dengan kewenangannya menetapkan kebijakan, pengaturan, pengawasan, dan melaksanakan usaha penyediaan tenaga listrik. Pemerintah dan pemerintah daerah menyelenggarakan usaha penyediaan tenaga listrik yang pelaksanaannya dilakukan oleh badan usaha milik negara dan badan usaha milik daerah. Untuk lebih meningkatkan kemampuan negara dalam penyediaan tenaga listrik, Undang-Undang ini memberi kesempatan kepada badan usaha swasta, koperasi, dan swadaya masyarakat untuk berpartisipasi dalam usaha penyediaan tenaga listrik. Sesuai dengan prinsip otonomi daerah, Pemerintah atau pemerintah daerah sesuai dengan kewenangannya menetapkan izin usaha penyediaan tenaga listrik. Berbagai permasalahan ketenagalistrikan yang saat ini dihadapi oleh bangsa dan negara telah diantisipasi dalam Undang-Undang ini yang mengatur, antara lain, mengenai pembagian wilayah usaha penyediaan tenaga listrik yang terintegrasi, penerapan tarif regional yang berlaku terbatas untuk suatu wilayah usaha tertentu, pemanfaatan jaringan tenaga listrik untuk kepentingan telekomunikasi, multimedia, dan informatika, serta mengatur tentang jual beli tenaga listrik lintas negara yang tidak diatur dalam Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan. Dalam rangka peningkatan penyediaan tenaga listrik kepada masyarakat diperlukan pula upaya penegakan hukum di bidang ketenagalistrikan. Pemerintah dan pemerintah daerah mempunyai kewenangan untuk melakukan pembinaan dan pengawasan pelaksanaan usaha ketenagalistrikan, termasuk pelaksanaan pengawasan di bidang keteknikan. Selain bermanfaat, tenaga listrik juga dapat membahayakan. Oleh karena itu, untuk lebih menjamin keselamatan umum, keselamatan kerja, keamanan instalasi, dan kelestarian fungsi lingkungan dalam penyediaan tenaga listrik dan pemanfaatan tenaga listrik, instalasi tenaga listrik harus menggunakan peralatan dan perlengkapan listrik yang memenuhi standar peralatan di bidang ketenagalistrikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0472",
+      "kind": "explanation_heading",
+      "text": "II. PASAL DEMI PASAL",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0473",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0474",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0475",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0476",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0477",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0478",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas manfaat\" adalah bahwa hasil pembangunan ketenagalistrikan harus dapat dimanfaatkan sebesar-besarnya bagi kesejahteraan dan kemakmuran rakyat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0479",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0480",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas efisiensi berkeadilan\" adalah bahwa pembangunan ketenagalistrikan harus dapat dilaksanakan dengan biaya seminimal mungkin, tetapi dengan hasil yang dapat dinikmati secara merata oleh seluruh rakyat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0481",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0482",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas berkelanjutan\" adalah bahwa usaha penyediaan tenaga listrik harus dikelola dengan baik agar dapat terus berlangsung secara berkelanjutan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0483",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0484",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas optimalisasi ekonomi dalam pemanfaatan sumber daya energi\" adalah bahwa penggunaan sumber energi untuk pembangkitan tenaga listrik harus dilakukan dengan memperhatikan ketersediaan sumber energi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0485",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0486",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas mengandalkan pada kemampuan sendiri\" adalah bahwa pembangunan ketenagalistrikan dilakukan dengan mengutamakan kemampuan dalam negeri.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0487",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0488",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas kaidah usaha yang sehat\" adalah bahwa usaha ketenagalistrikan dilaksanakan dengan menerapkan prinsip-prinsip transparansi, akuntabilitas, pertanggungjawaban, dan kewajaran.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0489",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0490",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas keamanan dan keselamatan\" adalah bahwa penyediaan dan pemanfaatan tenaga listrik harus memperhatikan keamanan instalasi, keselamatan manusia, dan lingkungan hidup di sekitar instalasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0491",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0492",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"asas kelestarian fungsi lingkungan\" adalah bahwa penyelenggaraan penyediaan tenaga listrik harus memperhatikan kelestarian fungsi lingkungan hidup dan lingkungan sekitar.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0493",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0494",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0495",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0496",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0497",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0498",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0499",
+      "kind": "explanation_body",
+      "text": "Mengingat tenaga listrik merupakan salah satu cabang produksi yang penting dan strategis dalam kehidupan nasional, usaha penyediaan tenaga listrik dikuasai oleh negara yang dalam penyelenggaraannya ditujukan untuk sebesar-besarnya bagi kepentingan dan kemakmuran rakyat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0500",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0501",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0502",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0503",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0504",
+      "kind": "explanation_body",
+      "text": "Badan usaha milik negara dan badan usaha milik daerah dalam ketentuan ini adalah yang berusaha di bidang penyediaan tenaga listrik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0505",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0506",
+      "kind": "explanation_body",
+      "text": "Partisipasi badan usaha swasta, koperasi, dan swadaya masyarakat dilakukan dalam rangka memperkuat pemenuhan kebutuhan tenaga listrik. Swadaya masyarakat dapat berbentuk badan hukum.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0507",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0508",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0509",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0510",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0511",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0512",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0513",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0514",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0515",
+      "kind": "explanation_body",
+      "text": "Sumber energi baru dan energi terbarukan dimanfaatkan dengan tetap memperhatikan keekonomiannya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0516",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0517",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0518",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0519",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0520",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"kebijakan energi nasional\" adalah kebijakan energi nasional sebagaimana dimaksud dalam Undang-Undang tentang Energi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0521",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0522",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0523",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0524",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0525",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0526",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0527",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0528",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0529",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0530",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0531",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0532",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0533",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0534",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0535",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0536",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0537",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0538",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0539",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0540",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0541",
+      "kind": "explanation_body",
+      "text": "Wilayah usaha bukan merupakan wilayah administrasi pemerintahan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0542",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0543",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0544",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0545",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0546",
+      "kind": "explanation_body",
+      "text": "Pemberian prioritas kepada badan usaha milik negara merupakan perwujudan penguasaan negara terhadap penyediaan tenaga listrik. Badan usaha milik negara adalah badan usaha yang semata-mata berusaha di bidang penyediaan tenaga listrik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0547",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0548",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0549",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0550",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0551",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0552",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0553",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0554",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"kepentingan sendiri\" adalah penyediaan tenaga listrik untuk digunakan sendiri dan tidak untuk diperjualbelikan. Yang dimaksud dengan \"lembaga/badan usaha lainnya\" adalah perwakilan lembaga asing atau badan usaha asing.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0555",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0556",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0557",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0558",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0559",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0560",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0561",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0562",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0563",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0564",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0565",
+      "kind": "explanation_body",
+      "text": "Penggunaan produk dan potensi luar negeri dapat digunakan apabila produk dan potensi dalam negeri tidak tersedia.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0566",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0567",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0568",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0569",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0570",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0571",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0572",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0573",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0574",
+      "kind": "explanation_body",
+      "text": "Penggunaan produk dan potensi luar negeri dapat digunakan apabila produk dan potensi dalam negeri tidak tersedia.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0575",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0576",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0577",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0578",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0579",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0580",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0581",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0582",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0583",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0584",
+      "kind": "explanation_body",
+      "text": "Dalam penetapan izin, Pemerintah atau pemerintah daerah memperhatikan kemampuan dalam penyediaan tenaga listrik pemegang izin usaha penyediaan tenaga listrik yang memiliki wilayah usaha setempat. Izin usaha penyediaan tenaga listrik memuat, antara lain, nama dan alamat badan usaha, jenis usaha yang diberikan, kewajiban dalam penyelenggaraan usaha, syarat teknis, dan ketentuan sanksi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0585",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0586",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0587",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0588",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0589",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0590",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0591",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0592",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0593",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0594",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0595",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0596",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0597",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0598",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0599",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0600",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0601",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0602",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0603",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0604",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0605",
+      "kind": "explanation_body",
+      "text": "Penggunaan produk dan potensi luar negeri dapat digunakan apabila produk dan potensi dalam negeri tidak tersedia.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0606",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0607",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0608",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0609",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0610",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0611",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0612",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0613",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"instalasi tenaga listrik milik konsumen\" adalah instalasi tenaga listrik setelah alat pengukur atau alat pembatas penggunaan tenaga listrik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0614",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0615",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0616",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0617",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0618",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0619",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0620",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0621",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0622",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0623",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0624",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0625",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0626",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0627",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0628",
+      "kind": "explanation_body",
+      "text": "Ganti rugi hak atas tanah termasuk untuk sisa tanah yang tidak dapat digunakan oleh pemegang hak sebagai akibat dari penggunaan sebagian tanahnya oleh pemegang izin usaha penyediaan tenaga listrik. Yang dimaksud dengan \"secara langsung\" adalah penggunaan tanah untuk pembangunan instalasi tenaga listrik, antara lain, pembangkitan, gardu induk, dan tapak menara transmisi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0629",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0630",
+      "kind": "explanation_body",
+      "text": "Secara tidak langsung dalam ketentuan ini antara lain penggunaan tanah untuk lintasan jalur transmisi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0631",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0632",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0633",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0634",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0635",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0636",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0637",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0638",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0639",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0640",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0641",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0642",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0643",
+      "kind": "explanation_body",
+      "text": "Pengertian harga jual tenaga listrik meliputi semua biaya yang berkaitan dengan penjualan tenaga listrik dari pembangkit tenaga listrik. Pengertian harga sewa jaringan tenaga listrik meliputi semua biaya yang berkaitan dengan penyewaan jaringan transmisi dan/atau distribusi tenaga listrik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0644",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0645",
+      "kind": "explanation_body",
+      "text": "Dalam menetapkan persetujuan harga jual tenaga listrik dan sewa jaringan tenaga listrik, Pemerintah atau pemerintah daerah memperhatikan kesepakatan di antara badan usaha.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0646",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0647",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0648",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0649",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0650",
+      "kind": "explanation_body",
+      "text": "Tarif tenaga listrik untuk konsumen meliputi semua biaya yang berkaitan dengan pemakaian tenaga listrik oleh konsumen, antara lain, biaya beban (Rp/kVA) dan biaya pemakaian (Rp/kWh), biaya pemakaian daya reaktif (Rp/kVArh), dan/atau biaya kVA maksimum yang dibayar berdasarkan harga langganan (Rp/bulan) sesuai dengan batasan daya yang dipakai atau bentuk lainnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0651",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0652",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0653",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0654",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0655",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0656",
+      "kind": "explanation_body",
+      "text": "Kepentingan daerah mencakup, antara lain, pembangunan ekonomi dan industri di daerah.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0657",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0658",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0659",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0660",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0661",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0662",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0663",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0664",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0665",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0666",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0667",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0668",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0669",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0670",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0671",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0672",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0673",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0674",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0675",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0676",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0677",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pengembangan kemampuan penyediaan tenaga listrik dalam negeri\" adalah pengembangan sumber energi, sumber daya manusia, dan teknologi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0678",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0679",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0680",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0681",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0682",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0683",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0684",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0685",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0686",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0687",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0688",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0689",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0690",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0691",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0692",
+      "kind": "article",
+      "text": "Pasal 46",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0693",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0694",
+      "kind": "article",
+      "text": "Pasal 47",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0695",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0696",
+      "kind": "article",
+      "text": "Pasal 48",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0697",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0698",
+      "kind": "article",
+      "text": "Pasal 49",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0699",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0700",
+      "kind": "article",
+      "text": "Pasal 50",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0701",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0702",
+      "kind": "article",
+      "text": "Pasal 51",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0703",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0704",
+      "kind": "article",
+      "text": "Pasal 52",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0705",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0706",
+      "kind": "article",
+      "text": "Pasal 53",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0707",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0708",
+      "kind": "article",
+      "text": "Pasal 54",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0709",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0710",
+      "kind": "article",
+      "text": "Pasal 55",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0711",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0712",
+      "kind": "article",
+      "text": "Pasal 56",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0713",
+      "kind": "explanation_item",
+      "text": "Angka 1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0714",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0715",
+      "kind": "explanation_item",
+      "text": "Angka 2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0716",
+      "kind": "explanation_body",
+      "text": "Penataan dimaksudkan agar badan usaha milik negara menjadi lebih efisien dan efektif dalam melakukan pelayanan penyediaan tenaga listrik kepada masyarakat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0717",
+      "kind": "explanation_item",
+      "text": "Angka 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0718",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0719",
+      "kind": "explanation_item",
+      "text": "Angka 4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0720",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0721",
+      "kind": "article",
+      "text": "Pasal 57",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0722",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0723",
+      "kind": "article",
+      "text": "Pasal 58",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0724",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0725",
+      "kind": "closing",
+      "text": "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5052",
+      "part": "explanation"
+    }
+  ]
+}
