@@ -3,3 +3,4 @@ dist/
 .astro/
 *.png
 .DS_Store
+.vercel
