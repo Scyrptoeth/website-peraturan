@@ -17,7 +17,8 @@ const searchRows = regulations.flatMap((item) =>
     slug: item.metadata.slug,
     title: displayTitle(item),
     id: paragraph.id,
-    kind: kindLabel(paragraph.kind),
+    kind: paragraph.kind,
+    label: kindLabel(paragraph.kind),
     part: paragraph.part,
     text: paragraph.text
   }))
@@ -154,7 +155,7 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
     <script id="search-data" type="application/json" is:inline set:html={JSON.stringify(searchRows)}></script>
     <script>
       const dataElement = document.getElementById("search-data");
-      type SearchRow = { slug: string; title: string; id: string; kind: string; part: string; text: string };
+      type SearchRow = { slug: string; title: string; id: string; kind: string; label: string; part: string; text: string };
       const rows = JSON.parse(dataElement?.textContent || "[]") as SearchRow[];
       const input = document.getElementById("site-search") as HTMLInputElement | null;
       const form = document.getElementById("site-search-form") as HTMLFormElement | null;
@@ -171,7 +172,7 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
           row.className = "result-row";
 
           const meta = document.createElement("small");
-          meta.textContent = `${item.kind} · ${item.part === "explanation" ? "Penjelasan" : "Batang tubuh"}`;
+          meta.textContent = `${item.label} · ${item.part === "explanation" ? "Penjelasan" : "Batang tubuh"}`;
 
           const link = document.createElement("a");
           link.href = `/peraturan/${item.slug}/#${item.id}`;

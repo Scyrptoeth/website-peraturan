@@ -40,10 +40,11 @@ ELLIPSIS_POINTER_RE = re.compile(r"(?:\.\s*){2,}$")
 LAW_NUMBER_RE = re.compile(r"\bNOMOR\s+([A-Z0-9./-]+)\s+TAHUN\s+(\d{4})\b", re.IGNORECASE)
 SK_NUMBER_RE = re.compile(r"^SK\s*No\.?\s*[0-9Il|l'MABTt\s]+\s*[ABM]?$", re.IGNORECASE)
 PAGE_HEADER_RE = re.compile(
-    r"^(?:PRES\s*[I!|1]?\s*D(?:E|3)?N|PRESIDEN|FRESIDEN|PRESTDEN|PRESIDE\]N|TIEPUBLIK\s+INDONESIA|R\.?E?P[UO]BLIK\s+INDONESI[\\\/A!]*|REFUBLIK\s+INDONESIA|REPUBUK\s+INDONESIA)$",
+    r"^(?:PRES\s*[I!|1]?\s*D(?:E|3)?N|PRESIDEN|FRESIDEN|PRESTDEN|PRESIDE\]N|BLIK\s+INDONESIA|INDONESIA|TIEPUBLIK\s+INDONESIA|R\.?E?P[UO]BLIK\s+INDONESI[\\\/A!]*|REFUBLIK\s+INDONESIA|REPUBUK\s+INDONESIA)$",
     re.IGNORECASE,
 )
 ARTICLE_HEADING_RE = re.compile(r"^Pasal[\s,.;:]*([0-9OoIl|T\s]+[A-Z]?|[IVXLCDM]+)$", re.IGNORECASE)
+OCR_YEAR_RE = re.compile(r"\b([12][0-9OoIiLl|TtGg]{3})\b")
 
 
 @dataclass
@@ -191,6 +192,40 @@ def normalize_article_heading(text: str) -> str:
     return text
 
 
+def normalize_ocr_years(text: str) -> str:
+    def replace_year(match: re.Match[str]) -> str:
+        token = match.group(1)
+        normalized = token.translate(
+            str.maketrans({
+                "O": "0",
+                "o": "0",
+                "I": "1",
+                "i": "1",
+                "L": "1",
+                "l": "1",
+                "|": "1",
+                "T": "1",
+                "t": "1",
+                "G": "9",
+                "g": "9",
+            })
+        )
+        return normalized if normalized.isdigit() else token
+
+    return OCR_YEAR_RE.sub(replace_year, text)
+
+
+def vehicle_token_replacement(match: re.Match[str]) -> str:
+    raw = match.group(0)
+    letters = re.sub(r"[^A-Za-z]", "", raw)
+    uppercase_count = sum(1 for char in letters if char.isupper())
+    if letters and uppercase_count >= max(1, len(letters) - 1):
+        return "VEHICLE)"
+    if raw[:1].isupper():
+        return "Vehicle)"
+    return "vehicle)"
+
+
 def is_article_heading(text: str) -> bool:
     return normalize_article_heading(text) != text or bool(ARTICLE_HEADING_RE.match(text.strip()))
 
@@ -223,6 +258,10 @@ def is_noise_line(line: str) -> bool:
     if not stripped:
         return False
     if stripped == "[":
+        return True
+    if stripped == "Mengingat":
+        return True
+    if re.fullmatch(r"\d+\.\s+Peraturan\.?", stripped):
         return True
     if SK_NUMBER_RE.match(stripped):
         return True
@@ -458,6 +497,10 @@ def normalize_legal_text(text: str) -> str:
         "Radionuxfida": "Radionuklida",
         "nelaxsanaan": "pelaksanaan",
         "dimanfactxan": "dimanfaatkan",
+        "h,rsat": "Pusat",
+        "H,rsat": "Pusat",
+        "Fusat": "Pusat",
+        "Pemerintah hrsat": "Pemerintah Pusat",
         "xelas": "kelas",
         "xewenangannya": "kewenangannya",
         "Sarxsi": "Sanksi",
@@ -490,6 +533,11 @@ def normalize_legal_text(text: str) -> str:
         "Nornor": "Nomor",
         "Pcrarturan": "Peraturan",
         "Pcraturan": "Peraturan",
+        "Perubdhan": "Perubahan",
+        "Repubik": "Republik",
+        "menghasilka.n": "menghasilkan",
+        "arrgka": "angka",
+        "ldentification": "Identification",
         "hurr.f": "huruf",
         "tan huruf": "dan huruf",
         "ten tang": "tentang",
@@ -498,7 +546,17 @@ def normalize_legal_text(text: str) -> str:
     for old, new in replacements.items():
         text = text.replace(old, new)
     text = text.replace("“", '"').replace("”", '"').replace("„", '"').replace("’", "'")
+    text = re.sub(r"^(Menimbang)\s*[\.:]\s*cL\.", r"\1: a.", text, flags=re.IGNORECASE)
+    text = text.replace("lBattery", "(Battery").replace("lbattery", "(battery")
+    text = re.sub(
+        r"\b(?:ve,?\s?hicl(?:q|ei|el)|uehicl(?:el|l|e)?)(?:\))?",
+        vehicle_token_replacement,
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(r"\b[Ee]lectic\b", lambda match: "Electric" if match.group(0)[0].isupper() else "electric", text)
     text = text.replace("{", "(").replace("}", ")")
+    text = re.sub(r"\b2\)l[g9]\b", "2019", text)
     text = re.sub(r"\(!\)", "(1)", text)
     text = re.sub(r"\((\d+)!\)", r"(\1)", text)
     text = re.sub(r"\((\d+)!", r"(\1)", text)
@@ -531,6 +589,7 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\b2OO9\b", "2009", text)
     text = re.sub(r"\b2O2O\b", "2020", text)
     text = re.sub(r"\b2O21\b", "2021", text)
+    text = normalize_ocr_years(text)
     text = re.sub(r"\bPasal\s+(\d+)l[:,]uruf\b", r"Pasal \1 huruf", text, flags=re.IGNORECASE)
     text = re.sub(r"\bPasal\s+(\d+)[lI]\b", r"Pasal \g<1>1", text, flags=re.IGNORECASE)
     text = re.sub(r"\bNomor\s+S\s+Tahun\s+2021\b", "Nomor 5 Tahun 2021", text, flags=re.IGNORECASE)
@@ -563,6 +622,7 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\s+[A-Za-z]{0,4}\s+x[.)]?\s*[^A-Za-z0-9]*(?:[A-Za-z]{0,4}[.)]?)?,?\s*$", "", text)
     text = re.sub(r"\s+[-_–—]\s*[0-9tloIr!]+\s*[-_–—]\s*$", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\b([A-Za-z]+)-\s+([A-Za-z]+)\b", r"\1-\2", text)
+    text = re.sub(r"\bj\s+alan\b", "jalan", text, flags=re.IGNORECASE)
     text = re.sub(r"\bperundangundangan\b", "perundang-undangan", text, flags=re.IGNORECASE)
     text = re.sub(r"\bundangundang\b", "undang-undang", text, flags=re.IGNORECASE)
     text = re.sub(r"\s+", " ", text)
@@ -708,7 +768,9 @@ def normalize_article_sequences(paragraphs: list[Paragraph]) -> list[Paragraph]:
         if current is not None:
             if expected is not None and current != expected:
                 if current <= previous:
-                    if close_numeric_token(token, expected):
+                    if current == previous:
+                        pass
+                    elif close_numeric_token(token, expected):
                         paragraph = Paragraph(id=paragraph.id, kind=paragraph.kind, text=f"Pasal {expected}", part=paragraph.part)
                         current = expected
                     else:
@@ -786,6 +848,9 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
         if upper.startswith("PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL"):
             doc_type = "PERMEN ESDM"
             break
+        if upper.startswith("PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN"):
+            doc_type = "PERMEN LHK"
+            break
         if upper.startswith("PERATURAN MENTERI PERINDUSTRIAN"):
             doc_type = "PERMENPERIN"
             break
@@ -795,7 +860,8 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
 
     number = ""
     year = ""
-    match = LAW_NUMBER_RE.search(joined)
+    header_joined = "\n".join(texts[:20])
+    match = LAW_NUMBER_RE.search(header_joined) or LAW_NUMBER_RE.search(joined)
     if match:
         number = match.group(1)
         year = match.group(2)
@@ -814,6 +880,7 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
 
     slug_type = {
         "PERMEN ESDM": "permen-esdm",
+        "PERMEN LHK": "permen-lhk",
         "PERMENPERIN": "permenperin",
     }.get(doc_type, doc_type.lower() or "peraturan")
     slug_parts = [slug_type, "nomor", number.lower(), "tahun", year]
@@ -924,6 +991,12 @@ def is_short_ocr_noise(paragraph: Paragraph) -> bool:
     if paragraph.kind not in {"body", "explanation_body"}:
         return False
     text = paragraph.text.strip()
+    if re.search(r"\bPUBLIK\s+INDONESIA\b.*\bDepu\b", text, re.IGNORECASE):
+        return True
+    if re.fullmatch(r"[*\s]*vanna\s+Djaman.*", text, flags=re.IGNORECASE):
+        return True
+    if re.fullmatch(r"sil\s+Djaman", text, flags=re.IGNORECASE):
+        return True
     if text == 'EN ax "Be':
         return True
     if text in {"dan", "atau", "Umum"}:
@@ -979,6 +1052,15 @@ def quality_report(
         flags.append("body_explanation_article_count_mismatch")
 
     def sequence_gap_count(part: str) -> int:
+        has_roman_amendment_articles = any(
+            p.kind == "article"
+            and p.part == part
+            and re.fullmatch(r"Pasal\s+[IVXLCDM]+", normalize_article_heading(p.text), flags=re.IGNORECASE)
+            for p in paragraphs
+        )
+        if has_roman_amendment_articles:
+            return 0
+
         previous: int | None = None
         gaps = 0
         for paragraph in paragraphs:

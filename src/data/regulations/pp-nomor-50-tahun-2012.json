@@ -1,0 +1,5117 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/PP Nomor 50 Tahun 2012.pdf",
+    "source_sha256": "b0ceb98348e6ac1e17e04e71e33f943414fe228baf7ddabc93f6930a3ab4fe88",
+    "document_type": "PP",
+    "number": "50",
+    "year": "2012",
+    "title": "PENERAPAN SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA",
+    "slug": "pp-nomor-50-tahun-2012",
+    "extraction_method": "pdftotext_layout",
+    "pdf_info": {
+      "pages": "80",
+      "title": "RANCANGAN UNDANG-UNDANG ETIKA  PENYELENGGARA NEGARA",
+      "tagged": "yes",
+      "encrypted": "no",
+      "pdf_version": "1.5"
+    },
+    "generated_at": "2026-04-26T05:29:13.630556+00:00"
+  },
+  "quality": {
+    "paragraph_count": 846,
+    "body_article_count": 22,
+    "explanation_article_count": 22,
+    "body_article_sequence_gap_count": 0,
+    "explanation_article_sequence_gap_count": 0,
+    "chapter_count": 6,
+    "part_count": 6,
+    "letter_count": 160,
+    "number_count": 89,
+    "has_explanation": true,
+    "has_state_gazette": false,
+    "has_supplement": false,
+    "skipped_attachment_paragraph_count": 37,
+    "skipped_noise_paragraph_count": 8,
+    "quality_flags": [
+      "skipped_non_text_attachment"
+    ]
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "title",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "NOMOR 50 TAHUN 2012",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "PENERAPAN SISTEM MANAJEMEN",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "title",
+      "text": "KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "title",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "opening",
+      "text": "Menimbang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "body",
+      "text": "bahwa untuk melaksanakan ketentuan Pasal 87 ayat (2)",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "body",
+      "text": "Undang-Undang Nomor 13 Tahun 2003 tentang",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "body",
+      "text": "Ketenagakerjaan, perlu menetapkan Peraturan Pemerintah tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja;",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "number",
+      "text": "1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Tahun 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "number",
+      "text": "2. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Tahun 2003 Nomor 39, Tambahan Lembaran Negara Nomor 4279);",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "number",
+      "text": "3. Undang-Undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja (Lembaran Negara Tahun 1970 Nomor 1, Tambahan Lembaran Negara Nomor 2918);",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "body",
+      "text": "PERATURAN PEMERINTAH TENTANG PENERAPAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "body",
+      "text": "SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "chapter",
+      "text": "BAB I",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "body",
+      "text": "KETENTUAN UMUM",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "body",
+      "text": "Dalam Peraturan Pemerintah ini yang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "number",
+      "text": "1. Sistem Manajemen Keselamatan dan Kesehatan Kerja yang selanjutnya disingkat SMK3 adalah bagian dari sistem manajemen perusahaan secara keseluruhan dalam rangka pengendalian risiko yang berkaitan dengan kegiatan kerja guna terciptanya tempat kerja yang aman, efisien dan produktif.",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "number",
+      "text": "2. Keselamatan dan Kesehatan Kerja yang selanjutnya disingkat K3 adalah segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan tenaga kerja melalui upaya pencegahan kecelakaan kerja dan penyakit akibat kerja.",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "number",
+      "text": "3. Tenaga Kerja adalah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "number",
+      "text": "4. Pekerja/Buruh adalah setiap orang yang bekerja dengan menerima upah atau imbalan dalam bentuk lain.",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "number",
+      "text": "5. Perusahaan adalah:",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "letter",
+      "text": "a. setiap bentuk usaha yang berbadan hukum atau tidak, milik orang perseorangan, milik persekutuan, atau milik badan hukum, baik milik swasta maupun milik negara yang mempekerjakan pekerja/buruh dengan membayar upah atau imbalan dalam bentuk lain;",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "letter",
+      "text": "b. usaha-usaha sosial dan usaha-usaha lain yang mempunyai pengurus dan mempekerjakan orang lain dengan membayar upah atau imbalan dalam bentuk lain.",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "number",
+      "text": "6. Pengusaha adalah:",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "letter",
+      "text": "a. orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu perusahaan milik sendiri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "letter",
+      "text": "b. orang perseorangan, persekutuan, atau badan hukum yang secara berdiri sendiri menjalankan perusahaan bukan miliknya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "letter",
+      "text": "c. orang perseorangan, persekutuan, atau badan hukum yang berada di Indonesia mewakili perusahaan sebagaimana dimaksud dalam huruf a dan huruf b yang berkedudukan di luar wilayah Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "number",
+      "text": "7. Audit SMK3 adalah pemeriksaan secara sistematis dan independen terhadap pemenuhan kriteria yang telah ditetapkan untuk mengukur suatu hasil kegiatan yang telah direncanakan dan dilaksanakan dalam penerapan SMK3 di perusahaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "number",
+      "text": "8. Menteri adalah Menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "body",
+      "text": "Penerapan SMK3 bertujuan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "letter",
+      "text": "a. meningkatkan efektifitas perlindungan keselamatan dan kesehatan kerja yang terencana, terukur, terstruktur, dan terintegrasi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "letter",
+      "text": "b. mencegah dan mengurangi kecelakaan kerja dan penyakit akibat kerja dengan melibatkan unsur",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "body",
+      "text": "manajemen, pekerja/buruh, dan/atau serikat pekerja/serikat buruh; serta",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "letter",
+      "text": "c. menciptakan tempat kerja yang aman, nyaman, dan efisien untuk mendorong produktivitas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "paragraph",
+      "text": "(1) Penerapan SMK3 dilakukan berdasarkan kebijakan nasional tentang SMK3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "paragraph",
+      "text": "(2) Kebijakan nasional tentang SMK3 sebagaimana dimaksud pada ayat (1) tertuang dalam Lampiran I, Lampiran II, dan Lampiran III sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "chapter",
+      "text": "BAB II",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "body",
+      "text": "SISTEM MANAJEMEN KESELAMATAN DAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "body",
+      "text": "KESEHATAN KERJA",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "paragraph",
+      "text": "(1) Kebijakan nasional tentang SMK3 sebagaimana dimaksud dalam Pasal 3, sebagai pedoman perusahaan dalam menerapkan SMK3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "paragraph",
+      "text": "(2) Instansi pembina sektor usaha dapat mengembangkan pedoman penerapan SMK3 sebagaimana dimaksud pada ayat (1) sesuai dengan kebutuhan berdasarkan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "paragraph",
+      "text": "(1) Setiap perusahaan wajib menerapkan SMK3 di perusahaannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "paragraph",
+      "text": "(2) Kewajiban sebagaimana dimaksud pada ayat (1) berlaku bagi perusahaan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "letter",
+      "text": "a. mempekerjakan pekerja/buruh paling sedikit 100 (seratus) orang; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "letter",
+      "text": "b. mempunyai tingkat potensi bahaya tinggi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan mengenai tingkat potensi bahaya tinggi sebagaimana dimaksud pada ayat (2) huruf b sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "paragraph",
+      "text": "(4) Pengusaha dalam menerapkan SMK3 wajib berpedoman pada Peraturan Pemerintah ini dan ketentuan peraturan perundang-undangan serta dapat memperhatikan konvensi atau standar internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "paragraph",
+      "text": "(1) SMK3 sebagaimana dimaksud dalam Pasal 3 ayat (1) meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "letter",
+      "text": "a. penetapan kebijakan K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "letter",
+      "text": "b. perencanaan K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "letter",
+      "text": "c. pelaksanaan rencana K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "letter",
+      "text": "d. pemantauan dan evaluasi kinerja K3; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "letter",
+      "text": "e. peninjauan dan peningkatan kinerja SMK3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "paragraph",
+      "text": "(2) Penerapan SMK3 sebagaimana dimaksud pada ayat (1) tertuang dalam pedoman yang tercantum dalam Lampiran I sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "body",
+      "text": "Penetapan Kebijakan K3",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "paragraph",
+      "text": "(1) Penetapan kebijakan K3 sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a dilaksanakan oleh pengusaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "paragraph",
+      "text": "(2) Dalam menyusun kebijakan sebagaimana dimaksud pada ayat (1), pengusaha paling sedikit harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "letter",
+      "text": "a. melakukan tinjauan awal kondisi K3 yang meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "number",
+      "text": "1. identifikasi potensi bahaya, penilaian dan pengendalian risiko;",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "number",
+      "text": "2. perbandingan penerapan K3 dengan perusahaan dan sektor lain yang lebih baik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "number",
+      "text": "3. peninjauan sebab akibat kejadian yang membahayakan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "number",
+      "text": "4. kompensasi dan gangguan serta hasil penilaian sebelumnya yang berkaitan dengan keselamatan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "number",
+      "text": "5. penilaian efisiensi dan efektivitas sumber daya yang disediakan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "letter",
+      "text": "b. memperhatikan peningkatan kinerja manajemen K3 secara terus-menerus; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "letter",
+      "text": "c. memperhatikan masukan dari pekerja/buruh dan/atau serikat pekerja/serikat buruh.",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "paragraph",
+      "text": "(3) Kebijakan K3 sebagaimana dimaksud pada ayat (1) paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "letter",
+      "text": "a. visi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "letter",
+      "text": "b. tujuan perusahaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "letter",
+      "text": "c. komitmen dan tekad melaksanakan kebijakan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "body",
+      "text": "dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "letter",
+      "text": "d. kerangka dan program kerja yang mencakup kegiatan perusahaan secara menyeluruh yang bersifat umum dan/atau operasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "body",
+      "text": "Pengusaha harus menyebarluaskan kebijakan K3 yang telah ditetapkan kepada seluruh pekerja/buruh, orang lain selain pekerja/buruh yang berada di perusahaan, dan pihak lain yang terkait.",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "body",
+      "text": "Perencanaan K3",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "paragraph",
+      "text": "(1) Perencanaan sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b dilakukan untuk menghasilkan rencana K3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "paragraph",
+      "text": "(2) Rencana K3 disusun dan ditetapkan oleh pengusaha dengan mengacu pada kebijakan K3 yang telah ditetapkan sebagaimana dimaksud dalam Pasal 7 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "paragraph",
+      "text": "(3) Dalam menyusun rencana K3 sebagaimana dimaksud pada ayat (2) pengusaha harus mempertimbangkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "letter",
+      "text": "a. hasil penelaahan awal;",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "letter",
+      "text": "b. identifikasi potensi bahaya, penilaian, dan pengendalian risiko;",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "letter",
+      "text": "c. peraturan perundang-undangan dan persyaratan lainnya; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "letter",
+      "text": "d. sumber daya yang dimiliki.",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "paragraph",
+      "text": "(4) Pengusaha dalam menyusun rencana K3 sebagaimana dimaksud pada ayat (2) harus melibatkan Ahli K3, Panitia Pembina K3, wakil pekerja/buruh, dan pihak lain yang terkait di perusahaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "paragraph",
+      "text": "(5) Rencana K3 paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "letter",
+      "text": "a. tujuan dan sasaran;",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "letter",
+      "text": "b. skala prioritas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "letter",
+      "text": "c. upaya pengendalian bahaya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "letter",
+      "text": "d. penetapan sumber daya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "letter",
+      "text": "e. jangka waktu pelaksanaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "letter",
+      "text": "f. indikator pencapaian; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "letter",
+      "text": "g. sistem pertanggungjawaban.",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "part",
+      "text": "Bagian Keempat",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "body",
+      "text": "Pelaksanaan Rencana K3",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "paragraph",
+      "text": "(1) Pelaksanaan rencana K3 dilakukan oleh pengusaha berdasarkan rencana K3 sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c dan Pasal 9.",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "paragraph",
+      "text": "(2) Pengusaha dalam melaksanakan rencana K3 didukung oleh sumber daya manusia di bidang K3, prasarana, dan sarana.",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "paragraph",
+      "text": "(3) Sumber daya manusia sebagaimana dimaksud pada ayat (2) harus memiliki:",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "letter",
+      "text": "a. kompetensi kerja yang dibuktikan dengan sertifikat; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "letter",
+      "text": "b. kewenangan di bidang K3 yang dibuktikan dengan surat izin kerja/operasi dan/atau surat penunjukkan dari instansi yang berwenang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "paragraph",
+      "text": "(4) Prasarana dan sarana sebagaimana dimaksud pada ayat (2) paling sedikit terdiri dari:",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "letter",
+      "text": "a. organisasi/unit yang bertanggung jawab di bidang K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "letter",
+      "text": "b. anggaran yang memadai;",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "letter",
+      "text": "c. prosedur operasi/kerja, informasi, dan pelaporan serta pendokumentasian; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "letter",
+      "text": "d. instruksi kerja.",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "paragraph",
+      "text": "(1) Pengusaha dalam melaksanakan rencana K3 harus melakukan kegiatan dalam pemenuhan persyaratan K3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "paragraph",
+      "text": "(2) Kegiatan sebagaimana dimaksud pada ayat (1) paling sedikit meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "letter",
+      "text": "a. tindakan pengendalian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "letter",
+      "text": "b. perancangan (design) dan rekayasa;",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "letter",
+      "text": "c. prosedur dan instruksi kerja;",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "letter",
+      "text": "d. penyerahan sebagian pelaksanaan pekerjaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "letter",
+      "text": "e. pembelian/pengadaan barang dan jasa;",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "letter",
+      "text": "f. produk akhir;",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "letter",
+      "text": "g. upaya menghadapi keadaan darurat kecelakaan dan bencana industri; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "letter",
+      "text": "h. rencana dan pemulihan keadaan darurat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "paragraph",
+      "text": "(3) Kegiatan sebagaimana dimaksud pada ayat (2) huruf a sampai dengan huruf f, dilaksanakan berdasarkan identifikasi bahaya, penilaian, dan pengendalian risiko.",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "paragraph",
+      "text": "(4) Kegiatan sebagaimana dimaksud pada ayat (2) huruf g dan huruf h dilaksanakan berdasarkan potensi bahaya, investigasi, dan analisa kecelakaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "paragraph",
+      "text": "(1) Pengusaha dalam melaksanakan kegiatan sebagaimana dimaksud dalam Pasal 11 harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "letter",
+      "text": "a. menunjuk sumber daya manusia yang mempunyai kompetensi kerja dan kewenangan di bidang K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "letter",
+      "text": "b. melibatkan seluruh pekerja/buruh;",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "letter",
+      "text": "c. membuat petunjuk K3 yang harus dipatuhi oleh seluruh pekerja/buruh, orang lain selain pekerja/buruh yang berada di perusahaan, dan pihak lain yang terkait;",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "letter",
+      "text": "d. membuat prosedur informasi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "letter",
+      "text": "e. membuat prosedur pelaporan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "letter",
+      "text": "f. mendokumentasikan seluruh kegiatan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "paragraph",
+      "text": "(2) Pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1) harus diintegrasikan dengan kegiatan manajemen perusahaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "paragraph",
+      "text": "(1) Prosedur informasi sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf d harus memberikan jaminan bahwa informasi K3 dikomunikasikan kepada semua pihak dalam perusahaan dan pihak terkait di luar perusahaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "paragraph",
+      "text": "(2) Prosedur pelaporan sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf e terdiri atas pelaporan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "letter",
+      "text": "a. terjadinya kecelakaan di tempat kerja;",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "letter",
+      "text": "b. ketidaksesuaian terhadap peraturan perundang-undangan dan/atau standar;",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "letter",
+      "text": "c. kinerja K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "letter",
+      "text": "d. identifikasi sumber bahaya; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "letter",
+      "text": "e. yang diwajibkan berdasarkan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "paragraph",
+      "text": "(3) Pendokumentasian sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf f paling sedikit dilakukan terhadap:",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "letter",
+      "text": "a. peraturan perundang-undangan di bidang K3 dan standar di bidang K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "letter",
+      "text": "b. indikator kinerja K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "letter",
+      "text": "c. izin kerja;",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "letter",
+      "text": "d. hasil identifikasi, penilaian, dan pengendalian risiko;",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "letter",
+      "text": "e. kegiatan pelatihan K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "letter",
+      "text": "f. kegiatan inspeksi, kalibrasi dan pemeliharaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "letter",
+      "text": "g. catatan pemantauan data;",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "letter",
+      "text": "h. hasil pengkajian kecelakaan di tempat kerja dan tindak lanjut;",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "letter",
+      "text": "i. identifikasi produk termasuk komposisinya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "letter",
+      "text": "j. informasi mengenai pemasok dan kontraktor; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "letter",
+      "text": "k. audit dan peninjauan ulang SMK3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "part",
+      "text": "Bagian Kelima",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "body",
+      "text": "Pemantauan dan Evaluasi Kinerja K3",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "paragraph",
+      "text": "(1) Pengusaha wajib melakukan pemantauan dan evaluasi kinerja K3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "paragraph",
+      "text": "(2) Pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (1) melalui pemeriksaan, pengujian, pengukuran, dan audit internal SMK3 dilakukan oleh sumber daya manusia yang kompeten.",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal perusahaan tidak memiliki sumber daya untuk melakukan pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dapat menggunakan jasa pihak lain.",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "paragraph",
+      "text": "(4) Hasil pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dilaporkan kepada pengusaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "paragraph",
+      "text": "(5) Hasil pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) digunakan untuk melakukan tindakan perbaikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "paragraph",
+      "text": "(6) Pelaksanaan pemantauan dan evaluasi kinerja K3 sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan dan/atau standar.",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "part",
+      "text": "Bagian Keenam",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "body",
+      "text": "Peninjauan dan Peningkatan Kinerja SMK3",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "paragraph",
+      "text": "(1) Untuk menjamin kesesuaian dan efektifitas penerapan SMK3, pengusaha wajib melakukan peninjauan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "paragraph",
+      "text": "(2) Peninjauan sebagaimana dimaksud pada ayat (1) dilakukan terhadap kebijakan, perencanaan, pelaksanaan, pemantauan, dan evaluasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "paragraph",
+      "text": "(3) Hasil peninjauan sebagaimana dimaksud pada ayat (2) digunakan untuk melakukan perbaikan dan peningkatan kinerja.",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "paragraph",
+      "text": "(4) Perbaikan dan peningkatan kinerja sebagaimana dimaksud pada ayat (3) dapat dilaksanakan dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "letter",
+      "text": "a. terjadi perubahan peraturan perundang-undangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "letter",
+      "text": "b. adanya tuntutan dari pihak yang terkait dan pasar;",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "letter",
+      "text": "c. adanya perubahan produk dan kegiatan perusahaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "letter",
+      "text": "d. terjadi perubahan struktur organisasi perusahaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "letter",
+      "text": "e. adanya perkembangan ilmu pengetahuan dan teknologi, termasuk epidemiologi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "letter",
+      "text": "f. adanya hasil kajian kecelakaan di tempat kerja;",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "letter",
+      "text": "g. adanya pelaporan; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "letter",
+      "text": "h. adanya masukan dari pekerja/buruh.",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "chapter",
+      "text": "BAB III",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "body",
+      "text": "PENILAIAN SMK3",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "paragraph",
+      "text": "(1) Penilaian penerapan SMK3 dilakukan oleh lembaga audit independen yang ditunjuk oleh Menteri atas permohonan perusahaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "paragraph",
+      "text": "(2) Untuk perusahaan yang memiliki potensi bahaya tinggi wajib melakukan penilaian penerapan SMK3 sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "paragraph",
+      "text": "(3) Penilaian sebagaimana dimaksud pada ayat (1) dilakukan melalui Audit SMK3 yang meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "letter",
+      "text": "a. pembangunan dan terjaminnya pelaksanaan komitmen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "letter",
+      "text": "b. pembuatan dan pendokumentasian rencana K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "letter",
+      "text": "c. pengendalian perancangan dan peninjauan kontrak;",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "letter",
+      "text": "d. pengendalian dokumen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "letter",
+      "text": "e. pembelian dan pengendalian produk;",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "letter",
+      "text": "f. keamanan bekerja berdasarkan SMK3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "letter",
+      "text": "g. standar pemantauan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "letter",
+      "text": "h. pelaporan dan perbaikan kekurangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "letter",
+      "text": "i. pengelolaan material dan perpindahannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0203",
+      "kind": "letter",
+      "text": "j. pengumpulan dan penggunaan data;",
+      "part": "body"
+    },
+    {
+      "id": "p-0204",
+      "kind": "letter",
+      "text": "k. pemeriksaan SMK3; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0205",
+      "kind": "letter",
+      "text": "l. pengembangan keterampilan dan kemampuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0206",
+      "kind": "paragraph",
+      "text": "(4) Penilaian penerapan SMK3 sebagaimana dimaksud pada ayat (3) tertuang dalam pedoman yang tercantum dalam Lampiran II sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0207",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0208",
+      "kind": "paragraph",
+      "text": "(1) Hasil audit sebagaimana dimaksud dalam Pasal 16 dilaporkan kepada Menteri dengan tembusan disampaikan kepada menteri pembina sektor usaha, gubernur, dan bupati/walikota sebagai bahan pertimbangan dalam upaya peningkatan SMK3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0209",
+      "kind": "paragraph",
+      "text": "(2) Bentuk laporan hasil audit sebagaimana dimaksud pada ayat (1) tertuang dalam pedoman yang tercantum dalam Lampiran III sebagai bagian yang tidak terpisahkan dari Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0210",
+      "kind": "chapter",
+      "text": "BAB IV",
+      "part": "body"
+    },
+    {
+      "id": "p-0211",
+      "kind": "body",
+      "text": "PENGAWASAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0212",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0213",
+      "kind": "paragraph",
+      "text": "(1) Pengawasan SMK3 dilakukan oleh pengawas ketenagakerjaan pusat, provinsi dan/atau kabupaten/kota sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0214",
+      "kind": "paragraph",
+      "text": "(2) Pengawasan sebagaimana dimaksud pada ayat (1) meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0215",
+      "kind": "letter",
+      "text": "a. pembangunan dan terjaminnya pelaksanaan komitmen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0216",
+      "kind": "letter",
+      "text": "b. organisasi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0217",
+      "kind": "letter",
+      "text": "c. sumber daya manusia;",
+      "part": "body"
+    },
+    {
+      "id": "p-0218",
+      "kind": "letter",
+      "text": "d. pelaksanaan peraturan perundang-undangan bidang K3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0219",
+      "kind": "letter",
+      "text": "e. keamanan bekerja;",
+      "part": "body"
+    },
+    {
+      "id": "p-0220",
+      "kind": "letter",
+      "text": "f. pemeriksaan, pengujian dan pengukuran penerapan SMK3;",
+      "part": "body"
+    },
+    {
+      "id": "p-0221",
+      "kind": "letter",
+      "text": "g. pengendalian keadaan darurat dan bahaya industri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0222",
+      "kind": "letter",
+      "text": "h. pelaporan dan perbaikan kekurangan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0223",
+      "kind": "letter",
+      "text": "i. tindak lanjut audit.",
+      "part": "body"
+    },
+    {
+      "id": "p-0224",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "body"
+    },
+    {
+      "id": "p-0225",
+      "kind": "paragraph",
+      "text": "(1) Instansi pembina sektor usaha dapat melakukan pengawasan SMK3 terhadap pelaksanaan penerapan SMK3 yang dikembangkan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0226",
+      "kind": "paragraph",
+      "text": "(2) Pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dilakukan secara terkoordinasi dengan pengawas ketenagakerjaan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0227",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "body"
+    },
+    {
+      "id": "p-0228",
+      "kind": "body",
+      "text": "Hasil pengawasan sebagaimana dimaksud dalam Pasal 18 dan Pasal 19 digunakan sebagai dasar dalam melakukan pembinaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0229",
+      "kind": "chapter",
+      "text": "BAB V",
+      "part": "body"
+    },
+    {
+      "id": "p-0230",
+      "kind": "body",
+      "text": "KETENTUAN PERALIHAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0231",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "body"
+    },
+    {
+      "id": "p-0232",
+      "kind": "body",
+      "text": "Pada saat Peraturan Pemerintah ini mulai berlaku, Perusahaan yang telah menerapkan SMK3, wajib menyesuaikan dengan ketentuan Peraturan Pemerintah ini paling lama 1 (satu) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0233",
+      "kind": "chapter",
+      "text": "BAB VI",
+      "part": "body"
+    },
+    {
+      "id": "p-0234",
+      "kind": "body",
+      "text": "KETENTUAN PENUTUP",
+      "part": "body"
+    },
+    {
+      "id": "p-0235",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "body"
+    },
+    {
+      "id": "p-0236",
+      "kind": "body",
+      "text": "Peraturan Pemerintah mulai berlaku pada tanggal",
+      "part": "body"
+    },
+    {
+      "id": "p-0237",
+      "kind": "body",
+      "text": "diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0238",
+      "kind": "body",
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0239",
+      "kind": "body",
+      "text": "Ditetapkan di Jakarta pada tanggal 12 April 2012",
+      "part": "body"
+    },
+    {
+      "id": "p-0240",
+      "kind": "body",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0241",
+      "kind": "body",
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "part": "body"
+    },
+    {
+      "id": "p-0242",
+      "kind": "closing",
+      "text": "Diundangkan di Jakarta pada tanggal 12 April 2012",
+      "part": "body"
+    },
+    {
+      "id": "p-0243",
+      "kind": "body",
+      "text": "MENTERI HUKUM DAN HAK ASASI MANUSIA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0244",
+      "kind": "body",
+      "text": "AMIR SYAMSUDIN",
+      "part": "body"
+    },
+    {
+      "id": "p-0245",
+      "kind": "closing",
+      "text": "LEMBARAN NEGARA TAHUN 2012 NOMOR 100",
+      "part": "body"
+    },
+    {
+      "id": "p-0246",
+      "kind": "body",
+      "text": "Salinan sesuai dengan aslinya",
+      "part": "body"
+    },
+    {
+      "id": "p-0247",
+      "kind": "body",
+      "text": "KEMENTERIAN SEKRETARIAT NEGARA RI Asisten Deputi Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat,",
+      "part": "body"
+    },
+    {
+      "id": "p-0248",
+      "kind": "body",
+      "text": "Wisnu Setiawan",
+      "part": "body"
+    },
+    {
+      "id": "p-0249",
+      "kind": "explanation_heading",
+      "text": "PENJELASAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0250",
+      "kind": "explanation_heading",
+      "text": "ATAS",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0251",
+      "kind": "explanation_body",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0252",
+      "kind": "explanation_body",
+      "text": "NOMOR 50 TAHUN 2012",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0253",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0254",
+      "kind": "explanation_body",
+      "text": "PENERAPAN SISTEM MANAJEMEN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0255",
+      "kind": "explanation_body",
+      "text": "KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0256",
+      "kind": "explanation_heading",
+      "text": "I. UMUM",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0257",
+      "kind": "explanation_body",
+      "text": "Globalisasi perdagangan saat ini memberikan dampak persaingan sangat ketat dalam segala aspek khususnya ketenagakerjaan yang salah satunya mempersyaratkan adanya perlindungan atas keselamatan dan kesehatan kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0258",
+      "kind": "explanation_body",
+      "text": "Untuk meningkatkan efektifitas perlindungan keselamatan dan kesehatan kerja, tidak terlepas dari upaya pelaksanaan keselamatan dan kesehatan kerja yang terencana, terukur, terstruktur, dan terintegrasi melalui SMK3 guna menjamin terciptanya suatu sistem keselamatan dan kesehatan kerja di tempat kerja dengan melibatkan unsur manajemen, pekerja/buruh, dan/atau serikat pekerja/serikat buruh dalam rangka mencegah dan mengurangi kecelakaan kerja dan penyakit akibat kerja serta terciptanya tempat kerja yang nyaman, efisien dan produktif.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0259",
+      "kind": "explanation_body",
+      "text": "Penerapan keselamatan dan kesehatan kerja melalui SMK3 telah berkembang di berbagai negara baik melalui pedoman maupun standar. Untuk memberikan keseragaman bagi setiap perusahaan dalam menerapkan SMK3 sehingga perlindungan keselamatan dan kesehatan kerja bagi tenaga kerja, peningkatan efisiensi, dan produktifitas perusahaan dapat terwujud maka perlu ditetapkan Peraturan Pemerintah yang mengatur penerapan SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0260",
+      "kind": "explanation_body",
+      "text": "Peraturan Pemerintah ini memuat:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0261",
+      "kind": "explanation_body",
+      "text": "- ketentuan umum; - sistem Manajemen Keselamatan dan Kesehatan Kerja; - penilaian SMK3; - pengawasan; - ketentuan Peralihan; dan - ketentuan Penutup.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0262",
+      "kind": "explanation_heading",
+      "text": "II. PASAL DEMI PASAL",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0263",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0264",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0265",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0266",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0267",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0268",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0269",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0270",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0271",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0272",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0273",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan ketentuan peraturan perundang-undangan antara lain ketentuan peraturan perundang-undangan di bidang kesehatan, minyak dan gas bumi, atau pertambangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0274",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0275",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0276",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0277",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0278",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0279",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0280",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0281",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tingkat potensi bahaya tinggi\" adalah perusahaan yang memiliki potensi bahaya yang dapat mengakibatkan kecelakaan yang merugikan jiwa manusia, terganggunya proses produksi dan pencemaran lingkungan kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0282",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0283",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0284",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0285",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0286",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0287",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0288",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0289",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0290",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0291",
+      "kind": "explanation_body",
+      "text": "Penyebarluasan kebijakan keselamatan dan kesehatan kerja dapat dilakukan melalui media antara lain papan pengumuman, brosur, verbal dalam briefing/apel, dan/atau media elektronik lainnya. Yang dimaksud dengan pihak lain antara lain subkontraktor, penyewa, tamu, pelanggan, pemasok.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0292",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0293",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0294",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0295",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0296",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0297",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0298",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0299",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"penelaahan awal\" adalah kegiatan yang dilakukan pengusaha untuk mengetahui posisi/kondisi/tingkat pelaksanaan keselamatan dan kesehatan kerja di perusahaan terhadap penerapan peraturan perundang-undangan keselamatan dan kesehatan kerja. Kegiatan tersebut juga mencakup evaluasi terhadap kebijakan keselamatan dan kesehatan kerja yang ada, partisipasi pekerja/buruh dan/atau serikat pekerja/serikat buruh, tanggung jawab pimpinan unit kerja, analisa dan statistik kecelakaan, dan penyakit akibat kerja, serta upaya-upaya pengendalian yang sudah dilakukan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0300",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0301",
+      "kind": "explanation_body",
+      "text": "Identifikasi bahaya, penilaian dan pengendalian risiko dilakukan terhadap mesin-mesin, pesawat-pesawat, alat kerja, peralatan lainnya, bahan-bahan, lingkungan kerja, sifat pekerjaan, cara kerja, proses produksi, dan sebagainya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0302",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0303",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"persyaratan lainnya\" adalah standar, pedoman, dan peraturan perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0304",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0305",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"sumber daya\" adalah personil yang memiliki kualifikasi dan kompetensi keselamatan dan kesehatan kerja, sarana keselamatan dan kesehatan kerja, alat pelindung diri, alat pengaman, dan anggaran yang dialokasikan untuk program keselamatan dan kesehatan kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0306",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0307",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan pihak lain yang terkait di perusahaan antara lain akuntan publik, konsultan, penyedia jasa, dan penyewa.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0308",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0309",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0310",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0311",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0312",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0313",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0314",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0315",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0316",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0317",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"kompetensi kerja\" adalah kemampuan setiap individu yang mencakup aspek pengetahuan, keterampilan, dan sikap kerja yang sesuai dengan standar yang ditetapkan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0318",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0319",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan instansi yang berwenang antara lain kementerian kesehatan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0320",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0321",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0322",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0323",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0324",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0325",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0326",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0327",
+      "kind": "explanation_body",
+      "text": "Tindakan pengendalian meliputi pengendalian terhadap kegiatan, produk barang dan jasa yang dapat menimbulkan risiko kecelakaan dan penyakit akibat kerja sekurang-kurangnya mencakup pengendalian terhadap bahan, peralatan, lingkungan kerja, cara kerja, sifat pekerjaan, dan proses kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0328",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0329",
+      "kind": "explanation_body",
+      "text": "Perancangan (design) dan rekayasa meliputi pengembangan, verifikasi tinjauan ulang, validasi dan penyesuaian berdasarkan identifikasi sumber bahaya, penilaian dan pengendalian risiko kecelakaan dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0330",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0331",
+      "kind": "explanation_body",
+      "text": "Penyusunan prosedur dan instruksi kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0332",
+      "kind": "opening",
+      "text": "memperhatikan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0333",
+      "kind": "explanation_body",
+      "text": "syarat-syarat keselamatan dan kesehatan kerja dan ditinjau ulang apabila terjadi kecelakaan, perubahan peralatan, perubahan proses dan/atau perubahan bahan baku serta ditinjau ulang secara berkala.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0334",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0335",
+      "kind": "explanation_body",
+      "text": "Dalam kontrak penyerahan sebagian pelaksanaan pekerjaan, memuat jaminan kemampuan perusahaan penerima pekerjaan dalam memenuhi persyaratan keselamatan dan kesehatan kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0336",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0337",
+      "kind": "explanation_body",
+      "text": "Dalam pembelian/pengadaan barang dan jasa perlu",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0338",
+      "kind": "opening",
+      "text": "memperhatikan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0339",
+      "kind": "explanation_body",
+      "text": "spesifikasi teknis dan aspek keselamatan dan kesehatan kerja serta kelengkapan lembar data keselamatan bahan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0340",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0341",
+      "kind": "explanation_body",
+      "text": "Produk akhir dilengkapi dengan petunjuk pengoperasian, spesifikasi teknis, lembar data keselamatan bahan, label dan/atau informasi keselamatan dan kesehatan kerja lainnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0342",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0343",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0344",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0345",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0346",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0347",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0348",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0349",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"potensi bahaya\" adalah kondisi atau keadaan baik pada orang, peralatan, mesin, pesawat, instalasi, bahan, cara kerja, sifat kerja, proses produksi dan lingkungan yang berpotensi menimbulkan gangguan, kerusakan, kerugian, kecelakaan, kebakaran, peledakan, pencemaran, dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0350",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"investigasi\" adalah serangkaian kegiatan untuk mengumpulkan keterangan/data atas rangkaian temuan kejadian gangguan, kerusakan, kerugian, kecelakaan, kebakaran, peledakan, pencemaran, dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0351",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"analisa kecelakaan\" adalah serangkaian kegiatan untuk mengadakan analisa dan penyelidikan untuk mengetahui/membuktikan kebenaran atau kesalahan sebuah fakta yang kemudian menyajikan kesimpulan atas kejadian kecelakaan, kebakaran, peledakan, pencemaran, dan penyakit akibat kerja yang merupakan bagian penting program pencegahan kecelakaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0352",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0353",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0354",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0355",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0356",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0357",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0358",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0359",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0360",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0361",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0362",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0363",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0364",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan perusahaan yang memiliki potensi bahaya tinggi antara lain perusahaan yang bergerak di bidang pertambangan, minyak dan gas bumi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0365",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0366",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0367",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0368",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0369",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0370",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0371",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0372",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0373",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0374",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0375",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0376",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0377",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0378",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0379",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0380",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0381",
+      "kind": "closing",
+      "text": "TAMBAHAN LEMBARAN NEGARA NOMOR 5309",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0382",
+      "kind": "attachment",
+      "text": "LAMPIRAN I",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0383",
+      "kind": "explanation_body",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0384",
+      "kind": "explanation_body",
+      "text": "NOMOR 50 TAHUN 2012",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0385",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0386",
+      "kind": "explanation_body",
+      "text": "PENERAPAN SISTEM MANAJEMEN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0387",
+      "kind": "explanation_body",
+      "text": "KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0388",
+      "kind": "explanation_body",
+      "text": "PEDOMAN PENERAPAN SISTEM MANAJEMEN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0389",
+      "kind": "explanation_body",
+      "text": "KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0390",
+      "kind": "explanation_body",
+      "text": "Dalam menerapkan SMK3, setiap perusahaan wajib melaksanakan: A. penetapan kebijakan K3; B. perencanaan K3; C. pelaksanaan rencana K3; D. pemantauan dan evaluasi kinerja K3; dan E. peninjauan dan peningkatan kinerja SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0391",
+      "kind": "explanation_body",
+      "text": "A. PENETAPAN KEBIJAKAN K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0392",
+      "kind": "number",
+      "text": "1. Penyusunan kebijakan K3 dilakukan melalui:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0393",
+      "kind": "letter",
+      "text": "a. tinjauan awal kondisi K3; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0394",
+      "kind": "letter",
+      "text": "b. proses konsultasi antara pengurus dan wakil pekerja/buruh.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0395",
+      "kind": "number",
+      "text": "2. Penetapan kebijakan K3 harus:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0396",
+      "kind": "letter",
+      "text": "a. disahkan oleh pucuk pimpinan perusahaan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0397",
+      "kind": "letter",
+      "text": "b. tertulis, tertanggal dan ditanda tangani;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0398",
+      "kind": "letter",
+      "text": "c. secara jelas menyatakan tujuan dan sasaran K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0399",
+      "kind": "letter",
+      "text": "d. dijelaskan dan disebarluaskan kepada seluruh pekerja/buruh, tamu, kontraktor, pemasok, dan pelanggan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0400",
+      "kind": "letter",
+      "text": "e. terdokumentasi dan terpelihara dengan baik;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0401",
+      "kind": "letter",
+      "text": "f. bersifat dinamik; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0402",
+      "kind": "letter",
+      "text": "g. ditinjau ulang secara berkala untuk menjamin bahwa kebijakan tersebut masih sesuai dengan perubahan yang terjadi dalam perusahaan dan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0403",
+      "kind": "number",
+      "text": "3. Untuk melaksanakan ketentuan angka 2 huruf c sampai dengan huruf g, pengusaha dan/atau pengurus harus:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0404",
+      "kind": "letter",
+      "text": "a. menempatkan organisasi K3 pada posisi yang dapat menentukan keputusan perusahaan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0405",
+      "kind": "letter",
+      "text": "b. menyediakan anggaran, tenaga kerja yang berkualitas dan sarana-sarana lain yang diperlukan di bidang K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0406",
+      "kind": "letter",
+      "text": "c. menetapkan personil yang mempunyai tanggung jawab, wewenang dan kewajiban yang jelas dalam penanganan K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0407",
+      "kind": "letter",
+      "text": "d. membuat perencanaan K3 yang terkoordinasi;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0408",
+      "kind": "letter",
+      "text": "e. melakukan penilaian kinerja dan tindak lanjut pelaksanaan K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0409",
+      "kind": "number",
+      "text": "4. Ketentuan tersebut pada angka 3 huruf a sampai dengan huruf e diadakan peninjauan ulang secara teratur.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0410",
+      "kind": "number",
+      "text": "5. Setiap tingkat pimpinan dalam perusahaan harus menunjukkan komitmen terhadap K3 sehingga SMK3 berhasil diterapkan dan dikembangkan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0411",
+      "kind": "number",
+      "text": "6. Setiap pekerja/buruh dan orang lain yang berada di tempat kerja harus berperan serta dalam menjaga dan mengendalikan pelaksanaan K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0412",
+      "kind": "explanation_body",
+      "text": "B. PERENCANAAN K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0413",
+      "kind": "number",
+      "text": "1. Pengusaha menyusun rencana K3 berdasarkan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0414",
+      "kind": "letter",
+      "text": "a. Hasil penelaahan awal Hasil penelaahan awal merupakan tinjauan awal kondisi K3 perusahaan yang telah dilakukan pada penyusunan kebijakan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0415",
+      "kind": "letter",
+      "text": "b. Identifikasi potensi bahaya, penilaian dan pengendalian risiko Identifikasi potensi bahaya, penilaian dan penilaian risiko harus dipertimbangkan pada saat merumuskan rencana.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0416",
+      "kind": "letter",
+      "text": "c. Peraturan perundang-undangan dan persyaratan lainnya Peraturan perundang-undangan dan persyaratan lainnya harus: 1) ditetapkan, dipelihara, diinventarisasi dan diidentifikasi oleh perusahaan; dan 2) disosialisasikan kepada seluruh pekerja/buruh.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0417",
+      "kind": "letter",
+      "text": "d. Sumber daya yang dimiliki Dalam menyusun perencanaan harus mempertimbangkan sumber daya yang dimiliki meliputi tersedianya sumber daya manusia yang kompeten, sarana dan prasarana serta dana.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0418",
+      "kind": "number",
+      "text": "2. Rencana K3 yang disusun oleh perusahaan paling sedikit memuat:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0419",
+      "kind": "letter",
+      "text": "a. Tujuan dan Sasaran",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0420",
+      "kind": "explanation_body",
+      "text": "Tujuan dan sasaran yang telah ditetapkan ditinjau kembali secara teratur sesuai dengan perkembangan. Tujuan dan sasaran K3 paling sedikit memenuhi kualifikasi: 1) dapat diukur; 2) satuan/indikator pengukuran; dan 3) sasaran pencapaian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0421",
+      "kind": "explanation_body",
+      "text": "Dalam menetapkan tujuan dan sasaran K3, pengusaha harus berkonsultasi dengan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0422",
+      "kind": "explanation_body",
+      "text": "1) wakil pekerja/buruh; 2) ahli K3; 3) P2K3; dan 4) pihak-pihak lain yang terkait.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0423",
+      "kind": "letter",
+      "text": "b. Skala Prioritas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0424",
+      "kind": "explanation_body",
+      "text": "Skala prioritas merupakan urutan pekerjaan berdasarkan tingkat risiko, dimana pekerjaan yang mempunyai tingkat risiko yang tinggi diprioritaskan dalam perencanaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0425",
+      "kind": "letter",
+      "text": "c. Upaya Pengendalian Bahaya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0426",
+      "kind": "explanation_body",
+      "text": "Upaya pengendalian bahaya, dilakukan berdasarkan hasil penilaian risiko melalui pengendalian teknis, administratif, dan penggunaan alat pelindung diri.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0427",
+      "kind": "letter",
+      "text": "d. Penetapan Sumber Daya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0428",
+      "kind": "explanation_body",
+      "text": "Penetapan sumber daya dilaksanakan untuk menjamin tersedianya sumber daya manusia yang kompeten, sarana dan prasarana serta dana yang memadai agar pelaksanaan K3 dapat berjalan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0429",
+      "kind": "letter",
+      "text": "e. Jangka Waktu Pelaksanaan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0430",
+      "kind": "explanation_body",
+      "text": "Dalam perencanaan setiap kegiatan harus mencakup jangka waktu pelaksanaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0431",
+      "kind": "letter",
+      "text": "f. Indikator Pencapaian",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0432",
+      "kind": "explanation_body",
+      "text": "Dalam menetapkan indikator pencapaian harus ditentukan dengan parameter yang dapat diukur sebagai dasar penilaian kinerja K3 yang sekaligus merupakan informasi mengenai keberhasilan pencapaian tujuan penerapan SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0433",
+      "kind": "letter",
+      "text": "g. Sistem Pertanggung Jawaban",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0434",
+      "kind": "explanation_body",
+      "text": "Sistem pertanggung jawaban harus ditetapkan dalam pencapaian tujuan dan sasaran sesuai dengan fungsi dan tingkat manajemen perusahaan yang bersangkutan untuk menjamin perencanaan tersebut dapat dilaksanakan. Peningkatan K3 akan efektif apabila semua pihak dalam perusahaan didorong untuk berperan serta dalam penerapan dan pengembangan SMK3, dan memiliki budaya perusahaan yang mendukung dan memberikan kontribusi bagi SMK3. Berdasarkan hal tersebut pengusaha harus: 1) menentukan, menunjuk, mendokumentasikan dan mengkomunikasikan tanggung jawab dan tanggung gugat di bidang K3 dan wewenang untuk bertindak dan menjelaskan hubungan pelaporan untuk semua tingkatan manajemen, pekerja/buruh, kontraktor, subkontraktor, dan pengunjung; 2) mempunyai prosedur untuk memantau dan mengkomunikasikan setiap perubahan tanggung jawab dan tanggung gugat yang berpengaruh terhadap sistem dan program K3; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0435",
+      "kind": "explanation_body",
+      "text": "3) memberikan reaksi secara cepat dan tepat terhadap kondisi yang menyimpang atau kejadian-kejadian lainnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0436",
+      "kind": "explanation_body",
+      "text": "C. PELAKSANAAN RENCANA K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0437",
+      "kind": "explanation_body",
+      "text": "Pelaksanaan rencana K3 harus dilaksanakan oleh pengusaha dan/atau pengurus perusahaan atau tempat kerja dengan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0438",
+      "kind": "number",
+      "text": "1. menyediakan sumber daya manusia yang mempunyai kualifikasi; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0439",
+      "kind": "number",
+      "text": "2. menyediakan prasarana dan sarana yang memadai.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0440",
+      "kind": "number",
+      "text": "1. Penyediaan Sumber Daya Manusia",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0441",
+      "kind": "letter",
+      "text": "a. Prosedur Pengadaan Sumber Daya Manusia Dalam penyediaan sumber daya manusia, perusahaan harus membuat prosedur pengadaan secara efektif, meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0442",
+      "kind": "explanation_body",
+      "text": "1) Pengadaan sumber daya manusia sesuai kebutuhan dan memiliki kompetensi kerja serta kewenangan dibidang K3 yang dibuktikan melalui:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0443",
+      "kind": "explanation_body",
+      "text": "a) sertifikat K3 yang diterbitkan oleh instansi yang berwenang; dan b) surat izin kerja/operasi dan/atau surat penunjukan dari instansi yang berwenang. 2) Pengidentifikasian kompetensi kerja yang diperlukan pada setiap tingkatan manajemen perusahaan dan menyelenggarakan setiap pelatihan yang dibutuhkan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0444",
+      "kind": "explanation_body",
+      "text": "3) Pembuatan ketentuan untuk mengkomunikasikan informasi K3 secara efektif;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0445",
+      "kind": "explanation_body",
+      "text": "4) Pembuatan peraturan untuk memperoleh pendapat dan saran para ahli; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0446",
+      "kind": "explanation_body",
+      "text": "5) Pembuatan peraturan untuk pelaksanaan konsultasi dan keterlibatan pekerja/buruh secara aktif.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0447",
+      "kind": "letter",
+      "text": "b. Konsultasi, Motivasi dan Kesadaran Dalam menunjukkan komitmennya terhadap K3, pengusaha dan/atau pengurus harus melakukan konsultasi, motivasi dan kesadaran dengan melibatkan pekerja/buruh maupun pihak lain yang terkait di dalam penerapan, pengembangan dan pemeliharaan SMK3, sehingga semua pihak merasa ikut memiliki dan merasakan hasilnya. Dalam melakukan konsultasi, motivasi dan kesadaran SMK3, pengusaha dan/atau pengurus harus memberi pemahaman kepada tenaga kerja atau pekerja/buruh tentang bahaya fisik, kimia, ergonomi, radiasi, biologi, dan psikologi yang mungkin dapat menciderai dan melukai pada saat bekerja, serta pemahaman sumber bahaya tersebut. Pemahaman tersebut bertujuan untuk mengenali dan mencegah tindakan yang mengarah terjadinya insiden.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0448",
+      "kind": "letter",
+      "text": "c. Tanggung Jawab dan Tanggung Gugat Bentuk tanggung jawab dan tanggung gugat dalam pelaksanaan K3, harus dilakukan oleh perusahaan dengan cara: 1) menunjuk, mendokumentasikan dan mengkomunikasikan tanggung jawab dan tanggung gugat di bidang K3; 2) menunjuk sumber daya manusia yang berwenang untuk bertindak dan menjelaskan kepada semua tingkatan manajemen, pekerja/buruh, kontraktor, subkontraktor, dan pengunjung meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0449",
+      "kind": "explanation_body",
+      "text": "a) pimpinan yang ditunjuk untuk bertanggung jawab harus memastikan bahwa SMK3 telah diterapkan dan hasilnya sesuai dengan yang diharapkan oleh setiap lokasi dan jenis kegiatan dalam perusahaan; b) pengurus harus mengenali kemampuan tenaga kerja sebagai sumber daya yang berharga dan dapat ditunjuk untuk menerima pendelegasian wewenang dan tanggung jawab dalam menerapkan dan mengembangkan SMK3; 3) mempunyai prosedur untuk memantau dan mengkomunikasikan setiap perubahan tanggung jawab dan tanggung gugat yang berpengaruh terhadap sistem dan program K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0450",
+      "kind": "explanation_body",
+      "text": "4) memberikan reaksi secara cepat dan tepat terhadap kondisi yang menyimpang atau kejadian-kejadian lainnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0451",
+      "kind": "letter",
+      "text": "d. Pelatihan dan Kompetensi Kerja Pelatihan dan kompetensi Kerja, dilakukan dengan melakukan pengidentifikasian dan pendokumentasian standar kompetensi kerja K3. Standar kompetensi kerja K3 dapat diidentifikasi dan dikembangkan sesuai kebutuhan dengan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0452",
+      "kind": "explanation_body",
+      "text": "1) menggunakan standar kompetensi kerja yang ada; 2) memeriksa uraian tugas dan jabatan; 3) menganalisis tugas kerja; 4) menganalisis hasil inspeksi dan audit; dan 5) meninjau ulang laporan insiden.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0453",
+      "kind": "explanation_body",
+      "text": "Hasil identifikasi kompetensi kerja digunakan sebagai dasar penentuan program pelatihan yang harus dilakukan, dan menjadi dasar pertimbangan dalam penerimaan, seleksi dan penilaian kinerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0454",
+      "kind": "number",
+      "text": "2. Menyediakan Prasarana Dan Sarana Yang Memadai",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0455",
+      "kind": "explanation_body",
+      "text": "Prasarana dan sarana yang disediakan meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0456",
+      "kind": "letter",
+      "text": "a. Organisasi/Unit yang bertanggung jawab di bidang K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0457",
+      "kind": "explanation_body",
+      "text": "Perusahaan wajib membentuk Panitia Pembina Keselamatan dan Kesehatan Kerja yang selanjutnya disingkat P2K3 yang bertanggung jawab di bidang K3. P2K3 adalah badan pembantu di tempat kerja yang merupakan wadah kerjasama antara pengusaha dan tenaga kerja atau pekerja/buruh untuk mengembangkan kerjasama saling pengertian dan partisipasi efektif dalam penerapan keselamatan dan kesehatan kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0458",
+      "kind": "explanation_body",
+      "text": "Keanggotaan P2K3 terdiri dari unsur pengusaha dan tenaga kerja atau pekerja/buruh yang susunannya terdiri dari Ketua, Sekretaris dan Anggota.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0459",
+      "kind": "explanation_body",
+      "text": "P2K3 mempunyai tugas memberikan saran dan pertimbangan baik diminta maupun tidak kepada pengusaha atau pengurus mengenai masalah keselamatan dan kesehatan kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0460",
+      "kind": "letter",
+      "text": "b. Anggaran",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0461",
+      "kind": "explanation_body",
+      "text": "Perusahaan harus mengalokasikan anggaran untuk pelaksanaan K3 secara menyeluruh antara lain untuk: 1) keberlangsungan organisasi K3; 2) pelatihan SDM dalam mewujudkan kompetensi kerja; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0462",
+      "kind": "explanation_body",
+      "text": "3) pengadaan prasarana dan sarana K3 termasuk alat evakuasi, peralatan pengendalian, peralatan pelindung diri.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0463",
+      "kind": "letter",
+      "text": "c. Prosedur operasi/kerja, informasi, dan pelaporan serta pendokumentasian",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0464",
+      "kind": "explanation_body",
+      "text": "1) Prosedur operasi/kerja harus disediakan pada setiap jenis pekerjaan dan dibuat melalui analisa pekerjaan berwawasan K3 (Job Safety Analysis) oleh personil yang kompeten. 2) Prosedur informasi K3 harus menjamin pemenuhan kebutuhan untuk:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0465",
+      "kind": "explanation_body",
+      "text": "a) mengkomunikasikan hasil dari sistem manajemen, temuan audit dan tinjauan ulang manajemen dikomunikasikan pada semua pihak dalam perusahaan yang bertanggung jawab dan memiliki andil dalam kinerja perusahaan; b) melakukan identifikasi dan menerima informasi K3 dari luar perusahaan; dan c) menjamin bahwa informasi K3 yang terkait dikomunikasikan kepada orang-orang di luar perusahaan yang membutuhkan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0466",
+      "kind": "explanation_body",
+      "text": "Informasi yang perlu dikomunikasikan meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0467",
+      "kind": "explanation_body",
+      "text": "a) persyaratan eksternal/peraturan perundangan-undangan dan internal/indikator kinerja K3; b) izin kerja;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0468",
+      "kind": "explanation_body",
+      "text": "c) hasil identifikasi, penilaian, dan pengendalian risiko serta sumber bahaya yang meliputi keadaan mesin-mesin, pesawat-pesawat, alat kerja, peralatan lainnya, bahan-bahan, lingkungan kerja, sifat pekerjaan, cara kerja, dan proses produksi; d) kegiatan pelatihan K3; e) kegiatan inspeksi, kalibrasi dan pemeliharaan; f) pemantauan data; g) hasil pengkajian kecelakaan, insiden, keluhan dan tindak lanjut; h) identifikasi produk termasuk komposisinya; i) informasi mengenai pemasok dan kontraktor;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0469",
+      "kind": "explanation_body",
+      "text": "dan j) audit dan peninjauan ulang SMK3. 3) Prosedur pelaporan informasi yang terkait harus ditetapkan untuk menjamin bahwa pelaporan yang tepat waktu dan memantau pelaksanaan SMK3 sehingga kinerjanya dapat ditingkatkan. Prosedur pelaporan terdiri atas:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0470",
+      "kind": "explanation_body",
+      "text": "a) Prosedur pelaporan internal yang harus ditetapkan untuk menangani:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0471",
+      "kind": "paragraph",
+      "text": "(1) pelaporan terjadinya insiden;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0472",
+      "kind": "paragraph",
+      "text": "(2) pelaporan ketidaksesuaian;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0473",
+      "kind": "paragraph",
+      "text": "(3) pelaporan kinerja keselamatan dan kesehatan kerja; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0474",
+      "kind": "paragraph",
+      "text": "(4) pelaporan identifikasi sumber bahaya. b) Prosedur pelaporan eksternal yang harus ditetapkan untuk menangani:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0475",
+      "kind": "paragraph",
+      "text": "(1) pelaporan yang dipersyaratkan peraturan perundang-undangan; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0476",
+      "kind": "paragraph",
+      "text": "(2) pelaporan kepada pemegang saham atau pihak lain yang terkait. Laporan harus disampaikan kepada pihak manajemen dan/atau pemerintah.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0477",
+      "kind": "explanation_body",
+      "text": "4) Pendokumentasian kegiatan K3 digunakan untuk:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0478",
+      "kind": "explanation_body",
+      "text": "a) menyatukan secara sistematik kebijakan, tujuan dan sasaran K3; b) menguraikan sarana pencapaian tujuan dan sasaran K3; c) mendokumentasikan peranan, tanggung jawab dan prosedur; d) memberikan arahan mengenai dokumen yang terkait dan menguraikan unsur-unsur lain dari sistem manajemen perusahaan; dan e) menunjuk bahwa unsur-unsur SMK3 yang sesuai untuk perusahaan telah diterapkan. Dalam pendokumentasian kegiatan K3, perusahaan harus menjamin bahwa:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0479",
+      "kind": "explanation_body",
+      "text": "a) dokumen dapat diidentifikasi sesuai dengan uraian tugas dan tanggung jawab di perusahaan; b) dokumen ditinjau ulang secara berkala dan jika diperlukan dapat direvisi; c) dokumen sebelum diterbitkan harus lebih dahulu disetujui oleh personil yang berwenang; d) dokumen versi terbaru harus tersedia di tempat kerja yang dianggap perlu; e) semua dokumen yang telah usang harus segera disingkirkan; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0480",
+      "kind": "explanation_body",
+      "text": "f) dokumen mudah ditemukan, bermanfaat dan mudah dipahami.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0481",
+      "kind": "letter",
+      "text": "d. Instruksi kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0482",
+      "kind": "explanation_body",
+      "text": "Instruksi kerja merupakan perintah tertulis atau tidak tertulis untuk melaksanakan pekerjaan dengan tujuan untuk memastikan bahwa setiap pekerjaan dilakukan sesuai persyaratan K3 yang telah ditetapkan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0483",
+      "kind": "explanation_body",
+      "text": "Kegiatan dalam pelaksanaan rencana K3 paling sedikit meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0484",
+      "kind": "number",
+      "text": "1. Tindakan Pengendalian Tindakan pengendalian harus diselenggarakan oleh setiap perusahaan terhadap kegiatan-kegiatan, produk barang dan jasa yang dapat menimbulkan risiko kecelakaan dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0485",
+      "kind": "explanation_body",
+      "text": "Tindakan pengendalian dilakukan dengan mendokumentasikan dan melaksanakan kebijakan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0486",
+      "kind": "letter",
+      "text": "a. standar bagi tempat kerja;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0487",
+      "kind": "letter",
+      "text": "b. perancangan pabrik dan bahan; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0488",
+      "kind": "letter",
+      "text": "c. prosedur dan instruksi kerja untuk mengatur dan mengendalikan kegiatan produk barang dan jasa.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0489",
+      "kind": "explanation_body",
+      "text": "Pengendalian risiko kecelakaan dan penyakit akibat kerja dilakukan melalui:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0490",
+      "kind": "letter",
+      "text": "a. Identifikasi potensi bahaya dengan mempertimbangkan: 1) kondisi dan kejadian yang dapat menimbulkan potensi bahaya; dan 2) jenis kecelakaan dan penyakit akibat kerja yang mungkin dapat terjadi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0491",
+      "kind": "letter",
+      "text": "b. Penilaian risiko untuk menetapkan besar kecilnya suatu risiko yang telah diidentifikasi sehingga digunakan untuk menentukan prioritas pengendalian terhadap tingkat risiko kecelakaan atau penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0492",
+      "kind": "letter",
+      "text": "c. Tindakan pengendalian dilakukan melalui:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0493",
+      "kind": "explanation_body",
+      "text": "1) pengendalian teknis/rekayasa yang meliputi eliminasi, subtitusi, isolasi, ventilasi, higienitas dan sanitasi; 2) pendidikan dan pelatihan; 3) insentif, penghargaan dan motivasi diri; 4) evaluasi melalui internal audit, penyelidikan insiden dan etiologi; dan 5) penegakan hukum.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0494",
+      "kind": "number",
+      "text": "2. Perancangan dan Rekayasa Tahap perancangan dan rekayasa meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0495",
+      "kind": "letter",
+      "text": "a. pengembangan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0496",
+      "kind": "letter",
+      "text": "b. verifikasi;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0497",
+      "kind": "letter",
+      "text": "c. tinjauan ulang;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0498",
+      "kind": "letter",
+      "text": "d. validasi; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0499",
+      "kind": "letter",
+      "text": "e. penyesuaian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0500",
+      "kind": "explanation_body",
+      "text": "Dalam pelaksanaan perancangan dan rekayasa harus",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0501",
+      "kind": "opening",
+      "text": "memperhatikan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0502",
+      "kind": "explanation_body",
+      "text": "unsur-unsur:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0503",
+      "kind": "letter",
+      "text": "a. identifikasi potensi bahaya;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0504",
+      "kind": "letter",
+      "text": "b. prosedur penilaian dan pengendalian risiko kecelakaan dan penyakit akibat kerja; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0505",
+      "kind": "letter",
+      "text": "c. personil yang memiliki kompetensi kerja harus ditentukan dan diberi wewenang dan tanggung jawab yang jelas untuk melakukan verifikasi persyaratan SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0506",
+      "kind": "number",
+      "text": "3. Prosedur dan Instruksi Kerja Prosedur dan instruksi kerja harus dilaksanakan dan ditinjau ulang secara berkala terutama jika terjadi perubahan peralatan, proses atau bahan baku yang digunakan oleh personal dengan melibatkan para pelaksana yang memiliki kompetensi kerja dalam menggunakan prosedur.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0507",
+      "kind": "number",
+      "text": "4. Penyerahan Sebagian Pelaksanaan Pekerjaan Perusahaan yang akan menyerahkan sebagian pelaksanaan pekerjaan kepada perusahaan lain harus menjamin bahwa perusahaan lain tersebut memenuhi persyaratan K3. Verifikasi terhadap persyaratan K3 tersebut dilakukan oleh personal yang kompeten dan berwenang serta mempunyai tanggung jawab yang jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0508",
+      "kind": "number",
+      "text": "5. Pembelian/Pengadaan Barang dan Jasa Sistem pembelian/pengadaan barang dan jasa harus:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0509",
+      "kind": "letter",
+      "text": "a. terintegrasi dalam strategi penanganan pencegahan kecelakaan dan penyakit akibat kerja;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0510",
+      "kind": "letter",
+      "text": "b. menjamin agar produk barang dan jasa serta mitra kerja perusahaan memenuhi persyaratan K3; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0511",
+      "kind": "letter",
+      "text": "c. pada saat barang dan jasa diterima di tempat kerja, perusahaan harus menjelaskan kepada semua pihak yang akan menggunakan barang dan jasa tersebut mengenai identifikasi, penilaian dan pengendalian risiko kecelakaan dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0512",
+      "kind": "number",
+      "text": "6. Produk Akhir Produk akhir berupa barang atau jasa harus dapat dijamin keselamatannya dalam pengemasan, penyimpanan, pendistribusian, dan penggunaan serta pemusnahannya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0513",
+      "kind": "number",
+      "text": "7. Upaya Menghadapi Keadaan Darurat Kecelakaan dan Bencana Industri Perusahaan harus memiliki prosedur sebagai upaya menghadapi keadaan darurat kecelakaan dan bencana industri, yang meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0514",
+      "kind": "letter",
+      "text": "a. penyediaan personil dan fasilitas P3K dengan jumlah yang cukup dan sesuai sampai mendapatkan pertolongan medik;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0515",
+      "kind": "explanation_body",
+      "text": "dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0516",
+      "kind": "letter",
+      "text": "b. proses perawatan lanjutan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0517",
+      "kind": "explanation_body",
+      "text": "Prosedur menghadapi keadaan darurat harus diuji secara berkala oleh personil yang memiliki kompetensi kerja, dan untuk instalasi yang mempunyai bahaya besar harus dikoordinasikan dengan instansi terkait yang berwenang untuk mengetahui kehandalan pada saat kejadian yang sebenarnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0518",
+      "kind": "number",
+      "text": "8. Rencana dan Pemulihan Keadaan Darurat Dalam melaksanakan rencana dan pemulihan keadaan darurat setiap perusahaan harus memiliki prosedur rencana pemulihan keadaan darurat secara cepat untuk mengembalikan pada kondisi yang normal dan membantu pemulihan tenaga kerja yang mengalami trauma.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0519",
+      "kind": "explanation_body",
+      "text": "D. PEMANTAUAN DAN EVALUASI KINERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0520",
+      "kind": "explanation_body",
+      "text": "Pemantauan dan evaluasi kinerja K3 dilaksanakan di perusahaan meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0521",
+      "kind": "number",
+      "text": "1. Pemeriksaan, Pengujian, dan Pengukuran",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0522",
+      "kind": "explanation_body",
+      "text": "Pemeriksaan, pengujian, dan pengukuran harus ditetapkan dan dipelihara prosedurnya sesuai dengan tujuan dan sasaran K3 serta frekuensinya disesuaikan dengan obyek mengacu pada peraturan dan standar yang berlaku.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0523",
+      "kind": "explanation_body",
+      "text": "Prosedur pemeriksaan, pengujian, dan pengukuran secara umum meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0524",
+      "kind": "letter",
+      "text": "a. personil yang terlibat harus mempunyai pengalaman dan keahlian yang cukup;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0525",
+      "kind": "letter",
+      "text": "b. catatan pemeriksaan, pengujian dan pengukuran yang sedang berlangsung harus dipelihara dan tersedia bagi manajemen, tenaga kerja dan kontraktor kerja yang terkait;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0526",
+      "kind": "letter",
+      "text": "c. peralatan dan metode pengujian yang memadai harus digunakan untuk menjamin telah dipenuhinya standar K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0527",
+      "kind": "letter",
+      "text": "d. tindakan perbaikan harus dilakukan segera pada saat ditemukan ketidaksesuaian terhadap persyaratan K3 dari hasil pemeriksaan, pengujian dan pengukuran;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0528",
+      "kind": "letter",
+      "text": "e. penyelidikan yang memadai harus dilaksanakan untuk menemukan penyebab permasalahan dari suatu insiden;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0529",
+      "kind": "explanation_body",
+      "text": "dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0530",
+      "kind": "letter",
+      "text": "f. hasil temuan harus dianalisis dan ditinjau ulang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0531",
+      "kind": "number",
+      "text": "2. Audit Internal SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0532",
+      "kind": "explanation_body",
+      "text": "Audit internal SMK3 harus dilakukan secara berkala untuk mengetahui keefektifan penerapan SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0533",
+      "kind": "explanation_body",
+      "text": "Audit SMK3 dilaksanakan secara sistematik dan independen oleh personil yang memiliki kompetensi kerja dengan menggunakan metodologi yang telah ditetapkan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0534",
+      "kind": "explanation_body",
+      "text": "Pelaksanaan audit internal dapat menggunakan kriteria audit eksternal sebagaimana tercantum pada Lampiran II peraturan ini, dan pelaporannya dapat menggunakan format laporan yang tercantum pada Lampiran III peraturan ini.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0535",
+      "kind": "explanation_body",
+      "text": "Frekuensi audit harus ditentukan berdasarkan tinjauan ulang hasil audit sebelumnya dan bukti sumber bahaya yang didapatkan di tempat kerja. Hasil audit harus digunakan oleh pengurus dalam proses tinjauan ulang manajemen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0536",
+      "kind": "explanation_body",
+      "text": "Hasil temuan dari pelaksanaan pemantauan dan evaluasi kinerja serta audit SMK3 harus didokumentasikan dan digunakan untuk tindakan perbaikan dan pencegahan. Pemantauan dan evaluasi kinerja serta audit SMK3 dijamin pelaksanaannya secara sistematik dan efektif oleh pihak manajemen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0537",
+      "kind": "explanation_body",
+      "text": "E. PENINJAUAN DAN PENINGKATAN KINERJA SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0538",
+      "kind": "explanation_body",
+      "text": "Untuk menjamin kesesuaian dan keefektifan yang berkesinambungan guna pencapaian tujuan SMK3, pengusaha dan/atau pengurus perusahaan atau tempat kerja harus:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0539",
+      "kind": "number",
+      "text": "1. melakukan tinjauan ulang terhadap penerapan SMK3 secara berkala; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0540",
+      "kind": "number",
+      "text": "2. tinjauan ulang SMK3 harus dapat mengatasi implikasi K3 terhadap seluruh kegiatan, produk barang dan jasa termasuk dampaknya terhadap kinerja perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0541",
+      "kind": "explanation_body",
+      "text": "Tinjauan ulang penerapan SMK3, paling sedikit meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0542",
+      "kind": "number",
+      "text": "1. evaluasi terhadap kebijakan K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0543",
+      "kind": "number",
+      "text": "2. tujuan, sasaran dan kinerja K3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0544",
+      "kind": "number",
+      "text": "3. hasil temuan audit SMK3; dan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0545",
+      "kind": "number",
+      "text": "4. evaluasi efektifitas penerapan SMK3, dan kebutuhan untuk pengembangan SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0546",
+      "kind": "explanation_body",
+      "text": "Perbaikan dan peningkatan kinerja dilakukan berdasarkan pertimbangan:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0547",
+      "kind": "number",
+      "text": "1. perubahan peraturan perundang-undangan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0548",
+      "kind": "number",
+      "text": "2. tuntutan dari pihak yang terkait dan pasar;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0549",
+      "kind": "number",
+      "text": "3. perubahan produk dan kegiatan perusahaan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0550",
+      "kind": "number",
+      "text": "4. perubahan struktur organisasi perusahaan;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0551",
+      "kind": "number",
+      "text": "5. perkembangan ilmu pengetahuan dan teknologi, termasuk epidemologi;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0552",
+      "kind": "number",
+      "text": "6. hasil kajian kecelakaan dan penyakit akibat kerja;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0553",
+      "kind": "number",
+      "text": "7. adanya pelaporan; dan/atau",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0554",
+      "kind": "number",
+      "text": "8. adanya saran dari pekerja/buruh.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0555",
+      "kind": "explanation_body",
+      "text": "PRESIDEN,",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0556",
+      "kind": "explanation_body",
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0557",
+      "kind": "explanation_body",
+      "text": "Salinan sesuai dengan aslinya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0558",
+      "kind": "explanation_body",
+      "text": "KEMENTERIAN SEKRETARIAT NEGARA RI Asisten Deputi Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat,",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0559",
+      "kind": "explanation_body",
+      "text": "Wisnu Setiawan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0560",
+      "kind": "explanation_body",
+      "text": "Wisnu Setiawan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0561",
+      "kind": "attachment",
+      "text": "LAMPIRAN II",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0562",
+      "kind": "explanation_body",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0563",
+      "kind": "explanation_body",
+      "text": "NOMOR 50 TAHUN 2012",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0564",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0565",
+      "kind": "explanation_body",
+      "text": "PENERAPAN SISTEM MANAJEMEN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0566",
+      "kind": "explanation_body",
+      "text": "KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0567",
+      "kind": "explanation_body",
+      "text": "PEDOMAN PENILAIAN PENERAPAN SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0568",
+      "kind": "explanation_body",
+      "text": "Pedoman penilaian penerapan SMK3 meliputi: A. kriteria Audit SMK3; B. penetapan kriteria audit tiap tingkat pencapaian penerapan SMK3;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0569",
+      "kind": "explanation_body",
+      "text": "dan C. ketentuan penilaian hasil Audit SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0570",
+      "kind": "explanation_body",
+      "text": "A. KRITERIA AUDIT SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0571",
+      "kind": "number",
+      "text": "1. Pembangunan Dan Pemeliharaan Komitmen",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0572",
+      "kind": "explanation_body",
+      "text": "1.1 Kebijakan K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0573",
+      "kind": "explanation_body",
+      "text": "1.1.1 Terdapat kebijakan K3 yang tertulis, bertanggal, ditandatangani oleh pengusaha atau pengurus, secara jelas menyatakan tujuan dan sasaran K3 serta komitmen terhadap peningkatan K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0574",
+      "kind": "explanation_body",
+      "text": "1.1.2 Kebijakan disusun oleh pengusaha dan/atau pengurus setelah melalui proses konsultasi dengan wakil tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0575",
+      "kind": "explanation_body",
+      "text": "1.1.3 Perusahaan mengkomunikasikan kebijakan K3 kepada seluruh tenaga kerja, tamu, kontraktor, pelanggan, dan pemasok dengan tata cara yang tepat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0576",
+      "kind": "explanation_body",
+      "text": "1.1.4 Kebijakan khusus dibuat untuk masalah K3 yang bersifat khusus.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0577",
+      "kind": "explanation_body",
+      "text": "1.1.5 Kebijakan K3 dan kebijakan khusus lainnya ditinjau ulang secara berkala untuk menjamin bahwa kebijakan tersebut sesuai dengan perubahan yang terjadi dalam perusahaan dan dalam peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0578",
+      "kind": "explanation_body",
+      "text": "1.2 Tanggung Jawab dan Wewenang Untuk Bertindak",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0579",
+      "kind": "explanation_body",
+      "text": "1.2.1 Tanggung jawab dan wewenang untuk mengambil tindakan dan melaporkan kepada semua pihak yang terkait dalam perusahaan di bidang K3 telah ditetapkan, diinformasikan dan didokumentasikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0580",
+      "kind": "explanation_body",
+      "text": "1.2.2 Penunjukan penanggung jawab K3 harus sesuai peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0581",
+      "kind": "explanation_body",
+      "text": "1.2.3 Pimpinan unit kerja dalam suatu perusahaan bertanggung jawab atas kinerja K3 pada unit kerjanya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0582",
+      "kind": "explanation_body",
+      "text": "1.2.4 Pengusaha atau pengurus bertanggung jawab secara penuh untuk menjamin pelaksanaan SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0583",
+      "kind": "explanation_body",
+      "text": "1.2.5 Petugas yang bertanggung jawab untuk penanganan keadaan darurat telah ditetapkan dan mendapatkan pelatihan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0584",
+      "kind": "explanation_body",
+      "text": "1.2.6 Perusahaan mendapatkan saran-saran dari para ahli di bidang K3 yang berasal dari dalam dan/atau luar perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0585",
+      "kind": "explanation_body",
+      "text": "1.2.7 Kinerja K3 termuat dalam laporan tahunan perusahaan atau laporan lain yang setingkat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0586",
+      "kind": "explanation_body",
+      "text": "1.3 Tinjauan dan Evaluasi",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0587",
+      "kind": "explanation_body",
+      "text": "1.3.1 Tinjauan terhadap penerapan SMK3 meliputi kebijakan, perencanaan, pelaksanaan, pemantauan dan evaluasi telah dilakukan, dicatat dan didokumentasikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0588",
+      "kind": "explanation_body",
+      "text": "1.3.2 Hasil tinjauan dimasukkan dalam perencanaan tindakan manajemen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0589",
+      "kind": "explanation_body",
+      "text": "1.3.3 Pengurus harus meninjau ulang pelaksanaan SMK3 secara berkala untuk menilai kesesuaian dan efektivitas SMK3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0590",
+      "kind": "explanation_body",
+      "text": "1.4 Keterlibatan dan Konsultasi dengan Tenaga Kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0591",
+      "kind": "explanation_body",
+      "text": "1.4.1 Keterlibatan dan penjadwalan konsultasi tenaga kerja dengan wakil perusahaan didokumentasikan dan disebarluaskan ke seluruh tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0592",
+      "kind": "explanation_body",
+      "text": "1.4.2 Terdapat prosedur yang memudahkan konsultasi mengenai perubahan-perubahan yang mempunyai implikasi terhadap K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0593",
+      "kind": "explanation_body",
+      "text": "1.4.3 Perusahaan telah membentuk P2K3 Sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0594",
+      "kind": "explanation_body",
+      "text": "1.4.4 Ketua P2K3 adalah pimpinan puncak atau pengurus.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0595",
+      "kind": "explanation_body",
+      "text": "1.4.5 Sekretaris P2K3 adalah ahli K3 sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0596",
+      "kind": "explanation_body",
+      "text": "1.4.6 P2K3 menitikberatkan kegiatan pada pengembangan kebijakan dan prosedur mengendalikan risiko.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0597",
+      "kind": "explanation_body",
+      "text": "1.4.7 Susunan pengurus P2K3 didokumentasikan dan diinformasikan kepada tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0598",
+      "kind": "explanation_body",
+      "text": "1.4.8 P2K3 mengadakan pertemuan secara teratur dan hasilnya disebarluaskan di tempat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0599",
+      "kind": "explanation_body",
+      "text": "1.4.9 P2K3 melaporkan kegiatannya secara teratur sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0600",
+      "kind": "explanation_body",
+      "text": "1.4.10 Dibentuk kelompok-kelompok kerja dan dipilih dari wakil-wakil tenaga kerja yang ditunjuk sebagai penanggung jawab K3 di tempat kerjanya dan kepadanya diberikan pelatihan sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0601",
+      "kind": "explanation_body",
+      "text": "1.4.11 Susunan kelompok-kelompok kerja yang telah terbentuk didokumentasikan dan diinformasikan kepada tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0602",
+      "kind": "number",
+      "text": "2. Pembuatan dan Pendokumentasian Rencana K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0603",
+      "kind": "explanation_body",
+      "text": "2.1 Rencana strategi K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0604",
+      "kind": "explanation_body",
+      "text": "2.1.1 Terdapat prosedur terdokumentasi untuk identifikasi potensi bahaya, penilaian, dan pengendalian risiko K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0605",
+      "kind": "explanation_body",
+      "text": "2.1.2 Identifikasi potensi bahaya, penilaian, dan pengendalian risiko K3 sebagai rencana strategi K3 dilakukan oleh petugas yang berkompeten.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0606",
+      "kind": "explanation_body",
+      "text": "2.1.3 Rencana strategi K3 sekurang-kurangya berdasarkan tinjauan awal, identifikasi potensi bahaya, penilaian, pengendalian risiko, dan peraturan perundang-undangan serta informasi K3 lain baik dari dalam maupun luar perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0607",
+      "kind": "explanation_body",
+      "text": "2.1.4 Rencana strategi K3 yang telah ditetapkan digunakan untuk mengendalikan risiko K3 dengan menetapkan tujuan dan sasaran yang dapat diukur dan menjadi prioritas serta menyediakan sumber daya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0608",
+      "kind": "explanation_body",
+      "text": "2.1.5 Rencana kerja dan rencana khusus yang berkaitan dengan produk, proses, proyek atau tempat kerja tertentu telah dibuat dengan menetapkan tujuan dan sasaran yang dapat diukur, menetapkan waktu pencapaian dan menyediakan sumber daya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0609",
+      "kind": "explanation_body",
+      "text": "2.1.6 Rencana K3 diselaraskan dengan rencana sistem manajemen perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0610",
+      "kind": "explanation_body",
+      "text": "2.2 Manual SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0611",
+      "kind": "explanation_body",
+      "text": "2.2.1 Manual SMK3 meliputi kebijakan, tujuan, rencana, prosedur K3, instruksi kerja, formulir, catatan dan tanggung jawab serta wewenang tanggung jawab K3 untuk semua tingkatan dalam perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0612",
+      "kind": "explanation_body",
+      "text": "2.2.2 Terdapat manual khusus yang berkaitan dengan produk, proses, atau tempat kerja tertentu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0613",
+      "kind": "explanation_body",
+      "text": "2.2.3 Manual SMK3 mudah didapat oleh semua personil dalam perusahaan sesuai kebutuhan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0614",
+      "kind": "explanation_body",
+      "text": "2.3 Peraturan perundangan dan persyaratan lain dibidang K3 2.3.1 Terdapat prosedur yang terdokumentasi untuk mengidentifikasi, memperoleh, memelihara dan memahami peraturan perundang-undangan, standar, pedoman teknis, dan persyaratan lain yang relevan dibidang K3 untuk seluruh tenaga kerja di perusahaan. 2.3.2 Penanggung jawab untuk memelihara dan mendistribusikan informasi terbaru mengenai peraturan perundangan, standar, pedoman teknis, dan persyaratan lain telah ditetapkan 2.3.3 Persyaratan pada peraturan perundang-undangan, standar, pedoman teknis, dan persyaratan lain yang relevan di bidang K3 dimasukkan pada prosedur-prosedur dan petunjuk-petunjuk kerja. 2.3.4 Perubahan pada peraturan perundang-undangan, standar, pedoman teknis, dan persyaratan lain yang relevan di bidang K3 digunakan untuk peninjauan prosedur-prosedur dan petunjuk-petunjuk kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0615",
+      "kind": "explanation_body",
+      "text": "2.4 Informasi K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0616",
+      "kind": "explanation_body",
+      "text": "2.4.1 Informasi yang dibutuhkan mengenai kegiatan K3 disebarluaskan secara sistematis kepada seluruh tenaga kerja, tamu, kontraktor, pelanggan, dan pemasok.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0617",
+      "kind": "number",
+      "text": "3. Pengendalian Perancangan dan Peninjauan Kontrak",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0618",
+      "kind": "explanation_body",
+      "text": "3.1 Pengendalian Perancangan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0619",
+      "kind": "explanation_body",
+      "text": "3.1.1 Prosedur yang terdokumentasi mempertimbangkan identifikasi potensi bahaya, penilaian, dan pengendalian risiko yang dilakukan pada tahap perancangan dan modifikasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0620",
+      "kind": "explanation_body",
+      "text": "3.1.2 Prosedur, instruksi kerja dalam penggunaan produk, pengoperasian mesin dan peralatan, instalasi, pesawat atau proses serta informasi lainnya yang berkaitan dengan K3 telah dikembangkan selama perancangan dan/atau modifikasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0621",
+      "kind": "explanation_body",
+      "text": "3.1.3 Petugas yang berkompeten melakukan verifikasi bahwa perancangan dan/atau modifikasi memenuhi persyaratan K3 yang ditetapkan sebelum penggunaan hasil rancangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0622",
+      "kind": "explanation_body",
+      "text": "3.1.4 Semua perubahan dan modifikasi perancangan yang mempunyai implikasi terhadap K3 diidentifikasikan, didokumentasikan, ditinjau ulang dan disetujui oleh petugas yang berwenang sebelum pelaksanaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0623",
+      "kind": "explanation_body",
+      "text": "3.2 Peninjauan Kontrak",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0624",
+      "kind": "explanation_body",
+      "text": "3.2.1 Prosedur yang terdokumentasi harus mampu mengidentifikasi bahaya dan menilai risiko K3 bagi tenaga kerja, lingkungan, dan masyarakat, dimana prosedur tersebut digunakan pada saat memasok barang dan jasa dalam suatu kontrak.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0625",
+      "kind": "explanation_body",
+      "text": "3.2.2 Identifikasi bahaya dan penilaian risiko dilakukan pada tinjauan kontrak oleh petugas yang berkompeten.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0626",
+      "kind": "explanation_body",
+      "text": "3.2.3 Kontrak ditinjau ulang untuk menjamin bahwa pemasok dapat memenuhi persyaratan K3 bagi pelanggan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0627",
+      "kind": "explanation_body",
+      "text": "3.2.4 Catatan tinjauan kontrak dipelihara dan didokumentasikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0628",
+      "kind": "number",
+      "text": "4. Pengendalian Dokumen",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0629",
+      "kind": "explanation_body",
+      "text": "4.1 Persetujuan, Pengeluaran dan Pengendalian Dokumen",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0630",
+      "kind": "explanation_body",
+      "text": "4.1.1 Dokumen K3 mempunyai identifikasi status, wewenang, tanggal pengeluaran dan tanggal modifikasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0631",
+      "kind": "explanation_body",
+      "text": "4.1.2 Penerima distribusi dokumen tercantum dalam dokumen tersebut.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0632",
+      "kind": "explanation_body",
+      "text": "4.1.3 Dokumen K3 edisi terbaru disimpan secara sistematis pada tempat yang ditentukan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0633",
+      "kind": "explanation_body",
+      "text": "4.1.4 Dokumen usang segera disingkirkan dari penggunaannya sedangkan dokumen usang yang disimpan untuk keperluan tertentu diberi tanda khusus.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0634",
+      "kind": "explanation_body",
+      "text": "4.2 Perubahan dan Modifikasi Dokumen",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0635",
+      "kind": "explanation_body",
+      "text": "4.2.1 Terdapat sistem untuk membuat, menyetujui perubahan terhadap dokumen K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0636",
+      "kind": "explanation_body",
+      "text": "4.2.2 Dalam hal terjadi perubahan diberikan alasan terjadinya perubahan dan tertera dalam dokumen atau lampirannya dan menginformasikan kepada pihak terkait. 4.2.3 Terdapat prosedur pengendalian dokumen atau daftar seluruh dokumen yang mencantumkan status dari setiap dokumen tersebut, dalam upaya mencegah penggunaan dokumen yang usang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0637",
+      "kind": "number",
+      "text": "5. Pembelian dan Pengendalian Produk",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0638",
+      "kind": "explanation_body",
+      "text": "5.1 Spesifikasi Pembelian Barang dan Jasa",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0639",
+      "kind": "explanation_body",
+      "text": "5.1.1 Terdapat prosedur yang terdokumentasi yang dapat menjamin bahwa spesifikasi teknik dan informasi lain yang relevan dengan K3 telah diperiksa sebelum keputusan untuk membeli. 5.1.2 Spesifikasi pembelian untuk setiap sarana produksi, zat kimia atau jasa harus dilengkapi spesifikasi yang sesuai dengan persyaratan peraturan perundang-undangan dan standar K3. 5.1.3 Konsultasi dengan tenaga kerja yang kompeten pada saat keputusan pembelian, dilakukan untuk menetapkan persyaratan K3 yang dicantumkan dalam spesifikasi pembelian dan diinformasikan kepada tenaga kerja yang menggunakannya. 5.1.4 Kebutuhan pelatihan, pasokan alat pelindung diri dan perubahan terhadap prosedur kerja harus dipertimbangkan sebelum pembelian dan penggunaannya. 5.1.5 Persyaratan K3 dievaluasi dan menjadi pertimbangan dalam seleksi pembelian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0640",
+      "kind": "explanation_body",
+      "text": "5.2 Sistem Verifikasi Barang dan Jasa Yang Telah Dibeli",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0641",
+      "kind": "explanation_body",
+      "text": "5.2.1 Barang dan jasa yang dibeli diperiksa kesesuaiannya dengan spesifikasi pembelian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0642",
+      "kind": "explanation_body",
+      "text": "5.3 Pengendalian Barang dan Jasa Yang Dipasok Pelanggan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0643",
+      "kind": "explanation_body",
+      "text": "5.3.1 Barang dan jasa yang dipasok pelanggan, sebelum digunakan terlebih dahulu diidentifikasi potensi bahaya dan dinilai risikonya dan catatan tersebut dipelihara untuk memeriksa prosedur.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0644",
+      "kind": "explanation_body",
+      "text": "5.4 Kemampuan Telusur Produk",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0645",
+      "kind": "explanation_body",
+      "text": "5.4.1 Semua produk yang digunakan dalam proses produksi dapat diidentifikasi di seluruh tahapan produksi dan instalasi, jika terdapat potensi masalah K3. 5.4.2 Terdapat prosedur yang terdokumentasi untuk penelusuran produk yang telah terjual, jika terdapat potensi masalah K3 di dalam penggunaannya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0646",
+      "kind": "number",
+      "text": "6. Keamanan Bekerja Berdasarkan SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0647",
+      "kind": "explanation_body",
+      "text": "6.1 Sistem Kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0648",
+      "kind": "explanation_body",
+      "text": "6.1.1 Petugas yang kompeten telah mengidentifikasi bahaya, menilai dan mengendalikan risiko yang timbul dari suatu proses kerja. 6.1.2 Apabila upaya pengendalian risiko diperlukan, maka upaya tersebut ditetapkan melalui tingkat pengendalian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0649",
+      "kind": "explanation_body",
+      "text": "6.1.3 Terdapat prosedur atau petunjuk kerja yang terdokumentasi untuk mengendalikan risiko yang teridentifikasi dan dibuat atas dasar masukan dari personil yang kompeten serta tenaga kerja yang terkait dan disahkan oleh orang yang berwenang di perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0650",
+      "kind": "explanation_body",
+      "text": "6.1.4 Kepatuhan terhadap peraturan perundang-undangan, standar serta pedoman teknis yang relevan diperhatikan pada saat mengembangkan atau melakukan modifikasi atau petunjuk kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0651",
+      "kind": "explanation_body",
+      "text": "6.1.5 Terdapat sistem izin kerja untuk tugas berisiko tinggi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0652",
+      "kind": "explanation_body",
+      "text": "6.1.6 Alat pelindung diri disediakan sesuai kebutuhan dan digunakan secara benar serta selalu dipelihara dalam kondisi layak pakai.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0653",
+      "kind": "explanation_body",
+      "text": "6.1.7 Alat pelindung diri yang digunakan dipastikan telah dinyatakan layak pakai sesuai dengan standar dan/atau peraturan perundang-undangan yang berlaku.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0654",
+      "kind": "explanation_body",
+      "text": "6.1.8 Upaya pengendalian risiko dievaluasi secara berkala apabila terjadi ketidaksesuaian atau perubahan pada proses kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0655",
+      "kind": "explanation_body",
+      "text": "6.2 Pengawasan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0656",
+      "kind": "explanation_body",
+      "text": "6.2.1 Dilakukan pengawasan untuk menjamin bahwa setiap pekerjaan dilaksanakan dengan aman dan mengikuti prosedur dan petunjuk kerja yang telah ditentukan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0657",
+      "kind": "explanation_body",
+      "text": "6.2.2 Setiap orang diawasi sesuai dengan tingkat kemampuan dan tingkat risiko tugas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0658",
+      "kind": "explanation_body",
+      "text": "6.2.3 Pengawas/penyelia ikut serta dalam identifikasi bahaya dan membuat upaya pengendalian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0659",
+      "kind": "explanation_body",
+      "text": "6.2.4 Pengawas/penyelia diikutsertakan dalam melakukan penyelidikan dan pembuatan laporan terhadap terjadinya kecelakaan dan penyakit akibat kerja serta wajib menyerahkan laporan dan saran-saran kepada pengusaha atau pengurus.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0660",
+      "kind": "explanation_body",
+      "text": "6.2.5 Pengawas/penyelia ikut serta dalam proses konsultasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0661",
+      "kind": "explanation_body",
+      "text": "6.3 Seleksi dan Penempatan Personil",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0662",
+      "kind": "explanation_body",
+      "text": "6.3.1 Persyaratan tugas tertentu termasuk persyaratan kesehatan diidentifikasi dan dipakai untuk menyeleksi dan menempatkan tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0663",
+      "kind": "explanation_body",
+      "text": "6.3.2 Penugasan pekerjaan harus berdasarkan kemampuan dan keterampilan serta kewenangan yang dimiliki.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0664",
+      "kind": "explanation_body",
+      "text": "6.4 Area Terbatas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0665",
+      "kind": "explanation_body",
+      "text": "6.4.1 Pengusaha atau pengurus melakukan penilaian risiko lingkungan kerja untuk mengetahui daerah-daerah yang memerlukan pembatasan izin masuk.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0666",
+      "kind": "explanation_body",
+      "text": "6.4.2 Terdapat pengendalian atas daerah/tempat dengan pembatasan izin masuk.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0667",
+      "kind": "explanation_body",
+      "text": "6.4.3 Tersedianya fasilitas dan layanan di tempat kerja sesuai dengan standar dan pedoman teknis.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0668",
+      "kind": "explanation_body",
+      "text": "6.4.4 Rambu-rambu K3 harus dipasang sesuai dengan standar dan pedoman teknis.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0669",
+      "kind": "explanation_body",
+      "text": "6.5 Pemeliharaan, Perbaikan, dan Perubahan Sarana Produksi",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0670",
+      "kind": "explanation_body",
+      "text": "6.5.1 Penjadualan pemeriksaan dan pemeliharaan sarana produksi serta peralatan mencakup verifikasi alat-alat pengaman serta persyaratan yang ditetapkan oleh peraturan perundang-undangan, standar dan pedoman teknis yang relevan. 6.5.2 Semua catatan yang memuat data secara rinci dari kegiatan pemeriksaan, pemeliharaan, perbaikan dan perubahan yang dilakukan atas sarana dan peralatan produksi harus disimpan dan dipelihara. 6.5.3 Sarana dan peralatan produksi memiliki sertifikat yang masih berlaku sesuai dengan persyaratan peraturan perundang-undangan dan standar. 6.5.4 Pemeriksaan, pemeliharaan, perawatan, perbaikan dan setiap perubahan harus dilakukan petugas yang kompeten dan berwenang. 6.5.5 Terdapat prosedur untuk menjamin bahwa Jika terjadi perubahan terhadap sarana dan peralatan produksi, perubahan tersebut harus sesuai dengan persyaratan peraturan perundang-undangan, standar dan pedoman teknis yang relevan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0671",
+      "kind": "explanation_body",
+      "text": "6.5.6 Terdapat prosedur permintaan pemeliharaan sarana dan peralatan produksi dengan kondisi K3 yang tidak memenuhi persyaratan dan perlu segera diperbaiki.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0672",
+      "kind": "explanation_body",
+      "text": "6.5.7 Terdapat sistem untuk penandaan bagi peralatan yang sudah tidak aman lagi untuk digunakan atau sudah tidak digunakan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0673",
+      "kind": "explanation_body",
+      "text": "6.5.8 Apabila diperlukan dilakukan penerapan sistem penguncian pengoperasian (lock out system) untuk mencegah agar sarana produksi tidak dihidupkan sebelum saatnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0674",
+      "kind": "explanation_body",
+      "text": "6.5.9 Terdapat prosedur yang dapat menjamin keselamatan dan kesehatan tenaga kerja atau orang lain yang berada didekat sarana dan peralatan produksi pada saat proses pemeriksaan, pemeliharaan, perbaikan dan perubahan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0675",
+      "kind": "explanation_body",
+      "text": "6.5.10 Terdapat penanggung jawab untuk menyetujui bahwa sarana dan peralatan produksi telah aman digunakan setelah proses pemeliharaan, perawatan, perbaikan atau perubahan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0676",
+      "kind": "explanation_body",
+      "text": "6.6 Pelayanan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0677",
+      "kind": "explanation_body",
+      "text": "6.6.1 Apabila perusahaan dikontrak untuk menyediakan pelayanan yang tunduk pada standar dan peraturan perundang-undangan mengenai K3, maka perlu disusun prosedur untuk menjamin bahwa pelayanan memenuhi persyaratan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0678",
+      "kind": "explanation_body",
+      "text": "6.6.2 Apabila perusahaan diberi pelayanan melalui kontrak, dan pelayanan tunduk pada standar dan peraturan perundang-undangan K3, maka perlu disusun prosedur untuk menjamin bahwa pelayanan memenuhi persyaratan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0679",
+      "kind": "explanation_body",
+      "text": "6.7 Kesiapan Untuk Menangani Keadaan Darurat",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0680",
+      "kind": "explanation_body",
+      "text": "6.7.1 Keadaan darurat yang potensial di dalam dan/atau di luar tempat kerja telah diidentifikasi dan prosedur keadaan darurat telah didokumentasikan dan diinformasikan agar diketahui oleh seluruh orang yang ada di tempat kerja. 6.7.2 Penyediaan alat/sarana dan prosedur keadaan darurat berdasarkan hasil identifikasi dan diuji serta ditinjau secara rutin oleh petugas yang berkompeten dan berwenang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0681",
+      "kind": "explanation_body",
+      "text": "6.7.3 Tenaga kerja mendapat instruksi dan pelatihan mengenai prosedur keadaan darurat yang sesuai dengan tingkat risiko.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0682",
+      "kind": "explanation_body",
+      "text": "6.7.4 Petugas penanganan keadaan darurat ditetapkan dan diberikan pelatihan khusus serta diinformasikan kepada seluruh orang yang ada di tempat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0683",
+      "kind": "explanation_body",
+      "text": "6.7.5 Instruksi/prosedur keadaan darurat dan hubungan keadaan darurat diperlihatkan secara jelas dan menyolok serta diketahui oleh seluruh tenaga kerja di perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0684",
+      "kind": "explanation_body",
+      "text": "6.7.6 Peralatan, dan sistem tanda bahaya keadaan darurat disediakan, diperiksa, diuji dan dipelihara secara berkala sesuai dengan peraturan perundang-undangan, standar dan pedoman teknis yang relevan. 6.7.7 Jenis, jumlah, penempatan dan kemudahan untuk mendapatkan alat keadaan darurat telah sesuai dengan peraturan perundang-undangan atau standar dan dinilai oleh petugas yang berkompeten dan berwenang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0685",
+      "kind": "explanation_body",
+      "text": "6.8 Pertolongan Pertama Pada Kecelakaan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0686",
+      "kind": "explanation_body",
+      "text": "6.8.1 Perusahaan telah mengevaluasi alat P3K dan menjamin bahwa sistem P3K yang ada memenuhi peraturan perundang-undangan, standar dan pedoman teknis. 6.8.2 Petugas P3K telah dilatih dan ditunjuk sesuai dengan peraturan perundangan-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0687",
+      "kind": "explanation_body",
+      "text": "6.9 Rencana dan Pemulihan Keadaan Darurat",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0688",
+      "kind": "explanation_body",
+      "text": "6.9.1 Prosedur untuk pemulihan kondisi tenaga kerja maupun sarana dan peralatan produksi yang mengalami kerusakan telah ditetapkan dan dapat diterapkan sesegera mungkin setelah terjadinya kecelakaan dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0689",
+      "kind": "number",
+      "text": "7. Standar Pemantauan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0690",
+      "kind": "explanation_body",
+      "text": "7.1 Pemeriksaan Bahaya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0691",
+      "kind": "explanation_body",
+      "text": "7.1.1 Pemeriksaan/inspeksi terhadap tempat kerja dan cara kerja dilaksanakan secara teratur.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0692",
+      "kind": "explanation_body",
+      "text": "7.1.2 Pemeriksaan/inspeksi dilaksanakan oleh petugas yang berkompeten dan berwenang yang telah memperoleh pelatihan mengenai identifikasi bahaya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0693",
+      "kind": "explanation_body",
+      "text": "7.1.3 Pemeriksaan/inspeksi mencari masukan dari tenaga kerja yang melakukan tugas di tempat yang diperiksa.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0694",
+      "kind": "explanation_body",
+      "text": "7.1.4 Daftar periksa (check list) tempat kerja telah disusun untuk digunakan pada saat pemeriksaan/inspeksi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0695",
+      "kind": "explanation_body",
+      "text": "7.1.5 Laporan pemeriksaan/inspeksi berisi rekomendasi untuk tindakan perbaikan dan diajukan kepada pengurus dan P2K3 sesuai dengan kebutuhan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0696",
+      "kind": "explanation_body",
+      "text": "7.1.6 Pengusaha atau pengurus telah menetapkan penanggung jawab untuk pelaksanaan tindakan perbaikan dari hasil laporan pemeriksaan/inspeksi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0697",
+      "kind": "explanation_body",
+      "text": "7.1.7 Tindakan perbaikan dari hasil laporan pemeriksaan/inspeksi dipantau untuk menentukan efektifitasnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0698",
+      "kind": "explanation_body",
+      "text": "7.2 Pemantauan/Pengukuran Lingkungan Kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0699",
+      "kind": "explanation_body",
+      "text": "7.2.1 Pemantauan/pengukuran lingkungan kerja dilaksanakan secara teratur dan hasilnya didokumentasikan, dipelihara dan digunakan untuk penilaian dan pengendalian risiko.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0700",
+      "kind": "explanation_body",
+      "text": "7.2.2 Pemantauan/pengukuran lingkungan kerja meliputi faktor fisik, kimia, biologi, ergonomi dan psikologi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0701",
+      "kind": "explanation_body",
+      "text": "7.2.3 Pemantauan/pengukuran lingkungan kerja dilakukan oleh petugas atau pihak yang berkompeten dan berwenang dari dalam dan/atau luar perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0702",
+      "kind": "explanation_body",
+      "text": "7.3 Peralatan Pemeriksaan/Inspeksi, Pengukuran dan Pengujian",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0703",
+      "kind": "explanation_body",
+      "text": "7.3.1 Terdapat prosedur yang terdokumentasi mengenai identifikasi, kalibrasi, pemeliharaan dan penyimpanan untuk alat pemeriksaan, ukur dan uji mengenai K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0704",
+      "kind": "explanation_body",
+      "text": "7.3.2 Alat dipelihara dan dikalibrasi oleh petugas atau pihak yang berkompeten dan berwenang dari dalam dan/atau luar perusahaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0705",
+      "kind": "explanation_body",
+      "text": "7.4 Pemantauan Kesehatan Tenaga Kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0706",
+      "kind": "explanation_body",
+      "text": "7.4.1 Dilakukan pemantauan kesehatan tenaga kerja yang bekerja pada tempat kerja yang mengandung potensi bahaya tinggi sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0707",
+      "kind": "explanation_body",
+      "text": "7.4.2 Pengusaha atau pengurus telah melaksanakan identifikasi keadaan dimana pemeriksaan kesehatan tenaga kerja perlu dilakukan dan telah melaksanakan sistem untuk membantu pemeriksaan ini.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0708",
+      "kind": "explanation_body",
+      "text": "7.4.3 Pemeriksaan kesehatan tenaga kerja dilakukan oleh dokter pemeriksa yang ditunjuk sesuai peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0709",
+      "kind": "explanation_body",
+      "text": "7.4.4 Perusahaan menyediakan pelayanan kesehatan kerja sesuai peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0710",
+      "kind": "explanation_body",
+      "text": "7.4.5 Catatan mengenai pemantauan kesehatan tenaga kerja dibuat sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0711",
+      "kind": "number",
+      "text": "8. Pelaporan dan Perbaikan Kekurangan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0712",
+      "kind": "explanation_body",
+      "text": "8.1 Pelaporan Bahaya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0713",
+      "kind": "explanation_body",
+      "text": "8.1.1 Terdapat prosedur pelaporan bahaya yang berhubungan dengan K3 dan prosedur ini diketahui oleh tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0714",
+      "kind": "explanation_body",
+      "text": "8.2 Pelaporan Kecelakaan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0715",
+      "kind": "explanation_body",
+      "text": "8.2.1 Terdapat prosedur terdokumentasi yang menjamin bahwa semua kecelakaan kerja, penyakit akibat kerja, kebakaran atau peledakan serta kejadian berbahaya lainnya di tempat kerja dicatat dan dilaporkan sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0716",
+      "kind": "explanation_body",
+      "text": "8.3 Pemeriksaan dan pengkajian Kecelakaan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0717",
+      "kind": "explanation_body",
+      "text": "8.3.1 Tempat kerja/perusahaan mempunyai prosedur pemeriksaan dan pengkajian kecelakaan kerja dan penyakit akibat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0718",
+      "kind": "explanation_body",
+      "text": "8.3.2 Pemeriksaan dan pengkajian kecelakaan kerja dilakukan oleh petugas atau Ahli K3 yang ditunjuk sesuai peraturan perundang-undangan atau pihak lain yang berkompeten dan berwenang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0719",
+      "kind": "explanation_body",
+      "text": "8.3.3 Laporan pemeriksaan dan pengkajian berisi tentang sebab dan akibat serta rekomendasi/saran dan jadwal waktu pelaksanaan usaha perbaikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0720",
+      "kind": "explanation_body",
+      "text": "8.3.4 Penanggung jawab untuk melaksanakan tindakan perbaikan atas laporan pemeriksaan dan pengkajian telah ditetapkan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0721",
+      "kind": "explanation_body",
+      "text": "8.3.5 Tindakan perbaikan diinformasikan kepada tenaga kerja yang bekerja di tempat terjadinya kecelakaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0722",
+      "kind": "explanation_body",
+      "text": "8.3.6 Pelaksanaan tindakan perbaikan dipantau, didokumentasikan dan diinformasikan ke seluruh tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0723",
+      "kind": "explanation_body",
+      "text": "8.4 Penanganan Masalah",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0724",
+      "kind": "explanation_body",
+      "text": "8.4.1 Terdapat prosedur untuk menangani masalah keselamatan dan kesehatan yang timbul dan sesuai dengan peraturan perundang-undangan yang berlaku.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0725",
+      "kind": "number",
+      "text": "9. Pengelolaan Material dan Perpindahannya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0726",
+      "kind": "explanation_body",
+      "text": "9.1 Penanganan Secara Manual dan Mekanis",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0727",
+      "kind": "explanation_body",
+      "text": "9.1.1 Terdapat prosedur untuk mengidentifikasi potensi bahaya dan menilai risiko yang berhubungan dengan penanganan secara manual dan mekanis. 9.1.2 Identifikasi bahaya dan penilaian risiko dilaksanakan oleh petugas yang berkompeten dan berwenang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0728",
+      "kind": "explanation_body",
+      "text": "9.1.3 Pengusaha atau pengurus menerapkan dan meninjau cara pengendalian risiko yang berhubungan dengan penanganan secara manual atau mekanis.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0729",
+      "kind": "explanation_body",
+      "text": "9.1.4 Terdapat prosedur untuk penanganan bahan meliputi metode pencegahan terhadap kerusakan, tumpahan dan/atau kebocoran.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0730",
+      "kind": "explanation_body",
+      "text": "9.2 Sistem Pengangkutan, Penyimpanan dan Pembuangan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0731",
+      "kind": "explanation_body",
+      "text": "9.2.1 Terdapat prosedur yang menjamin bahwa bahan disimpan dan dipindahkan dengan cara yang aman sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0732",
+      "kind": "explanation_body",
+      "text": "9.2.2 Terdapat prosedur yang menjelaskan persyaratan pengendalian bahan yang dapat rusak atau kadaluarsa.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0733",
+      "kind": "explanation_body",
+      "text": "9.2.3 Terdapat prosedur yang menjamin bahwa bahan dibuang dengan cara yang aman sesuai dengan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0734",
+      "kind": "explanation_body",
+      "text": "9.3 Pengendalian Bahan Kimia Berbahaya (BKB)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0735",
+      "kind": "explanation_body",
+      "text": "9.3.1 Perusahaan telah mendokumentasikan dan menerapkan prosedur mengenai penyimpanan, penanganan dan pemindahan BKB sesuai dengan persyaratan peraturan perundang-undangan, standar dan pedoman teknis yang relevan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0736",
+      "kind": "explanation_body",
+      "text": "9.3.2 Terdapat Lembar Data Keselamatan BKB (Material Safety Data Sheets) meliputi keterangan mengenai keselamatan bahan sebagaimana diatur pada peraturan perundang-undangan dan dengan mudah dapat diperoleh.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0737",
+      "kind": "explanation_body",
+      "text": "9.3.3 Terdapat sistem untuk mengidentifikasi dan pemberian label secara jelas pada bahan kimia berbahaya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0738",
+      "kind": "explanation_body",
+      "text": "9.3.4 Rambu peringatan bahaya terpasang sesuai dengan persyaratan peraturan perundang-undangan dan/atau standar yang relevan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0739",
+      "kind": "explanation_body",
+      "text": "9.3.5 Penanganan BKB dilakukan oleh petugas yang berkompeten dan berwenang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0740",
+      "kind": "number",
+      "text": "10. Pengumpulan Dan Penggunaan Data",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0741",
+      "kind": "explanation_body",
+      "text": "10.1 Catatan K3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0742",
+      "kind": "explanation_body",
+      "text": "10.1.1 Pengusaha atau pengurus telah mendokumentasikan dan menerapkan prosedur pelaksanaan identifikasi, pengumpulan, pengarsipan, pemeliharaan, penyimpanan dan penggantian catatan K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0743",
+      "kind": "explanation_body",
+      "text": "10.1.2 Peraturan perundang-undangan, standar dan pedoman teknis K3 yang relevan dipelihara pada tempat yang mudah didapat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0744",
+      "kind": "explanation_body",
+      "text": "10.1.3 Terdapat prosedur yang menentukan persyaratan untuk menjaga kerahasiaan catatan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0745",
+      "kind": "explanation_body",
+      "text": "10.1.4 Catatan kompensasi kecelakaan dan rehabilitasi kesehatan tenaga kerja dipelihara.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0746",
+      "kind": "explanation_body",
+      "text": "10.2 Data dan Laporan K3 10.2.1 Data K3 yang terbaru dikumpulkan dan dianalisa. 10.2.2 Laporan rutin kinerja K3 dibuat dan disebarluaskan di dalam tempat kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0747",
+      "kind": "number",
+      "text": "11. Pemeriksaan SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0748",
+      "kind": "explanation_body",
+      "text": "11.1 Audit Internal SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0749",
+      "kind": "explanation_body",
+      "text": "11.1.1 Audit internal SMK3 yang terjadwal dilaksanakan untuk memeriksa kesesuaian kegiatan perencanaan dan untuk menentukan efektifitas kegiatan tersebut. 11.1.2 Audit internal SMK3 dilakukan oleh petugas yang independen, berkompeten dan berwenang. 11.1.3 Laporan audit didistribusikan kepada pengusaha atau pengurus dan petugas lain yang berkepentingan dan dipantau untuk menjamin dilakukannya tindakan perbaikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0750",
+      "kind": "number",
+      "text": "12. Pengembangan Keterampilan dan Kemampuan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0751",
+      "kind": "explanation_body",
+      "text": "12.1 Strategi Pelatihan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0752",
+      "kind": "explanation_body",
+      "text": "12.1.1 Analisis kebutuhan pelatihan K3 sesuai persyaratan peraturan perundang-undangan telah dilakukan. 12.1.2 Rencana pelatihan K3 bagi semua tingkatan telah disusun.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0753",
+      "kind": "explanation_body",
+      "text": "12.1.3 Jenis pelatihan K3 yang dilakukan harus disesuaikan dengan kebutuhan untuk pengendalian potensi bahaya. 12.1.4 Pelatihan dilakukan oleh orang atau badan yang berkompeten dan berwenang sesuai peraturan perundang-undangan. 12.1.5 Terdapat fasilitas dan sumber daya memadai untuk pelaksanaan pelatihan yang efektif. 12.1.6 Pengusaha atau pengurus mendokumentasikan dan menyimpan catatan seluruh pelatihan. 12.1.7 Program pelatihan ditinjau secara teratur untuk menjamin agar tetap relevan dan efektif.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0754",
+      "kind": "explanation_body",
+      "text": "12.2 Pelatihan Bagi Manajemen dan Penyelia",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0755",
+      "kind": "explanation_body",
+      "text": "12.2.1 Anggota manajemen eksekutif dan pengurus berperan serta dalam pelatihan yang mencakup penjelasan tentang kewajiban hukum dan prinsip-prinsip serta pelaksanaan K3. 12.2.2 Manajer dan pengawas/penyelia menerima pelatihan yang sesuai dengan peran dan tanggung jawab mereka.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0756",
+      "kind": "explanation_body",
+      "text": "12.3 Pelatihan Bagi Tenaga Kerja",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0757",
+      "kind": "explanation_body",
+      "text": "12.3.1 Pelatihan diberikan kepada semua tenaga kerja termasuk tenaga kerja baru dan yang dipindahkan agar mereka dapat melaksanakan tugasnya secara aman. 12.3.2 Pelatihan diberikan kepada tenaga kerja apabila di tempat kerjanya terjadi perubahan sarana produksi atau proses.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0758",
+      "kind": "explanation_body",
+      "text": "12.3.3 Pengusaha atau pengurus memberikan pelatihan penyegaran kepada semua tenaga kerja.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0759",
+      "kind": "explanation_body",
+      "text": "12.4 Pelatihan Pengenalan dan Pelatihan Untuk Pengunjung dan Kontraktor",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0760",
+      "kind": "explanation_body",
+      "text": "12.4.1 Terdapat prosedur yang menetapkan persyaratan untuk memberikan taklimat (briefing) kepada pengunjung dan mitra kerja guna menjamin K3.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0761",
+      "kind": "explanation_body",
+      "text": "12.5 Pelatihan Keahlian Khusus",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0762",
+      "kind": "explanation_body",
+      "text": "12.5.1 Perusahaan mempunyai sistem yang menjamin kepatuhan terhadap persyaratan lisensi atau kualifikasi sesuai dengan peraturan perundangan untuk melaksanakan tugas khusus, melaksanakan pekerjaan atau mengoperasikan peralatan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0763",
+      "kind": "explanation_body",
+      "text": "B. PENETAPAN KRITERIA AUDIT TIAP TINGKAT PENCAPAIAN PENERAPAN SMK3 Pelaksanaan penilaian dilakukan berdasarkan tingkatan penerapan SMK3 yang terdiri dari 3 (tiga) tingkatan yaitu:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0764",
+      "kind": "number",
+      "text": "1. Penilaian Tingkat awal Penilaian penerapan SMK3 terhadap 64 (enam puluh empat) kriteria sebagaimana tercantum dalam kolom 3 pada Tabel 1.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0765",
+      "kind": "number",
+      "text": "2. Penilaian Tingkat Transisi Penilaian penerapan SMK3 terhadap 122 (seratus dua puluh dua) kriteria sebagaimana tercantum dalam kolom 3 dan kolom 4 pada Tabel 1.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0766",
+      "kind": "number",
+      "text": "3. Penilaian Tingkat Lanjutan Penilaian penerapan SMK3 terhadap 166 (seratus enam puluh enam) kriteria sebagaimana tercantum dalam kolom 3, kolom 4, dan kolom 5 pada Tabel 1.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0767",
+      "kind": "explanation_body",
+      "text": "Kriteria yang digunakan dalam penilaian berdasarkan Tabel 1 berikut:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0768",
+      "kind": "explanation_body",
+      "text": "Tabel 1 Kriteria pada Tingkat Penerapan SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0769",
+      "kind": "explanation_body",
+      "text": "NO ELEMEN TINGKAT TINGKAT TINGKAT",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0770",
+      "kind": "explanation_body",
+      "text": "AWAL TRANSISI LANJUTAN (Seluruh (Seluruh tingkat awal tingkat awal, dan transisi) transisi dan lanjutan) 1 2 3 4 5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0771",
+      "kind": "explanation_body",
+      "text": "1 Pembangunan dan 1.1.1, 1.1.2, 1.2.1, 1.1.4, 1.1.5, pemeliharaan 1.1.3, 1.2.3, 1.3.1, 1.2.7, 1.3.2, komitmen 1.2.2, 1.4.2 1.4.10, 1.4.11 1.2.4, 1.2.5, 1.2.6, 1.3.3, 1.4.1, 1.4.3, 1.4.4, 1.4.5, 1.4.6, 1.4.7, 1.4.8, 1.4.9",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0772",
+      "kind": "explanation_body",
+      "text": "2 Strategi 2.1.1, 2.1.2, 2.1.3, 2.1.5, 2.1.6, pendokumentasian 2.4.1 2.1.4, 2.2.1, 2.2.2, 2.2.3, 2.3.1, 2.3.2, 2.3.3 2.3.4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0773",
+      "kind": "explanation_body",
+      "text": "3 Peninjauan ulang 3.1.1, 3.1.2, 3.1.3, 3.2.3, 3.2.4 desain dan kontrak 3.2.2 3.1.4, 3.2.1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0774",
+      "kind": "explanation_body",
+      "text": "4 Pengendalian 4.1.1 4.1.2, 4.2.1 4.1.3, 4.1.4, dokumen 4.2.2, 4.2.3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0775",
+      "kind": "explanation_body",
+      "text": "5 Pembelian 5.1.1, 5.1.3 5.1.4, 5.1.5, 5.1.2, 5.3.1, 5.4.1, 5..2.1 5.4.2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0776",
+      "kind": "explanation_body",
+      "text": "6 Keamanan bekerja 6.1.1, 6.1.2, 6.1.3, 6.1.8, 6.6.1, berdasarkan SMK3 6.1.5, 6.1.4, 6.2.2, 6.6.2, 6.9.1 6.1.6, 6.2.3, 6.2.4, 6.1.7, 6.2.5, 6.5.1, 6.2.1, 6.5.5, 6.5.6, 6.3.1, 6.5.10, 6.3.2, 6.7.1, 6.7.2, 6.4.1, 6.7.3, 6.7.5, 6.4.2, 6.7.7 6.4.3, 6.4.4, 6.5.2, 6.5.3, 6.5.4, 6.5.7, 6.5.8, 6.5.9, 6.7.4, 6.7.6, 6.8.1, 6.8.2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0777",
+      "kind": "explanation_body",
+      "text": "7 Standar 7.1.1, 7.1.2, 7.1.3, 7.3.1, 7.3.2 pemantauan 7.2.1, 7.1.4, 7.1.5, 7.2.2, 7.1.6, 7.1.7, 7.2.3, 7.4.2 7.4.1, 7.4.3, 7.4.4, 7.4.5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0778",
+      "kind": "explanation_body",
+      "text": "8 Pelaporan dan 8.3.1 8.1.1, 8.2.1, 8.3.3, 8.3.4, perbaikan 8.3.2 8.3.5, 8.3.6, 8.4.1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0779",
+      "kind": "explanation_body",
+      "text": "9 Pengelolaan material 9.1.1, 9.1.3, 9.1.4, 9.2.2, 9.3.2 dan perpindahannya 9.1.2, 9.3.5 9.2.1, 9.2.3, 9.3.1, 9.3.3, 9.3.4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0780",
+      "kind": "explanation_body",
+      "text": "10 Pengumpulan dan 10.1.1, 10.1.3, 10.1.4 penggunaan jasa 10.1.2, 10.2.1, 10.2.2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0781",
+      "kind": "explanation_body",
+      "text": "11 Audit SMK3 11.1.1, 11.1.2, 11.1.3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0782",
+      "kind": "explanation_body",
+      "text": "12 Pengembangan 12.2.1, 12.1.2, 12.1.1, keterampilan dan 12.2.2, 12.1.4, 12.1.3, kemampuan 12.3.1, 12.1.5, 12.1.7, 12.3.3 12.5.1 12.1.6, 12.3.2, 12.4.1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0783",
+      "kind": "explanation_body",
+      "text": "C. KETENTUAN PENILAIAN HASIL AUDIT SMK3 Penilaian hasil Audit SMK3 terdiri dari 3 kategori yaitu:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0784",
+      "kind": "number",
+      "text": "1. Kategori Tingkat awal Perusahaan yang memenuhi 64 (enam puluh empat) kriteria, kriteria tersebut sebagaimana tercantum dalam kolom 3 pada Tabel 1.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0785",
+      "kind": "number",
+      "text": "2. Kategori Tingkat Transisi Perusahaan yang memenuhi 122 (seratus dua puluh dua) kriteria, kriteria tersebut sebagaimana tercantum dalam kolom 3 dan kolom 4 pada Tabel 1.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0786",
+      "kind": "number",
+      "text": "3. Kategori Tingkat Lanjutan Perusahaan yang memenuhi 166 (seratus enam puluh enam) kriteria, kriteria tersebut sebagaimana tercantum dalam kolom 3, kolom 4, dan kolom 5 pada Tabel 1.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0787",
+      "kind": "explanation_body",
+      "text": "Tingkat penilaian penerapan SMK3 ditetapkan sebagai berikut:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0788",
+      "kind": "number",
+      "text": "1. Untuk tingkat pencapaian penerapan 0-59% termasuk tingkat penilaian penerapan kurang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0789",
+      "kind": "number",
+      "text": "2. Untuk tingkat pencapaian penerapan 60-84% termasuk tingkat penilaian penerapan baik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0790",
+      "kind": "number",
+      "text": "3. Untuk tingkat pencapaian penerapan 85-100% termasuk tingkat penilaian penerapan memuaskan. Tingkat penilaian penerapan SMK3 dapat dilihat pada Tabel 2:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0791",
+      "kind": "explanation_body",
+      "text": "Tabel 2 Penilaian Tingkat Penerapan SMK3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0792",
+      "kind": "explanation_body",
+      "text": "Kategori Tingkat Pencapaian Penerapan Perusahaan 0-59% 60-84% 85-100% Kategori Tingkat Tingkat Tingkat Penilaian tingkat Penilaian Penilaian Penerapan awal (64 Penerapan Penerapan Baik Memuaskan kriteria) Kurang Kategori Tingkat Tingkat Tingkat Penilaian tingkat Penilaian Penilaian Penerapan transisi Penerapan Penerapan Baik Memuaskan (122 Kurang kriteria) Kategori Tingkat Tingkat Tingkat Penilaian tingkat Penilaian Penilaian Penerapan lanjutan Penerapan Penerapan Baik Memuaskan (166 Kurang kriteria)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0793",
+      "kind": "explanation_body",
+      "text": "Selain penilaian terhadap tingkat pencapaian penerapan SMK3, juga dilakukan penilaian terhadap perusahaan berdasarkan kriteria yang menurut sifatnya dibagi atas 3 (tiga) kategori, yaitu:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0794",
+      "kind": "number",
+      "text": "1. Kategori Kritikal",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0795",
+      "kind": "explanation_body",
+      "text": "Temuan yang mengakibatkan fatality/kematian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0796",
+      "kind": "number",
+      "text": "2. Kategori Mayor",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0797",
+      "kind": "explanation_body",
+      "text": "a) Tidak memenuhi ketentuan peraturan perundang-undangan; b) Tidak melaksanakan salah satu prinsip SMK3; dan c) Terdapat temuan minor untuk satu kriteria audit di beberapa lokasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0798",
+      "kind": "number",
+      "text": "3. Kategori Minor",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0799",
+      "kind": "explanation_body",
+      "text": "Ketidakkonsistenan dalam pemenuhan persyaratan peraturan perundang-undangan, standar, pedoman, dan acuan lainnya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0800",
+      "kind": "explanation_body",
+      "text": "Dalam hal penilaian perusahaan termasuk kategori kritikal atau mayor, maka dinilai belum berhasil menerapkan SMK3 dan penilaian tingkat penerapan SMK3 tidak mengacu pada Tabel 2.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0801",
+      "kind": "explanation_body",
+      "text": "PRESIDEN,",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0802",
+      "kind": "explanation_body",
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0803",
+      "kind": "explanation_body",
+      "text": "Salinan sesuai dengan aslinya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0804",
+      "kind": "explanation_body",
+      "text": "KEMENTERIAN SEKRETARIAT NEGARA RI Asisten Deputi Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat,",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0805",
+      "kind": "explanation_body",
+      "text": "Wisnu Setiawan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0806",
+      "kind": "explanation_body",
+      "text": "Wisnu Setiawan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0807",
+      "kind": "attachment",
+      "text": "LAMPIRAN III",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0808",
+      "kind": "explanation_body",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0809",
+      "kind": "explanation_body",
+      "text": "NOMOR 50 TAHUN 2012",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0810",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0811",
+      "kind": "explanation_body",
+      "text": "PENERAPAN SISTEM MANAJEMEN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0812",
+      "kind": "explanation_body",
+      "text": "KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0813",
+      "kind": "explanation_body",
+      "text": "LAPORAN AUDIT",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0814",
+      "kind": "explanation_body",
+      "text": "SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0815",
+      "kind": "explanation_body",
+      "text": "NAMA PERUSAHAAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0816",
+      "kind": "explanation_body",
+      "text": "UNIT KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0817",
+      "kind": "explanation_body",
+      "text": "<NAMA TEMPAT KERJA YANG DIAUDIT>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0818",
+      "kind": "explanation_body",
+      "text": "<LOKASI>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0819",
+      "kind": "explanation_body",
+      "text": "TINGKAT AUDIT: <AWAL/TRANSISI/LANJUTAN> Nomor: <No. Laporan>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0820",
+      "kind": "explanation_body",
+      "text": "<NAMA PENYELENGGARA AUDIT INDEPENDEN>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0821",
+      "kind": "explanation_body",
+      "text": "DISTRIBUSI LAPORAN:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0822",
+      "kind": "number",
+      "text": "1. <NAMA TEMPAT KERJA YANG DIAUDIT>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0823",
+      "kind": "number",
+      "text": "2. <KEMENTERIAN YANG MEMBIDANGI KETENAGAKERJAAN>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0824",
+      "kind": "number",
+      "text": "3. <NAMA PENYELENGGARA AUDIT INDEPENDEN>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0825",
+      "kind": "number",
+      "text": "4. <DINAS YANG MEMBIDANGI KETENAGAKERJAAN>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0826",
+      "kind": "explanation_body",
+      "text": "LAPORAN AUDIT No. <No. <No. SISTEM Halaman laporan> Halaman> dari Laporan MANAJEMEN <Total KESELAMATAN Halaman>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0827",
+      "kind": "explanation_body",
+      "text": "DAN KESEHATAN Tgl. <Tanggal KERJA Audit ke/ <No. Laporan> Distribusi> Laporan Distribusi <NAMA TEMPAT Dari 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0828",
+      "kind": "explanation_body",
+      "text": "No. <No. RINGKASAN Auditor Ketua Tim Pekerjaan> Auditor Pekerjaan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0829",
+      "kind": "number",
+      "text": "1. PERUSAHAAN YANG DIAUDIT Nama perusahaan: Jenis usaha:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0830",
+      "kind": "number",
+      "text": "2. LINGKUP AUDIT Ruang lingkup pelaksanaan audit eksternal SMK3 di <nama tempat kerja> meliputi:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0831",
+      "kind": "letter",
+      "text": "a. <unit kerja unit proses/bagian tempat kerja> <lokasi>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0832",
+      "kind": "letter",
+      "text": "b. dan seterusnya",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0833",
+      "kind": "number",
+      "text": "3. PELAKSANAAN AUDIT Tanggal: <dari s.d. pelaksanaan audit> Tempat: <alamat>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0834",
+      "kind": "number",
+      "text": "4. TUJUAN AUDIT Untuk membuktikan tingkat pencapaian penerapan dan pengembangan dan kinerja K3 pada <nama tempat kerja> sesuai dengan SMK3 dan ketentuan-ketentuan hukum yang berlaku di Indonesia.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0835",
+      "kind": "number",
+      "text": "5. TIM AUDITOR Tim auditor (NAMA PENYELENGGARA AUDIT INDEPENDEN) terdiri dari:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0836",
+      "kind": "number",
+      "text": "1. <NAMA>, Auditor senior",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0837",
+      "kind": "number",
+      "text": "2. <NAMA>, Auditor junior",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0838",
+      "kind": "explanation_body",
+      "text": "LAPORAN AUDIT Halaman No. <No. <No.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0839",
+      "kind": "explanation_body",
+      "text": "SISTEM laporan> Halaman> Laporan MANAJEMEN dari <Total KESELAMATAN Halaman>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0840",
+      "kind": "explanation_body",
+      "text": "DAN Tgl. <Tanggal KESEHATAN Distribusi <No. Laporan> KERJA Distribusi> Laporan Dari 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0841",
+      "kind": "explanation_body",
+      "text": "<NAMA TEMPAT",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0842",
+      "kind": "explanation_body",
+      "text": "KERJA> No. <No. RINGKASAN Auditor Ketua Tim Pekerjaan> Auditor Pekerjaan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0843",
+      "kind": "number",
+      "text": "6. GAMBARAN UMUM TEMPAT KERJA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0844",
+      "kind": "letter",
+      "text": "a. <Proses produksi>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0845",
+      "kind": "letter",
+      "text": "b. <Penerapan K3>",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0846",
+      "kind": "number",
+      "text": "7. JADWAL AUDIT",
+      "part": "explanation"
+    }
+  ]
+}

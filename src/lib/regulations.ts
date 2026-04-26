@@ -9,6 +9,10 @@ import pp22 from "../data/regulations/pp-nomor-22-tahun-2021.json";
 import permenperin54 from "../data/regulations/permenperin-nomor-54-tahun-2024.json";
 import permenEsdm11 from "../data/regulations/permen-esdm-nomor-11-tahun-2021.json";
 import permenEsdm10 from "../data/regulations/permen-esdm-nomor-10-tahun-2021.json";
+import perpres79 from "../data/regulations/perpres-nomor-79-tahun-2023.json";
+import perpres55 from "../data/regulations/perpres-nomor-55-tahun-2019.json";
+import pp50 from "../data/regulations/pp-nomor-50-tahun-2012.json";
+import permenLhk6 from "../data/regulations/permen-lhk-nomor-6-tahun-2021.json";
 
 export type LegalParagraph = {
   id: string;
@@ -61,7 +65,11 @@ export const regulations = [
   pp22 as RegulationPayload,
   permenperin54 as RegulationPayload,
   permenEsdm11 as RegulationPayload,
-  permenEsdm10 as RegulationPayload
+  permenEsdm10 as RegulationPayload,
+  perpres79 as RegulationPayload,
+  perpres55 as RegulationPayload,
+  pp50 as RegulationPayload,
+  permenLhk6 as RegulationPayload
 ];
 export const conversionReports = [uu20 as RegulationPayload];
 
