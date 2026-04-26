@@ -38,13 +38,14 @@ PAGE_NUMBER_RE = re.compile(r"^\s*[-_–—]?\s*\d+\s*[-_–—]?\s*$")
 OCR_PAGE_NUMBER_RE = re.compile(r"^\s*[-_–—]\s*[0-9tloIr!]+\s*[-_–—]\s*$", re.IGNORECASE)
 ELLIPSIS_POINTER_RE = re.compile(r"(?:\.\s*){2,}$")
 LAW_NUMBER_RE = re.compile(r"\bNOMOR\s+([A-Z0-9./-]+)\s+TAHUN\s+(\d{4})\b", re.IGNORECASE)
+FILENAME_NUMBER_RE = re.compile(r"\b(?:NOMOR|NO\.?)\s+([A-Z0-9./-]+)\s+TAHUN\s+(\d{4})\b", re.IGNORECASE)
 SK_NUMBER_RE = re.compile(r"^SK\s*No\.?\s*[0-9Il|l'MABTt\s]+\s*[ABM]?$", re.IGNORECASE)
 PAGE_HEADER_RE = re.compile(
     r"^(?:PRES\s*[I!|1]?\s*D(?:E|3)?N|PRESIDEN|FRESIDEN|PRESTDEN|PRESIDE\]N|BLIK\s+INDONESIA|INDONESIA|TIEPUBLIK\s+INDONESIA|R\.?E?P[UO]BLIK\s+INDONESI[\\\/A!]*|REFUBLIK\s+INDONESIA|REPUBUK\s+INDONESIA)$",
     re.IGNORECASE,
 )
 ARTICLE_HEADING_RE = re.compile(r"^Pasal[\s,.;:]*([0-9OoIiLl|T\s]+[A-Z]?|[IVXLCDM]+)\s*[,.;:]?$", re.IGNORECASE)
-OCR_YEAR_RE = re.compile(r"\b([12][0-9OoIiLl|TtGg]{3})\b")
+OCR_YEAR_RE = re.compile(r"\b([12Zz][0-9OoIiLl|TtGgZz]{3})\b")
 
 
 @dataclass
@@ -188,8 +189,11 @@ def normalize_article_heading(text: str) -> str:
         .replace("l", "1")
         .replace("|", "1")
         .replace("T", "7")
-    )
+    ).upper()
     if re.fullmatch(r"\d+[A-Z]?", normalized):
+        number_match = re.match(r"\d+", normalized)
+        if number_match and int(number_match.group(0)) == 0:
+            return text
         return f"Pasal {normalized}"
     return text
 
@@ -210,6 +214,8 @@ def normalize_ocr_years(text: str) -> str:
                 "t": "1",
                 "G": "9",
                 "g": "9",
+                "Z": "2",
+                "z": "2",
             })
         )
         return normalized if normalized.isdigit() else token
@@ -229,7 +235,32 @@ def vehicle_token_replacement(match: re.Match[str]) -> str:
 
 
 def is_article_heading(text: str) -> bool:
-    return normalize_article_heading(text) != text or bool(ARTICLE_HEADING_RE.match(text.strip()))
+    normalized = normalize_article_heading(text)
+    if normalized != text:
+        return True
+    match = ARTICLE_HEADING_RE.match(text.strip())
+    if not match:
+        return False
+    token = re.sub(r"\s+", "", match.group(1).strip())
+    if not token:
+        return False
+    upper_token = token.upper()
+    if re.fullmatch(r"[IVXLCDM]+", upper_token) and not re.search(r"\d", token):
+        return True
+    numeric_token = (
+        token.replace("O", "0")
+        .replace("o", "0")
+        .replace("I", "1")
+        .replace("i", "1")
+        .replace("L", "1")
+        .replace("l", "1")
+        .replace("|", "1")
+        .replace("T", "7")
+    ).upper()
+    if not re.fullmatch(r"\d+[A-Z]?", numeric_token):
+        return False
+    number_match = re.match(r"\d+", numeric_token)
+    return bool(number_match and int(number_match.group(0)) > 0)
 
 
 def split_structural_line(line: str) -> list[str]:
@@ -275,9 +306,11 @@ def is_noise_line(line: str) -> bool:
         return True
     if OCR_PAGE_NUMBER_RE.match(stripped):
         return True
+    if re.fullmatch(r"Pasal\s+[A-Za-z0-9|IlLoOtT]{1,4}(?:\s+[A-Za-z]{1,3})?", stripped, re.IGNORECASE):
+        return not is_article_heading(stripped)
     article_candidate = normalize_legal_text(stripped)
     if re.match(r"^Pasal\s+[0-9A-Z]+\s*(?:\.|\u2026|\s)*$", article_candidate, re.IGNORECASE):
-        return False
+        return not is_article_heading(article_candidate)
     if ELLIPSIS_POINTER_RE.search(stripped):
         return True
     return False
@@ -952,7 +985,8 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
     number = ""
     year = ""
     header_joined = "\n".join(texts[:20])
-    match = LAW_NUMBER_RE.search(header_joined) or LAW_NUMBER_RE.search(joined)
+    filename_joined = normalize_legal_text(pdf_path.stem.upper())
+    match = LAW_NUMBER_RE.search(header_joined) or FILENAME_NUMBER_RE.search(filename_joined) or LAW_NUMBER_RE.search(joined)
     if match:
         number = match.group(1)
         year = match.group(2)
@@ -1089,6 +1123,8 @@ def is_short_ocr_noise(paragraph: Paragraph) -> bool:
     if re.fullmatch(r"sil\s+Djaman", text, flags=re.IGNORECASE):
         return True
     if text == 'EN ax "Be':
+        return True
+    if re.fullmatch(r"Pasal\s+[A-Za-z0-9|IlLoOtT]{1,4}(?:\s+[A-Za-z]{1,3})?", text, re.IGNORECASE) and not is_article_heading(text):
         return True
     if text in {"dan", "atau", "Umum"}:
         return False

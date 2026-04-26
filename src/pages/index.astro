@@ -21,18 +21,27 @@ const typeSearchAliases: Record<string, string> = {
   PERMENPERIN: "Peraturan Menteri Perindustrian",
   PERMEN: "Peraturan Menteri"
 };
-const searchRows = regulations.flatMap((item) =>
-  item.paragraphs.map((paragraph) => ({
+const searchRows = regulations.flatMap((item) => {
+  const title = displayTitle(item);
+  const documentTypeAlias = typeSearchAliases[item.metadata.document_type] ?? item.metadata.document_type;
+  const expandedTitle = title.startsWith(item.metadata.document_type)
+    ? `${documentTypeAlias}${title.slice(item.metadata.document_type.length)}`
+    : title;
+  return item.paragraphs.map((paragraph) => ({
     slug: item.metadata.slug,
-    title: displayTitle(item),
-    searchTitle: `${displayTitle(item)} ${typeSearchAliases[item.metadata.document_type] ?? ""}`,
+    title,
+    searchTitle: `${title} ${expandedTitle} ${documentTypeAlias}`,
+    documentType: item.metadata.document_type,
+    documentTypeAlias,
+    number: item.metadata.number,
+    year: item.metadata.year,
     id: paragraph.id,
     kind: paragraph.kind,
     label: kindLabel(paragraph.kind),
     part: paragraph.part,
     text: paragraph.text
-  }))
-);
+  }));
+});
 const totalWords = regulations.reduce((sum, item) => sum + searchText(item).split(/\s+/).filter(Boolean).length, 0);
 const totalBodyArticles = regulations.reduce((sum, item) => sum + item.quality.body_article_count, 0);
 const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.paragraph_count, 0);
@@ -165,7 +174,20 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
     <script id="search-data" type="application/json" is:inline set:html={JSON.stringify(searchRows)}></script>
     <script>
       const dataElement = document.getElementById("search-data");
-      type SearchRow = { slug: string; title: string; searchTitle: string; id: string; kind: string; label: string; part: string; text: string };
+      type SearchRow = {
+        slug: string;
+        title: string;
+        searchTitle: string;
+        documentType: string;
+        documentTypeAlias: string;
+        number: string;
+        year: string;
+        id: string;
+        kind: string;
+        label: string;
+        part: string;
+        text: string;
+      };
       const rows = JSON.parse(dataElement?.textContent || "[]") as SearchRow[];
       const input = document.getElementById("site-search") as HTMLInputElement | null;
       const form = document.getElementById("site-search-form") as HTMLFormElement | null;
@@ -174,6 +196,17 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
 
       function normalizeSearchValue(value: string) {
         return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
+      }
+
+      function documentIdentifiers(item: SearchRow) {
+        return [
+          `${item.documentType} nomor ${item.number} tahun ${item.year}`,
+          `${item.documentTypeAlias} nomor ${item.number} tahun ${item.year}`,
+          `${item.documentType} ${item.number} ${item.year}`,
+          `${item.documentTypeAlias} ${item.number} ${item.year}`
+        ]
+          .map(normalizeSearchValue)
+          .filter(Boolean);
       }
 
       function renderRows(items: SearchRow[], message: string) {
@@ -211,15 +244,24 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
           .map((item, index) => {
             const title = normalizeSearchValue(item.searchTitle || item.title);
             const text = normalizeSearchValue(item.text);
+            const docIds = documentIdentifiers(item);
+            const docIdInQuery = docIds.some((docId) => query.includes(docId));
+            const docIdTerms = new Set(docIds.flatMap((docId) => docId.split(" ")));
+            const contentTerms = docIdInQuery
+              ? queryTerms.filter((term) => !docIdTerms.has(term) && term !== "nomor" && term !== "tahun")
+              : queryTerms;
             const inTitle = title.includes(query);
             const inText = text.includes(query);
             const allTermsInTitle = queryTerms.every((term) => title.includes(term));
             const allTermsInText = queryTerms.every((term) => text.includes(term));
+            const docScopedText = docIdInQuery && contentTerms.every((term) => title.includes(term) || text.includes(term));
             const titleRow = item.kind === "title";
-            if (!inText && !(titleRow && (inTitle || allTermsInTitle)) && !allTermsInText) return null;
+            if (!inText && !(titleRow && (inTitle || allTermsInTitle || docIdInQuery)) && !allTermsInText && !docScopedText) return null;
             const score =
+              (docIdInQuery && titleRow ? 1500 : 0) +
               (inTitle && titleRow ? 1000 : 0) +
               (allTermsInTitle && titleRow ? 750 : 0) +
+              (docScopedText ? 400 : 0) +
               (allTermsInText ? 200 : 0) +
               (text.startsWith(query) ? 100 : 0) +
               (titleRow ? 50 : 0) +

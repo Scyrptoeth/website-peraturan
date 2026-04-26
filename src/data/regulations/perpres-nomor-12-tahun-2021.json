@@ -1,0 +1,4161 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/Perpres Nomor 12 Tahun 2021.pdf",
+    "source_sha256": "9adc85dc252497dbc010542432b2dbfa094b08e08c90952eec25fac8413ec052",
+    "document_type": "PERPRES",
+    "number": "12",
+    "year": "2021",
+    "title": "PERUBAHAN ATAS PERATURAN PRESIDEN NOMOR 16 TAHUN 2018 TENTANG PENGADAAN BARANG/JASA PEMERINTAH",
+    "slug": "perpres-nomor-12-tahun-2021",
+    "extraction_method": "tesseract_ocr",
+    "pdf_info": {
+      "pages": "47",
+      "title": "",
+      "tagged": "no",
+      "encrypted": "no",
+      "pdf_version": "1.3"
+    },
+    "generated_at": "2026-04-26T06:48:18.639267+00:00"
+  },
+  "quality": {
+    "paragraph_count": 687,
+    "body_article_count": 40,
+    "explanation_article_count": 0,
+    "body_article_sequence_gap_count": 0,
+    "explanation_article_sequence_gap_count": 0,
+    "chapter_count": 0,
+    "part_count": 1,
+    "letter_count": 236,
+    "number_count": 105,
+    "has_explanation": false,
+    "has_state_gazette": false,
+    "has_supplement": false,
+    "skipped_attachment_paragraph_count": 0,
+    "skipped_noise_paragraph_count": 41,
+    "quality_flags": []
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "title",
+      "text": "% SALINAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "PERATURAN PRESIDEN",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "NOMOR 12 TAHUN 2021",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "body",
+      "text": "PERUBAHAN ATAS PERATURAN PRESIDEN NOMOR 16 TAHUN 2018",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "TENTANG PENGADAAN BARANG/JASA PEMERINTAH",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "title",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "opening",
+      "text": "Menimbang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "body",
+      "text": "bahwa untuk penyesuaian pengaturan penggunaan produk/jasa Usaha Mikro dan Usaha Kecil serta Koperasi, dan pengaturan pengadaan jasa konstruksi yang pembiayaannya bersumber dari APBN/APBD dalam Pengadaan Barang/Jasa Pemerintah untuk kemudahan berusaha berdasarkan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja dan penyesuaian ketentuan Sumber Daya Manusia Pengadaan Barang/Jasa, perlu menetapkan Peraturan Presiden tentang Perubahan atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah,",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "number",
+      "text": "1. Pasal 4 ayat (1) Undang-Undang Dasar Negara Tahun 1945,",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "number",
+      "text": "2. Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Tahun 2004 Nomor 5, Tambahan Lembaran Negara Nomor 4355),",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "number",
+      "text": "3. Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan (Lembaran Negara Tahun 2014 Nomor 292, Tambahan Lembaran Negara Nomor 5601);",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "number",
+      "text": "4. Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Tahun 2020 Nomor 245, Tambahan Lembaran Negara Nomor 6573),",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "number",
+      "text": "5. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah (Lembaran Negara Repubiik Indonesia Tahun 2018 Nomor 33),",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "body",
+      "text": "PERATURAN PRESIDEN TENTANG PERUBAHAN ATAS",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "body",
+      "text": "PERATURAN PRESIDEN NOMOR 16 TAHUN 2018 TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "body",
+      "text": "PENGADAAN BARANG/JASA PEMERINTAH.",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "article",
+      "text": "Pasal I",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "body",
+      "text": "Beberapa ketentuan dalam Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah (Lembaran Negara Tahun 2018 Nomor 33) diubah sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "number",
+      "text": "1. Di antara angka 10 dan angka 11 Pasal 1 disisipkan 1 (satu) angka, yakni angka 10a, ketentuan angka 14, angka 15, dan angka 47 Pasal 1 dihapus, ketentuan angka 18 Pasal 1 diubah, di antara angka 18 dan angka 19 Pasal 1 disisipkan 2 (dua) angka, yakni angka 18a dan angka 18b, di antara angka 29 dan angka 30 Pasal 1 disisipkan 1 (satu) angka, yakni angka 29a, ketentuan angka 12, angka 27, angka 32, angka 33, angka 35, dan angka 50 Pasal 1 diubah, serta ditambahkan 1 (satu) angka yakni angka 54, sehingga Pasal 1 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "body",
+      "text": "Dalam Peraturan Presiden ini, yang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "number",
+      "text": "1. Pengadaan Barang/Jasa Pemerintah yang selanjutnya disebut Pengadaan Barang/Jasa adalah kegiatan Pengadaan Barang/Jasa oleh Kementerian/Lembaga/Perangkat Daerah yang dibiayai. oleh APBN/APBD yang prosesnya sejak identifikasi kebutuhan, sampai dengan serah terima hasil pekerjaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "number",
+      "text": "2. Kementerian Negara yang selanjutnya disebut Kementerian adalah perangkat pemerintah yang membidangi urusan tertentu dalam pemerintahan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "body",
+      "text": "Ras ¥ aA",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "number",
+      "text": "3. Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanakan tugas tertentu berdasarkan",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "body",
+      "text": "Undang-Undang Dasar Negara",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "body",
+      "text": "Tahun 1945 atau peraturan perundang-undangan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "number",
+      "text": "4. Perangkat Daerah adalah unsur pembantu kepala daerah dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "number",
+      "text": "5. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "number",
+      "text": "6. Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah yang selanjutnya disingkat LKPP adalah lembaga pemerintah yang bertugas mengembangkan dan merumuskan kebijakan Pengadaan Barang/Jasa Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "number",
+      "text": "7. Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran Kementerian Negara/Lembaga/ Perangkat Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "number",
+      "text": "8. Kuasa Pengguna Anggaran pada Peraksanaan APBN yang selanjutnya disingkat KPA adalah pejabat yang memperoleh kuasa dari PA untuk melaksanakan sebagian kewenangan dan tanggung jawab penggunaan anggaran pada Kementerian Negara/Lembaga yang bersangkutan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "number",
+      "text": "9. Kuasa Pengguna Anggaran pada Pelaksanaan APBD yang selanjutnya disingkat KPA adalah pejabat yang diberi kuasa untuk melaksanakan sebagian",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "body",
+      "text": "kewenangan pengguna anggaran dalam melaksanakan sebagian tugas dan fungsi Perangkat Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "number",
+      "text": "10. Pejabat Pembuat Komitmen yang selanjutnya disingkat PPK adalah pejabat vang diberi kewenangan oleh PA/KPA untuk mengambil keputusan dan/atau melakukan tindakan yang dapat mengakibatkan pengeluaran anggaran belanja negara/anggaran belanja daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "body",
+      "text": "Pes = %",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "body",
+      "text": "10a. Pejabat Pelaksana Teknis Kegiatan yang selanjutnya disebut PPTK adalah pejabat pada Unit Satuan Kerja Perangkat Daerah (SKPD) yang melaksanakan 1 (satu) atau beberapa kegiatan dari suatu program sesuai dengan bidang tugasnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "number",
+      "text": "11. Unit Kerja Pengadaan Barang/Jasa yang selanjutnya disingkat UKPBJ adalah unit kerja di Kementerian/Lembaga/Pemerintah Daerah yang menjadi pusat keunggulan Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "number",
+      "text": "12. Kelompok Kerja Pemilihan yang selanjutnya disebut Pokja Pemilihan adalah sumber daya manusia yang ditetapkan oleh kepala UKPBJ untuk mengelola pemilihan Penyedia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "number",
+      "text": "13. Pejabat Pengadaan adalah pejabat administrasi/pejabat fungsional/personel yang bertugas melaksanakan Pengadaan Langsung, Penunjukan Langsung, dan/atau E-purchasing.",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "number",
+      "text": "14. Dihapus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "number",
+      "text": "15. Dihapus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "number",
+      "text": "16. Agen Pengadaan adalah UKPBJ atau Pelaku Usaha yang melaksanakan sebagian atau seluruh pekerjaan Pengadaan Barang/Jasa yang diberi kepercayaan oleh Kementerian/Lembaga/Perangkat Daerah sebagai pihak pemberi pekerjaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "number",
+      "text": "17. Penyelenggara Swakelola adalah tim yang menyelenggarakan kegiatan secara Swakelola.",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "number",
+      "text": "18. Sumber Daya Manusia Pengadaan Barang/Jasa Pemerintah adalah Aparatur Sipil Negara dan Non-Aparatur Sipil Negara yang bekerja di bidang Pengadaan Barang/Jasa Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "body",
+      "text": "18a. Pejabat Fungsional Pengelola Pengadaan Barang/Jasa yang selanjutnya disebut Pengelola Pengadaan Barang/Jasa adalah Aparatur Sipil Negara yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan kegiatan Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "body",
+      "text": "ya A & 1) Te",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "body",
+      "text": "18b. Personel selain Pejabat Fungsional Pengelola Pengadaan Barang/Jasa yang selanjutnya disebut Personel Lainnya adalah Aparatur Sipil Negara, prajurit Tentara Nasional Indonesia, dan anggota Kepolisian Negara yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan kegiatan Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "number",
+      "text": "19. Rencana Umum Pengadaan Barang/Jasa yang selanjutnya disingkat RUP adalah daftar rencana Pengadaan Barang/Jasa yang akan dilaksanakan oleh Kementerian/Lembaga/ Perangkat Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "number",
+      "text": "20. E-marketplace Pengadaan Barang/Jasa adalah pasar elektronik yang disediakan untuk memenuhi kebutuhan barang/jasa pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "number",
+      "text": "21. Layanan Pengadaan Secara Elektronik adalah layanan pengelolaan teknologi informasi untuk memfasilitasi pelaksanaan Pengadaan Barang/Jasa secara elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "number",
+      "text": "22. Aparat Pengawas Intern Pemerintah yang selanjutnya disingkat APIP adalah aparat yang melakukan pengawasan melalui audit, reviu, pemantauan, evaluasi, dan kegiatan pengawasan lain terhadap penyelenggaraan tugas dan fungsi pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "number",
+      "text": "23. Pengadaan Barang/Jasamelalui Swakelola yang selanjutnya disebut Swakelola adalah cara memperoleh barang/jasa yang dikerjakan sendiri oleh",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "body",
+      "text": "Kementerian/Lembaga/ Perangkat Daerah, Kementerian/Lembaga/Perangkat Daerah lain, organisasi kemasyarakatan, atau kelompok masyarakat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "number",
+      "text": "24. Organisasi Kemasyarakatan yang selanjutnya disebut Ormas adalah organisasi yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan yang berdasarkan Pancasila.",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "number",
+      "text": "25. Kelompok Masyarakat adalah kelompok masyarakat yang melaksanakan Pengadaan Barang/Jasa dengan dukungan anggaran belanja dari APBN/APBD.",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "number",
+      "text": "26. Pengadaan Barang/Jasa melalui Penyedia adalah cara memperoleh barang/jasa yang disediakan oleh Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "number",
+      "text": "27. Pelaku Usaha adalah badan usaha atau perseorangan yang melakukan usaha dan/atau kegiatan pada bidang tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "number",
+      "text": "28. Penyedia Barang/Jasa Pemerintah yang selanjutnya disebut Penyedia adalah Pelaku Usaha yang menyediakan barang/jasa berdasarkan kontrak.",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "number",
+      "text": "29. Barang adalah setiap benda baik berwujud maupun tidak berwujud, bergerak maupun tidak bergerak, yang dapat diperdagangkan, dipakai, dipergunakan atau dimanfaatkan oleh pengguna barang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "body",
+      "text": "29a. Produk. adalah barang yang dibuat atau jasa yang dihasilkan oleh Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "number",
+      "text": "30. Pekerjaan Konstruksi adalah keseluruhan atau sebagian kegiatan yang meliputi pembangunan, pengoperasian, pemeliharaan, pembongkaran, dan pembangunan kembali suatu bangunan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "number",
+      "text": "31. Jasa Konsultansi adalah jasa layanan profesional yang membutuhkan keahlian tertentu di berbagai bidang keilmuan yang mengutamakan adanya olah pikir.",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "number",
+      "text": "32. Jasa Lainnya adalah jasa nonkonsultansi atau jasa yang membutuhkan peralatan, metodologi khusus, dan/atau keterampilan dalarn suatu sistem tata kelola yang telah dikenal luas di dunia usaha untuk menyelesaikan suatu pekerjaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "number",
+      "text": "33. Harga Perkiraan Sendiri yang selanjutnya disingkat HPS adalah perkiraan harga barang/jasa yang ditetapkan oleh PPK yang telah memperhitungkan biaya tidak langsung, keuntungan dan Pajak Pertambahan Nilai.",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "body",
+      "text": "da is %",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "number",
+      "text": "34. Penelitian adalah kegiatan yang dilakukan menurut kaidah dan metode ilmiah secara sistematis untuk memperoleh informasi, data, dan keterangan yang berkaitan dengan pemahaman dan pembuktian kebenaran atau ketidakbenaran suatu asumsi dan/atau hipotesis di bidang ilmu pengetahuan dan teknologi serta menarik kesimpulan ilmiah bagi keperluan kemajuan ilmu pengetahuan dan/atau teknologi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "number",
+      "text": "35. Pembelian secara Elektronik yang selanjutnya disebut E-purchasing adalah tata cara pembelian barang/jasa meialui sistem katalog elektronik atau toko daring.",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "number",
+      "text": "36. Tender adalah metode pemilihan untuk mendapatkan Penyedia Barang/ Pekerjaan Konstruksi/Jasa Lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "number",
+      "text": "37. Seleksi adalah metode pernilihan untuk mendapatkan Penyedia Jasa Konsultansi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "number",
+      "text": "38. Tender/Seleksi Internasional adalah pemilihan Penyedia dengan peserta pernilihan dapat berasal dari Pelaku Usaha nasional dan Pelaku Usaha asing.",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "number",
+      "text": "39. Penunjukan Langsung adalah metode pemilihan untuk mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Konsultansi/Jasa Lainnya dalam keadaan tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "number",
+      "text": "40. Pengadaan Langsung Barang/ Pekerjaan Konstruksi/Jasa Lainnya adalah metode pemilihan untuk. mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Pp200.000.000,00 (dua ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "number",
+      "text": "41. Pengadaan Langsung Jasa Konsultansi adalah metode pemilihan untuk mendapatkan Penyedia Jasa Konsultansi yang bernilai paling banyak Rp100.000.000,00 (seratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "number",
+      "text": "42. E-reverse Auction adalah metode penawaran harga secara berulang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "number",
+      "text": "43. Dokumen Pemilihan adalah dokumen yang ditetapkan oich Pokja Pemilihan/ Pejabat Pengadaan/Agen Pengadaan yang memuat informasi dan ketentuan yang harus ditaati oleh para pihak dalam pemilihan Penyedia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "number",
+      "text": "44. Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut Kontrak adalah perjanjian tertulis antara PA/KPA/PPK dengan Penyedia atau pelaksana Swakelola.",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "number",
+      "text": "45. Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang memenuhi kriteria Usaha Mikro sebagaimana dimaksud dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "number",
+      "text": "46. Usaha Kecil adalah usaha ekonomi produktif yang berdiri sendiri dan dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau bukan cabang perusahaan yang dimiliki, dikuasai atau menjadi bagian baik langsung maupun tidak langsung dari Usaha Menengah atau Usaha Besar yang memenuhi kriteria Usaha Kecil sebagaimana dimaksud dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "number",
+      "text": "47. Dihapus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "number",
+      "text": "48. Surat Jaminan yang selanjutnya disebut Jaminan adalah jaminan tertulis yang dikeluarkan oleh Bank Umum/Perusahaan Penjaminan/Perusahaan Asuransi/lembaga keuangan khusus yang menjalankan usaha di bidang pembiayaan, penjaminan, dan asuransi untuk mendorong ekspor Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang lembaga pembiayaan ekspor Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "number",
+      "text": "49. Sanksi Daftar Hitam adalah sanksi yang diberikan kepada peserta pemilihan/Penyedia berupa larangan mengikuti Pengadaan Barang/Jasa di seluruh Kementerian/Lembaga/Perangkat Daerah dalam jangka waktu tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "number",
+      "text": "50. Fengadaan Berkelanjutan adalah Pengadaan Barang/Jasa yang bertujuan untuk mencapai nilai manfaat yang menguntungkan secara ekonomis tidak hanya untuk Kementerian/Lembaga/ Perangkat Daerah sebagai penggunanya tetapi juga untuk masyarakat, serta signifikan mengurangi dampak negatif terhadap lingkungan dan: sosial dalam keseluruhan siklus penggunaannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "body",
+      "text": "we Og ay",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "number",
+      "text": "51. Konsolidasi Pengadaan Barang/Jasa adalah strategi Pengadaan Barang/Jasa yang menggabungkan beberapa paket Pengadaan Barang/Jasa sejenis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "number",
+      "text": "52. Keadaan Kahar adalah suatu keadaan yang terjadi di luar kehendak para pihak dalam Kontrak dan tidak dapat diperkirakan sebelumnya, sehingga kewajiban yang ditentukan dalam Kontrak menjadi tidak dapat dipenuhi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "number",
+      "text": "53. Kepala Lembaga adalah Kepala LKPP.",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "number",
+      "text": "54. Toko Dalam Jaringan yang selanjutnya disebut Toko Daring adalah sistem informasi yang memfasilitasi Pengadaan Barang/Jasa melalui penyelenggara perdagangan melalui sistem elektronik dan ritel daring.",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "number",
+      "text": "2. Ketentuan huruf a, huruf c, huruf g, dan huruf h Pasal 4 diubah, sehingga Pasal 4 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "body",
+      "text": "Pengadaan Barang/Jasa bertujuan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "letter",
+      "text": "a. menghasilkan barang/jasa yang tepat dari setiap uang yang dibelanjakan, diukur dari aspek kualitas, kuantitas, waktu, biaya, lokasi, dan Penyedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "letter",
+      "text": "b. meningkatkan penggunaan produk dalam negeri,",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "letter",
+      "text": "c. meningkatkan peran serta Usaha Mikro, Usaha Kecil, dan Koperasi,",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "letter",
+      "text": "d. meningkatkan peran Pelaku Usaha nasional,",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "letter",
+      "text": "e. mendukung pelaksanaan penelitian dan pemanfaatan barang/jasa hasil penelitian,",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "letter",
+      "text": "f. ' meningkatkan keikutsertaan industri kreatif,",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "letter",
+      "text": "g. mewujudkan pemerataan ekonomi dan memberikan perluasan kesempatan berusaha, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "letter",
+      "text": "h. meningkatkan Pengadaan Berkelanjutan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "number",
+      "text": "3. Ketentuan huruf g Pasal 8 dihapus, sehingga Pasal 8 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "body",
+      "text": "Pelaku Pengadaan Barang/Jasa terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "letter",
+      "text": "a. PA;",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "letter",
+      "text": "b. KPA;",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "letter",
+      "text": "c. PPK;",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "letter",
+      "text": "d. Pejabat Pengadaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "letter",
+      "text": "e. Pokja Pemilihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "letter",
+      "text": "f. Agen Pengadaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "letter",
+      "text": "g. dihapus;",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "letter",
+      "text": "h. Penyelenggara Swakelola; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "letter",
+      "text": "i. Penyedia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "number",
+      "text": "4. Di antara huruf f dan huruf g ayat (1) Pasal 9 disisipkan 1 (satu) huruf yakni huruf fl, Pasal 9 ayat (1) huruf i dihapus, serta ketentuan ayat (3) Pasal 9 diubah, sehingga Pasal 9 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "paragraph",
+      "text": "(1) PA sebagaimana dimaksud dalam Pasal 8 huruf a memiliki tugas dan kewenangan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "letter",
+      "text": "a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja,",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "letter",
+      "text": "b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "body",
+      "text": "Cc. menetapkan perencanaan pengadaan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "letter",
+      "text": "d. menetapkan dan mengumumkan RUP,",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "letter",
+      "text": "e. melaksanakan Konsolidasi Pengadaan Barang/Jasa,",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "letter",
+      "text": "f. menetapkan Penunjukan Langsung untuk Tender/ Seleksi ulang gagal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "body",
+      "text": "fl. menetapkan pengenaan Sanksi Daftar Hitam:",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "letter",
+      "text": "g. menetapkan PPK;",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "letter",
+      "text": "h. menetapkan Pejabat Pengadaan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "letter",
+      "text": "i. dihapus, J-menetapkan Penyelenggara Swakelola,",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "letter",
+      "text": "k. menetapkan tim teknis,",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "body",
+      "text": "Il. menetapkan tim juri/tim ahli untuk pelaksanaan melalui Sayembara/ Kontes,",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "letter",
+      "text": "m. menyatakan Tender gagal/Seleksi gagal, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "letter",
+      "text": "n. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "body",
+      "text": "1) Tender/Penunjukan Langsung/ E-purchasing untuk paket Pengadaan Barang/ Pekerjaan Konstruksi/Jasa",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "body",
+      "text": "Lainnya dengan nilai Pagu Anggaran paling sedikit di atas Rp100.000.000.000,00 (seratus miliar rupiah), atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "body",
+      "text": "2) Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan rilai Pagu Anggaran paling sedikit di atas Rpl0.000.000.000,00 (sepuluh miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "paragraph",
+      "text": "(2) PA untuk pengelolaan APBN dapat melimpahkan kewenangan sebagaimana dimaksud pada ayat (1) kepada KPA sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "paragraph",
+      "text": "(3) PA untuk pengelolaan APBD dapat melimpahkan kewenangan sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf f1 kepada KPA.",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "number",
+      "text": "5. Ketentuan ayat (5) Pasal 10 diubah, sehingga Pasal 10 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "paragraph",
+      "text": "(1) KPA dalam Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 8 huruf b melaksanakan pendelegasian sesuai dengan pelimpahan dari PA.",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "paragraph",
+      "text": "(2) Selain kewenangan sebagaimana dimaksud pada ayat (1), KPA berwenang menjawab Sanggah Banding peserta Tender Pekerjaan Konstruksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "body",
+      "text": "PEN £ Eni om",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "paragraph",
+      "text": "(3) KPA dapat menugaskan PPK untuk melaksanakan",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "body",
+      "text": "kewenangan sebagaimana dimaksud pada ayat (1) yang terkait dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "letter",
+      "text": "a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja, dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "letter",
+      "text": "b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "paragraph",
+      "text": "(4) KPA dapat dibantu oleh Pengelola Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "paragraph",
+      "text": "(5) KPA pada Pengadaan Barang/Jasa yang menggunakan anggaran belanja dari APBD, dapat merangkap sebagai PPK.:",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "number",
+      "text": "6. Ketentuan Pasal 11 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "paragraph",
+      "text": "(1) PPK dalam Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 8 huruf c memiliki tugas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "letter",
+      "text": "a. menyusun perencanaan pengadaan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "letter",
+      "text": "b. melaksanakan Konsolidasi Pengadaan Barang/Jasa,",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "body",
+      "text": "Cc. menetapkan spesifikasi teknis/Kerangka Acuan Kerja (KAK),",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "letter",
+      "text": "d. menetapkan rancangan kontrak,",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "letter",
+      "text": "e. menetapkan HPS,",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "letter",
+      "text": "f. menetapkan besaran uang muka ‘yang akan dibayarkan kepada Penyedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "letter",
+      "text": "g. mengusulkan perubahan jadwal kegiatan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "letter",
+      "text": "h. melaksanakan E-purchasing untuk nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "body",
+      "text": "rupiah),",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "letter",
+      "text": "i. mengendalikan Kontrak; js menyimpan dan menjaga keutuhan seluruh",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "body",
+      "text": "dokumen pelaksanaan kegiatan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "letter",
+      "text": "k. melaporkan pelaksanaan dan penyelesaian kegiatan kepada PA/KPA;",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "body",
+      "text": "RESI & Evi",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "number",
+      "text": "1. menyerahkan hasil pekerjaan pelaksanaan kegiatan kepada PA/KPA dengan berita acara penyerahan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "letter",
+      "text": "m. menilai kinerja Penyedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "letter",
+      "text": "n. menetapkan tim pendukung, Oo. menetapkan tim ahli atau tenaga ahli, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "letter",
+      "text": "p. menetapkan Surat Penunjukan Penyedia Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "paragraph",
+      "text": "(2) Selain melaksanakan tugas sebagaimana dimaksud pada ayat (1), PPK melaksanakan tugas pelimpahan kewenangan dari PA/KPA, meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "letter",
+      "text": "a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "letter",
+      "text": "b. mengadakan dan menetapkan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal tidak ada penetapan PPK pada Pengadaan Barang/Jasa yang menggunakan anggaran belanja dari APBD, PA/KPA menugaskan PPTK untuk melaksanakan tugas PPK sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf m.",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "paragraph",
+      "text": "(4) PPTK yang melaksanakan tugas PPK sebagaimana dimaksud pada ayat (3) wajib memenuhi persyaratan kompetensi PPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "number",
+      "text": "7. Ketentuan huruf a ayat (1) dan ayat (4) Pasal 13 diubah, serta huruf b ayat (1) Pasal 13 dihapus, sehingga Pasal 13 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "paragraph",
+      "text": "(1) Pokja Pemilihan dalam Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 8 huruf e memiliki tugas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "letter",
+      "text": "a. melaksanakan persiapan dan pelaksanaan pemilihan Penyedia kecuali E-purchasing dan Pengadaan Langsung,",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "letter",
+      "text": "b. dihapus, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "body",
+      "text": "at £ hy 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "body",
+      "text": "Cc. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "number",
+      "text": "1. Tender/Penunjukan Langsung untuk paket",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "body",
+      "text": "Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling banyak",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "body",
+      "text": "Rp100.000.000.000,09 (seratus miliar rupiah), dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "number",
+      "text": "2. Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "body",
+      "text": "Pagu Anggaran paling banyak Rp10.000.000.000,00 (sepuluh = miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "paragraph",
+      "text": "(2) Pokja Pemilihan sebagaimana dimaksud pada ayat (1) beranggotakan 3 (tiga) orang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal berdasarkan pertimbangan kompleksitas pemilihan Penyedia, anggota Pokja Pemilihan sebagaimana dimaksud pada ayat (2) dapat ditambah sepanjang berjumlah gasal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "paragraph",
+      "text": "(4) Pokja Pemilihan dapat dibantu oleh tim ahli atau tenaga ahli.",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "body",
+      "text": "&. Pasal 15 dihapus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "number",
+      "text": "9. Ketentuan Pasal 16 ditambah 1 (satu) ayat yakni ayat (5), sehingga Pasal 16 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "paragraph",
+      "text": "(1) Penyelenggara Swakelola sebagaimana dimaksud dalam Pasal 8 huruf h terdiri atas Tim Persiapan, Tim Pelaksana, dan/atau Tim Pengawas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "paragraph",
+      "text": "(2) Tim Persiapan memiliki tugas menyusun sasaran, rencana kegiatan jadwal pelaksanaan, dan rencana biaya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "paragraph",
+      "text": "(3) \"im Pelaksana memiliki tugas \"melaksanakan, mencatat, mengevaluasi, -dan melaporkan secara berkala kemajuan pelaksanaan kegiatan dan penyerapan anggaran.",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "paragraph",
+      "text": "(4) Tim Pengawas memiliki tugas mengawasi persiapan dan pelaksanaan fisik maupun administrasi Swakelola.",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "paragraph",
+      "text": "(5) Penyelenggara Swakelola sebagaimana dimaksud pada ayat (1) dapat dibantu oleh Pengelola Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "number",
+      "text": "10. Ketentuan Pasal 19 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "paragraph",
+      "text": "(1) PPK dalam menyusun spesifikasi teknis/KAK barang/jasa menggunakan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "letter",
+      "text": "a. produk dalam negeri,",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "letter",
+      "text": "b. produk bersertifikat SNI,",
+      "part": "body"
+    },
+    {
+      "id": "p-0203",
+      "kind": "body",
+      "text": "C. produk usaha mikro dan kecil serta koperasi dari hasil produksi dalam negeri, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0204",
+      "kind": "letter",
+      "text": "d. produk ramah lingkungan hidup.",
+      "part": "body"
+    },
+    {
+      "id": "p-0205",
+      "kind": "paragraph",
+      "text": "(2) Dalam penyusunan spesifikasi teknis/ KAK dimungkinkan penyebutan merek terhadap:",
+      "part": "body"
+    },
+    {
+      "id": "p-0206",
+      "kind": "letter",
+      "text": "a. komponen barang/jasa,",
+      "part": "body"
+    },
+    {
+      "id": "p-0207",
+      "kind": "letter",
+      "text": "b. suku cadang,",
+      "part": "body"
+    },
+    {
+      "id": "p-0208",
+      "kind": "letter",
+      "text": "c. bagian dari satu sistem yang sudah ada, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0209",
+      "kind": "letter",
+      "text": "d. barang/jasa dalam katalog elektronik atau Toko Daring.",
+      "part": "body"
+    },
+    {
+      "id": "p-0210",
+      "kind": "paragraph",
+      "text": "(3) Pemenuhan penggunaan produk sebagaimana",
+      "part": "body"
+    },
+    {
+      "id": "p-0211",
+      "kind": "body",
+      "text": "dimaksud pada ayat (1) dilakukan sepanjang tersedia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0212",
+      "kind": "paragraph",
+      "text": "(4) Produk ramah lingkungan hidup sebagaimana dimaksud pada ayat (1) huruf d, menggunakan barang dan jasa yang berlabel ramah lingkungan hidup.",
+      "part": "body"
+    },
+    {
+      "id": "p-0213",
+      "kind": "number",
+      "text": "11. Ketentuan ayat (2), ayat (3), dan ayat (5) huruf c Pasal 26",
+      "part": "body"
+    },
+    {
+      "id": "p-0214",
+      "kind": "body",
+      "text": "diubah, serta Pasal 26 ayat (4) dihapus, sehingga Pasal 26 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0215",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0216",
+      "kind": "paragraph",
+      "text": "(1) HPS dihitung secara keahiian dai menggunakan data yang dapat dipertanggungiawabkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0217",
+      "kind": "paragraph",
+      "text": "(2) Nilai HPS bersifat tidak rahasia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0218",
+      "kind": "paragraph",
+      "text": "(3) Rincian HPS bersifat rahasia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0219",
+      "kind": "paragraph",
+      "text": "(4) Dihapus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0220",
+      "kind": "paragraph",
+      "text": "(5) HPS digunakan sebagai:",
+      "part": "body"
+    },
+    {
+      "id": "p-0221",
+      "kind": "letter",
+      "text": "a. alat untuk menilai kewajaran harga penawaran dan/atau kewajaran harga satuan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0222",
+      "kind": "letter",
+      "text": "b. dasar untuk menetapkan batas tertinggi penawaran yang sah dalam Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya,",
+      "part": "body"
+    },
+    {
+      "id": "p-0223",
+      "kind": "body",
+      "text": "dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0224",
+      "kind": "letter",
+      "text": "c. dasar untuk menetapkan besaran nilai Jaminan Pelaksanaan bagi penawaran yang nilainya kurang dari 80% (delapan puluh persen) dari nilai HPS.",
+      "part": "body"
+    },
+    {
+      "id": "p-0225",
+      "kind": "paragraph",
+      "text": "(6) HPS tidak menjadi dasar perhitungan besaran kerugian negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0226",
+      "kind": "paragraph",
+      "text": "(7) Penyusunan HPS dikecualikan untuk Pengadaan Barang/Jasa dengan Pagu Anggaran paling banyak Rp10.000.000,00 (sepuluh juta rupiah), E-purchasing, dan Tender pekerjaan terintegrasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0227",
+      "kind": "paragraph",
+      "text": "(8) Penetapan HPS paling lama 28 (dua puluh delapan) hari kerja sebelum batas akhir untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0228",
+      "kind": "letter",
+      "text": "a. pemasukan penawaran untuk pemilihan dengan pascakualifikasi, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0229",
+      "kind": "letter",
+      "text": "b. pemasukan dokumen kualifikasi - untuk pemilihan dengan prakualifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0230",
+      "kind": "number",
+      "text": "12. Ketentuan Pasal 27 diubah, szhingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0231",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0232",
+      "kind": "paragraph",
+      "text": "(1) Jenis Kontrak Pengadaan Barang/Jasa Lainnya terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0233",
+      "kind": "letter",
+      "text": "a. Lumsum;",
+      "part": "body"
+    },
+    {
+      "id": "p-0234",
+      "kind": "letter",
+      "text": "b. Harga Satuan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0235",
+      "kind": "letter",
+      "text": "c. Gabungan Lumsum dan Harga Satuan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0236",
+      "kind": "letter",
+      "text": "d. Kontrak Payung, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0237",
+      "kind": "letter",
+      "text": "e. Biaya Plus Imbalan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0238",
+      "kind": "paragraph",
+      "text": "(2) Jenis Kontrak Pengadaan Pekerjaan Konstruksi terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0239",
+      "kind": "letter",
+      "text": "a. Lumsum;",
+      "part": "body"
+    },
+    {
+      "id": "p-0240",
+      "kind": "letter",
+      "text": "b. Harga Satuan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0241",
+      "kind": "letter",
+      "text": "c. Gabungan Lumsum dan Harga Satuan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0242",
+      "kind": "letter",
+      "text": "d. Putar Kunci, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0243",
+      "kind": "letter",
+      "text": "e. Biaya Plus Imbalan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0244",
+      "kind": "paragraph",
+      "text": "(3) Jenis Kontrak Pengadaan Jasa Konsultansi nonkonstruksi terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0245",
+      "kind": "letter",
+      "text": "a. Lumsum;",
+      "part": "body"
+    },
+    {
+      "id": "p-0246",
+      "kind": "letter",
+      "text": "b. Waktu Penugasan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0247",
+      "kind": "letter",
+      "text": "c. Kontrak Payung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0248",
+      "kind": "body",
+      "text": "(4. Jenis Kontrak Pengadaan Jasa Konsultansi Konstruksi terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0249",
+      "kind": "letter",
+      "text": "a. Lumsum; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0250",
+      "kind": "letter",
+      "text": "b. Waktu Penugasan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0251",
+      "kind": "paragraph",
+      "text": "(5) Kontrak Lumsum sebagaimana dimaksud pada ayat (1) huruf a, ayat (2) huruf a, ayat (3) huruf a, dan ayat (4) huruf a merupakan Kontrak dengan ruang lingkup pekerjaan dan jumlah harga yang pasti dan tetap dalam batas waktu tertentu, dengan ketentuan sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0252",
+      "kind": "letter",
+      "text": "a. semua risiko sepenuhnya ditanggung oleh Penyedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0253",
+      "kind": "letter",
+      "text": "b. berorientasi kepada keluaran, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0254",
+      "kind": "letter",
+      "text": "c. pembayaran didasarkan pada tahapan produk/keiuaran yang dihasilkan sesuai dengan Kontrak.",
+      "part": "body"
+    },
+    {
+      "id": "p-0255",
+      "kind": "paragraph",
+      "text": "(6) Kontrak Harga Satuan sebagaimana dimaksud pada ayat (1) huruf b dan ayat (2) huruf b merupakan Kontrak Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan harga satuan yang tetap untuk setiap satuan atau unsur pekerjaan dengan spesifikasi teknis tertentu atas penyelesaian",
+      "part": "body"
+    },
+    {
+      "id": "p-0256",
+      "kind": "body",
+      "text": "Fi TA aga",
+      "part": "body"
+    },
+    {
+      "id": "p-0257",
+      "kind": "body",
+      "text": "seluruh pekerjaan dalam batas waktu yang telah ditetapkan dengan ketentuan sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0258",
+      "kind": "letter",
+      "text": "a. volume atau kuantitas pekerjaannya masih bersifat perkiraan pada saat Kontrak ditandatangani,",
+      "part": "body"
+    },
+    {
+      "id": "p-0259",
+      "kind": "letter",
+      "text": "b. pembayaran berdasarkan hasil pengukuran bersama atas realisasi volume pekerjaan, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0260",
+      "kind": "letter",
+      "text": "c. nilai akhir Kontrak ditetapkan setelah seluruh pekerjaan diselesaikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0261",
+      "kind": "paragraph",
+      "text": "(7) Kontrak Gabungan Lumsum dan Harga Satuan sebagaimana dimaksud pada ayat (1) huruf c dan ayat (2) huruf c merupakan Kontrak Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya gabungan Lumsum dan Harga Satuan dalam 1 (satu) pekerjaan yang diperjanjikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0262",
+      "kind": "paragraph",
+      "text": "(8) Kontrak Payung sebagaimana dimaksud pada ayat (1) huruf d dan ayat (3) huruf c dapat berupa kontrak harga satuan dalam periode waktu tertentu untuk barang/jasa yang belum dapat ditentukan volume dan/atau waktu pengirimannya pada saat Kontrak aitandatangani.",
+      "part": "body"
+    },
+    {
+      "id": "p-0263",
+      "kind": "paragraph",
+      "text": "(9) Kontrak Putar Kunci sebagaimana dimaksud pada ayat (2) huruf d merupakan suatu perjanjian mengenai pembangunan suatu proyek dalam hal Penyedia setuju untuk membangun proyek tersebut secara lengkap sampai selesai termasuk pemasangar. semua perlengkapannya sehingga proyek tersebut siap dioperasikan atau dihuni.",
+      "part": "body"
+    },
+    {
+      "id": "p-0264",
+      "kind": "paragraph",
+      "text": "(10) Kontrak Biaya Plus Imbalan sebagaimana dimaksud pada ayat (1) huruf e dan ayat (2) huruf e merupakan jenis Kontrak yang digunakan untuk Pengadaan Barang/Fekerjaan Konstruksi/Jasa Lainnya dalam rangka penanganan keadaan darurat dengan nilai Kontrak merupakan perhitungan dari biaya aktual ditambah imbalan dengan persentase tetap atas biaya aktual atau imbalan dengan jumlan tetap.",
+      "part": "body"
+    },
+    {
+      "id": "p-0265",
+      "kind": "paragraph",
+      "text": "(11) Kontrak berdasarkan Waktu Penugasan sebagaimana dimaksud peda ayat (3) huruf b dan ayat (4) huruf b merupakan Kontak Jasa Konsultansi untuk pekerjaan yang ruang lingkupnya belum bisa didefinisikan dengan rinci dan/atau waktu yang dibutuhkan untuk menyelesaikan pekerjaan belum bisa dipastikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0266",
+      "kind": "body",
+      "text": "ae og Tg Tgn",
+      "part": "body"
+    },
+    {
+      "id": "p-0267",
+      "kind": "paragraph",
+      "text": "(12) Kontrak Tahun Jamak merupakan Kontrak Pengadaan Barang/Jasa yang membebani lebih dari 1 (satu) tahun anggaran dilakukan setelah mendapatkan persetujuan pejabat yang berwenang",
+      "part": "body"
+    },
+    {
+      "id": "p-0268",
+      "kind": "body",
+      "text": "sesuai dengan ketentuan peraturan perundang-undangan, dapat berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0269",
+      "kind": "letter",
+      "text": "a. pekerjaan yang penyelesaiannya lebih dari 12 (dua belas) bulan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0270",
+      "kind": "letter",
+      "text": "b. pekerjaan yang penyelesaiannya lebih dari 1 (satu) tahun anggaran, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0271",
+      "kind": "body",
+      "text": "C. pekerjaan yang memberikan manfaat lebih apabila dikontrakkan untuk jangka waktu lebih dari 1 (satu) Tahun Anggaran dan paling lama 3 (tiga) tahun anggaran.",
+      "part": "body"
+    },
+    {
+      "id": "p-0272",
+      "kind": "number",
+      "text": "13. Di antara Pasal 27 dan 28 disisipkan 1 (satu) Pasal, yakni Pasal 27A, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0273",
+      "kind": "article",
+      "text": "Pasal 27A",
+      "part": "body"
+    },
+    {
+      "id": "p-0274",
+      "kind": "paragraph",
+      "text": "(1) PPK dapat menggunakan selain jenis Kontrak sebagaimana dimaksud dalam Pasal 27 sesuai dengan karakteristik pekerjaan yang akan dilaksanakan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0275",
+      "kind": "paragraph",
+      "text": "(2) PPK dalam menetapkan jenis Kontrak sebagaimana dimaksud pada ayat (1) harus memperhatikan prinsip efisien, efektif dan tidak bertentangan dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0276",
+      "kind": "number",
+      "text": "14. Ketentuan ayat (1) huruf c, ayat (4), ayat (6) dan ayat (7) Pasal 28 diubah, sehingga Pasal 28 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0277",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0278",
+      "kind": "paragraph",
+      "text": "(1) Bentuk Kontrak terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0279",
+      "kind": "letter",
+      "text": "a. bukti pembelian/pembayaran;",
+      "part": "body"
+    },
+    {
+      "id": "p-0280",
+      "kind": "letter",
+      "text": "b. kuitansi,",
+      "part": "body"
+    },
+    {
+      "id": "p-0281",
+      "kind": "letter",
+      "text": "c. surat perintah kerja,",
+      "part": "body"
+    },
+    {
+      "id": "p-0282",
+      "kind": "letter",
+      "text": "d. surat perjanjian, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0283",
+      "kind": "letter",
+      "text": "e. surat pesanan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0284",
+      "kind": "body",
+      "text": "Pi & Lg Tg",
+      "part": "body"
+    },
+    {
+      "id": "p-0285",
+      "kind": "paragraph",
+      "text": "(2) Bukti pembelian/pembayaran sebagaimana",
+      "part": "body"
+    },
+    {
+      "id": "p-0286",
+      "kind": "body",
+      "text": "dimaksud pada ayat (1) huruf a digunakan untuk Pengadaan Barang/Jasa Lainnya dengan nilai paling banyak Rp10.000.000,00 (sepuluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0287",
+      "kind": "paragraph",
+      "text": "(3) Kuitansi sebagaimana dimaksud pada ayat (1) huruf b digunakan untuk Pengadaan Barang/Jasa Lainnya dengan nilai paling banyak Rp50.000.000,00 (lima",
+      "part": "body"
+    },
+    {
+      "id": "p-0288",
+      "kind": "body",
+      "text": "puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0289",
+      "kind": "paragraph",
+      "text": "(4) Surat perintah kerja sebagaimana dimaksud pada ayat (1) huruf c digunakan untuk Pengadaan Jasa Konsultansi dengan nilai paling banyak Rp100.000.000,00 (seratus juta rupiah), Pengadaan Barang/Jasa Lainnya dengan nilai paling sedikit di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan nilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah), dan Pengadaan Pekerjaan Konstruksi dengan nilai paling banyak Rp200.000.060,00 (dua ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0290",
+      "kind": "paragraph",
+      "text": "(5) Surat perjanjian sebagaimana dimaksud pada ayat (1) huruf d digunakan untuk Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah) dan untuk Pengadaan Jasa Konsultansi dengan nilai paling sedikit di atas Rp100.000.000,00 (seratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0291",
+      "kind": "paragraph",
+      "text": "(6) Surat pesanan sebagaimana dimaksud pada ayat (1) huruf e digunakan untuk Pengadaan Barang/Jasa melalui E-purchasing.",
+      "part": "body"
+    },
+    {
+      "id": "p-0292",
+      "kind": "paragraph",
+      "text": "(7) Ketentuan mengenai bukti pendukung untuk masing-masing bentuk Kontrak sebagaimana dimaksud pada ayat (1) dilakukan sesuai peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara atau peraturan menteri yang menyelerggarakan urusan di bidang pemerintahan dalam regeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0293",
+      "kind": "body",
+      "text": "RI & z LY |",
+      "part": "body"
+    },
+    {
+      "id": "p-0294",
+      "kind": "number",
+      "text": "15. Ketentuan ayat (2) dan ayat (7) Pasal 30 diubah, serta di antara ayat (2) dan ayat (3) disisipkan 1 (satu) ayat, yakni ayat (2a), sehingga Pasal 30 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0295",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "body"
+    },
+    {
+      "id": "p-0296",
+      "kind": "paragraph",
+      "text": "(1) Jaminan Pengadaan Barang/Jasa terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0297",
+      "kind": "letter",
+      "text": "a. Jaminan Penawaran;",
+      "part": "body"
+    },
+    {
+      "id": "p-0298",
+      "kind": "letter",
+      "text": "b. Jaminan Sanggah Sanding;",
+      "part": "body"
+    },
+    {
+      "id": "p-0299",
+      "kind": "letter",
+      "text": "c. Jaminan Pelaksanaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0300",
+      "kind": "letter",
+      "text": "d. Jaminan Uang Muka; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0301",
+      "kind": "letter",
+      "text": "e. Jaminan Pemeliharaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0302",
+      "kind": "paragraph",
+      "text": "(2) Jaminan Penawaran sebagaimana dimaksud pada ayat (1) huruf a untuk pengadaan Pekerjaan Konstruksi dan pengadaan barang/jasa yang dilakukan secara terintegrasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0303",
+      "kind": "body",
+      "text": "(2a) Jaminan Sanggah Banding sebagaimana dimaksud pada ayat (1) huruf b hanya untuk pengadaan Pekerjaan Konstruksi..:",
+      "part": "body"
+    },
+    {
+      "id": "p-0304",
+      "kind": "paragraph",
+      "text": "(3) Jaminan sebagaimana dimaksud pada ayat (1) dapat berupa bank garansi atau surety bond.",
+      "part": "body"
+    },
+    {
+      "id": "p-0305",
+      "kind": "paragraph",
+      "text": "(4) Bentuk Jaminan sebagaimana dimaksud pada ayat (3) bersifat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0306",
+      "kind": "letter",
+      "text": "a. tidak bersyarat,",
+      "part": "body"
+    },
+    {
+      "id": "p-0307",
+      "kind": "letter",
+      "text": "b. mudah dicairkan: dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0308",
+      "kind": "letter",
+      "text": "c. harus dicairkan oleh penerbit jaminan paling lambat 14 (empat belas) hari kerja setelah surat perintah pencairan dari Pokja Pemilihan/PPK/Pihak yang diberi kuasa oleh Pokja Pemilihan /PPK diterima.",
+      "part": "body"
+    },
+    {
+      "id": "p-0309",
+      "kind": "paragraph",
+      "text": "(5) Pengadaan Jasa Konsultansi tidak diperlukan Jaminan Penawaran, Jaminan Sanggah Banding, Jaminan Pelaksanaan, dan Jaminan Pemeliharaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0310",
+      "kind": "paragraph",
+      "text": "(6) Jaminan dari Bank Umum, Perusahaan Penjaminan, Perusahaan Asuransi, lembaga keuangan khusus yang menjalankan usaha di bidang pembiayaan, penjaminan, dan asuransi untuk mendorong ekspor Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang lembaga pembiayaan ekspor Indonesia dapat digunakan untuk semua jenis Jaminan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0311",
+      "kind": "body",
+      "text": "ae & z LY | OM",
+      "part": "body"
+    },
+    {
+      "id": "p-0312",
+      "kind": "paragraph",
+      "text": "(7) Perusahaan Penjaminan, Perusahaan Asuransi, dan lembaga keuangan khusus yang menjalankan usaha di bidang pembiayaan, penjaminan, dan asuransi untuk mendorong ekspor Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang lembaga pembiayaan ekspor Indonesia sebagaimana dimaksud pada ayat (6) merupakan Perusahaan Penerbit Jaminan yang memiliki izin usaha dan pencatatan produk suretyship di Otoritas Jasa Keuangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0313",
+      "kind": "number",
+      "text": "16. Ketentuan Pasal 31 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0314",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "body"
+    },
+    {
+      "id": "p-0315",
+      "kind": "paragraph",
+      "text": "(1) Jaminan Penawaran sebagaimana dimaksud dalam Pasal 30 ayat (2) diberlakukan untuk nilai HPS paling sedikit di atas Rp10.000.060.000,00 (sepuluh miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0316",
+      "kind": "paragraph",
+      "text": "(2) Jaminan Penawaran sebagaimana dimaksud pada",
+      "part": "body"
+    },
+    {
+      "id": "p-0317",
+      "kind": "body",
+      "text": "ayat (1) besarnya antara 1% (satu persen) hingga 3% (tiga persen) dari nilai HPS.",
+      "part": "body"
+    },
+    {
+      "id": "p-0318",
+      "kind": "paragraph",
+      "text": "(3) Pengadaan Barang/Jasa yang dilakukan secara terintegrasi, Jaminan Penawaran sebagaimana dimaksud pada ayat (1) besarnya antara 1% (satu persen) hingga 3% (tiga persen) dari nilai Pagu Anggaran.",
+      "part": "body"
+    },
+    {
+      "id": "p-0319",
+      "kind": "number",
+      "text": "17. Ketentuan Pasal 32 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0320",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "body"
+    },
+    {
+      "id": "p-0321",
+      "kind": "paragraph",
+      "text": "(1) Jaminan Sanggah Banding sebagaimana dimaksud dalam Pasal 30 ayat (Za) besarnya 1% (satu persen) dari nilai HPS.",
+      "part": "body"
+    },
+    {
+      "id": "p-0322",
+      "kind": "paragraph",
+      "text": "(2) Untuk Pekerjaan Konstruksi terintegrasi, Jaminan Sanggah Banding sebagaimana dimaksud dalam Pasal 50 ayat (2a) besarnya 1% (satu persen) dari nilai Pagu Anggaran.",
+      "part": "body"
+    },
+    {
+      "id": "p-0323",
+      "kind": "letter",
+      "text": "a. & Leg Ba",
+      "part": "body"
+    },
+    {
+      "id": "p-0324",
+      "kind": "number",
+      "text": "18. Ketentuan huruf a ayat (2), ayat (3) dan ayat (4) Pasal 33 diubah, sehingga Pasal 33 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0325",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "body"
+    },
+    {
+      "id": "p-0326",
+      "kind": "paragraph",
+      "text": "(1) Jaminan Pelaksanaan sebagaimana dimaksud dalam Pasal 30 ayat (1) huruf c diberlakukan untuk Kontrak Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0327",
+      "kind": "paragraph",
+      "text": "(2) Jaminan Pelaksanaan sebagaimana dimaksud pada ayat (l) tidak diperlukan, dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0328",
+      "kind": "letter",
+      "text": "a. Pengadaan Jasa Lainnya yang aset Penyedia dikuasai oleh pengguna, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0329",
+      "kind": "letter",
+      "text": "b. Pengadaan Barang/Jasa melalui E-purchasing.",
+      "part": "body"
+    },
+    {
+      "id": "p-0330",
+      "kind": "paragraph",
+      "text": "(3) Besaran nilai Jaminan Pelaksanaan sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0331",
+      "kind": "letter",
+      "text": "a. untuk nilai penawaran antara 80% (delapan puluh persen) sampai dengan 100% (seratus persen) dari nilai HPS, Jaminan Pelaksanaan sebesar 5% (lima persen) dari nilai kontrak, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0332",
+      "kind": "letter",
+      "text": "b. untuk nilai penawaran di bawah 80% (delapan puluh persen) dari nilai HPS, Jaminan Pelaksanaan sebesar 5% (lima persen) dari nilai",
+      "part": "body"
+    },
+    {
+      "id": "p-0333",
+      "kind": "paragraph",
+      "text": "(4) Besaran nilai Jaminan Pelaksanaan untuk pekerjaan terintegrasi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0334",
+      "kind": "letter",
+      "text": "a. untuk nilai penawaran antara 80% (delapan puluh persen) sampai dengan 100% (seratus persen) dari nilai Pagu Anggaran, Jaminan Pelaksanaan sebesar 5% (lima persen) dari nilai kontrak, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0335",
+      "kind": "letter",
+      "text": "b. untuk nilai penawaran di bawah 80% (delapan puluh persen) dari nilai Pagu Anggaran, Jaminan Pelaksanaan sebesar 5% (lima persen) dari nilai Pagu Anggarari.",
+      "part": "body"
+    },
+    {
+      "id": "p-0336",
+      "kind": "paragraph",
+      "text": "(5) Jaminan Pelaksanaan berlaku sampai dengan serah terima pekerjaan Pengadaan Barang/Jasa Lainnya atau serah terima pertama Pekerjaari Konstruksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0337",
+      "kind": "number",
+      "text": "19. Ketentuan ayat (2) dan ayat (6) Pasal 38 diubah, serta ditambahkan 1 (satu) huruf pada ayat (5), yakni huruf i, sehingga Pasal 38 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0338",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "body"
+    },
+    {
+      "id": "p-0339",
+      "kind": "paragraph",
+      "text": "(1) Metode pemilihan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0340",
+      "kind": "letter",
+      "text": "a. E-purchasing,",
+      "part": "body"
+    },
+    {
+      "id": "p-0341",
+      "kind": "letter",
+      "text": "b. Pengadaan Langsung,",
+      "part": "body"
+    },
+    {
+      "id": "p-0342",
+      "kind": "letter",
+      "text": "c. Penunj ukan Langsung,",
+      "part": "body"
+    },
+    {
+      "id": "p-0343",
+      "kind": "letter",
+      "text": "d. Tender Cepat, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0344",
+      "kind": "letter",
+      "text": "e. Tender. f",
+      "part": "body"
+    },
+    {
+      "id": "p-0345",
+      "kind": "paragraph",
+      "text": "(2) E-purchasing sebagaimana dimaksud pada ayat (1) huruf a, dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya yang sudah tercantum dalam katalog elektronik atau Toko Daring.",
+      "part": "body"
+    },
+    {
+      "id": "p-0346",
+      "kind": "paragraph",
+      "text": "(3) Pengadaan Langsung sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0347",
+      "kind": "paragraph",
+      "text": "(4) Penunjukan Langsung sebagaimana dimaksud pada ayat (1) huruf Cc dilaksanakan untuk Barang/Pekerjaar Konstruksi/Jasa Lainnya dalam keadaan tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0348",
+      "kind": "paragraph",
+      "text": "(5) Kriteria Barang/Pekerjaan Konstruksi/Jasa Lainnya untuk keadaan tertentu sebagaimana dimaksud pada ayat (4) meliputi: |",
+      "part": "body"
+    },
+    {
+      "id": "p-0349",
+      "kind": "letter",
+      "text": "a. penyelenggaraan penyiapan kegiatan yang mendadak untuk menindaklanjuti komitmen internasional yang dihadiri oleh Presiden/ Wakil",
+      "part": "body"
+    },
+    {
+      "id": "p-0350",
+      "kind": "body",
+      "text": "Presiden,",
+      "part": "body"
+    },
+    {
+      "id": "p-0351",
+      "kind": "letter",
+      "text": "b. barang/jasa yang bersifat rahasia untuk kepentingan Negara meliputi intelijen, perlindungan saksi, pengamanan Presiden dan Wakil Presiden, Mantan Presiden dan Mantan Wakil Presiden beserta keluarganya serta tamu negara setingkat ' kepala negara/kepala pemerintahan, atau barang/jasa lain bersifat rahasia sesuai dengan ketentuan peraturan perundang-undangan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0352",
+      "kind": "body",
+      "text": "RE Og Kg",
+      "part": "body"
+    },
+    {
+      "id": "p-0353",
+      "kind": "letter",
+      "text": "c. Pekerjaan Konstruksi bangunan yang merupakan satu kesatuan sistem konstruksi dan satu kesatuan tanggung jawak atas risiko kegagalan bangunan yang secara keseluruhan tidak dapat direncanakan/diperhitungkan sebelumnya,",
+      "part": "body"
+    },
+    {
+      "id": "p-0354",
+      "kind": "letter",
+      "text": "d. Barang/Pekerjaan Konstruksi/Jasa Lainnya yang hanya dapat disediakan oleh 1 (satu) Pelaku Usaha yang mampu;",
+      "part": "body"
+    },
+    {
+      "id": "p-0355",
+      "kind": "letter",
+      "text": "e. pengadaan dan penyaluran benih unggul yang meliputi benih padi, jagung, dan kedelai, serta pupuk yang meliputi Urea, NPK, dan ZA kepada petani dalam rangka menjamin ketersediaan benih uan pupuk secara tepat dan cepat untuk pelaksanaan peningkatan ketahanan pangan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0356",
+      "kind": "letter",
+      "text": "f. pekerjaan prasarana, sarana, dan utilitas umum di lingkungan perumahan bagi Masyarakat Berpenghasilan Rendah yang dilaksanakan oleh pengembang yang bersangkutan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0357",
+      "kind": "letter",
+      "text": "g. Bareng/Pekerjaan Konstruks:i/Jasa Lainnya yang spesifik dan hanya dapat dilaksanakan oleh pemegang hak paten, atau pihak yang telah mendapat izin dari pemegang hak paten, atau pihak yang menjadi pemenang tender untuk mendapatkar izin dari pemerintah,",
+      "part": "body"
+    },
+    {
+      "id": "p-0358",
+      "kind": "letter",
+      "text": "h. Barang/Pekerjaan Konstruksi/Jasa Lainnya yang setelah dilakukan Tender ulang mengalami kegagalan, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0359",
+      "kind": "letter",
+      "text": "i. pemilihan penyedia untuk melanjutkan pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dalam hal terjadi pemutusan Kontrak.",
+      "part": "body"
+    },
+    {
+      "id": "p-0360",
+      "kind": "paragraph",
+      "text": "(6) Tender Cepat sebagaimana dimaksud pada ayat (1) hurut d dilaksanakan dalam hal Pelaku Usaha telah terkualifikasi dalam. Sistem Informasi Kinerja Penyedia untuk pengadaan yang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0361",
+      "kind": "letter",
+      "text": "a. spesifikasi dan volume pekerjaannya sudah dapat ditentukan secara rinci, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0362",
+      "kind": "letter",
+      "text": "b. dimungkinkan dapat menyebutkan merek sebagaimana diatur dalan Pasal 19 ayat (2) huruf b dan huruf c.",
+      "part": "body"
+    },
+    {
+      "id": "p-0363",
+      "kind": "body",
+      "text": "Ti Og AY",
+      "part": "body"
+    },
+    {
+      "id": "p-0364",
+      "kind": "paragraph",
+      "text": "(7) Tender sebagaimana dimaksud pada ayat (1) huruf e dilaksanakan dalam hal tidak dapat menggunakan metode pemilihan Penyedia sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf d.",
+      "part": "body"
+    },
+    {
+      "id": "p-0365",
+      "kind": "number",
+      "text": "20. Ketentuan ayat (3) Pasal 39 diubah, sehingga Pasal 39 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0366",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "body"
+    },
+    {
+      "id": "p-0367",
+      "kind": "paragraph",
+      "text": "(1) Metode evaluasi penawaran Penyedia Barang/ Pekerjaan Konstruksi/Jasa Lainnya",
+      "part": "body"
+    },
+    {
+      "id": "p-0368",
+      "kind": "body",
+      "text": "dilakukan dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0369",
+      "kind": "letter",
+      "text": "a. Sistem Nilai:",
+      "part": "body"
+    },
+    {
+      "id": "p-0370",
+      "kind": "letter",
+      "text": "b. Penilaian Biaya Selama Umur Ekonomis, atau Cc. Harga Terendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0371",
+      "kind": "paragraph",
+      "text": "(2) Metode evaluasi Sistem Nilai digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang memperhitungkan penilaian tel:nis dan harga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0372",
+      "kind": "paragraph",
+      "text": "(3) Metode evaluasi Penilaian Biaya Selama Umur Ekonomis digunakan untuk Pengadaan Barang yang memperhitungkan faktor umur ekonomis, harga, biaya operasional, biaya pemeliharaan, dan nilai sisa dalam jangka waktu operasi tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0373",
+      "kind": "paragraph",
+      "text": "(4) Metode evaluasi Harga Terendah digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dalam hal harga menjadi dasar peretapari pemenang di antara penawaran yang memenuhi persyaratan teknis. '",
+      "part": "body"
+    },
+    {
+      "id": "p-0374",
+      "kind": "number",
+      "text": "21. Ketentuan ayat (5) Pasal 41 ditambahkan 4 (empat) huruf yakni huruf e, huruf f, huruf g, dan huruf h, sehingga Pasal 41 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0375",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "body"
+    },
+    {
+      "id": "p-0376",
+      "kind": "paragraph",
+      "text": "(1) Metode pemilihan Peryedia Jasa Konsultansi terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0377",
+      "kind": "letter",
+      "text": "a. Seleksi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0378",
+      "kind": "letter",
+      "text": "b. Pengadaan Langsung, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0379",
+      "kind": "letter",
+      "text": "c. Penunjukan Langsung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0380",
+      "kind": "body",
+      "text": "Pasal Re - Di",
+      "part": "body"
+    },
+    {
+      "id": "p-0381",
+      "kind": "paragraph",
+      "text": "(2) Seleksi sebagaimana dimaksud pada ayat (1) huruf a dilaksanakan untuk Jasa Konsultansi bernilai paling sedikit di atas Rp100.000.000,00 (seratus juta",
+      "part": "body"
+    },
+    {
+      "id": "p-0382",
+      "kind": "body",
+      "text": "rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0383",
+      "kind": "paragraph",
+      "text": "(3) Pengadaan Langsung sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan untuk Jasa Konsultansi yang bernilai sampai dengan paling banyak Rp100.000.000,00 (seratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0384",
+      "kind": "paragraph",
+      "text": "(4) Penunjukan Langsung sebagaimana dimaksud pada ayat (1) huruf c dilaksanakan untuk Jasa Konsultansi dalam keadaan tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0385",
+      "kind": "paragraph",
+      "text": "(5) Kriteria Jasa Konsultansi dalam keadaan tertentu sebagaimana dimaksud pada ayat (4) meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0386",
+      "kind": "letter",
+      "text": "a. Jasa Konsultansi yang hanya dapat dilakukan oleh 1 (satu) Pelaku Usaha yang mampu,",
+      "part": "body"
+    },
+    {
+      "id": "p-0387",
+      "kind": "letter",
+      "text": "b. Jasa Konsultansi yang hanya dapat dilakukan oleh 1 (satu) pemegang hak cipta yang telah terdaftar atau pihak yang telah mendapat izin pemegang hak cipta,",
+      "part": "body"
+    },
+    {
+      "id": "p-0388",
+      "kind": "letter",
+      "text": "c. Jasa Konsultansi di bidang hukum meliputi konsultan hukum/advokasi atau pengadaan arbiter yang tidak direncanakan sebelumnya, untuk menghadapi gugatan dan/atau tuntutan hukum dari pihak tertentu, yang sifat pelaksanaan pekerjaan dan/atau pembelaannya harus segera dan tidak dapat ditunda,",
+      "part": "body"
+    },
+    {
+      "id": "p-0389",
+      "kind": "letter",
+      "text": "d. permintaan berulang (repeat order) untuk Penyedia Jasa Konsultansi yang sama, __",
+      "part": "body"
+    },
+    {
+      "id": "p-0390",
+      "kind": "letter",
+      "text": "e. Jasa Konsultansi yang setelah dilakukan Seleksi ulang mengalami kegagalan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0391",
+      "kind": "body",
+      "text": "tf. pemilihan penyedia untuk melanjutkan Jasa Konsultansi dalam ' hal -terjadi pemutusan Kontrak:",
+      "part": "body"
+    },
+    {
+      "id": "p-0392",
+      "kind": "letter",
+      "text": "g. Jasa Konsultansi yang bersifat rahasia sesuai dengan ketentuan peraturan perundang-undangan, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0393",
+      "kind": "letter",
+      "text": "h. Jasa ahli Dewan Sengketa Konstruksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0394",
+      "kind": "body",
+      "text": "Na) Pe $ S5 ga",
+      "part": "body"
+    },
+    {
+      "id": "p-0395",
+      "kind": "paragraph",
+      "text": "(6) Dalam hal dilakukan Penunjukan Langsung untuk enyedia Jasa Konsultansi sebagairnana dimaksud",
+      "part": "body"
+    },
+    {
+      "id": "p-0396",
+      "kind": "body",
+      "text": "pada ayat (5) huruf d, diberikan batasan paling banyak 2 (dua) kali.",
+      "part": "body"
+    },
+    {
+      "id": "p-0397",
+      "kind": "number",
+      "text": "22. Ketentuan ayat (4) huruf b dan ayat (7) huruf b Pasal 50 diubah, sehingga Pasal 50 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0398",
+      "kind": "article",
+      "text": "Pasal 50",
+      "part": "body"
+    },
+    {
+      "id": "p-0399",
+      "kind": "paragraph",
+      "text": "(1) Pelaksanaan pemilihan melalui Tender/Seleksi meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0400",
+      "kind": "body",
+      "text": "a, Pelaksanaan Kualifikasi, b: Pengumuman dan/atau Undangan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0401",
+      "kind": "letter",
+      "text": "c. Pendaftaran dan Pengambilan Dokumen Pemilihan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0402",
+      "kind": "letter",
+      "text": "d. Pemberian Penjelasan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0403",
+      "kind": "letter",
+      "text": "e. Penyampaian Dokumen Penawaran,",
+      "part": "body"
+    },
+    {
+      "id": "p-0404",
+      "kind": "letter",
+      "text": "f. Evaluasi Dckumen Penawaran,",
+      "part": "body"
+    },
+    {
+      "id": "p-0405",
+      "kind": "letter",
+      "text": "g. Penetapan dan Pengumuman Pemenang, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0406",
+      "kind": "letter",
+      "text": "h. Sanggah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0407",
+      "kind": "paragraph",
+      "text": "(2) Selain ketentuan sebagairaana dimaksud pada ayat (1) untuk pelaksanaan pemilihan Pekerjaan Konstruksi ditambahkan tanapan Sanggah Banding.",
+      "part": "body"
+    },
+    {
+      "id": "p-0408",
+      "kind": "paragraph",
+      "text": "(3) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat (1), untuk Seleksi Jasa Konsultansi dilakukan klarifikasi dan negosiasi terhadap penawaran teknis dan biaya setelah masa sanggah selesai.",
+      "part": "body"
+    },
+    {
+      "id": "p-0409",
+      "kind": "paragraph",
+      "text": "(4) Pelaksanaan pemilihan melalui Tender Cepat dengan ketentuan sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0410",
+      "kind": "letter",
+      "text": "a. peserta telah terkualifikasi dalam Sistem Informasi Kinerja Penyedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0411",
+      "kind": "letter",
+      "text": "b. peserta menyampaikan penawaran harga,",
+      "part": "body"
+    },
+    {
+      "id": "p-0412",
+      "kind": "letter",
+      "text": "c. evaluasi penawaran harga dilakukan melalui aplikasi, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0413",
+      "kind": "letter",
+      "text": "d. penetapan pemenang berdasarkan harga penawaran terendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0414",
+      "kind": "body",
+      "text": "et & ay,",
+      "part": "body"
+    },
+    {
+      "id": "p-0415",
+      "kind": "paragraph",
+      "text": "(5) Pelaksanaan E-purchasing wajib dilakukan untuk barang/jasa yang menyangkut pemenuhan kebutunan nasional dan/atau strategis yang ditetapkan oleh menteri, kepala lembaga, atau kepala daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0416",
+      "kind": "paragraph",
+      "text": "(6) Pelaksanaan Penunjukan Langsung dilakukan dengan mengundang 1 (satu) Pelaku Usaha yang dipilih, dengan disertai negosiasi teknis maupun harga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0417",
+      "kind": "paragraph",
+      "text": "(7) Pelaksanaan Pengadaan Langsung dilakukan sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0418",
+      "kind": "letter",
+      "text": "a. pembelian/pembayaran langsung kepada Penyedia untuk Pengadaan Barang/Jasa Lainnya yang menggunakan bukti pembelian atau kuitansi: atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0419",
+      "kind": "letter",
+      "text": "b. permintaan penawaran yang disertai dengan klarifikasi serta negosiasi teknis dan harga kepada Pelaku Usaha untuk Pengadaan Langsung yang menggunakan surat perintah kerja.",
+      "part": "body"
+    },
+    {
+      "id": "p-0420",
+      "kind": "paragraph",
+      "text": "(8) Pemilihan dapat segera dilaksanakan setelah RUP diumumkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0421",
+      "kind": "paragraph",
+      "text": "(9) Untuk barang/jasa yang konraknya harus",
+      "part": "body"
+    },
+    {
+      "id": "p-0422",
+      "kind": "body",
+      "text": "ditandatangani pada awal tahun, pemilihan dapat dilaksanakan setelah:",
+      "part": "body"
+    },
+    {
+      "id": "p-0423",
+      "kind": "letter",
+      "text": "a. penetapan Pagu Anggaran K/L, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0424",
+      "kind": "letter",
+      "text": "b. persetujuan RKA Perangkat Daerah sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0425",
+      "kind": "paragraph",
+      "text": "(10) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat (9) dilakukan setelah RUP diumumkan terlebih dahulu melalui aplikasi SIRUP.",
+      "part": "body"
+    },
+    {
+      "id": "p-0426",
+      "kind": "paragraph",
+      "text": "(11) Penawaran harga dapat dilakukan dengan metode penawaran harga secara berulang (E-reverse Auction).",
+      "part": "body"
+    },
+    {
+      "id": "p-0427",
+      "kind": "number",
+      "text": "23. Ketentuan Pasal 51 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0428",
+      "kind": "article",
+      "text": "Pasal 51",
+      "part": "body"
+    },
+    {
+      "id": "p-0429",
+      "kind": "body",
+      "text": "(l) Prakualifikasi gagal dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0430",
+      "kind": "letter",
+      "text": "a. setelah pemberian waktu perpanjangan, tidak ada",
+      "part": "body"
+    },
+    {
+      "id": "p-0431",
+      "kind": "body",
+      "text": "peserta yang menyampaikan dokumen kualifikasi: atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0432",
+      "kind": "letter",
+      "text": "b. jumlah peserta yang lulus prakualifikasi kurang dari 3 (tiga) peserta.",
+      "part": "body"
+    },
+    {
+      "id": "p-0433",
+      "kind": "paragraph",
+      "text": "(2) Tender/Seleksi gagal dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0434",
+      "kind": "letter",
+      "text": "a. terdapat kesalahan dalam proses evaluasi,",
+      "part": "body"
+    },
+    {
+      "id": "p-0435",
+      "kind": "letter",
+      "text": "b. tidak ada peserta yang menyampaikan dokumen penawaran setelah ada pemberian waktu perpanjangan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0436",
+      "kind": "letter",
+      "text": "c. tidak ada peserta yang lulus evaluasi penawaran,",
+      "part": "body"
+    },
+    {
+      "id": "p-0437",
+      "kind": "letter",
+      "text": "d. ditemukan kesalahan dalam Dokumen Pemilihan atau tidak sesuai dengan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0438",
+      "kind": "body",
+      "text": "Peraturan Presiden ini,",
+      "part": "body"
+    },
+    {
+      "id": "p-0439",
+      "kind": "letter",
+      "text": "e. seluruh peserta terlibat korupsi, kolusi, dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0440",
+      "kind": "body",
+      "text": "nepotisme,",
+      "part": "body"
+    },
+    {
+      "id": "p-0441",
+      "kind": "letter",
+      "text": "f. seluruh peserta terlibat persaingan usaha tidak sehat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0442",
+      "kind": "letter",
+      "text": "g. seluruh penawaran harga Tender Barang/Pekerjaan Konstruksi/Jasa Lainnya di atas HPS,",
+      "part": "body"
+    },
+    {
+      "id": "p-0443",
+      "kind": "letter",
+      "text": "h. negosiasi biaya pada Seleksi tidak tercapai, dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0444",
+      "kind": "letter",
+      "text": "i. korupsi, kolusi, dan/atau nepotisme melibatkan Pokja Pemilihan / PPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0445",
+      "kind": "paragraph",
+      "text": "(3) Tender Cepat gagal dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0446",
+      "kind": "letter",
+      "text": "a. tidak ada peserta atau hanya 1 (satu) peserta yang menyampaikan dokumen penawaran setelah ada pemberian waktu perpanjangan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0447",
+      "kind": "letter",
+      "text": "b. pemenang atau pemenang cadangan tidak ada yang menghadiri verifikasi data kualifikasi,",
+      "part": "body"
+    },
+    {
+      "id": "p-0448",
+      "kind": "letter",
+      "text": "c. ditenukan kesalahan dalam Dokumen Pemilihan atau tidak sesuai dengan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0449",
+      "kind": "body",
+      "text": "Peraturan Presiden ini,",
+      "part": "body"
+    },
+    {
+      "id": "p-0450",
+      "kind": "letter",
+      "text": "d. seluruh peserta terlibat korupsi, kolusi, dan/atau nepotisme,",
+      "part": "body"
+    },
+    {
+      "id": "p-0451",
+      "kind": "letter",
+      "text": "e. seluruh peserta terlibat persaingan usaha tidak sehat; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0452",
+      "kind": "letter",
+      "text": "f. korupsi, kolusi, dan/atau nepotisme melibatkan Pokja Pemilihan/ PPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0453",
+      "kind": "paragraph",
+      "text": "(4) Prakualifikasi gagal sebagaimana dimaksud pada ayat (1) dan Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf a sampai dengan huruf h dinyatakan oleh Pokja Pemilihan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0454",
+      "kind": "paragraph",
+      "text": "(5) Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf i dinyatakan oleh PA/KPA.",
+      "part": "body"
+    },
+    {
+      "id": "p-0455",
+      "kind": "paragraph",
+      "text": "(6) Tindak lanjut dari prakualifikasi gagal sebagaimana dimaksud pada ayat (1), Pokja Pemilihan segera melakukan prakualifikasi ulang dengan ketentuan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0456",
+      "kind": "letter",
+      "text": "a. setelah prakualifikasi ulang jumlah peserta yang lulus 2 (dua) peserta, proses Tender/Seleksi dilanjutkan, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0457",
+      "kind": "letter",
+      "text": "b. setelah prakualifikasi ulang jumlah peserta yang tulus 1 (satu) peserta, dilanjutkan dengan proses Penunjukan Langsung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0458",
+      "kind": "paragraph",
+      "text": "(7) Tindak lanjut dari Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2), Pokja Pemilihan segera melakukan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0459",
+      "kind": "letter",
+      "text": "a. evaluasi ulang, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0460",
+      "kind": "letter",
+      "text": "b. Tender/Seleksi ulang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0461",
+      "kind": "body",
+      "text": "(8 Evaluasi ulang sebagaimana dimaksud pada ayat (7) huruf a, dilakukan dalam hal ditemukan kesalahan evaluasi penawaran. |",
+      "part": "body"
+    },
+    {
+      "id": "p-0462",
+      "kind": "paragraph",
+      "text": "(9) Tender/Seleksi ulang sebagaimana dimaksud pada ayat (7) huruf b, dilakukan untuk Tender/ Seleksi gagal sebagaimana cimaksud pada ayat (2) huruf b sampai dengan hurut i.",
+      "part": "body"
+    },
+    {
+      "id": "p-0463",
+      "kind": "paragraph",
+      "text": "(10) Dalam hal Tender/Seleksi ulang sebagaimana dimaksud pada ayat (9) gagal, Pokja Pemilihan dengan persetujuan PA/ KPA melakukan Penunjukan Langsung dengan kriteria:",
+      "part": "body"
+    },
+    {
+      "id": "p-0464",
+      "kind": "letter",
+      "text": "a. kebutuhan tidak dapat ditunda, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0465",
+      "kind": "letter",
+      "text": "b. tidak cukup waktu untuk melaksanakan Tender/Seleksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0466",
+      "kind": "body",
+      "text": "Ps i. Rs ¥",
+      "part": "body"
+    },
+    {
+      "id": "p-0467",
+      "kind": "paragraph",
+      "text": "(11) Tindak lanjut dari Tender Cepat gagal sebagaimana dimaksud pada ayat (3), Pokja Pemilihan melakukan reviu penyebab kegagalan Tender Cepat dan melakukan Tender Cepat kembali atau mengganti metode pemilihan lain sebagaimana diatur dalam Pasal 38 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0468",
+      "kind": "number",
+      "text": "24. Ketentuan Pasal 58 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0469",
+      "kind": "article",
+      "text": "Pasal 52",
+      "part": "body"
+    },
+    {
+      "id": "p-0470",
+      "kind": "paragraph",
+      "text": "(1) PPK menyerahkan barang/jasa sebagaimana dimaksud dalam Pasal 57 kepada PA/KPA.",
+      "part": "body"
+    },
+    {
+      "id": "p-0471",
+      "kind": "paragraph",
+      "text": "(2) Serah terima sebagaimana dimaksud pada avat (1) dituangkan dalam berita acara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0472",
+      "kind": "number",
+      "text": "25. Ketentuan ayat (1), ayat (2) dan ayat (3) Pasal 61 diubah, serta di antara ayat (2) dan ayat (3) disisipkan 1 (satu) ayat yakni ayat (2a), sehingga Pasal 61 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0473",
+      "kind": "article",
+      "text": "Pasal 61",
+      "part": "body"
+    },
+    {
+      "id": "p-0474",
+      "kind": "paragraph",
+      "text": "(1) Dikecualikan dari ketentuan dalam Peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0475",
+      "kind": "body",
+      "text": "Presiden ini:",
+      "part": "body"
+    },
+    {
+      "id": "p-0476",
+      "kind": "letter",
+      "text": "a. Pengadaan Barang/Jasa pada Badan Layanan Umum/Badan Layanan Umum Daerah,",
+      "part": "body"
+    },
+    {
+      "id": "p-0477",
+      "kind": "letter",
+      "text": "b. Pengadaan Barang/Jasa yang dilaksanakan berdasarkan tarif yang dipublikasikan secara luas kepada masyarakat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0478",
+      "kind": "body",
+      "text": "Cc. Pengadaan Barang/Jasa yang dilaksanakan sesuai dengan praktik bisnis yang sudah mapan, dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0479",
+      "kind": "letter",
+      "text": "d. Pengadaan Barang/Jasa yang diatur dengan ketentuan peraturan perundang-undangan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0480",
+      "kind": "paragraph",
+      "text": "(2) Pengadaan Barang/Jasa pada Badan Layanan Umum/Badan Layanan Umum Daerah sebagaimana dimaksud pada ayat (1) huruf a diatur tersendiri dengan peraturan pimpinan Badan Layanan Umum/Badan Layanan Umum Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0481",
+      "kind": "body",
+      "text": "(2a) Dalam hal Badan Layanan Umum dan Badan Layanan Umum Daerah belum memiliki peraturan pengadaan barang/jasa tersendiri, pelaksanaan Pengadaan Barang/Jasa pada Badan Layanan Umum dan Badan Layanan Umum Daerah berpedoman pada",
+      "part": "body"
+    },
+    {
+      "id": "p-0482",
+      "kind": "body",
+      "text": "Peraturan Presiden ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0483",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan lebih lanjut mengenai pengecualian dalam Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Kepala Lembaga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0484",
+      "kind": "number",
+      "text": "26. Ketentuan Pasal 65 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0485",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0486",
+      "kind": "body",
+      "text": "Peran Serta Usaha Kecil dan Koperasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0487",
+      "kind": "article",
+      "text": "Pasal 62",
+      "part": "body"
+    },
+    {
+      "id": "p-0488",
+      "kind": "paragraph",
+      "text": "(1) Usaha kecil terdiri atas Usaha Mikro dan Usaha Kecil.",
+      "part": "body"
+    },
+    {
+      "id": "p-0489",
+      "kind": "paragraph",
+      "text": "(2) Kementerian/Lembaga/Pemerintah Daerah wajib menggunakan produk usaha kecil serta koperasi dari hasil produksi dalam negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0490",
+      "kind": "paragraph",
+      "text": "(3) Kementerian/Lembaga/ Pemerintah Daerah sebagaimana dimaksud pada ayat (2) wajib mengalokasikan paling sedikit 40% (empat puluh persen) dari nilai anggaran belanja barang/jasa Kementerian /Lembaga/ Pemerintah Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0491",
+      "kind": "paragraph",
+      "text": "(4) Paket pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran sampai dengan Rp15.000.000.000,00 (lima belas miliar rupiah) diperuntukan bagi usaha kecil dan/atau koperasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0492",
+      "kind": "paragraph",
+      "text": "(5) Nila Pagu Anggaran pengadaan sebagaimana dimaksud pada ayat (4) dikecualikan untuk paket pekerjaan yang menuntut kemampuan teknis yang tidak dapat dipenuhi oleh usaha kecil dan koperasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0493",
+      "kind": "paragraph",
+      "text": "(6) Kementerian yang menyelenggarakan urusan pemerintahan di bidang koperasi dan usaha kecil dan Pemerintah Daerah memperluas peran serta usaha kecil dan koperasi dengan mencantumkan barang/jasa produksi usaha kecil dan koperasi dalam katalog elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0494",
+      "kind": "paragraph",
+      "text": "(7) Penyedia usaha nonkecil atau koperasi yang melaksanakan pekerjaan melakukan kerja sama usaha dengan usaha kecil dan/atau koperasi dalam bentuk kemitraan, subkontrak, atau bentuk kerja sama lainnya, jika ada usaha kecil atau koperasi yang memiliki kemampuan di bidang yang bersangkutan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0495",
+      "kind": "paragraph",
+      "text": "(8) Kerja sama dengan usaha kecil dan/atau koperasi sebagaimana dimaksud pada ayat (7) dicantumkan dalam Dokumen Pemilihan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0496",
+      "kind": "number",
+      "text": "27. Ketentuan ayat (2), ayat (3) dan ayat (4) Pasal 66 diubah, dan diantara ayat (3) dan ayat (4) disisipkan 1 (satu) ayat yakni ayat (3a), sehingga Pasal 56 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0497",
+      "kind": "article",
+      "text": "Pasal 63",
+      "part": "body"
+    },
+    {
+      "id": "p-0498",
+      "kind": "paragraph",
+      "text": "(1) Kementerian/Lembaga/Perangkat Daerah wajib menggunakan produk dalam negeri, termasuk rancang bangun dan perekayasaan nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0499",
+      "kind": "paragraph",
+      "text": "(2) Kewajiban penggunaan produk dalam negeri sebagaimana dimaksud pada ayat (1) dilakukan apabila terdapat produk dalam negeri yang memiliki penjumlahan nilai Tingkat Komponen Dalam Negeri (TKDN) ditambah nilai Bobot Manfaat Perusahaan (BMP) paling sedikit 40% (ernpat puluh persen).",
+      "part": "body"
+    },
+    {
+      "id": "p-0500",
+      "kind": "paragraph",
+      "text": "(3) Nilai TKDN dan BMP sebagaimana dimaksud pada ayat (2) mengacu pada daftar inventarisasi barang/jasa produksi dalam negeri yang diterbitkan oleh kementerian vang menyelenggarakan urusan pemerintahan di bidang perindustrian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0501",
+      "kind": "body",
+      "text": "(Sa) Kewajiban penggunaan produk dalam negeri sebagaimana dimaksud pada ayat (2) dilakukan pada tahap Perencanaan Pengadaan, Persiapan Pengadaan, atau Pemilihan Penyedia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0502",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan sebagaimana dimaksud pada ayat (3a) dicantumkan dalam RUP, spesifikasi teknis/KAK, dan Dokumen Pemilihan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0503",
+      "kind": "body",
+      "text": "(S5) Pengadaan barang impor dapat dilakukan, dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0504",
+      "kind": "letter",
+      "text": "a. barang tersebut belum dapat diprcduksi di dalam negeri, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0505",
+      "kind": "letter",
+      "text": "b. volume produksi dalam negeri tidak mampu memenuhi kebutuhan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0506",
+      "kind": "paragraph",
+      "text": "(6) LKPP dan/atau Kementerian/Lembaga/ Pemerintah Daerah memperbanyak pencantuman produk dalam negeri dalam katalog elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0507",
+      "kind": "number",
+      "text": "28. Ketentuan Pasal 67 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0508",
+      "kind": "article",
+      "text": "Pasal 64",
+      "part": "body"
+    },
+    {
+      "id": "p-0509",
+      "kind": "paragraph",
+      "text": "(1) Preferensi harga merupakan insentif bagi produk dalam negeri pada pemilihan Penyedia berupa kelebihan harga yang danat diterima.",
+      "part": "body"
+    },
+    {
+      "id": "p-0510",
+      "kind": "paragraph",
+      "text": "(2) Preferensi harga diberlakukan untuk Pengadaan Barang/Jasa dengan nilai HPS paling sedikit di atas Rp1.000.000.000,00 (satu miliar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0511",
+      "kind": "paragraph",
+      "text": "(3) Preferensi harga diberikan pada pengadaan Barang dengan ketentuan sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0512",
+      "kind": "letter",
+      "text": "a. diberikan terhadap Barang yang meiniliki TKDN paling rendah 25% (dua puluh lima persen),",
+      "part": "body"
+    },
+    {
+      "id": "p-0513",
+      "kind": "letter",
+      "text": "b. diberikan paling tinggi 25% (dua puluh lima persen),",
+      "part": "body"
+    },
+    {
+      "id": "p-0514",
+      "kind": "letter",
+      "text": "c. diperhitungkan dalam evaluasi harga penawaran yang telah memenuhi persyaratan administrasi dan teknis, -",
+      "part": "body"
+    },
+    {
+      "id": "p-0515",
+      "kind": "letter",
+      "text": "d. penetapan pemenang berdasarkan urutan harga terendah Hasil Evaluasi Akhir (HEA);",
+      "part": "body"
+    },
+    {
+      "id": "p-0516",
+      "kind": "letter",
+      "text": "e. HEA dihitung dengan rumus HEA = (1 — KP) x HP dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0517",
+      "kind": "body",
+      "text": "KP = TKDN x preferensi tertinggi KP merupakan Koefisien Preferensi",
+      "part": "body"
+    },
+    {
+      "id": "p-0518",
+      "kind": "body",
+      "text": "HP merupakan Harga Penawaran setelah koreksi aritmatik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0519",
+      "kind": "letter",
+      "text": "f. dalam hal terdapat 2 (dua) atau lebih penawaran dengan HEA terendah yang sama, penawar dengan TKDN lebih besar ditetapkan sebagai pemenang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0520",
+      "kind": "paragraph",
+      "text": "(4) Untuk Pekerjaan Konstruksi pada metode pemilihan Tender Internasional, preferensi harga diberikan paling tinggi 7,5% (tujuh koma lima persen) kepada badan usaha nasional di atas harga penawaran terendah dari badan usaha asing.",
+      "part": "body"
+    },
+    {
+      "id": "p-0521",
+      "kind": "number",
+      "text": "29. Ketentuan ayat (2), ayat (3) dan ayat (5) Pasal 72 diubah, serta ayat (4) Pasal 72 dihapus, sehingga Pasal 72 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0522",
+      "kind": "article",
+      "text": "Pasal 72",
+      "part": "body"
+    },
+    {
+      "id": "p-0523",
+      "kind": "paragraph",
+      "text": "(1) Katalog elektronik dapat berupa katalog elektronik nasional, katalog elektronik sektoral, dan katalog elektronik lokal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0524",
+      "kind": "paragraph",
+      "text": "(2) Katalog elektronik sebagaimana dimaksud pada ayat (1) memuat informasi berupa daftar, jenis, spesifikasi teknis, TKDN, produk dalam negeri, produk SNI, produk ramah lingkungan hidup, negara asal, harga, Penyedia, dan informasi lainnya terkait barang/jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0525",
+      "kind": "paragraph",
+      "text": "(3) Pengelolaan katalog elektronik dilaksanakan oleh Kementerian/Lembaga/Pemerintah Daerah atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0526",
+      "kind": "paragraph",
+      "text": "(4) Dihapus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0527",
+      "kind": "paragraph",
+      "text": "(5) Ketentuan lebih lanjut mengenai pengelolaan katalog elektronik sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Kepala Lembaga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0528",
+      "kind": "number",
+      "text": "30. Di antara Pasal 72 dan Pasal 73 disisipkan 1 (satu) pasal, yakni Pasal 72A sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0529",
+      "kind": "article",
+      "text": "Pasal 72A",
+      "part": "body"
+    },
+    {
+      "id": "p-0530",
+      "kind": "paragraph",
+      "text": "(1) Barang/jasa yang ditransaksikan melalui Toko Daring memiliki kriteria:",
+      "part": "body"
+    },
+    {
+      "id": "p-0531",
+      "kind": "letter",
+      "text": "a. standar atau dapat distandarkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0532",
+      "kind": "letter",
+      "text": "b. memiliki sifat risiko rendah, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0533",
+      "kind": "letter",
+      "text": "c. harga sudah terbentuk di pasar.",
+      "part": "body"
+    },
+    {
+      "id": "p-0534",
+      "kind": "paragraph",
+      "text": "(2) Barang/jasa sebagaimana dimaksud pada ayat (1) tidak ditayangkan pada katalog elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0535",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan lebih lanjut mengenai Toko Daring diatur dalam Peraturan Kepala Lembaga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0536",
+      "kind": "number",
+      "text": "31. Ketentuan Pasal 74 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0537",
+      "kind": "article",
+      "text": "Pasal 74",
+      "part": "body"
+    },
+    {
+      "id": "p-0538",
+      "kind": "paragraph",
+      "text": "(1) Sumber Daya Manusia Pengadaan Barang/Jasa terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0539",
+      "kind": "body",
+      "text": "aise 2 k Og AG \"ag",
+      "part": "body"
+    },
+    {
+      "id": "p-0540",
+      "kind": "letter",
+      "text": "a. Sumber Daya Pengelola Fungsi Pengadaan Barang/Jasa,",
+      "part": "body"
+    },
+    {
+      "id": "p-0541",
+      "kind": "letter",
+      "text": "b. Sumber Daya Perancang Kebijakan dan Sistem Pengadaan Barang/Jasa, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0542",
+      "kind": "letter",
+      "text": "c. Sumber Daya Pendukung Ekosistem Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0543",
+      "kind": "paragraph",
+      "text": "(2) Sumber Daya Pengelola Fungsi Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf a merupakan sumber daya manusia yang melaksanakan fungsi pengadaan barang/jasa di lingkungan Kementerian / Lembaga/ Pemerintah Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0544",
+      "kind": "paragraph",
+      "text": "(3) Sumber Daya Perancang Kebijakan dan Sistem Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf b merupakan sumber daya manusia yang melaksanakan perancangan kebijakan dan sistem Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0545",
+      "kind": "paragraph",
+      "text": "(4) Sumber Daya Pendukung Ekosistem Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf c merupakan sumber daya manusia yang terdiri dari berbagai keahlian tertentu dalam mendukung pelaksanaan Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0546",
+      "kind": "paragraph",
+      "text": "(5) Ketentuan mengenai Sumber Daya Manusia Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf b dan huruf c berdasarkan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0547",
+      "kind": "number",
+      "text": "32. Di antara Pasal 74 dan Pasal 75 disisipkan 2 (dua) pasal yakni Pasal 74A dan Pasal 74B sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0548",
+      "kind": "article",
+      "text": "Pasal 74A",
+      "part": "body"
+    },
+    {
+      "id": "p-0549",
+      "kind": "paragraph",
+      "text": "(1) Sumber Daya Pengelola Fungsi Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 74 ayat (1) huruf a, terdiri atas:",
+      "part": "body"
+    },
+    {
+      "id": "p-0550",
+      "kind": "letter",
+      "text": "a. Pengelola Pengadaan Barang/Jasa, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0551",
+      "kind": "letter",
+      "text": "b. Personel Lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0552",
+      "kind": "body",
+      "text": "roe re A om",
+      "part": "body"
+    },
+    {
+      "id": "p-0553",
+      "kind": "paragraph",
+      "text": "(2) Kementerian/Lembaga/Pemerintah Daerah wajib memiliki Pengelola Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf a sebagai Pokja Pemilihan/Pejabat Pengadaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0554",
+      "kind": "paragraph",
+      "text": "(3) Pengelola Pengadaan Barang/Jasa dapat ditugaskan sebagai PPK, membantu tugas PA/KPA, melaksanakan persiapan pencantuman barang/jasa dalam katalog elektronik, dan ditugaskan sebagai Sumber Daya Pendukung Ekosistem Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0555",
+      "kind": "paragraph",
+      "text": "(4) Kewajiban sebagaimana dimaksud pada ayat (2) dikecualikan untuk Kementerian/Lembaga dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0556",
+      "kind": "letter",
+      "text": "a. nilai atau jumlah paket pengadaan di Kementerian/Lembaga tidak mencukupi untuk memenuhi pencapaian batas angka kredit minimum pertahun bagi Pengelola Pengadaan Barang/Jasa, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0557",
+      "kind": "letter",
+      "text": "b. Sumber Daya Pengelola Fungsi Pengadaan Barang/Jasa diiakukan oleh prajurit Tentara Nasional Indonesia atau anggota Kepolisian Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0558",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal pengecualian sebagaimana dimaksud pada ayat (4), pengelolaan pengadaan Barang/Jasa dilakukan oleh Personel Lainnya sebagaimana dimaksud pada ayat (1) huruf b.",
+      "part": "body"
+    },
+    {
+      "id": "p-0559",
+      "kind": "paragraph",
+      "text": "(6) Personel Lainnya sebagaimana dimaksud pada ayat (5) wajib memiliki sertifikat kcmpetensi di bidang Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0560",
+      "kind": "paragraph",
+      "text": "(7) Dalam hal Personel Lainnya belum memiliki sertifikat kompetensi di bidang Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (6) wajib memiliki sertifikat Pengadaan Barang/Jasa tingkat dasar/level-1.",
+      "part": "body"
+    },
+    {
+      "id": "p-0561",
+      "kind": "paragraph",
+      "text": "(8) Sumber Daya Pengelola Fungsi Pengadaan Barang/Jasa berkedudukan di UKPBJ.",
+      "part": "body"
+    },
+    {
+      "id": "p-0562",
+      "kind": "paragraph",
+      "text": "(9) Atas dasar pertimbangan kewenangan, Sumber Daya Pengelola Fungsi Pengadaar. - Barang/Jasa yang ditugaskan sebagai PPK dapat berkedudukan di luar",
+      "part": "body"
+    },
+    {
+      "id": "p-0563",
+      "kind": "body",
+      "text": "Pai Og zy | aya",
+      "part": "body"
+    },
+    {
+      "id": "p-0564",
+      "kind": "article",
+      "text": "Pasal 74B",
+      "part": "body"
+    },
+    {
+      "id": "p-0565",
+      "kind": "paragraph",
+      "text": "(1) Kementerian/Lembaga/Pemerintah Daerah yang wajib memiliki Pengelola Pengadaan Barang/Jasa menyusun rencana aksi pemenuhan Pengelola Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0566",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal jumlah Pengelola Pengadaan Barang/Jasa di lingkungan Kementerian/Lembaga/Pemerintah Daerah belum mencukupi sesuai rencana aksi pemenuhan Pengelola Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1), maka:",
+      "part": "body"
+    },
+    {
+      "id": "p-0567",
+      "kind": "letter",
+      "text": "a. pelaksanaan tugas Pokja Pemilihan dilakukan dengan ketentuan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0568",
+      "kind": "number",
+      "text": "1. Pokja Pemilihan untuk setiap paket pengadaan, wajib beranggotakan sekurang-kurangnya 1 (satu) Pengelola Pengadaan Barang/Jasa, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0569",
+      "kind": "number",
+      "text": "2. Anggota Pokja Pemilihan selain Pengelola Pengadaan Barang/Jasa dilaksanakan oleh Pegawai Negeri Sipil yang memiliki sertifikat kompetensi. dan/atau sertifikat keahlian tingkat dasar/level-1 di bidang Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0570",
+      "kind": "letter",
+      "text": "b. pelaksanaan tugas Pejabat Pengadaan yang tidak dapat dilakukan oleh Pengelola Pengadaan Barang/Jasa, dilakukan oleh Pegawai Negeri Sipl yang memiliki sertifikat kompetensi dan/atau sertifikat keahlian tingkat dasar/level-1 di bidang Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0571",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal Kementerian /Lembaga/ Pemerintah Daerah belum memiliki Pengelola Pengadaan Barang/Jasa, sampai tersedianya Pengelola Pengadaan berdasarkan rencana aksi pemenuhan Pengelola Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat.(l), pelaksanaan tugas Pokja Pemilihan/Pejabat Pengadaan dilaksanakan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0572",
+      "kind": "letter",
+      "text": "a. Pegawai Negeri Sipil yang memiliki sertifikat kompetensi dan/atau sertifikat keahlian tingkat dasar/level-1 di bidang Pengadaai: Barang/Jasa: dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0573",
+      "kind": "letter",
+      "text": "b. Agen Pengadaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0574",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai rencana aksi pemenuhan Pengelola Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Kepala Lembaga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0575",
+      "kind": "number",
+      "text": "33. Ketentuan ayat (1) Pasal 75 diubah, di antara ayat (3) dan ayat (4) disisipkan 1 (satu) ayat, yakni ayat (3a), dan ketentuan Pasal 75 ditambahkan 3 (tiga) ayat yakni ayat (5), ayat (6), dan ayat (7), sehingga Pasal 75 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0576",
+      "kind": "article",
+      "text": "Pasal 75",
+      "part": "body"
+    },
+    {
+      "id": "p-0577",
+      "kind": "paragraph",
+      "text": "(1) Menteri/kepala lembaga/kepala daerah membentuk UKPBJ yang memiliki tugas menyelenggarakan dukungan pengadaan barang/jasa pada Kementerian /Lembaga/ Pemerintah Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0578",
+      "kind": "paragraph",
+      "text": "(2) Dalam rangka pelaksanaan tugas UKPBJ sebagaimana dimaksud pada ayat (1), UKPBJ memiliki fungsi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0579",
+      "kind": "letter",
+      "text": "a. pengelolaan Pengadaan Barang/Jasa,",
+      "part": "body"
+    },
+    {
+      "id": "p-0580",
+      "kind": "letter",
+      "text": "b. pengelolaan layanan pengadaan secara elektronik,",
+      "part": "body"
+    },
+    {
+      "id": "p-0581",
+      "kind": "letter",
+      "text": "c. pembinaan Sumber Daya Manusia dan Kelembagaan Pengadaan Barang/Jasa,",
+      "part": "body"
+    },
+    {
+      "id": "p-0582",
+      "kind": "letter",
+      "text": "d. pelaksanaan pendampingan, konsultasi, dan/atau bimbingan teknis, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0583",
+      "kind": "letter",
+      "text": "e. pelaksanaan tugas lain yang diberikan oleh",
+      "part": "body"
+    },
+    {
+      "id": "p-0584",
+      "kind": "body",
+      "text": "menteri/ kepala lembaga/kepala daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0585",
+      "kind": "paragraph",
+      "text": "(3) UKPBJ sebagaimana dimaksud pada ayat (1) berbentuk struktural dan ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0586",
+      "kind": "body",
+      "text": "(3a) Kepala UKPBJ wajib memenuhi standar kompetensi jabatan yang mencakup kompetensi teknis di bidang Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0587",
+      "kind": "paragraph",
+      "text": "(4) Fungsi pengelolaan layanan pengadaan secara elektronik sebagaimana dimaksud pada ayat (2) huruf b, dapat dilaksanakan oleh unit kerja terpisah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0588",
+      "kind": "paragraph",
+      "text": "(5) Pembentukan UKPBJ sebagaimana dimaksud ayat (1) dikecualikan bagi Lembaga yang tidak memenuhi kriteria untuk membentuk UKPBJ.",
+      "part": "body"
+    },
+    {
+      "id": "p-0589",
+      "kind": "body",
+      "text": "ft TS 1g",
+      "part": "body"
+    },
+    {
+      "id": "p-0590",
+      "kind": "paragraph",
+      "text": "(6) UKPBJ Kementerian/Lembaga/Pemerintah Daerah melaksanakan peningkatan kapabilitas UKPBJ melalui model kematangan UKPBJ untuk menuju pusat keunggulan Pengadaan Barang/Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0591",
+      "kind": "paragraph",
+      "text": "(7) Ketentuan lebih lanjut mengenai Lembaga yang tidak memenuhi kriteria untuk membentuk UKPBJ sebagaimana dimaksud pada ayat (5) dan pelaksanaan peningkatan kapabilitas UKPBJ melalui model kematangan UKPBJ sebagaimana dimaksud pada ayat (6) diatur dalam Peraturan Kepala Lembaga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0592",
+      "kind": "number",
+      "text": "34. Ketentuan Pasal 78 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0593",
+      "kind": "article",
+      "text": "Pasal 76",
+      "part": "body"
+    },
+    {
+      "id": "p-0594",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal peserta pemilihan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0595",
+      "kind": "letter",
+      "text": "a. menyampaikan dokumen atau keterangan palsu/tidak benar untuk memenuhi persyaratan yang ditentukan dalam Dokumen Pemilihan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0596",
+      "kind": "letter",
+      "text": "b. terindikasi melakukan persekongkolan dengan peserta lain untuk mengatur harga penawaran,",
+      "part": "body"
+    },
+    {
+      "id": "p-0597",
+      "kind": "letter",
+      "text": "c. terindikasi melakukan korupsi, kolusi, dan/atau nepotisme dalam pemilihan Penyedia, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0598",
+      "kind": "letter",
+      "text": "d. mengundurkan diri dengan alasan yang tidak dapat diterima oleh Pejabat Pengadaan/Pokja Pemilihan /Agen Pengadaan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0599",
+      "kind": "body",
+      "text": "peserta pemilihan dikenai sanksi administratif.",
+      "part": "body"
+    },
+    {
+      "id": "p-0600",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal pemenang pemilihan mengundurkan diri dengan alasan yang tidak dapat diterima sebelum penandatanganan Kontrak, pemenang pemilihan dikenai sanksi administratif.",
+      "part": "body"
+    },
+    {
+      "id": "p-0601",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal Penyedia:",
+      "part": "body"
+    },
+    {
+      "id": "p-0602",
+      "kind": "letter",
+      "text": "a. tidak melaksanakan Kontrak, tidak menyelesaikan pekerjaan, atau tidak melaksanakan kewajiban dalam masa pemeliharaan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0603",
+      "kind": "letter",
+      "text": "b. menyebabkan kegagalan bangunan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0604",
+      "kind": "body",
+      "text": "gest Jr Hg yy, \"hig",
+      "part": "body"
+    },
+    {
+      "id": "p-0605",
+      "kind": "letter",
+      "text": "c. menyerahkan Jaminan yang tidak dapat dicairkan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0606",
+      "kind": "letter",
+      "text": "d. melakukan kesalahan dalam perhitungan jumlah/volume hasil pekerjaan berdasarkan hasil audit,",
+      "part": "body"
+    },
+    {
+      "id": "p-0607",
+      "kind": "letter",
+      "text": "e. menyerahkan barang/jasa yang kualitasnya tidak sesuai dengan Kontrak berdasarkan hasil",
+      "part": "body"
+    },
+    {
+      "id": "p-0608",
+      "kind": "body",
+      "text": "audit, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0609",
+      "kind": "letter",
+      "text": "f. ' terlambat menyelesaikan pekerjaan sesuai dengan Kontrak,",
+      "part": "body"
+    },
+    {
+      "id": "p-0610",
+      "kind": "body",
+      "text": "Penyedia dikenai sanksi administratif.",
+      "part": "body"
+    },
+    {
+      "id": "p-0611",
+      "kind": "paragraph",
+      "text": "(4) Perbuatan atau tindakan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) dikenakan sanksi administratif berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0612",
+      "kind": "letter",
+      "text": "a. sanksi digugurkan dalam pemilihan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0613",
+      "kind": "letter",
+      "text": "b. sanksi pencairan jaminan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0614",
+      "kind": "letter",
+      "text": "c. Sanksi Daftar Hitam,",
+      "part": "body"
+    },
+    {
+      "id": "p-0615",
+      "kind": "letter",
+      "text": "d. sanksi ganti kerugian, dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0616",
+      "kind": "letter",
+      "text": "e. sanksi denda.",
+      "part": "body"
+    },
+    {
+      "id": "p-0617",
+      "kind": "paragraph",
+      "text": "(5) Pelanggaran atas ketentuan sebagaimana dimaksud pada:",
+      "part": "body"
+    },
+    {
+      "id": "p-0618",
+      "kind": "letter",
+      "text": "a. ayat (1) huruf a sampai dengan huruf c dikenakan sanksi digugurkan dalam pemilihan, sanksi pencairan Jaminan Penawaran, dan Sanksi Daftar Hitam selama 2 (dua) tahun,",
+      "part": "body"
+    },
+    {
+      "id": "p-0619",
+      "kind": "letter",
+      "text": "b. ayat (1) huruf d dikenakan sanksi pencairan Jaminan Penawaran dan Sanksi Daftar Hitam selama 1 (satu) tahun;",
+      "part": "body"
+    },
+    {
+      "id": "p-0620",
+      "kind": "letter",
+      "text": "c. ayat (2) dikenakan sanksi pencairan Jaminan Penawaran dan Sanksi Daftar Hitam selama 1 (satu) tahun,",
+      "part": "body"
+    },
+    {
+      "id": "p-0621",
+      "kind": "letter",
+      "text": "d. ayat (3) huruf a dikenakan sanksi pencairan Jaminan Pelaksanaan atau sanksi pencairan Jaminan Pemeliharaan, dan Sanksi Daftar Hitam selama 1 (satu) tahun,",
+      "part": "body"
+    },
+    {
+      "id": "p-0622",
+      "kind": "letter",
+      "text": "e. ayat (3) huruf b sampai dengan huruf e dikenakan sanksi ganti kerugian sebesar nilai kerugian yang ditimbulkan, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0623",
+      "kind": "body",
+      "text": "rs be A",
+      "part": "body"
+    },
+    {
+      "id": "p-0624",
+      "kind": "letter",
+      "text": "f. ayat (3) huruf f dikenakan sanksi denda keterlambatan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0625",
+      "kind": "number",
+      "text": "35. Ketentuan ayat (1) huruf c dan huruf e Pasal 80 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0626",
+      "kind": "article",
+      "text": "Pasal 80",
+      "part": "body"
+    },
+    {
+      "id": "p-0627",
+      "kind": "paragraph",
+      "text": "(1) Perbuatan atau tindakan peserta pemilihan yang dikenakan sanksi dalam proses katalog berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0628",
+      "kind": "letter",
+      "text": "a. menyampaikan dokumen atau keterangan palsu/tidak benar untuk memenuhi persyaratan yang ditentukan dalam Dokumen Pemilihan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0629",
+      "kind": "letter",
+      "text": "b. terindikasi melakukan persekongkolan dengan peserta lain untuk mengatur harga penawaran,",
+      "part": "body"
+    },
+    {
+      "id": "p-0630",
+      "kind": "letter",
+      "text": "c. terindikasi melakukan korupsi, kolusi, dan/atau nepotisme dalam pemilihan Penyedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0631",
+      "kind": "letter",
+      "text": "d. mengundurkan diri dengan alasan yang tidak dapat diterima Pokja Pemilihan / Agen Pengadaan, atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0632",
+      "kind": "letter",
+      "text": "e. tidak menandatangani kontrak katalog.",
+      "part": "body"
+    },
+    {
+      "id": "p-0633",
+      "kind": "paragraph",
+      "text": "(2) Perbuatan atau tindakan Penyedia yang dikenakan sanksi dalam proses E-purchasing berupa tidak memenuhi kewajiban dalam Kontrak pada katalog elektronik atau surat pesanan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0634",
+      "kind": "paragraph",
+      "text": "(3) Perbuatan atau tindakan sebagaimana dimaksud pada ayat (1) dan ayat (2) dikenakan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0635",
+      "kind": "letter",
+      "text": "a. sanksi digugurkan dalam pemilihan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0636",
+      "kind": "letter",
+      "text": "b. Sanksi Daftar Hitam:",
+      "part": "body"
+    },
+    {
+      "id": "p-0637",
+      "kind": "letter",
+      "text": "c. sanksi penghentian sementara dalam sistem transaksi E-purchasing, dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0638",
+      "kind": "letter",
+      "text": "d. sanksi penurunan pencantuman Penyedia dari katalog elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0639",
+      "kind": "body",
+      "text": "Pas £ Evi Tae",
+      "part": "body"
+    },
+    {
+      "id": "p-0640",
+      "kind": "paragraph",
+      "text": "(4) Pelanggaran atas ketentuan sebagaimana dimaksud pada:",
+      "part": "body"
+    },
+    {
+      "id": "p-0641",
+      "kind": "letter",
+      "text": "a. ayat (1) huruf a sampai dengan huruf c dikenakan sanksi digugurkan dalam pemilihan dan Sanksi Daftar Hitam selama 2 (dua) tahun,",
+      "part": "body"
+    },
+    {
+      "id": "p-0642",
+      "kind": "letter",
+      "text": "b. ayat (1) huruf d dan huruf e dikenakan Sanksi Daftar Hitam selama 1 (satu) tahun,",
+      "part": "body"
+    },
+    {
+      "id": "p-0643",
+      "kind": "letter",
+      "text": "c. ayat (2) atas pelanggaran surat pesanan dikenakan sanksi penghentian sementara dalam sistem transaksi E-purchasing selama 6 (enam) bulan: atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0644",
+      "kind": "letter",
+      "text": "d. ayat (2) atas pelanggaran Kontrak pada katalog elektronik dikenakan sanksi penurunan pencantuman Penyedia dari katalog elektronik selama 1 (satu) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0645",
+      "kind": "paragraph",
+      "text": "(5) Pengenaan sanksi sebagaimana dimaksud pada ayat (4) ditetapkan oleh Kementerian/Lembaga/ Perangkat Daerah atas usulan Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan dan/atau PPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0646",
+      "kind": "number",
+      "text": "36. Ketentuan ayat (1) dan ayat (3) Pasal 82 diubah, sehingga Pasal 82 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0647",
+      "kind": "article",
+      "text": "Pasal 82",
+      "part": "body"
+    },
+    {
+      "id": "p-0648",
+      "kind": "paragraph",
+      "text": "(1) Sanksi administratif dikenakan kepada PA/KPA/PPK/Pejabat Pengadaan/Pokja Pemilihan yang lalai melakukan suatu perbuatan yang menjadi kewajibannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0649",
+      "kind": "paragraph",
+      "text": "(2) Pemberian sanksi administratif sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Pejabat Pembina Kepegawaian/pejabat yang berwenang sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0650",
+      "kind": "body",
+      "text": "Fu Hg AN",
+      "part": "body"
+    },
+    {
+      "id": "p-0651",
+      "kind": "paragraph",
+      "text": "(3) Sanksi hukuman disiplin ringan, sedang, atau berat dikenakan kepada PA/KPA/PPK/ Pejabat Pengadaan/Pokja Pemilihan yang terbukti melanggar pakta integritas berdasarkan putusan Komisi Pengawas Persaingan Usaha, Peradilan Umum, atau Peradilan Tata Usaha Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0652",
+      "kind": "number",
+      "text": "37. Ketentuan ayat (1) Pasal 83 diubah, sehingga Pasal 83 berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0653",
+      "kind": "article",
+      "text": "Pasal 83",
+      "part": "body"
+    },
+    {
+      "id": "p-0654",
+      "kind": "paragraph",
+      "text": "(1) PA/KPA menayangkan informasi peserta pemilihan/Penyedia yang dikenakan Sanksi Daftar Hitam dalam Daftar Hitam Nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0655",
+      "kind": "paragraph",
+      "text": "(2) LKPP menyelenggarakan Daftar Hitam Nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0656",
+      "kind": "number",
+      "text": "38. Ketentuan Pasal 85 diubah, sehingga berbunyi sebagai berikut:",
+      "part": "body"
+    },
+    {
+      "id": "p-0657",
+      "kind": "article",
+      "text": "Pasal 85",
+      "part": "body"
+    },
+    {
+      "id": "p-0658",
+      "kind": "body",
+      "text": "(l) Penyelesaian sengketa Kontrak antara PPK dan Penyedia dalam pelaksanaan Kontrak dapat dilakukan melalui:",
+      "part": "body"
+    },
+    {
+      "id": "p-0659",
+      "kind": "letter",
+      "text": "a. layanan penyelesaian sengketa Kontrak,",
+      "part": "body"
+    },
+    {
+      "id": "p-0660",
+      "kind": "letter",
+      "text": "b. arbitrase,",
+      "part": "body"
+    },
+    {
+      "id": "p-0661",
+      "kind": "letter",
+      "text": "c. Dewan Sengketa Konstruksi: atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0662",
+      "kind": "letter",
+      "text": "d. penyelesaian melalui pengadilan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0663",
+      "kind": "paragraph",
+      "text": "(2) Layanan penyelesaian sengketa Kontrak sebagaimana dimaksud pada ayat (1) huruf a diselenggarakan oleh LKPP.",
+      "part": "body"
+    },
+    {
+      "id": "p-0664",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan mengenai Dewan Sengketa Konstruksi sebagaimana dimaksud pada ayat (1) huruf c diatur dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang pekerjaan umum dan perumahan rakyat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0665",
+      "kind": "article",
+      "text": "Pasal II",
+      "part": "body"
+    },
+    {
+      "id": "p-0666",
+      "kind": "body",
+      "text": "Pi Og xy hy «",
+      "part": "body"
+    },
+    {
+      "id": "p-0667",
+      "kind": "number",
+      "text": "1. Pada saat Peraturan Presiden ini mulai berlaku, kewajiban memiliki sertifikat kompetensi untuk Personel Lainnya sebagaimana dimaksud dalam Pasal 74A ayat (6) dilaksanakan paling lambat 31 Desember 2023.",
+      "part": "body"
+    },
+    {
+      "id": "p-0668",
+      "kind": "number",
+      "text": "2. Pada saat Peraturan Presiden ini mulai berlaku, fungsi pengelolaan layanan pengadaan secara elektronik yang dilaksanakan oleh unit kerja terpisah sebagaimana dimaksud dalam Pasal 75 ayat (4) berlaku sampai dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0669",
+      "kind": "body",
+      "text": "31 Desember 2023.",
+      "part": "body"
+    },
+    {
+      "id": "p-0670",
+      "kind": "number",
+      "text": "3. Pada saat Peraturan Presiden ini mulai berlaku, Pengadaan Pekerjaan Konstruksi/Pengadaan Jasa Konsultansi Konstruksi/ Pekerjaan Konstruksi Terintegrasi tetap dilaksanakan sesuai:",
+      "part": "body"
+    },
+    {
+      "id": "p-0671",
+      "kind": "letter",
+      "text": "a. Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 14 Tahun 2020 tentang Standar dan Pedoman Pengadaan Jasa Konstruksi Melalui Penyedia dan peraturan pelaksana, dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0672",
+      "kind": "letter",
+      "text": "b. Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 1 Tahun 2020 tentang Standar dan Pedoman Pengadaan Pekerjaan Konstruksi Terintegrasi Rancang Bangun Melalui Penyedia sebagaimana telah diubah dengan Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 25 Tahun 2020 tentang Perubahan Atas Peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0673",
+      "kind": "body",
+      "text": "Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 1 Tahun 2020 tentang Standar dan Pedoman Pengadaan Pekerjaan Konstruksi Terintegrasi Rancang Bangun Melalui Penyedia dan peraturan pelaksana,",
+      "part": "body"
+    },
+    {
+      "id": "p-0674",
+      "kind": "body",
+      "text": "sampai diterbitkannya Peraturan Kepala Lembaga mengenai Pengadaan Pekerjaan Konstruksi/ Pengadaan Jasa Konsultansi Konstruksi/Pekerjaan Konstruksi Terintegrasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0675",
+      "kind": "number",
+      "text": "4. Peraturan Presiden ini mulai berlaku pada tanggal diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0676",
+      "kind": "body",
+      "text": "TS Nog Lg",
+      "part": "body"
+    },
+    {
+      "id": "p-0677",
+      "kind": "body",
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Presiden ini dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0678",
+      "kind": "body",
+      "text": "penempatannya dalam Lembaran Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0679",
+      "kind": "body",
+      "text": "Ditetapkan di Jakarta pada tanggal 2 Februari 2021",
+      "part": "body"
+    },
+    {
+      "id": "p-0680",
+      "kind": "body",
+      "text": "PRESIDEN, ttd.",
+      "part": "body"
+    },
+    {
+      "id": "p-0681",
+      "kind": "body",
+      "text": "JOKO WIDODO",
+      "part": "body"
+    },
+    {
+      "id": "p-0682",
+      "kind": "closing",
+      "text": "Diundangkan di Jakarta pada tanggal 2 Februari 2021",
+      "part": "body"
+    },
+    {
+      "id": "p-0683",
+      "kind": "body",
+      "text": "MENTERI HUKUM DAN HAK ASASI MANUSIA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0684",
+      "kind": "body",
+      "text": "YASONNA H. LAOLY",
+      "part": "body"
+    },
+    {
+      "id": "p-0685",
+      "kind": "closing",
+      "text": "LEMBARAN NEGARA TAHUN 2021 NOMOR 63",
+      "part": "body"
+    },
+    {
+      "id": "p-0686",
+      "kind": "body",
+      "text": "Salinan sesuai dengan aslinya",
+      "part": "body"
+    },
+    {
+      "id": "p-0687",
+      "kind": "body",
+      "text": "KEMENTERIAN SEKRETARIAT NEGARA",
+      "part": "body"
+    }
+  ]
+}

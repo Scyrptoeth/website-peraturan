@@ -1,0 +1,2439 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/UU Nomor 31 Tahun 1999.pdf",
+    "source_sha256": "8ec529cbcc586d1c9b8208e58073019415799812563afe55b355f21443db256c",
+    "document_type": "UU",
+    "number": "31",
+    "year": "1999",
+    "title": "PEMBERANTASAN TINDAK PIDANA KORUPSI",
+    "slug": "uu-nomor-31-tahun-1999",
+    "extraction_method": "pdftotext_layout",
+    "pdf_info": {
+      "pages": "25",
+      "title": "UNDANG UNDANG REPUBLIK INDONESIA",
+      "tagged": "yes",
+      "encrypted": "no",
+      "pdf_version": "1.4"
+    },
+    "generated_at": "2026-04-26T06:48:33.410739+00:00"
+  },
+  "quality": {
+    "paragraph_count": 400,
+    "body_article_count": 45,
+    "explanation_article_count": 45,
+    "body_article_sequence_gap_count": 0,
+    "explanation_article_sequence_gap_count": 0,
+    "chapter_count": 7,
+    "part_count": 0,
+    "letter_count": 21,
+    "number_count": 5,
+    "has_explanation": true,
+    "has_state_gazette": false,
+    "has_supplement": false,
+    "skipped_attachment_paragraph_count": 0,
+    "skipped_noise_paragraph_count": 4,
+    "quality_flags": []
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "title",
+      "text": "UNDANG-UNDANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "NOMOR 31 TAHUN 1999",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "PEMBERANTASAN TINDAK PIDANA KORUPSI",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "opening",
+      "text": "Menimbang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "letter",
+      "text": "a. bahwa tindak pidana korupsi sangat merugikan keuangan negara atau perekonomian negara dan menghambat pembangunan nasional, sehingga harus diberantas dalam rangka mewujudkan masyarakat adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "letter",
+      "text": "b. bahwa akibat tindak pidana korupsi yang terjadi selama ini selain merugikan keuangan negara atau perekonomian negara, juga menghambat pertumbuhan dan kelangsungan pembangunan nasional yang menuntut efisiensi tinggi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "letter",
+      "text": "c. bahwa Undang-undang Nomor 3 Tahun 1971 tentang Pemberantasan Tindak Pidana Korupsi sudah tidak sesuai lagi dengan perkembangan kebutuhan hukum dalam masyarakat, karena itu perlu diganti dengan Undang-undang Pemberantasan Tindak Pidana Korupsi yang baru sehingga diharapkan lebih efektif dalam mencegah dan memberantas tindak pidana korupsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "letter",
+      "text": "d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, b, dan c perlu dibentuk Undang-undang yang baru tentang Pemberantasan Tindak Pidana Korupsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "number",
+      "text": "1. Pasal 5 ayat (1) dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "number",
+      "text": "2. Ketetapan Majelis Permusyawaratan Rakyat Nomor XI/MPR/1998 tentang Penyelenggara Negara yang Bersih dan Bebas Korupsi, Kolusi, dan Nepotisme;",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "body",
+      "text": "Dengan Persetujuan",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "body",
+      "text": "DEWAN PERWAKILAN RAKYAT",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "body",
+      "text": "UNDANG-UNDANG TENTANG PEMBERANTASAN TINDAK",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "body",
+      "text": "PIDANA KORUPSI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "chapter",
+      "text": "BAB I",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "body",
+      "text": "KETENTUAN UMUM",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "body",
+      "text": "Dalam Undang-undang ini yang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "number",
+      "text": "1. Korporasi adalah kumpulan orang dan/atau kekayaan yang terorganisasi baik merupakan badan hukum maupun bukan badan hukum.",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "number",
+      "text": "2. Pegawai Negeri adalah meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "letter",
+      "text": "a. pegawai negeri sebagaimana dimaksud dalam Undang-undang tentang Kepegawaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "letter",
+      "text": "b. pegawai negeri sebagaimana dimaksud dalam Kitab",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "body",
+      "text": "Undang-undang Hukum Pidana;",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "letter",
+      "text": "c. orang yang menerima gaji atau upah dari keuang negara atau daerah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "letter",
+      "text": "d. orang yang menerima gaji atau upah dari suatu korporasi yang menerima bantuan dari keuangan negara atau daerah; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "letter",
+      "text": "e. orang yang menerima gaji atau upah dari korporasi lain yang mempergunakan modal atau fasilitas dari negara atau masyarakat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "number",
+      "text": "3. Setiap orang adalah orang perseorangan atau termasuk korporasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "chapter",
+      "text": "BAB II",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "body",
+      "text": "TINDAK PIDANA KORUPSI",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang yang secara melawan hukum melakukan perbuatan memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara, dipidana penjara dengan penjara seumur hidup atau pidana penjara paling singkat 4 (empat) tahun dan paling lama 20 (dua puluh) tahun dan denda paling sedikit Rp. 200.000.000,00 (dua ratus juta rupiah) dan paling banyak Rp. 1.000.000.000,00 (satu milyar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal tindak pidana korupsi sebagaimana dimaksud dalam ayat (1) dilakukan dalam keadaan tertentu, pidana mati dapat dijatuhkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "body",
+      "text": "Setiap orang yang dengan tujuan menguntungkan diri sendiri atau orang lain atau suatu korporasi, menyalahgunakan kewenangan, kesempatan atau sarana yang ada padanya karena jabatan atau kedudukan yang dapat merugikan keuangan negara atau perekonomian negara, dipidana dengan pidana penjara seumur hidup atau pidana penjara paling singkat 1 (satu) tahun dan paling lama 20 (dua puluh) tahun dan/atau denda paling sedikit Rp. 50.000.000,00 (lima puluh juta rupiah) dan paling banyak Rp. 1.000.000.000,00 (satu milyar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "body",
+      "text": "Pengembalian kerugian keuangan negara atau perekonomian negara tidak menghapuskan dipidananya pelaku tindak pidana sebagaimana dimaksud dalam Pasal 2 dan Pasal 3.",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 209 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan/atau denda paling sedikit Rp 50.000.000,00 (Lima puluh juta rupiah) dan paling banyak Rp 250.000.000,00 (dua ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 210 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 3 (tiga) tahun dan paling lama 15 (lima belas) tahun dan denda paling sedikit Rp 150.000.000,00 (seratus lima puluh juta rupiah) dan paling banyak Rp. 750.000.000,00 (tujuh ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 387 atau Pasa, 388 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 2 (dua) tahun dan paling lama 7 (tujuh) tahun dan denda paling sedikit Rp 100.000.000,00 (seratus juta rupiah) dan paling banyak 350.000.000,00 (tiga ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 415 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 3 (tiga) tahun dan paling lama 15 (lima belas) tahun dan denda paling sedikit Rp 150.000.000,00 (seratus lima puluh juta rupiah) dan paling banyak 750.000.000,00 (tujuh ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 416 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan denda paling sedikit Rp 50.000.000,00 (lima puluh juta rupiah) dan paling banyak 250.000.000,00 (dua ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 417 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 2 (dua) tahun dan paling lama 7 (tujuh) tahun dan denda paling sedikit Rp 100.000.000,00 (seratus juta rupiah) dan paling banyak 350.000.000,00 (tiga ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 418 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan denda paling sedikit Rp 50.000.000,00 (lima puluh juta rupiah) dan paling banyak 250.000.000,00 (dua ratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan tindak pidana sebagaimana dimaksud dalam Pasal 419, Pasal 420, Pasal 423, Pasal 425, atau Pasal 435 Kitab",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "body",
+      "text": "Undang-undang Hukum Pidana, dipidana dengan pidana penjara",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "body",
+      "text": "seumur hidup atau pidana penjara paling singkat 4 (empat) tahun dan paling lama 20 (dua puluh) tahun dan denda paling sedikit Rp 200.000.000,00 (dua ratus juta rupiah) dan paling banyak 1.000.000.000,00 (satu milyar rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "body",
+      "text": "Setiap orang yang memberi hadiah atau janji kepada pegawai negeri dengan mengingat kekuasaan atau wewenang yang melekat pada jabatan atau kedudukannya, atau oleh pemberi hadiah atau janji dianggap melekat pada jabatan atau kedudukan tersebut, dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/atau denda paling banyak 150.000.000,00 (seratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "body",
+      "text": "Setiap orang yang melanggar ketentuan Undang-undang yang secara tegas menyatakan bahwa pelanggaran terhadap ketentuan",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "body",
+      "text": "Undang-undang tersebut sebagai tindak pidana korupsi berlaku",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "body",
+      "text": "ketentuan yang diatur dalam Undang-undang ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "body",
+      "text": "Setiap orang yang melakukan percobaan, pembantuan, atau pemufakatan jahat untuk melakukan tindak pidana korupsi, dipidana dengan pidana yang sama sebagaimana dimaksud Pasal 2, Pasal 3, Pasal 5 sampai dengan Pasal 14.",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "body",
+      "text": "Setiap orang di luar wilayah negara yang memberikan bantuan, kesempatan, sarana, atau keterangan untuk terjadi` tindak pidana korupsi dipidana dengan pidana yang sama sebagai pelaku tindak pidana korupsi sebagaimana dimaksud dalam Pasal 2, Pasal 3, Pasal 5 sampai dengan Pasal 14.",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "body",
+      "text": "Selain dapat dijatuhi pidana sebagaimana dimaksud dalam Pasal 2, Pasal 3, Pasal 5 sampai dengan Pasal 14, terdakwa dapat dijatuhi pidana tambahan sebagaimana dimaksud dalam Pasal 18.",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "paragraph",
+      "text": "(1) Selain pidana tambahan sebagaimana dimaksud dalam Kitab",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "body",
+      "text": "Undang-Undang Hukum Pidana, sebagai pidana tambahan adalah:",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "letter",
+      "text": "a. perampasan barang bergerak yang berwujud atau yang tidak berwujud atau barang tidak bergerak yang digunakan untuk atau yang diperoleh dari tindak pidana korupsi, termasuk perusahaan milik terpidana di mana tindak pidana korupsi dilakukan, begitu pula dari barang yang menggantikan barang-barang tersebut;",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "letter",
+      "text": "b. pembayaran uang pengganti yang jumlahnya sebayak-banyaknya sama dengan harta benda yag diperoleh dari tindak pidana korupsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "letter",
+      "text": "c. penutupan seluruh atau sebagian perusahaan untuk waktu paling lama 1 (satu) tahun;",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "letter",
+      "text": "d. pencabutan seluruh atau sebagian hak-hak tertentu atau penghapusan seluruh atau sebagian keuntungan tertentu, yang telah atau dapat diberikan oleh Pemerintah kepada terpidana.",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "paragraph",
+      "text": "(2) Jika terpidana tidak membayar uang pengganti sebagaimana dimaksud dalam ayat (1) huruf b paling lama dalam waktu 1 (satu) bulan sesudah putusan pengadilan yang telah memperoleh kekuatan hukum tetap, maka harta bendanya dapat disita oleh jaksa dan dilelang untuk menutupi uang pengganti tersebut.",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal terpidana tidak mempunyai harta benda yang mencukupi untuk membayar uang pengganti sebagaimana dimaksud dalam ayat (1) huruf b, maka dipidana dengan pidana penjara yang lamanya tidak melebihi ancaman maksimum dari pidana pokoknya sesuai dengan ketentuan dalam Undang-undang ini dan lamanya pidana tersebut sudah ditentukan dalam putusan pengadilan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "paragraph",
+      "text": "(1) Putusan pengadilan mengenai perampasan barang-barang bukan kepunyaan terdakwa tidak dijatuhkan, apabila hak-hak pihak ketiga yang beritikat baik akan dirugikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal putusan pengadilan sebagaimana dimaksud dalam ayat (1) termasuk juga barang pihak ketiga yang mempunyai itikad baik, maka pihak ketiga tersebut dapat mengajukan surat keberatan kepada pengadilan yang bersangkutan, dalam waktu paling lambat 2 (dua) bulan setelah putusan pengadilan diucapkan di sidang terbuka",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "body",
+      "text": "untuk umum.",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "paragraph",
+      "text": "(3) Pengajuan surat keberatan sebagaimana dimaksud dalam ayat (2) tidak menangguhkan atau menghentikan pelaksanaan putusan pengadilan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "paragraph",
+      "text": "(4) Dalam keadaan sebagaimana dimaksud dalam ayat (2), hakim meminta keterangan penuntut umum dan pihak yang berkepentingan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "paragraph",
+      "text": "(5) Penetapan hakim atas surat keberatan sebagaimana dimaksud dalam ayat (2) dapat dimintakan kasasi ke Mahkaman Agung oleh pemohon atau penuntut umum.",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal tindak pidana korupsi dilakukan oleh atau atas nama suatu korporasi, maka tuntutan dan penjatuhan pidana dapat dilakukan terhadap korporasi dan/atau pengurusnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "paragraph",
+      "text": "(2) Tindak pidana Korupsi dilakukan oleh korporasi apabila tindak pidana tersebut dilakukan oleh orang-orang baik berdasarkan hubungan kerja maupun berdasarkan hubungan lain, bertindak dalam lingkungan korporasi tersebut baik sendiri maupun bersama-sama.",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal tuntutan pidana dilakukan terhadap suatu korporasi, maka korporasi tersebut diwakili oleh pengurus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "paragraph",
+      "text": "(4) Pengurus yang mewakili korporasi sebagaimana dimaksud dalam ayat (3) dapat diwakili oleh orang lain.",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "paragraph",
+      "text": "(5) Hakim dapat memerintahkan supaya pengurus korporasi menghadap sendiri di pengadilan dan dapat pula memerintahkan supaya pengurus tersebut dibawa ke sidang pengadilan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "paragraph",
+      "text": "(6) Dalam hal tuntutan pidana dilakukan terhadap korporasi, maka panggilan untuk menghadap dan penyerahan surat panggilan tersebut disampaikan kepada pengurus di tempat tinggal pengurus atau di tempat pengurus berkantor.",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "paragraph",
+      "text": "(7) Pidana pokok yang dapat dijatuhkan terhadap korporasi hanya pidana denda, dengan ketentuan maksimum pidana ditambah 1/3 (satu pertiga).",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "chapter",
+      "text": "BAB III",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "body",
+      "text": "TINDAK PIDANA LAIN YANG BERKAITAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "body",
+      "text": "DENGAN TINDAK PIDANA KORUPSI",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "body",
+      "text": "Setiap orang yang dengan sengaja mencegah, merintangi, atau menggagalkan secara langsung atau tidak langsung penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan terhadap tersangka dan terdakwa ataupun para saksi dalam perkara korupsi, dipidana dengan pidana penjara paling singkat 3 (tiga) tahun dan paling lama 12 (dua belas) tahun dan/atau denda paling sedikit Rp. 150.000.000,00 (seratus lima puluh juta rupiah) dan paling banyak Rp 600.000.000,00 (enam ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "body",
+      "text": "Setiap orang sebagaimana dimaksud dalam Pasal 28, Pasal 29, Pasal 35, atau Pasal 36 yang dengan sengaja tidak memberi keterangan atau memberi keterangan yang tidak benar, dipidana dengan pidana penjara paling singkat 3 (tiga) tahun dan paling lama 12 (dua belas) tahun dan/atau denda paling sedikit Rp 150.000.000,00 (seratus lima puluh juta rupiah) dan paling banyak Rp 600.000.000,00 (enam ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "body",
+      "text": "Dalam perkara korupsi, pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 220, Pasal 231, Pasal 421, Pasal 422, Pasal 429 atau Pasal 430 Kitab Undang-undang Hukum Pidana, dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 6 (enam) tahun dan/atau denda paling sedikit Rp 50.000.000,00 (lima puluh juta rupiah) dan paling banyak Rp. 300.000.000,00 (tiga ratus juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "body",
+      "text": "Saksi yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 31, dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/atau denda paling banyak Rp 150.000.000,000 (seratus lima puluh juta rupiah).",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "chapter",
+      "text": "BAB IV",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "body",
+      "text": "PENYIDIKAN, PENUNTUTAN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "body",
+      "text": "DAN PEMERIKSAAN DI SIDANG PENGADILAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "body",
+      "text": "Penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan dalam perkara tindak pidana korupsi harus didahulukan dari perkara lain guna penyelesaian secepatnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "body",
+      "text": "Penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan terhadap tindak pidana korupsi, dilakukan berdasarkan hukum acara pidana yang berlaku, kecuali ditentukan lain dalam Undang-undang ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "body",
+      "text": "Dalam hal ditemukan tindak pidana korupsi yang sulit pembuktiannya, maka dapat dibentuk tim gabungan di bawah koordinasi Jaksa Agung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "body",
+      "text": "Untuk kepentingan penyidikan, tersangka wajib memberikan keterangan tentang seluruh harta bendanya dan harta benda istri atau suami, anak, dan harta benda setiap orang atau korporasi yang diketahui dan/atau yang diduga mempunyai hubungan dengan tindak pidana korupsi yang dilakukan tersangka.",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "paragraph",
+      "text": "(1) Untuk kepentingan penyidikan, penuntutan, atau pemeriksaan di sidang pengadilan, penyidik, penuntut umum, atau hakim berwenang meminta keterangan kepada bank tentang keadaan keuangan tersangka atau terdakwa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "paragraph",
+      "text": "(2) Permintaan keterangan kepada bank sebagaimana dimaksud dalam ayat (1) diajukan kepada Gubernur Bank Indonesia sesuai dengan peraturan perundang-undangan yang berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "paragraph",
+      "text": "(3) Gubernur Bank Indonesia berkewajiban untuk memenuhi permintaan sebagaimana dimaksud dalam ayat (2) dalam waktu selambat-lambatnya 3 (tiga) hari kerja, terhitung sejak dokumen permintaan diterima secara lengkap.",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "paragraph",
+      "text": "(4) Penyidik, penuntut umum, atau hakim dapat meminta kepada bank untuk memblokir rekening simpanan milik tersangka atau terdakwa yang diduga hasil dari korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal hasil pemeriksaan terhadap tersangka atau terdakwa tidak diperoleh bukti yang cukup, atas permintaan penyidik, penuntut umum, atau hakim, bank pada hari itu juga mencabut pemblokiran.",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "body",
+      "text": "Penyidik berhak membuka, memeriksa, dan menyita surat dan kiriman melalui pos, telekomunikasi atau alat lainnya yang dicurigai mempunyai hubungan dengan perkara tindak pidana korupsi yang sedang diperiksa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "paragraph",
+      "text": "(1) Dalam penyidikan dan pemeriksaan di sidang pengadilan, saksi dan orang lain yang bersangkutan dengan tindak pidana korupsi dilarang menyebut nama atau alamat pelapor, atau hal-hal lain yang memberikan kemungkinan dapat diketahuinya identitas pelapor.",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "paragraph",
+      "text": "(2) Sebelum pemeriksaan dilakukan, larangan sebagaimana dimaksud dalam ayat (1) diberitahukan kepada saksi dan orang lain tersebut.",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal penyidik menemukan dan berpendapat bahwa satu atau lebih unsur tindak pidana korupsi tidak terdapat cukup bukti, sedangkan secara nyata telah ada kerugian keuangan negara, maka penyidik segera menyerahkan berkas perkara hasil penyidikan tersebut kepada Jaksa Pengacara Negara untuk dilakukan gugatan perdata atau diserahkan kepada instansi yang dirugikan untuk mengajukan gugatan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "paragraph",
+      "text": "(2) Putusan bebas dalam perkara tindak pidana korupsi tidak menghapuskan hak untuk menuntut kerugian terhadap keuangan negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "body",
+      "text": "Dalam hak tersangka meninggal dunia pada saat dilakukan penyidikan, sedangkan secara nyata telah ada kerugian keuangan negara, maka penyidik segera menyerahkan berkas perkara hasil penyidikan tersebut kepada Jaksa Pengacara Negara atau diserahkan kepada instansi yang dirugikan untuk dilakukan gugatan perdata terhadap ahli warisnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "body",
+      "text": "Dalam hal terdakwa meninggal dunia pada saat dilakukan pemeriksaan",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "body",
+      "text": "di sidang pengadilan, sedangkan secara nyata telah ada kerugian keuangan negara, maka penuntut umum segera menyerahkan salinan berkas berita acara sidang tersebut kepada Jaksa Pengacara Negara atau diserahkan kepada instansi yang dirugikan untuk dilakukan gugatan perdata terhadap ahli warisnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "paragraph",
+      "text": "(1) Setiap orang wajib memberi keterangan sebagai saksi atau ahli, kecuali ayah, ibu, kakek, nenek, saudara kandung, istri atau suami, anak, dan cucu dari terdakwa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "paragraph",
+      "text": "(2) Orang yang dibebaskan sebagai saksi sebagaimana dimaksud dalam ayat (1), dapat diperiksa sebagai saksi apabila mereka menghendaki dan disetujui secara tegas oleh terdakwa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "paragraph",
+      "text": "(3) Tanpa persetujuan sebagaimana dimaksud dalam dalam ayat (2), mereka dapat memberikan keterangan sebagai saksi tanpa disumpah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "body",
+      "text": "Kewajiban memberikan kesaksian sebagaimana dimaksud dalam Pasal 35 berlaku juga terhadap mereka yang menurut pekerjaan, harkat dan martabat atau jabatannya diwajibkan menyimpan rahasia, kecuali petugas agama yang menurut keyakinannya harus menyimpan rahasia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "paragraph",
+      "text": "(1) Terdakwa mempunyai hak untuk membuktikan bahwa ia tidak melakukan tindak pidana korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal terdakwa dapat membuktikan bahwa ia tidak melakukan tindak pidana korupsi, maka keterangan tersebut dipergunakan sebagai hal yang menguntungkan baginya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "paragraph",
+      "text": "(3) Terdakwa wajib memberikan keterangan tentang seluruh harta bendanya dan harta benda istri atau suami, anak, dan harta benda setiap orang atau korporasi yang diduga mempunyai hubungan dengan perkara yang bersangkutan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal terdakwa tidak dapat membuktikan tentang kekayaan yang tidak seimbang dengan penghasilannya atau sumber penambah kekayaannya, maka keterangan tersebut dapat digunakan untuk memperkuat alat bukti yang sudah ada bahwa terdakwa telah melakukan tindak pidana korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "paragraph",
+      "text": "(5) Dalam keadaan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4), penuntut umum tetap berkewajiban untuk membuktikan dakwaannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal terdakwa telah dipanggil secara sah, dan tidak hadir di sidang pengadilan tanpa alasan yang sah, maka perkara dapat diperiksa dan diputus tanpa kehadirannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal terdakwa hadir pada sidang berikutnya sebelum putusan dijatuhkan, maka terdakwa wajib diperiksa, dan segala keterangan saksi dan surat-surat yang dibacakan dalam sidang sebelumnya dianggap sebagai diucapkan dalam sidang yang sekarang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "paragraph",
+      "text": "(3) Putusan yang dijatuhkan tanpa kehadiran terdakwa diumumkan oleh penuntut umum pada papan pengumuman pengadilan, kantor Pemerintah Daerah, atau diberitahukan kepada kuasanya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "paragraph",
+      "text": "(4) Terdakwa atau kuasanya dapat mengajukan banding atas putusan sebagaimana dimaksud dalam ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal terdakwa meninggal dunia sebelum putusan dijatuhkan dan terdapat bukti yang cukup kuat bahwa yang bersangkutan telah melakukan tindak pidana korupsi, maka hakim atas tuntutan penuntut umum menetapkan perampasan barang-barang yang telah disita.",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "paragraph",
+      "text": "(6) Penetapan perampasan sebagaimana dimaksud dalam ayat (5) tidak dapat dimohonkan upaya banding.",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "paragraph",
+      "text": "(7) Setiap orang yang berkepentingan dapat mengajukan keberatan kepada pengadilan yang telah menjatuhkan penetapan sebagaimana dimaksud dalam ayat (5), dalam waktu 30 (tigapuluh) hari terhitung sejak tanggal pengumuman sebagaimana dimaksud dalam ayat (3).",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "body",
+      "text": "Jaksa Agung mengkoordinasikan dan mengendalikan penyidikan, penyidikan, dan penuntutan tindak pidana korupsi yang dilakukan bersama-sama oleh orang yang tunduk pada Peradilan Umum dan Peradilan Militer.",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "body",
+      "text": "Dalam hal terdapat cukup alasan untuk mengajukan perkara korupsi di lingkungan Peradilan Militer, maka ketentuan sebagaimana dimaksud dalam Pasal 123 ayat (1) huruf g Undang-undang Nomor 31 Tahun 1997 tentang Peradilan Militer tidak dapat diberlakukan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "chapter",
+      "text": "BAB V",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "body",
+      "text": "PERAN SERTA MASYARAKAT",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "paragraph",
+      "text": "(1) Masyarakat dapat berperan serta membantu upaya pencegahan dan pemberantasan tindak pidana korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "paragraph",
+      "text": "(2) Peran serta masyarakat sebagaimana dimaksud dalam ayat (1) diwujudkan dalam bentuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "letter",
+      "text": "a. hak mencari, memperoleh, dan memberikan informasi adanya dugaan telah terjadi tindak pidana korupsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "letter",
+      "text": "b. hak untuk memperoleh pelayanan dalam mencari, memperoleh dan memberikan informasi adanya dugaan telah terjadi tindak pidana korupsi kepada penegak hukum yang menangani perkara tindak pidana korupsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "letter",
+      "text": "c. hak menyampaikan saran dan pendapat secara bertanggung jawab kepada penegak hukum yang menangani perkara tindak pidana korupsi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "letter",
+      "text": "d. hak untuk memperoleh jawaban atas pertanyaan tentang laporannya yang diberikan kepada penegak hukum dalam waktu paling lama 30 (tiga puluh) hari;",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "letter",
+      "text": "e. hak untuk memperoleh perlindungan hukum dalam hal: 1) melaksanakan haknya sebagaimana dimaksud dalam huruf a, b, dan c; 2) diminta hadir dalam proses penyelidikan, penyidikan, dan di sidang pengadilan sebagai saksi pelapor, saksi, atau saksi ahli, sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "paragraph",
+      "text": "(3) Masyarakat sebagaimana dimaksud dalam ayat (1) mempunyai hak dan tanggung jawab dalam upaya pencegahan dan pemberantasan tindak pidana korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "paragraph",
+      "text": "(4) Hak dan tanggung jawab sebagaimana dimaksud dalam ayat (2) dan ayat (3) dilaksanakan dengan berpegang teguh pada asas-asas atau ketentuan yang diatur dalam peraturan perundang-undangan yang berlaku dan dengan menaati norma agama dan norma sosial lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "paragraph",
+      "text": "(5) Ketentuan mengenai tata cara pelaksanaan peran serta masyarakat dalam pencegahan dan pemberantasan tindak pidana korupsi sebagaimana dimaksud dalam Pasal ini, diatur lebih lanjut dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "body",
+      "text": "Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "paragraph",
+      "text": "(1) Pemerintah memberikan penghargaan kepada anggota masyarakat yang telah berjasa membantu upaya pencegahan, pemberantasan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "body",
+      "text": "atau pengungkapan tindak pidana korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "paragraph",
+      "text": "(2) Ketentuan mengenai penghargaan sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "chapter",
+      "text": "BAB VI",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "body",
+      "text": "KETENTUAN LAIN-LAIN",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "paragraph",
+      "text": "(1) Dalam waktu paling lambat 2 (dua) tahun sejak Undang-undang ini mulai berlaku, dibentuk Komisi Pemberantasan Tindak Pidana Korupsi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "paragraph",
+      "text": "(2) Komisi sebagaimana dimaksud dalam ayat (1) mempunyai tugas dan wewenang melakukan koordinasi dan supervisi, termasuk melakukan penyelidikan, penyidikan, dan penuntutan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "paragraph",
+      "text": "(3) Keanggotaan Komisi sebagaimana dimaksud dalam ayat (1) terdiri atas unsur Pemerintah dan unsur masyarakat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan mengenai pembentukan, susunan organisasi, tata kerja, pertanggungjawaban, tugas dan wewenang, serta keanggotaan Komisi sebagaimana dimaksud dalam ayat (1). ayat (2), dan ayat (3) diatur dengan Undang-undang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "chapter",
+      "text": "BAB VII",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "body",
+      "text": "KETENTUAN PENUTUP",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "body",
+      "text": "Pada saat mulai berlakunya Undang-undang ini, maka Undang-undang Nomor 3 Tahun 1971 tentang Pemberantasan Tindak Pidana Korupsi (Lembaran Negara Nomor 19, Tambahan Lembaran Negara Nomor 2958), dinyatakan tidak berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "body",
+      "text": "Undang-undang ini mulai berlaku pada tanggal diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "body",
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "body",
+      "text": "Undang-undang ini dengan penempatannya dalam Lembaran Negara",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "closing",
+      "text": "Disahkan di Jakarta",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "body",
+      "text": "pada tanggal 16 Agustus 1999",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "body",
+      "text": "PRESIDEN",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "body",
+      "text": "BACHARUDDIN JUSUF HABIBIE",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "closing",
+      "text": "Disahkan di Jakarta pada tanggal 16 Agustus 1999",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "body",
+      "text": "MENTERI NEGARA SEKRETARIAT NEGARA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "closing",
+      "text": "LEMBARAN NEGARA TAHUN 1999 NOMOR 140.",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "explanation_heading",
+      "text": "PENJELASAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0203",
+      "kind": "explanation_heading",
+      "text": "ATAS",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0204",
+      "kind": "explanation_body",
+      "text": "UNDANG-UNDANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0205",
+      "kind": "explanation_body",
+      "text": "NOMOR 31 TAHUN 1999",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0206",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0207",
+      "kind": "explanation_body",
+      "text": "PEMBERANTASAN TINDAK PIDANA KORUPSI",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0208",
+      "kind": "explanation_heading",
+      "text": "I. UMUM",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0209",
+      "kind": "explanation_body",
+      "text": "Pembangunan Nasional bertujuan mewujudkan manusia Indonesia seutuhnya dan masyarakat Indonesia seluruhnya yang adil, makmur, sejahtera, dan tertib berdasarkan Pancasila dan Undang-Undang Dasar 1945. Untuk mewujudkan masyarakat Indonesia yang adil, makmur, dan sejahtera tersebut, perlu secara terus menerus ditingkatkan usaha-usaha pencegahan dan pemberantasan tindak pidana pada umumnya serta tindak pidana korupsi pada khususnya. Di tengah upaya pembangunan nasional di berbagai bidang, aspirasi masyarakat untuk memberantas korupsi dan bentuk penyimpangan lainnya semakin maningkat, karena dalam kenyataan adanya perbuatan korupsi telah menimbulkan kerugian negara yang sangat besar yang pada gilirannya dapat berdampak pada timbulnya krisis di berbagai bidang. Untuk itu, upaya pencegahan dan pemberantasan korupsi perlu semakin ditingkatkan dan diintensifkan dengan tetap menjunjung tinggi hak asasi manusia dan kepentingan masyarakat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0210",
+      "kind": "explanation_body",
+      "text": "Undang-undang ini dimaksudkan untuk menggantikan Undang-undang Nomor 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0211",
+      "kind": "explanation_body",
+      "text": "Tahun 1971 tentang Pemberantasan Tindak Pidana Korupsi, yang diharapkan mampu memenuhi dan mengantisipasi perkembangan kebutuhan hukum masyarakat dalam rangka mencegah dan memberantas secara lebih efektif setiap bentuk tindak pidana korupsi yang sangat merugikan keuangan negara atau perekonomian negara pada khususnya serta masyarakat pada umumnya. Keuangan negara yang dimaksud adalah seluruh kekayaan negara dalam bentuk apapun, yang dipisahkan atau yang tidak dipisahkan, termasuk di dalamnya segala bagian kekayaan negara dan segala hak dan kewajiban yang timbul karena: (a) berada dalam penguasaan, pengurusan, dan pertanggungjawaban pejabat lembaga Negara, baik di tingkat pusat maupun di daerah; (b) berada dalam penguasaan, pengurusan, dan bertanggungjawaban Badan Usaha Milik Negara/Badan Usaha Milik Daerah, yayasan, badan hukum, dan perusahaan yang menyertakan modal negara, atau perusahaan yang menyertakan modal pihak ketiga berdasarkan perjanjian dengan Negara. Sedangkan yang dimaksud dengan Perekonomian Negara adalah kehidupan perekonomian yang disusun sebagai usaha bersama berdasarkan asas kekeluargaan ataupun usaha masyarakat secara mandiri yang didasarkan pada kebijakan Pemerintah, baik di tingkat pusat maupun di daerah sesuai dengan ketentuan peraturan perundang-undangan yang berlaku yang bertujuan memberikan manfaat, kemakmuran, dan kesejahteraan kepada seluruh kehidupan rakyat. Agar dapat menjangkau berbagai modus operandi penyimpangan keuangan negara atau perekonomian negara yang semakin canggih dan rumit, maka tindak pidana yang diatur dalam Undang-undang ini dirumuskan sedemikian rupa sehingga meliputi perbuatan-perbuatan memperkaya diri sendiri atau orang lain atau suatu",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0212",
+      "kind": "explanation_body",
+      "text": "korporasi secara \"melawan hukum\" dalam pengertian formil dan materiil. Dengan perumusan tersebut, pengertian melawan hukum dalam tindak pidana korupsi dapat pula mencakup perbuatan-perbuatan tercela yang menurut perasaan keadilan masyarakat harus dituntut dan dipidana. Dalam Undang-undang ini, tindak pidana korupsi dirumuskan secara tegas sebagai tindak pidana formil. Hal ini sangat penting untuk pembuktian. Dengan rumusan secara formil yang dianut dalam Undang-undang ini, meskipun hasil korupsi telah dikembalikan kepada negara, pelaku tindak pidana korupsi tetap diajukan ke pengadilan dan tetap dipidana. Perkembangan baru yang diatur dalam Undang-undang ini adalah korporasi sebagai subyek tindak pidana korupsi yang dapat dikenakan sanksi. Hal ini tidak diatur dalam Undang-undang Nomor 3 Tahun 1971. Dalam rangka mencapai tujuan yang lebih efektif untuk mencegah dan memberantas tindak pidana korupsi, Undang-undang ini memuat ketentuan pidana yang berbeda dengan Undang-undang sebelumnya, yaitu menentukan ancaman pidana minimum khusus, pidana denda yang lebih tinggi, dan ancaman pidana mati yang merupakan pemberatan pidana. Selain itu Undang-undang ini memuat juga pidana penjara bagi pelaku tindak pidana korupsi yang tidak dapat membayar pidana tambahan berupa uang pengganti kerugian negara.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0213",
+      "kind": "explanation_body",
+      "text": "Undang-undang ini juga memperluas pengertian Pegawai Negeri, yang antara lain",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0214",
+      "kind": "explanation_body",
+      "text": "adalah orang yang menerima gaji atau upah dari korporasi yang mempergunakan modal atau fasilitas dari Negara atau masyarakat. Yang dimaksud dengan fasilitas adalah perlakuan istimewa yang diberikan dalam berbagai bentuk, misalnya bunga pinjaman yang tidak wajar, harga yang tidak wajar, pemberian izin yang eksklusif, termasuk keringanan bea masuk atau pajak yang bertentangan dengan peraturan perundang-undangan yang berlaku. Hal baru lainnya adalah dalam hal terjadi tindak pidana korupsi yang sulit pembuktiannya, maka tim gabungan yang dikoordinasikan oleh Jaksa Agung, sedangkan proses penyidikan dan penuntutan dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku. Hal ini dimaksudkan dalam rangka meningkatkan efisiensi waktu penanganan tindak pidana korupsi dan sekaligus perlindungan hak asasi manusia dari tersangka atau terdakwa. Untuk memperlancar proses penyidikan, penuntutan, dan pemeriksaan tindak pidana korupsi, Undang-undang ini mengatur kewenangan penyidik, penuntut umum, atau hakim sesuai dengan tingkat penanganan perkara untuk dapat langsung meminta keterangan tentang keadaan keuangan tersangka atau terdakwa kepada bank dengan mengajukan hal tersebut kepada Gubernur Bank Indonesia. Di samping itu Undang-undang ini juga menerapkan pembuktian terbalik yang bersifat terbatas atau berimbang, yakni terdakwa mempunyai hak untuk membuktikan bahwa ia tidak melakukan tindak pidana korupsi dan wajib memberikan keterangan tentang seluruh harta bendanya dan harta benda istri atau suami, anak, dan harta benda setiap orang atau korporasi yang diduga mempunyai hubungan dengan perkara yang bersangkutan, dan penuntut umum tetap berkewajiban membuktikan dakwaannya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0215",
+      "kind": "explanation_body",
+      "text": "Undang-undang ini juga memberi kesempatan yang seluas-luasnya kepada",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0216",
+      "kind": "explanation_body",
+      "text": "masyarakat berperan serta untuk membantu upaya pencegahan dan pemberantasan tindak pidana korupsi, dan terhadap anggota masyarakat yang berperan serta",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0217",
+      "kind": "explanation_body",
+      "text": "tersebut diberikan perlindungan hukum dan penghargaan. Selain memberikan peran serta masyarakat tersebut, Undang-Undang ini juga mengamanatkan pembentukan Komisi Pemberantasan Tindak Pidana Korupsi yang akan diatur dalam Undang-undang tersendiri dalam jangka waktu paling lambat 2 (dua) tahun sejak Undang-undang ini diundangkan. Keanggotaan Komisi Pemberantasan Tindak Pidana Korupsi terdiri atas unsur Pemerintah dan unsur masyarakat. Berdasarkan pertimbangan tersebut di atas, Undang-undang Nomor 3 Tahun 1971 tentang Pemberantasan Tindak Pidana Korupsi perlu diganti dengan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0218",
+      "kind": "explanation_body",
+      "text": "Undang-undang ini.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0219",
+      "kind": "explanation_heading",
+      "text": "II. PASAL DEMI PASAL",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0220",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0221",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0222",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0223",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0224",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"secara melawan hukum\" dalam Pasal ini mencakup perbuatan melawan hukum dalam arti formil maupun dalam arti materiil, yakni meskipun perbuatan tersebut tidak diatur dalam peraturan perudang-undangan, namun apabila perbuatan tersebut dianggap tercela karena tidak sesuai dengan rasa keadilan atau norma-norma kehidupan sosial dalam masyarakat, maka perbuatan tersebut dapat dipidana. Dalam ketentuan ini, kata \"dapat\" sebelum frasa \"merugikan keuangan atau perekonomian negara\" menunjukkan bahwa tindak pidana korupsi merupakan delik formil, yaitu adanya tindak pidana korupsi cukup dengan dipenuhinya unsur-unsur perbuatan yang sudah dirumuskan bukan dengan timbulnya akibat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0225",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0226",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"keadaan tertentu\" dalam ketentuan ini dimaksudkan sebagai pemberatan bagi pelaku tindak pidana korupsi apabila tindak pidana tersebut dilakukan pada waktu negara dalam keadaan bahaya sesuai dengan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0227",
+      "kind": "explanation_body",
+      "text": "undang-undang yang berlaku, pada waktu terjadi bencana alam nasional,",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0228",
+      "kind": "explanation_body",
+      "text": "sebagai pengulangan tindak pidana korupsi, atau pada waktu negara dalam keadaan krisis ekonomi dan moneter.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0229",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0230",
+      "kind": "explanation_body",
+      "text": "Kata \"dapat\" dalam ketentuan ini diartikan sama dengan Penjelasan Pasal 2.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0231",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0232",
+      "kind": "explanation_body",
+      "text": "Dalam hal pelaku tindak pidana korupsi sebagaimana dimaksud dalam Pasal 2 dan pasal 3 telah memenuhi unsur-unsur pasal dimaksud, maka pengembalian kerugian keuangan negara atau perekonomian negara, tidak menghapuskan pidana terhadap pelaku tindak pidana tersebut. Pengembalian kerugian keuangan negara atau perekonomian negara hanya merupakan salah satu faktor yang meringankan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0233",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0234",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0235",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0236",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0237",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0238",
+      "kind": "explanation_body",
+      "text": "Dalam ketentuan ini, frasa \"Angkatan Laut atau Angkatan Darat\" yang dimuat dalam Pasal 388 KUHP harus dibaca \"Tentara Nasional Indonesia\".",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0239",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0240",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0241",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0242",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0243",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0244",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0245",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0246",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0247",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0248",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0249",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0250",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0251",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0252",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"ketentuan yang berlaku dalam Undang-undang ini\" adalah baik hukum pidana materiil maupun hukum pidana formil.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0253",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0254",
+      "kind": "explanation_body",
+      "text": "Ketentuan ini merupakan aturan khusus karena ancaman pidana pada percobaan dan pembantuan tindak pidana pada umumnya dikurangi 1/3 (satu pertiga) dari ancaman pidananya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0255",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0256",
+      "kind": "explanation_body",
+      "text": "Ketentuan ini bertujuan untuk mencegah dan memberantas tindak pidana korupsi yang bersifat tradisional atau lintas batas teritorial sehingga segala bentuk transfer keuangan/harta kekayaan hasil tindak pidana korupsi antar negara dapat dicegah secara optimal dan efektif. Yang dimaksud dengan \"bantuan, kesempatan, sarana, atau keterangan\" dalam ketentuan ini adalah sesuai dengan peraturan perundang-undangan yang berlaku dan perkembangan ilmu pengetahuan dan teknologi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0257",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0258",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0259",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0260",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0261",
+      "kind": "explanation_body",
+      "text": "huruf a Cukup jelas huruf b Cukup jelas huruf c Yang dimaksud dengan \"penutupan seluruh atau sebagian perusahaan\" adalah pencabutan izin usaha atau penghentian kegiatan untuk sementara waktu sesuai dengan putusan pengadilan. huruf d Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0262",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0263",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0264",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0265",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0266",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0267",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0268",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0269",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0270",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0271",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0272",
+      "kind": "explanation_body",
+      "text": "Apabila keberatan pihak ketiga diterima oleh hakim setelah eksekusi, maka negara berkewajiban mengganti kerugian kepada pihak ketiga sebesar nilai hasil lelang atas barang tersebut.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0273",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0274",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0275",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0276",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0277",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0278",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0279",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pengurus\" adalah organ korporasi yang menjalankan kepengurusan korporasi yang bersangkutan sesuai dengan anggaran dasar, termasuk mereka yang dalam kenyataannya memiliki kewenangan dan ikut memutuskan kebijakan korporasi yang dapat dikualifikasikan sebagai tindak pidana korupsi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0280",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0281",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0282",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0283",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0284",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0285",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0286",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0287",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0288",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0289",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0290",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0291",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0292",
+      "kind": "explanation_item",
+      "text": "Ayat (7)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0293",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0294",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0295",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0296",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0297",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0298",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0299",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0300",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0301",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0302",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0303",
+      "kind": "explanation_body",
+      "text": "Apabila terdapat 2 (dua) atau lebih perkara yang oleh Undang-undang ditentukan untuk didahulukan maka mengenai penentuan prioritas perkara tersebut diserahkan pada tiap lembaga yang berwenang di setiap proses peradilan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0304",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0305",
+      "kind": "explanation_body",
+      "text": "Kewenangan penyidik dalam Pasal ini termasuk wewenang untuk melakukan penyadapan (wiretaping)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0306",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0307",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tindak pidana korupsi yang sulit pembuktiannya\", antara lain tindak pidana korupsi di bidang perbankan, perpajakan, pasar modal, perdagangan dan industri, komoditi berjangka, atau di bidang moneter dan keuangan yang:",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0308",
+      "kind": "letter",
+      "text": "a. bersifat lintas sektoral;",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0309",
+      "kind": "letter",
+      "text": "b. dilakukan dengan menggunakan teknologi canggih; atau",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0310",
+      "kind": "letter",
+      "text": "c. dilakukan oleh tersangka/terdakwa yang berstatus sebagai Penyelenggara Negara sebagaimana ditentukan dalam Undang-undang Nomor 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari Korupsi, kolusi, dan Nepotisme.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0311",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0312",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0313",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0314",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0315",
+      "kind": "explanation_body",
+      "text": "Ketentuan ini bertujuan untuk meningkatkan efektivitas penyidikan penuntutan, pemberantasan tindak pidana korupsi dengan tetap memperhatikan koordinasi lintas sektoral dengan Instansi terkait.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0316",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0317",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0318",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0319",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0320",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0321",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan\"rekening simpanan\" adalah dana yang dipercayakan oleh masyarakat kepada bank berdasarkan perjanjian penyimpanan dana dalam bentuk giro, deposito, sertifikat deposito, tabungan, dan/atau bentuk lain yang dipersamakan dengan itu, termasuk penitipan (custodian) dan penyimpanan barang atau surat berharga (safedeposit bok). Rekening simpanan yang diblokir adalah termasuk bunga, deviden, bunga obligasi, atau keuntungan lain yang diperoleh dari simpanan tersebut.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0322",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0323",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0324",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0325",
+      "kind": "explanation_body",
+      "text": "Ketentuan ini dimaksudkan untuk memberika kewenangan kepada penyidik dalam rangka mempercepat proses penyidikan yang pada dasarnya di dalam Kitab",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0326",
+      "kind": "explanation_body",
+      "text": "Undang-undang Hukum Acara Pidana untuk membuka, memeriksa atau menyita",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0327",
+      "kind": "explanation_body",
+      "text": "surat harus memperoleh izin terlebih dahulu dari Ketua Pengadilan Negeri.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0328",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0329",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0330",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pelapor\" dalam ketentuan ini adalah orang yang memberi informasi kepada penegak hukum mengenai terjadinya suatu tindak pidana korupsi dan bukan pelapor sebagaimana dimaksud dalam Pasal 1 angka 24 Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0331",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0332",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0333",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0334",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0335",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"secara nyata telah ada kerugian keuangan negara\" adalah kerugian yang sudah dapat dihitung jumlahnya berdasarkan hasil temuan instansi yang berwenang atau akuntan publik yang ditunjuk.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0336",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0337",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"putusan bebas\" adalah putusan pengadilan sebagaimana dimaksud dalam Pasal 191 ayat (1) dan ayat (2) Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0338",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0339",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"ahli waris\" dalam Pasal ini adalah sesuai dengan peraturan perundang-undangan yang berlaku.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0340",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0341",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0342",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0343",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0344",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0345",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"petugas agama\" dalam Pasal ini adalah hanya petugas agama Katholik yang dimintakan bantuan kejiwaan, yang dipercayakan untuk menyimpan rahasia.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0346",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0347",
+      "kind": "explanation_body",
+      "text": "Ketentuan ini merupakan suatu penyimpangan dari ketentuan Kitab",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0348",
+      "kind": "explanation_body",
+      "text": "Undang-undang Hukum Acara Pidana yang menentukan bahwa jaksa yang wajib",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0349",
+      "kind": "explanation_body",
+      "text": "membuktikan dilakukannya tindak pidana, bukan terdakwa. Menurut ketentuan ini terdakwa dapat membuktikan bahwa ia tidak melakukan tindak pidana korupsi. Apabila terdakwa dapat membuktikan hal tersebut tidak berarti ia tidak terbukti melakukan korupsi, sebab penuntut umum masih tetap berkewajiban untuk membuktikan dakwaannya. Ketentuan pasal ini merupakan pembuktian terbalik yang terbatas, karena jaksa masih tetap wajib membuktikan dakwaannya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0350",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0351",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0352",
+      "kind": "explanation_body",
+      "text": "Ketentuan dalam ayat ini dimaksudkan untuk menyelamatkan kekayaan negara sehingga tanpa kehadiran terdakwa pun, perkara dapat diperiksa dan diputus oleh hakim.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0353",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0354",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0355",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0356",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"putusan\" yang diumumkan atau diberitahukan adalah petikan surat putusan pengadilan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0357",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0358",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0359",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0360",
+      "kind": "explanation_body",
+      "text": "Ketentuan dalam ayat ini, dimaksudkan pula untuk menyelamatkan kekayaan negara.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0361",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0362",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0363",
+      "kind": "explanation_item",
+      "text": "Ayat (7)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0364",
+      "kind": "explanation_body",
+      "text": "Ketentuan dalam ayat ini dimaksudkan untuk melindungi pihak ketiga yang beritikad baik. Batasan waktu 30 (tiga puluh) hari dimaksudkan untuk menjamin dilaksanakannya eksekusi terhadap barang-barang yang memang berasal dari tindak pidana korupsi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0365",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0366",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mengkoordinasikan\" adalah kewenangan Jaksa Agung sesuai dengan ketentuan sebagaimana dimaksud dalam Undang-undang Nomor 5 Tahun 1991 tentang Kejaksaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0367",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0368",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0369",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0370",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0371",
+      "kind": "explanation_body",
+      "text": "Ketentuan dalam pasal ini dimaksudkan untuk meningkatkan efektifitas pencegahan dan pemberantasan tindak pidana korupsi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0372",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0373",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0374",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0375",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0376",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0377",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0378",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0379",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0380",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0381",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0382",
+      "kind": "explanation_body",
+      "text": "Perlindungan hukum terhadap pelapor dimaksudkan untuk memberikan rasa aman bagi pelapor yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0383",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0384",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0385",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0386",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0387",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0388",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0389",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0390",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0391",
+      "kind": "explanation_body",
+      "text": "Penghargaan kepada masyarakat yang berjasa dalam mengungkap tindak pidana korupsi dengan disertai bukti-bukti, diberikan penghargaan baik berupa piagam maupun premi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0392",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0393",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0394",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0395",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0396",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0397",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0398",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0399",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0400",
+      "kind": "closing",
+      "text": "TAMBAHAN LEMBARAN NEGARA NOMOR 3874",
+      "part": "explanation"
+    }
+  ]
+}

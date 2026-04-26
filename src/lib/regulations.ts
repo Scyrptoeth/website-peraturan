@@ -17,6 +17,10 @@ import perpres16 from "../data/regulations/perpres-nomor-16-tahun-2018.json";
 import pp29 from "../data/regulations/pp-nomor-29-tahun-2021.json";
 import uu7 from "../data/regulations/uu-nomor-7-tahun-2014.json";
 import uu17 from "../data/regulations/uu-nomor-17-tahun-2006.json";
+import perpres54_2018 from "../data/regulations/perpres-nomor-54-tahun-2018.json";
+import uu20_2001 from "../data/regulations/uu-nomor-20-tahun-2001.json";
+import uu31_1999 from "../data/regulations/uu-nomor-31-tahun-1999.json";
+import perpres12_2021 from "../data/regulations/perpres-nomor-12-tahun-2021.json";
 
 export type LegalParagraph = {
   id: string;
@@ -77,7 +81,11 @@ export const regulations = [
   perpres16 as RegulationPayload,
   pp29 as RegulationPayload,
   uu7 as RegulationPayload,
-  uu17 as RegulationPayload
+  uu17 as RegulationPayload,
+  perpres54_2018 as RegulationPayload,
+  uu20_2001 as RegulationPayload,
+  uu31_1999 as RegulationPayload,
+  perpres12_2021 as RegulationPayload
 ];
 export const conversionReports = [uu20 as RegulationPayload];
 
