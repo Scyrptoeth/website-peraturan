@@ -25,8 +25,10 @@ function tagsFor(payload: RegulationPayload): string[] {
   const typeLabels: Record<string, string> = {
     PP: "Peraturan Pemerintah",
     UU: "Undang-Undang",
+    PERPRES: "Peraturan Presiden",
     "PERMEN ESDM": "Peraturan Menteri ESDM",
     PERMENPERIN: "Peraturan Menteri Perindustrian",
+    "PERMEN LHK": "Peraturan Menteri LHK",
     PERMEN: "Peraturan Menteri"
   };
   const tags = [typeLabels[payload.metadata.document_type] ?? "Peraturan"];
@@ -43,6 +45,7 @@ function qualityLabels(payload: RegulationPayload): string[] {
   if (!payload.quality.quality_flags.length) return ["Bersih"];
   return payload.quality.quality_flags.map((flag) => {
     if (flag === "skipped_non_text_attachment") return "Lampiran non-teks dilewati";
+    if (flag === "body_explanation_article_count_mismatch") return "Penjelasan parsial direview";
     return flag.replaceAll("_", " ");
   });
 }

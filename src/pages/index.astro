@@ -12,10 +12,20 @@ const safetyRegulation = regulations.find((item) => item.metadata.slug === "perm
 const businessRegulation = regulations.find((item) => item.metadata.slug === "permen-esdm-nomor-11-tahun-2021") ?? electricityRegulation;
 const busbarRegulation = regulations.find((item) => item.metadata.slug === "permenperin-nomor-54-tahun-2024") ?? standardizationRegulation;
 const title = "Website Peraturan Energi";
+const typeSearchAliases: Record<string, string> = {
+  UU: "Undang-Undang",
+  PP: "Peraturan Pemerintah",
+  PERPRES: "Peraturan Presiden",
+  "PERMEN ESDM": "Peraturan Menteri ESDM",
+  "PERMEN LHK": "Peraturan Menteri LHK",
+  PERMENPERIN: "Peraturan Menteri Perindustrian",
+  PERMEN: "Peraturan Menteri"
+};
 const searchRows = regulations.flatMap((item) =>
   item.paragraphs.map((paragraph) => ({
     slug: item.metadata.slug,
     title: displayTitle(item),
+    searchTitle: `${displayTitle(item)} ${typeSearchAliases[item.metadata.document_type] ?? ""}`,
     id: paragraph.id,
     kind: paragraph.kind,
     label: kindLabel(paragraph.kind),
@@ -155,12 +165,16 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
     <script id="search-data" type="application/json" is:inline set:html={JSON.stringify(searchRows)}></script>
     <script>
       const dataElement = document.getElementById("search-data");
-      type SearchRow = { slug: string; title: string; id: string; kind: string; label: string; part: string; text: string };
+      type SearchRow = { slug: string; title: string; searchTitle: string; id: string; kind: string; label: string; part: string; text: string };
       const rows = JSON.parse(dataElement?.textContent || "[]") as SearchRow[];
       const input = document.getElementById("site-search") as HTMLInputElement | null;
       const form = document.getElementById("site-search-form") as HTMLFormElement | null;
       const results = document.getElementById("search-results");
       const summary = document.getElementById("search-summary");
+
+      function normalizeSearchValue(value: string) {
+        return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
+      }
 
       function renderRows(items: SearchRow[], message: string) {
         if (!results || !summary) return;
@@ -187,21 +201,26 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
       }
 
       function runSearch() {
-        const query = String(input?.value || "").trim().toLowerCase();
+        const query = normalizeSearchValue(String(input?.value || ""));
         if (query.length < 2) {
           renderRows([], "Ketik minimal 2 karakter untuk mencari isi dokumen.");
           return;
         }
+        const queryTerms = query.split(" ").filter((term) => term.length > 1);
         const matches = rows
           .map((item, index) => {
-            const title = item.title.toLowerCase();
-            const text = item.text.toLowerCase();
+            const title = normalizeSearchValue(item.searchTitle || item.title);
+            const text = normalizeSearchValue(item.text);
             const inTitle = title.includes(query);
             const inText = text.includes(query);
+            const allTermsInTitle = queryTerms.every((term) => title.includes(term));
+            const allTermsInText = queryTerms.every((term) => text.includes(term));
             const titleRow = item.kind === "title";
-            if (!inText && !(inTitle && titleRow)) return null;
+            if (!inText && !(titleRow && (inTitle || allTermsInTitle)) && !allTermsInText) return null;
             const score =
               (inTitle && titleRow ? 1000 : 0) +
+              (allTermsInTitle && titleRow ? 750 : 0) +
+              (allTermsInText ? 200 : 0) +
               (text.startsWith(query) ? 100 : 0) +
               (titleRow ? 50 : 0) +
               (item.kind === "chapter" ? 25 : 0);

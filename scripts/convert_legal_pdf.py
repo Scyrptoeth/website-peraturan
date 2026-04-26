@@ -43,7 +43,7 @@ PAGE_HEADER_RE = re.compile(
     r"^(?:PRES\s*[I!|1]?\s*D(?:E|3)?N|PRESIDEN|FRESIDEN|PRESTDEN|PRESIDE\]N|BLIK\s+INDONESIA|INDONESIA|TIEPUBLIK\s+INDONESIA|R\.?E?P[UO]BLIK\s+INDONESI[\\\/A!]*|REFUBLIK\s+INDONESIA|REPUBUK\s+INDONESIA)$",
     re.IGNORECASE,
 )
-ARTICLE_HEADING_RE = re.compile(r"^Pasal[\s,.;:]*([0-9OoIl|T\s]+[A-Z]?|[IVXLCDM]+)$", re.IGNORECASE)
+ARTICLE_HEADING_RE = re.compile(r"^Pasal[\s,.;:]*([0-9OoIiLl|T\s]+[A-Z]?|[IVXLCDM]+)\s*[,.;:]?$", re.IGNORECASE)
 OCR_YEAR_RE = re.compile(r"\b([12][0-9OoIiLl|TtGg]{3})\b")
 
 
@@ -183,6 +183,8 @@ def normalize_article_heading(text: str) -> str:
         token.replace("O", "0")
         .replace("o", "0")
         .replace("I", "1")
+        .replace("i", "1")
+        .replace("L", "1")
         .replace("l", "1")
         .replace("|", "1")
         .replace("T", "7")
@@ -472,6 +474,41 @@ def normalize_legal_text(text: str) -> str:
         "ENERGl": "ENERGI",
         "Keija": "Kerja",
         "keija": "kerja",
+        "MAFIA ESA": "MAHA ESA",
+        "be1anja": "belanja",
+        "bersurnber": "bersumber",
+        "rnenghasilkan": "menghasilkan",
+        "ekonorni": "ekonomi",
+        "rates juta": "ratus juta",
+        "melaiui": "melalui",
+        "Leuel": "Level",
+        "Leuelatau": "Level atau",
+        "Levelatau": "Level atau",
+        "kebdakan": "kebijakan",
+        "EksPor": "Ekspor",
+        "ImPor": "Impor",
+        "Pertzinan": "Perizinan",
+        "Perrzinan": "Perizinan",
+        "permohonanPerizinan": "permohonan Perizinan",
+        "voiume": "volume",
+        "periindungan": "perlindungan",
+        "Ra)ryat": "Rakyat",
+        "hgpermarket": "hypermarket",
+        "Penyelen ggaraar;": "Penyelenggaraan",
+        "Promo si": "Promosi",
+        "rnemenuhi": "memenuhi",
+        "memiiiki": "memiliki",
+        "Aiat": "Alat",
+        "perundan g-undangan": "perundang-undangan",
+        "daiam": "dalam",
+        "kementLrian": "kementerian",
+        "rlegara": "negara",
+        "l.embaran": "Lembaran",
+        "Tarnbahan": "Tambahan",
+        "Seruice Leuel Agreement": "Service Level Agreement",
+        "Seruice Level Agreement": "Service Level Agreement",
+        "fianji layanan)": "(janji layanan)",
+        "iebagaimana": "sebagaimana",
         "hasi!": "hasil",
         "Hasi!": "Hasil",
         "hasil!": "hasil",
@@ -574,7 +611,8 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\bPasal\s+5\s+ayat\s+12\)", "Pasal 5 ayat (2)", text, flags=re.IGNORECASE)
     text = re.sub(r"\{(\d+[A-Z]?)\)", r"(\1)", text)
     text = re.sub(r"\{(\d+[A-Z]?)\b", r"(\1)", text)
-    text = re.sub(r"\((\d+[A-Z]?)[1lI]\b", r"(\1)", text)
+    text = re.sub(r"\bayat\s+\((\d)1\b(?=\s+(?:dilaksanakan|diselenggarakan|huruf))", r"ayat (\1)", text, flags=re.IGNORECASE)
+    text = re.sub(r"\((\d)1\b(?=\s)", r"(\1)", text)
     text = re.sub(r"[\{(](\d+[A-Z]?)[\\lI]\)", r"(\1)", text)
     text = re.sub(r"[\{(](\d+[A-Z]?)\\", r"(\1)", text)
     text = re.sub(r"\b2[Oo0][lI|]4\b", "2014", text)
@@ -592,6 +630,7 @@ def normalize_legal_text(text: str) -> str:
     text = normalize_ocr_years(text)
     text = re.sub(r"\bPasal\s+(\d+)l[:,]uruf\b", r"Pasal \1 huruf", text, flags=re.IGNORECASE)
     text = re.sub(r"\bPasal\s+(\d+)[lI]\b", r"Pasal \g<1>1", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bPasal\s+[lI](?=\d)", "Pasal 1", text)
     text = re.sub(r"\bNomor\s+S\s+Tahun\s+2021\b", "Nomor 5 Tahun 2021", text, flags=re.IGNORECASE)
     text = re.sub(r"\bNomor\s+1\s+I\s+Tahun\b", "Nomor 11 Tahun", text, flags=re.IGNORECASE)
     text = re.sub(r"\b[Pp]en5rusun", lambda match: "Penyusun" if match.group(0)[0].isupper() else "penyusun", text)
@@ -600,6 +639,7 @@ def normalize_legal_text(text: str) -> str:
     text = text.replace("bersertilikat", "bersertifikat").replace("Bersertilikat", "Bersertifikat")
     text = re.sub(r"\blzin\b", "Izin", text)
     text = re.sub(r"\bdanf\s+ataulzin\b", "dan/atau Izin", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bd\.?anf\s+atau\b", "dan/atau", text, flags=re.IGNORECASE)
     text = re.sub(r"\b(dan)\s*(?:f|l)?\s*atau\b", r"\1/atau", text, flags=re.IGNORECASE)
     text = re.sub(r"\bdan/ataulzin\b", "dan/atau Izin", text, flags=re.IGNORECASE)
     text = re.sub(r"\bdanlatau\b", "dan/atau", text, flags=re.IGNORECASE)
@@ -613,10 +653,61 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\blfrequently asked questionsl\b", "(frequently asked questions)", text, flags=re.IGNORECASE)
     text = text.replace("perLlndang", "perundang")
     text = text.replace("2,5o/o", "2,5%").replace("2,5oh", "2,5%")
+    text = text.replace("6Ooh", "60%")
     text = text.replace("!;ruruf", "huruf")
     text = text.replace("T\\.rgas", "Tugas")
     text = re.sub(r"\b(?:TIEPUBLIK|R\.?E?P[UO]BLIK|REFUBLIK|REPUBUK|REPUBLIK)\s+INDONES![A]?\b", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\b(?:TIEPUBLIK|R\.?E?P[UO]BLIK|REFUBLIK|REPUBUK)\s+INDONESI[\\\/A!]*\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(?:REPUtsL[IT]K|REPUtsUK|REPUEL[IT]K|REPUE[IU]K|REPUEILIK|REPUBL\|K|REPUBLIK\s+tNDONESlA|FRES\s*IDEN\s+REPUtsLIK)\s+INDONES[IASTAbl]*\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bREPUBLIK\s+(?:lNDONESIA|tNDONESlA|INDONESTA|INDONEbIA)\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*\.\.\.r\.i\s+dengan ketentuan\b", " sesuai dengan ketentuan", text, flags=re.IGNORECASE)
+    text = re.sub(r"\((\d)1\b(?=\s)", r"(\1)", text)
+    text = re.sub(r"\((\d+)t\)", r"(\1)", text)
+    text = re.sub(r"\((\d+)t\b", r"(\1)", text)
+    text = re.sub(r"\bayat\s+\((\d+)1\)huruf\b", r"ayat (\1) huruf", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bayat\s+\((\d+)1huruf\b", r"ayat (\1) huruf", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bNomor\s+l1\b", "Nomor 11", text)
+    text = re.sub(r"\b6573l[';]?", "6573)", text)
+    text = re.sub(r"\b2I\.", "21.", text)
+    text = text.replace("Pengadaan. Barang/Jasa", "Pengadaan Barang/Jasa")
+    text = text.replace("Rp100.900.000,00 (seratus juta rupiah)", "Rp100.000.000,00 (seratus juta rupiah)")
+    text = text.replace("penerbita n P erizinan Be ru saha secara oto mati s", "penerbitan Perizinan Berusaha secara otomatis")
+    text = text.replace("pencabut an P erizinan Beru saha", "pencabutan Perizinan Berusaha")
+    text = text.replace("pencabutanPerizinan", "pencabutan Perizinan")
+    text = text.replace("menteri-yang -.ry\"irggarakan", "menteri yang menyelenggarakan")
+    text = text.replace("y\". memasarkan", "yang memasarkan")
+    text = re.sub(r"p[\".\-]*b[\".]*t[\".]*an", "pembatasan", text)
+    text = text.replace("penyelen ggaraan", "penyelenggaraan")
+    text = text.replace("berbasi s", "berbasis")
+    text = text.replace("dan,diperlukan", "dan diperlukan")
+    text = text.replace("mernenuh i", "memenuhi")
+    text = text.replace("p.-..u,t d\"g^t g", "pameran dagang")
+    text = text.replace("i'asal ll7", "Pasal 117")
+    text = text.replace("p\"1\"k*^rr\"rtt", "pelaksanaan")
+    text = text.replace("tupati/wali kota", "bupati/wali kota")
+    text = text.replace("kabupate n I kota", "kabupaten/kota")
+    text = text.replace("kabupatenlkotayang", "kabupaten/kota yang")
+    text = text.replace("kabupatenlkota", "kabupaten/kota")
+    text = text.replace("kabupaten/ kota", "kabupaten/kota")
+    text = text.replace("Menteri'", "Menteri.")
+    text = text.replace("administratif'", "administratif.")
+    text = text.replace("Perdagangan'", "Perdagangan.")
+    text = text.replace("Ayat - (", "Ayat (")
+    text = text.replace("Ayat (i)", "Ayat (1)")
+    text = text.replace("Ayat (a)", "Ayat (4)")
+    text = text.replace("Ig4S", "1945")
+    text = text.replace("Ind6nesia", "Indonesia")
+    text = text.replace("menterdaskan", "mencerdaskan")
+    text = text.replace("wegara Republit<", "Negara Republik")
+    text = text.replace("metakukan", "melakukan")
+    text = text.replace("tttndotong", "mendorong")
+    text = text.replace("iu3ran", "tujuan")
+    text = text.replace("warga,rf\".\" blrhak", "warga negara berhak")
+    text = text.replace("keiranusiaan", "kemanusiaan")
+    text = text.replace("prrgfriarp\".t y\".r[ layat", "penghidupan yang layak")
+    text = text.replace("p..rIitrg", "penting")
+    text = text.replace("p\"rrrU\"\"grnan", "pembangunan")
+    text = re.sub(r"(?<=[A-Za-z])\.(?=[A-Za-z])", "", text)
     text = re.sub(r"(?:'\s*){2,}\s*sK\s*No\s+[A-Za-z0-9]+\s*[A-Z]?", "", text)
     text = re.sub(r"\bSK\s*No\.?\s*[0-9Il|l'MABTt]+(?:\s*[0-9Il|l'MABTt]+)*\s*[ABM]?\b", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\s+[A-Za-z]{0,4}\s+x[.)]?\s*[^A-Za-z0-9]*(?:[A-Za-z]{0,4}[.)]?)?,?\s*$", "", text)
