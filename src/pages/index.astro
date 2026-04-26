@@ -2,7 +2,7 @@
 import "../styles/global.css";
 import { conversionReports, displayTitle, kindLabel, regulations, searchText } from "../lib/regulations";
 
-const [regulation] = regulations;
+const [primaryRegulation] = regulations;
 const [conversion] = conversionReports;
 const title = "Website Peraturan Energi";
 const searchRows = regulations.flatMap((item) =>
@@ -15,7 +15,9 @@ const searchRows = regulations.flatMap((item) =>
     text: paragraph.text
   }))
 );
-const totalWords = searchText(regulation).split(/\s+/).filter(Boolean).length;
+const totalWords = regulations.reduce((sum, item) => sum + searchText(item).split(/\s+/).filter(Boolean).length, 0);
+const totalBodyArticles = regulations.reduce((sum, item) => sum + item.quality.body_article_count, 0);
+const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.paragraph_count, 0);
 ---
 
 <!doctype html>
@@ -66,15 +68,15 @@ const totalWords = searchText(regulation).split(/\s+/).filter(Boolean).length;
         </div>
 
         <div class="home-preview-strip" aria-label="Cuplikan konten website">
-          <a class="preview-card" href={`/peraturan/${regulation.metadata.slug}/`}>
+          <a class="preview-card" href={`/peraturan/${primaryRegulation.metadata.slug}/`}>
             <span>Dokumen utama</span>
-            <strong>{regulation.metadata.document_type} {regulation.metadata.number}/{regulation.metadata.year}</strong>
-            <em>{displayTitle(regulation)}</em>
+            <strong>{primaryRegulation.metadata.document_type} {primaryRegulation.metadata.number}/{primaryRegulation.metadata.year}</strong>
+            <em>{displayTitle(primaryRegulation)}</em>
           </a>
-          <a class="preview-card preview-card-tall" href="/prototype/reverse-prompt/">
-            <span>Pipeline QA</span>
+          <a class="preview-card preview-card-tall" href={`/peraturan/${conversion.metadata.slug}/`}>
+            <span>Hasil reverse prompt</span>
             <strong>UU 20/2014</strong>
-            <em>{conversion.quality.paragraph_count} paragraf terstruktur</em>
+            <em>{conversion.quality.paragraph_count} paragraf siap dibaca sebagai konten utama.</em>
           </a>
           <a class="preview-card" href="#pencarian">
             <span>Pencarian isi</span>
@@ -90,11 +92,11 @@ const totalWords = searchText(regulation).split(/\s+/).filter(Boolean).length;
           <span>Total Peraturan</span>
         </div>
         <div>
-          <strong>{regulations.length}</strong>
-          <span>Masih Berlaku</span>
+          <strong>{totalParagraphs.toLocaleString("id-ID")}</strong>
+          <span>Paragraf Terstruktur</span>
         </div>
         <div>
-          <strong>{regulation.quality.body_article_count}</strong>
+          <strong>{totalBodyArticles}</strong>
           <span>Pasal Batang Tubuh</span>
         </div>
         <div>
@@ -105,26 +107,33 @@ const totalWords = searchText(regulation).split(/\s+/).filter(Boolean).length;
 
       <section id="koleksi" class="home-content" aria-labelledby="collection-title">
         <div class="home-section">
-          <p class="eyebrow">Paling Sering Dibuka</p>
-          <h2 id="collection-title">Peraturan Populer</h2>
-          <a class="popular-link" href={`/peraturan/${regulation.metadata.slug}/`}>
-            <span>{regulation.metadata.document_type} berlaku {regulation.metadata.year}</span>
-            <strong>{regulation.metadata.document_type} {regulation.metadata.number}/{regulation.metadata.year}</strong>
-            <em>{displayTitle(regulation)}</em>
-          </a>
+          <p class="eyebrow">Koleksi Utama</p>
+          <h2 id="collection-title">Peraturan yang Bisa Dibaca Penuh</h2>
+          <div class="document-list">
+            {
+              regulations.map((item) => (
+                <a class="popular-link" href={`/peraturan/${item.metadata.slug}/`}>
+                  <span>{item.metadata.document_type} Tahun {item.metadata.year}</span>
+                  <strong>{item.metadata.document_type} {item.metadata.number}/{item.metadata.year}</strong>
+                  <em>{displayTitle(item)}</em>
+                </a>
+              ))
+            }
+          </div>
         </div>
 
         <div class="home-section">
           <p class="eyebrow">Kategori Peraturan</p>
           <h2>Jalur Cepat</h2>
           <div class="category-links">
-            <a href={`/peraturan/${regulation.metadata.slug}/`}>Ketenagalistrikan</a>
-            <a href={`/peraturan/${regulation.metadata.slug}/`}>Energi</a>
+            <a href={`/peraturan/${primaryRegulation.metadata.slug}/`}>Ketenagalistrikan</a>
+            <a href={`/peraturan/${conversion.metadata.slug}/`}>Standardisasi</a>
+            <a href={`/peraturan/${conversion.metadata.slug}/`}>Penilaian Kesesuaian</a>
             <a href="/prototype/reverse-prompt/">QA Pipeline</a>
           </div>
           <p class="compact-note">
-            Prototype konversi UU 20/2014: {conversion.quality.paragraph_count} paragraf
-            terstruktur dari {conversion.metadata.pdf_info.pages} halaman PDF.
+            Hasil uji reverse prompt UU 20/2014 sekarang tampil sebagai konten utama agar
+            struktur pasal, ayat, dan penjelasannya bisa direview langsung.
           </p>
         </div>
       </section>

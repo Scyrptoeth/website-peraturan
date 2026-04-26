@@ -1,5 +1,5 @@
 import uu30 from "../data/regulations/uu-nomor-30-tahun-2009.json";
-import uu20Conversion from "../data/prototype-conversions/uu-nomor-20-tahun-2014.json";
+import uu20 from "../data/regulations/uu-nomor-20-tahun-2014.json";
 
 export type LegalParagraph = {
   id: string;
@@ -36,8 +36,8 @@ export type RegulationPayload = {
   paragraphs: LegalParagraph[];
 };
 
-export const regulations = [uu30 as RegulationPayload];
-export const conversionReports = [uu20Conversion as RegulationPayload];
+export const regulations = [uu30 as RegulationPayload, uu20 as RegulationPayload];
+export const conversionReports = [uu20 as RegulationPayload];
 
 export function displayTitle(payload: RegulationPayload): string {
   const meta = payload.metadata;
@@ -61,7 +61,7 @@ export function getRegulationBySlug(slug: string): RegulationPayload | undefined
 }
 
 export function articleAnchors(payload: RegulationPayload): LegalParagraph[] {
-  return payload.paragraphs.filter((paragraph) => paragraph.kind === "article");
+  return payload.paragraphs.filter((paragraph) => paragraph.kind === "article" && paragraph.part === "body");
 }
 
 export function searchText(payload: RegulationPayload): string {
