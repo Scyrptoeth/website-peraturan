@@ -4,6 +4,9 @@ import { conversionReports, displayTitle, kindLabel, regulations, searchText } f
 
 const [primaryRegulation] = regulations;
 const [conversion] = conversionReports;
+const electricityRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-14-tahun-2012") ?? primaryRegulation;
+const standardizationRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-34-tahun-2018") ?? conversion;
+const licensingRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-28-tahun-2025") ?? primaryRegulation;
 const title = "Website Peraturan Energi";
 const searchRows = regulations.flatMap((item) =>
   item.paragraphs.map((paragraph) => ({
@@ -126,14 +129,15 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
           <p class="eyebrow">Kategori Peraturan</p>
           <h2>Jalur Cepat</h2>
           <div class="category-links">
-            <a href={`/peraturan/${primaryRegulation.metadata.slug}/`}>Ketenagalistrikan</a>
-            <a href={`/peraturan/${conversion.metadata.slug}/`}>Standardisasi</a>
-            <a href={`/peraturan/${conversion.metadata.slug}/`}>Penilaian Kesesuaian</a>
+            <a href={`/peraturan/${electricityRegulation.metadata.slug}/`}>Ketenagalistrikan</a>
+            <a href={`/peraturan/${standardizationRegulation.metadata.slug}/`}>Standardisasi</a>
+            <a href={`/peraturan/${standardizationRegulation.metadata.slug}/`}>Penilaian Kesesuaian</a>
+            <a href={`/peraturan/${licensingRegulation.metadata.slug}/`}>Perizinan Berusaha</a>
             <a href="/prototype/reverse-prompt/">QA Pipeline</a>
           </div>
           <p class="compact-note">
-            Hasil uji reverse prompt UU 20/2014 sekarang tampil sebagai konten utama agar
-            struktur pasal, ayat, dan penjelasannya bisa direview langsung.
+            Batch reverse prompt terbaru sudah tampil sebagai konten utama dengan struktur
+            pasal, ayat, dan penjelasan yang bisa dicari langsung.
           </p>
         </div>
       </section>

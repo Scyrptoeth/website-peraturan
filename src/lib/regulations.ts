@@ -1,5 +1,10 @@
 import uu30 from "../data/regulations/uu-nomor-30-tahun-2009.json";
 import uu20 from "../data/regulations/uu-nomor-20-tahun-2014.json";
+import pp14 from "../data/regulations/pp-nomor-14-tahun-2012.json";
+import pp23 from "../data/regulations/pp-nomor-23-tahun-2014.json";
+import pp62 from "../data/regulations/pp-nomor-62-tahun-2012.json";
+import pp34 from "../data/regulations/pp-nomor-34-tahun-2018.json";
+import pp28 from "../data/regulations/pp-nomor-28-tahun-2025.json";
 
 export type LegalParagraph = {
   id: string;
@@ -36,7 +41,15 @@ export type RegulationPayload = {
   paragraphs: LegalParagraph[];
 };
 
-export const regulations = [uu30 as RegulationPayload, uu20 as RegulationPayload];
+export const regulations = [
+  uu30 as RegulationPayload,
+  uu20 as RegulationPayload,
+  pp14 as RegulationPayload,
+  pp23 as RegulationPayload,
+  pp62 as RegulationPayload,
+  pp34 as RegulationPayload,
+  pp28 as RegulationPayload
+];
 export const conversionReports = [uu20 as RegulationPayload];
 
 export function displayTitle(payload: RegulationPayload): string {

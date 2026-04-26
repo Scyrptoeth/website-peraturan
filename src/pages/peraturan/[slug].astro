@@ -18,10 +18,19 @@ const title = displayTitle(regulation);
 const anchors = articleAnchors(regulation);
 const shortTitle = `${regulation.metadata.document_type} ${regulation.metadata.number}/${regulation.metadata.year}`;
 const qualityLabel = regulation.quality.quality_flags.length ? regulation.quality.quality_flags.join(", ") : "Bersih";
-const isReversePromptResult = regulation.metadata.slug === "uu-nomor-20-tahun-2014";
-const topicTags = isReversePromptResult
-  ? ["Standardisasi", "Penilaian Kesesuaian", "Hasil Reverse Prompt"]
-  : ["Ketenagalistrikan", "Energi", "Undang-Undang"];
+const isReversePromptResult = regulation.metadata.slug !== "uu-nomor-30-tahun-2009";
+const topicTags = tagsFor(regulation);
+
+function tagsFor(payload: RegulationPayload): string[] {
+  const tags = [payload.metadata.document_type === "PP" ? "Peraturan Pemerintah" : "Undang-Undang"];
+  const titleText = payload.metadata.title.toUpperCase();
+  if (titleText.includes("TENAGA LISTRIK")) tags.push("Ketenagalistrikan");
+  if (titleText.includes("STANDARDISASI")) tags.push("Standardisasi");
+  if (titleText.includes("PENILAIAN KESESUAIAN")) tags.push("Penilaian Kesesuaian");
+  if (titleText.includes("PERIZINAN BERUSAHA")) tags.push("Perizinan Berusaha");
+  if (isReversePromptResult) tags.push("Hasil Reverse Prompt");
+  return tags;
+}
 
 function splitListLabel(paragraph: LegalParagraph): { label: string; body: string } | null {
   if (!["paragraph", "letter", "number"].includes(paragraph.kind)) return null;

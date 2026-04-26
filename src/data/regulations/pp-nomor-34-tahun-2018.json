@@ -1,0 +1,6280 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/PP Nomor 34 Tahun 2018.pdf",
+    "source_sha256": "100763e5676aaf877666a180a70ffc2569d77cbcb762056ccd4a044045bb3fb4",
+    "document_type": "PP",
+    "number": "34",
+    "year": "2018",
+    "title": "SISTEM STANDARDISASI DAN PENILAIAN KESESUAIAN NASIONAL",
+    "slug": "pp-nomor-34-tahun-2018",
+    "pdf_info": {
+      "pages": "63",
+      "title": "",
+      "tagged": "no",
+      "encrypted": "no",
+      "pdf_version": "1.3"
+    },
+    "generated_at": "2026-04-26T03:19:40.388212+00:00"
+  },
+  "quality": {
+    "paragraph_count": 1041,
+    "body_article_count": 115,
+    "explanation_article_count": 115,
+    "chapter_count": 16,
+    "part_count": 11,
+    "letter_count": 175,
+    "number_count": 32,
+    "has_explanation": true,
+    "has_state_gazette": false,
+    "has_supplement": false,
+    "quality_flags": []
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "body",
+      "text": ":",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "NOMOR 34 TAHUN 2018",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "title",
+      "text": "SISTEM STANDARDISASI DAN PENILAIAN KESESUAIAN NASIONAL",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "title",
+      "text": "PRESIDEN",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "body",
+      "text": "Menimbang bahwa untuk melaksanakan ketentuan Pasal 64 Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan dan ketentuan Pasal 1 1, Pasal 16, Pasal 22 ayat (5), Pasal 23, Pasal 35, Pasal 38, Pasal 41, Pasal 45, Pasal 49, Pasal 51 ayat (2), dan Pasal 57 Undang-Undang Nomor 20 Tahun 2014 tentang Standardisasi dan Penilaian Kesesuaian, perlu",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "decision",
+      "text": "menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "title",
+      "text": "Peraturan Pemerintah tentang Sistem",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "body",
+      "text": "S*,andardisasi dan Penilaian Kesesuaian Nasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "number",
+      "text": "1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Tahun 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "number",
+      "text": "2. Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan (Lembaran Negara Tahun 2014 Nomor 45, Tambahan Lembaran Negara Nomor 5512);",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "number",
+      "text": "3. Undang-Undang Nomor 20 Tahun 2014 tentang Standardisasi dan Penilaian Kesesuaian (Lembaran Negara Tahun 2014 Nomor 216, Tambahan",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "closing",
+      "text": "Lembaran Negara Nomor 558a);",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "body",
+      "text": "PERA'I'URAN PEMERINTAH TENTANG SISTEM",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "body",
+      "text": "STANDARDISASI DAN PENILAIAN KESESUAIAN NASIONAL.",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "chapter",
+      "text": "BAB I",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "body",
+      "text": "KETENTUAN UMUM",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "body",
+      "text": "Dalam Peraturan Pemerintair ini:lang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "number",
+      "text": "1. Standardisasi adalah proses merencanakan, merumuskan, menetapkan, menerapkan, memberlakukan, memelihara, dan mengawasi Standar yang dilaksanakan secara tertib, dan bekerja sama dengan semua Pemangku Kepentingan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "number",
+      "text": "2. Penilaian Kesesuaian adalah kegiatan untuk menilai bahwa Barang, Jasa, Sistem, Proses, atau Personal telah memenuhi Persyaratan Acuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "number",
+      "text": "3. Standar adalah persyaratan teknis atau sesuatu yang dibakukan, termasuk tata cara dan metode yang disusun berdasarkan konsensus semua pihak/Pemerintah/ keputusan internasional yang terkait dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "opening",
+      "text": "memperhatikan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "body",
+      "text": "syarat keselamatan, keamanan, kesehatan, lingkungan hiclup, perkembangan ilmu pengetahuan dan teknologi, pengalaman, serta perkembangan masa kini dan masa depan untuk memperoleh manfaat yang sebesar-besarnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "number",
+      "text": "4. Badan Standardisasi Nasional yang selanjutnya disingkat BSN adalah lembaga pemerintah nonkementerian yang bertugas dan bertanggung jawab di bidang Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "number",
+      "text": "5. Komite Akreditasi Nasional yang selanjutnya disingkat KAN adalah lembaga nonstruktural yang bertugas dan bertanggung jawab di bidang Akreditasi Lembaga Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "number",
+      "text": "6. Lembaga Penilaian Kesesuaian yang selanjutnya disingkat LPK adatah lembaga yang melakukan kegiatan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "number",
+      "text": "7. Standar Nasional Indonesia yang selanjutnya disingkat SNI adalah Standar yang ditetapkan oleh BSN dan berlaku di wilayah Negara Kesatuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "number",
+      "text": "8. Akreditasi adalah rangkaian kegiatan pengakuan formal oleh KAN, yang menyatakan bahwa suatu lembaga, institusi, atau laboratorium memiliki kompetensi serta berhak melaksanakan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "number",
+      "text": "9. Sertifikasi adalah rangkaian kegiatan Penilaian Kesesuaian yang berkaitan dengan pemberian jaminan tertulis bahwa Barang, Jasa, Sistem, Proses, atau Personal telah memenuhi Standar dan/atau regulasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "number",
+      "text": "10. Tanda",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "number",
+      "text": "10. Tanda SNI adalah tanda Sertifikasi yang ditetapkan oleh BSN untuk menyatakan telah terpenuhinya persyaratan",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "body",
+      "text": "SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "number",
+      "text": "11. Tanda Kesesuaian adalah tanda Sertifikasi selain Tanda SNI yang ditetapkan kementerian dan/atau lembaga pemerintah nonkementerian atau ditetapkan berdasarkan perjanjian saling pengakuan antar subjek hukum internasional. L2. Barang adalah setiap benda, baik berwujud maupun tidak beru,ujud, baik bergerak maupun tidak bergerak, baik dapat dihabiskan maupun tidak dapat dihabiskan, dan dapat diperdagangkan, dipakai, digunakan, atau dimanfaatkan oleh konsumen atau Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "number",
+      "text": "13. Jasa adalah setiap layanan dan unjuk kerja berbentuk pekerjaan atau hasil kerja yang dicapai, yang disediakan oleh satu pihak ke pihak lain dalam masyarakat untuk dimanfaatkan oleh konsumen atau Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "number",
+      "text": "14. Sistem adalah perangkat unsur yang secara teratur saling berkaitan untuk menjalankan suatu kegiatan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "number",
+      "text": "15. Proses adalah rangkaian tindakan, perbuatan, atau pengolahan yang mengubah masukan menjadi keluaran.",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "number",
+      "text": "16. Personal adalah perseorangan yang bertindak untuk diri sendiri yang berkaitan dengan pembuktian kompetensi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "number",
+      "text": "17. Pelaku Usaha adalah setiap orang perseorangan atau badan usaha, baik yang berbentuk badan hukum maupun bukan badan hukum yang didirikan dan berkedudukan atau melakukan kegiatan dalam wilayah Negara Kesatuan, baik sendiri maupun bersama-sama melalui perjanjian, menyelenggarakan kegiatan usaha dalam berbagai bidang ekonomi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "number",
+      "text": "18. Pemangku Kepentingan adalah pihak yang mempunyai kepentingan terhadap kegiatan Standardisasi dan Penilaian Kesesuaian, yang terdiri atas unsur konsumen, Pelaku Usaha, asosiasi, pakar, cendekiawan, kementerian, lembaga pemerintah nonkementerian, dan/atau Pemerintah Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "number",
+      "text": "19. Program Nasional Perumusan Standar yang selanjutnya disingkat PNPS adalah usulan rancangan SNI dari Pemangku Kepentingan yang akan dirumuskan secara terencana, terpadu, dan sistematis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "number",
+      "text": "20. Komite",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "body",
+      "text": "REPUELIK INDONESIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "number",
+      "text": "20. Komite Teknis adalah komite yang dibentuk dan ditetapkan BSN, beranggotakan perwakilan Pemangku Kepentingan untuk lingkup tertentu, dan bertugas melaksanakan perumusan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "number",
+      "text": "21. Skema Penilaian Kesesuaian adalah aturan, prosedur, dan manajemen yang berlaku untuk melaksanakan Penilaian Kesesuaian terhadap Barang, Jasa, Sistem, Proses, dan/atau Personal dengan Persyaratan Acuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "number",
+      "text": "22. Standar Nasional Satuan Ukuran yang selanjutnya disingkat SNSU adalah standar pengukuran yang diakui secara nasional sebagai acuan untuk menentukan nilai standar pengukuran lainnya untuk besaran yang sama.",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "number",
+      "text": "23. Kalibrasi adalah kegiatan yang dilakukan dalam kondisi tertentu untuk menentukan perbedaan antara nilai yang ditunjukkan pada alat ukur atau nilai standar ukuran dan nilai standar ukuran yang memiliki ketelitian lebih tinggi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "number",
+      "text": "24. Persyaratan Acuan adalah dokumen yang memuat kriteria yang digunakan sebagai acuan persyaratan Barang, Jasa, Sistem, Proses, atau Personal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "number",
+      "text": "25. Bahan Acuan adalah bahan yang cukup homogen dan stabil untuk satu atau lebih sifat khas yang telah ditetapkan guna memenuhi persyaratan sebagai acuan dalam pengukuran atau penentuan sifat bahan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "number",
+      "text": "26. Pemerintah Pusat adalah Presiden yang memegang kekuasaan pemerintahan negara yang dibantu oleh Wakil Presiden dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "body",
+      "text": "menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Tahun 1945.",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "number",
+      "text": "27. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "body",
+      "text": "Ruang lingkup pengaturan Peraturan Pemerintah ini meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "letter",
+      "text": "a. Standardisasi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "letter",
+      "text": "b. kegiatan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "letter",
+      "text": "c. kelembagaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "letter",
+      "text": "d. ketertelusuran hasil Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "letter",
+      "text": "e. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "letter",
+      "text": "f. kerjasama;",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "letter",
+      "text": "g. sistem informasi Standardisasi dan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "letter",
+      "text": "h. pembinaan dan pengawasan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "letter",
+      "text": "i. peran serta masyarakat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "chapter",
+      "text": "BAB II",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "body",
+      "text": "STANDARDISASI",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "body",
+      "text": "Standardisasi meliputi kegiatan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "letter",
+      "text": "a. perencanaan, perumusan, dan penetapan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "letter",
+      "text": "b. penerapan dan pemberlakuan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "letter",
+      "text": "c. pemeliharaan SNI; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "letter",
+      "text": "d. pengawasan penerapan dan pemberlakuan SNI",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "body",
+      "text": "Perencanaan, Perumusan, dan Penetapan SNI",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "subpart",
+      "text": "Paragraf 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "body",
+      "text": "Perencanaan",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "paragraph",
+      "text": "(1) SNI direncanakan dan dirumuskan untuk membakukan persyaratan teknis, kualifikasi, dan/atau kompetensi yang berkaitan dengan Barang, Jasa, Sistem, Proses, dan Personal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "paragraph",
+      "text": "(2) SNI paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "letter",
+      "text": "a. definisi",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "letter",
+      "text": "a. definisi, istilah, dan simbol yang dipergunakan di sektor tertentu;",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "letter",
+      "text": "b. persyaratan karakteristik, batasan, dan/atau keragaman Barang, Jasa, Sistem, Proses, dan/atau Personal untuk keperluan tertentu termasuk yang berkaitan dengan keyakinan beragama;",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "letter",
+      "text": "c. kesesuaian hubungan antar Barang, Jasa, Sistem, dan/atau Proses;",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "letter",
+      "text": "d. tata cara dan metode pengambilan contoh, pengujian, Kalibrasi, audit dan inspeksi yang berkaitan dengan penilaian karakteristik serta spesifikasi Barang, Jasa, dan/atau Proses; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "letter",
+      "text": "e. persyaratan kualifikasi dan/atau kompetensi personal di bidang Standardisasi dan Penilaian Kesesuaian sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "paragraph",
+      "text": "(1) Perencanaan perumusan SNI disusun dalam suatu PNPS.",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "paragraph",
+      "text": "(2) PNPS sebagaimana dimaksud pada ayat (1) merupakan skala prioritas program perumusan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "paragraph",
+      "text": "(3) PNPS sebagaimana dimaksud pada ayat (1) didasarkan pada usulan Pemangku Kepentingan yang memuat judul SNI yang akan dirumuskan beserta pertimbangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "paragraph",
+      "text": "(4) Pertimbangan sebagaimana dimaksud pada ayat (3) merupakan penjelasan secara lengkap mengenai usulan rancangan SNI yang akan dirumuskan, paling sedikit meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "letter",
+      "text": "a. judul rancangan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "letter",
+      "text": "b. latar belakang dan tujuan perumusan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "letter",
+      "text": "c. acuan perumusan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "letter",
+      "text": "d. metode perumusan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "letter",
+      "text": "e. kerangka substansi SNI; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "letter",
+      "text": "f. pihak yang akan meneraPkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "paragraph",
+      "text": "(1) Dalam rangka meningkatkan mutu Barang dan/atau Jasa unggulan daerah, Pemerintah Daerah dapat mengajukan rencana perumusan SNI kepada BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "paragraph",
+      "text": "(2) Pengajuan rencana perumusan SNI sebagaimana dimaksud pada ayat (1) disertai dengan pertimbangan sebagaimana dimaksud dalam Pasal 5 ayat (4).",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "body",
+      "text": "Dalam penyusunan PNPS sebagaimana dimaksud dalam Pasal 5 dan Pasal 6 harus memperhatikan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "letter",
+      "text": "a. kebijakan nasional Standardisasi dan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "letter",
+      "text": "b. perlindungan konsumen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "letter",
+      "text": "c. kebutuhan pasar;",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "letter",
+      "text": "d. perkembangan Standardisasi internasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "letter",
+      "text": "e. kesepakatan regional dan internasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "letter",
+      "text": "f. kemampuan ilmu pengetahuan dan teknologi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "letter",
+      "text": "g. kondisi flora, fauna, dan lingkungan hidup;",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "letter",
+      "text": "h. kemampuan dan kebutuhan industri dalam negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "letter",
+      "text": "i. keyakinan beragama; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "letter",
+      "text": "j. budaya dan kearifan lokal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "paragraph",
+      "text": "(1) Penyusunan PNPS dilakukan oleh BSN bersama-sama dengan Pemangku Kepentingan. (2) PNPS sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Kepala BSN untuk periode 1 (satu) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara pengusulan dan penyusunan PNPS diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "subpart",
+      "text": "Paragraf 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "body",
+      "text": "Perumusan SNI",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "paragraph",
+      "text": "(1) Perumusan SNI dilaksanakan oleh BSN berdasarkan PNPS sebagaimana dimaksud dalam Pasal 8 ayat (2).",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "paragraph",
+      "text": "(2) Hasil Perumusan SNI sebagaimana dimaksud pada ayat (1) berupa rancangan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "paragraph",
+      "text": "(1) Dalam melaksanakan perumusan SNI sebagaimana dimaksud dalam Pasal 10, Kepala BSN membentuk Komite Teknis. (2) Keanggotaan Komite Teknis terdiri atas unsur:",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "letter",
+      "text": "a. Pemerintah Pusat dan/atau Pemerintah Daerah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "letter",
+      "text": "b. Pelaku Usaha dan/atau asosiasi terkait;",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "letter",
+      "text": "c. konsumen dan/atau asosiasi konsumen terkait; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "letter",
+      "text": "d. pakar dan/atau akademisi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "paragraph",
+      "text": "(3) Dalam melaksanakan tugasnya sebagaimana dimaksud dalam Pasal 10, Komite Teknis didukung oleh Sekretariat Komite Teknis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "paragraph",
+      "text": "(4) Pembentukan, ruang lingkup, tugas, dan susunan keanggotaan Komite Teknis dan Sekretariat Komite Teknis sebagaimana dimaksud pada ayat (1) dan ayat (3) ditetapkan dengan Keputusan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "paragraph",
+      "text": "(1) Komite Teknis dan Sekretariat Komite Teknis sebagaimana dimaksud dalam Pasal 11 dikelola oleh BSN. (2) Ketentuan lebih lanjut mengenai pengelolaan Komite Teknis dan Sekretariat Komite Teknis diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "paragraph",
+      "text": "(1) SNI dirumuskan dengan memperhatikan ketersediaan sumber daya, kepentingan nasional, hasil penelitian, inovasi, dan/atau pengalaman. (2) Dalam hal terdapat standar internasional, SNI dirumuskan selaras dengan standar internasional melalui:",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "letter",
+      "text": "a. adopsi standar internasional dengan mempertimbangkan kepentingan nasional untuk menghadapi perdagangan global; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "letter",
+      "text": "b. modilikasi standar internasional disesuaikan dengan perbedaan iklim, lingkungan, geologi, geografis, kemampuan teknologi, dan kondisi spesifik lain.",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "paragraph",
+      "text": "(3) Untuk kepentingan nasional, SNI dapat dirumuskan tidak selaras dengan standar internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "paragraph",
+      "text": "(1) BSN melakukan jajak pendapat kepada masyarakat atas rancangan SNI sebagaimana dimaksud dalam Pasal 10 ayat (2)'.",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "paragraph",
+      "text": "(2) Jajak pendapat sebagaimana dimaksud pada ayat (1) dilakukan dalam rangka mencapai konsensus nasional atas suatu rancangan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "paragraph",
+      "text": "(3) Masyarakat dapat memberikan masukan terhadap rancangan SNI sebagaimana dimaksud pada ayat (1). (4) Hasil jajak pendapat dibahas oleh BSN dengan melibatkan Komite Teknis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "paragraph",
+      "text": "(5) Hasil jajak pendapat dan masukan sebagaimana dimaksud pada ayat (2) dan ayat (3) dapat menjadi bahan pertimbangan bagi Komite Teknis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "paragraph",
+      "text": "(1) Jajak pendapat sebagaimana dimaksud dalam Pasal 14 ayat (1) dilakukan dengan menggunakan sistem informasi Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "paragraph",
+      "text": "(2) Apabila diperlukan, jajak pendapat dapat menggunakan metode lain untuk memperluas partisipasi masyarakat dalam proses perumusan rancangan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "body",
+      "text": "Rancangan SNI divalidasi oleh BSN menjadi rancangan akhir",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "body",
+      "text": "SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal keadaan luar biasa atau terjadinya bencana alam, atau untuk kepentingan nasional, kementerian dan/atau lembaga pemerintah nonkementerian dapat mengusulkan perumusan SNI yang tidak termasuk dalam PNPS pada tahun berjalan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "paragraph",
+      "text": "(2) Usulan perumusan SNI sebagaimana dimaksud pada ayat (1) disampaikan kepada BSN dengan disertai penjelasan yang mendukung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "paragraph",
+      "text": "(3) Penjelasan yang mendukung sebagaimana dimaksud pada ayat (21meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "letter",
+      "text": "a. judul rancangan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "letter",
+      "text": "b. urgensi perumusan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "letter",
+      "text": "c. acuan perumusan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "letter",
+      "text": "d. metode perumusan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "letter",
+      "text": "e. kerangka substansi SNI; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "letter",
+      "text": "f. pihak yang akan menerapkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "paragraph",
+      "text": "(4) Usulan perumusan SNI sebagaimana dimaksud pada ayat (1) dibahas oleh Komite Teknis dan divalidasi oleh BSN menjadi rancangan akhir SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara dan tahapan perumusan SNI serta jajak pendapat dan validasi diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "subpart",
+      "text": "Paragraf 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "body",
+      "text": "Penetapan SNI",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "paragraph",
+      "text": "(1) Rancangan akhir SNI sebagaimana dimaksud dalam Pasal 16 dan Pasal 17 ayat (4) ditetapkan menjadi SNI dengan Keputusan Kepala BSN. (2) Informasi mengenai SNI sebagaimana dimaksud pada ayat (1) dipublikasikan melalui sistem informasi Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "body",
+      "text": "Penerapan dan Pemberlakuan SNI",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "subpart",
+      "text": "Paragraf 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "paragraph",
+      "text": "(1) SNI dapat diterapkan oleh para Pelaku Usaha, kementerian dan/atau lembaga pemerintah nonkementerian, dan/atau Pemerintah Daerah sesuai dengan kebutuhan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "paragraph",
+      "text": "(2) Penerapan SNI sebagaimana dimaksud pada ayat (1) dapat dilakukan terhadap:",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "letter",
+      "text": "a. Barang yang diperdagangkan atau diedarkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "letter",
+      "text": "b. Jasa yang diberikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "letter",
+      "text": "c. Proses atau Sistem yang dijalankan; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "letter",
+      "text": "d. Personal yang terlibat dalam kegiatan tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "paragraph",
+      "text": "(3) Penerapan SNI sebagaimana dimaksud pada ayat (1) dilakukan secara sukarela berdasarkan kebutuhan. (4) SNI diberlakukan secara wajib untuk memenuhi persyaratan yang diberlakukan oleh menteri atau kepala lembaga pemerintah nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "paragraph",
+      "text": "(5) Dalam rangka memberikan kemudahan bagi Pelaku Usaha untuk memperoleh Sertifikat SNI, BSN menerapkan sistem penggunaan data secara bersama (data sharing) dan terintegrasi secara elektronik (online).",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "subpart",
+      "text": "Paragraf 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "body",
+      "text": "-.'l I -",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "body",
+      "text": ". +F,'-",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "subpart",
+      "text": "Paragraf 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "body",
+      "text": "Penerapan SNI secara Sukarela",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "paragraph",
+      "text": "(1) SNI dapat diterapkan secara sukarela oleh Pelaku Usaha, kementerian dan/atau lembaga pemerintah nonkementerian, dan/atau Pemerintah Daerah. (2) Pelaku Usaha, kementerian dan/atau lembaga pemerintah nonkementerian, dan/atau Pemerintah Daerah yang telah mampu menerapkan SNI dapat mengajukan Sertifikasi kepada LPK yang telah diakreditasi oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "paragraph",
+      "text": "(3) LPK yang telah diakreditasi oleh KAN memberikan sertifikat kepada pemohon yang telah memenuhi persyaratan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "paragraph",
+      "text": "(1) Pelaku Usaha yang telah mendapatkan sertifikat sebagaimana dimaksud dalam Pasal 21 ayat (3) wajib membubuhkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "letter",
+      "text": "a. Tanda SNI; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "letter",
+      "text": "b. Tanda Kesesuaian pada Barang dan/atau kemasan atau label.",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "paragraph",
+      "text": "(2) Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) untuk Jasa, Sistem, Proses, dan/atau Personal dapat dibubuhkan pada papan pengenal, kop surat, dan/atau media lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "paragraph",
+      "text": "(3) Pembubuhan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) dan ayat (2) dilakukan setelah mendapat persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian. (4) Persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud pada ayat (3) diberikan oleh BSN kepada Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "body",
+      "text": "Kementerian dan/atau lembaga pemerintah nonkementerian dan/atau Pemerintah Daerah yang telah memperoleh sertifikat sebagaimana dimaksud dalam Pasal 21 ayat (3) dapat membubuhkan Tanda SNI dan/atau Tanda Kesesuaian berdasarkan persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian dari BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "paragraph",
+      "text": "(1) Pelaku Usaha yang menerapkan SNI secara sukarela yang memiliki sertifikat sebagaimana dimaksud dalam Pasal 21 ayat (3) dan telah berakhir masa berlaku, dicabut, atau dibekukan sertifikatnya, dilarang membubuhkan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 22 ayat (1) pada Barang dan/atau kemasan atau label, papan pengenal, kop surat, dan/atau media lainnya. (2) Pelaku Usaha yang telah mendapat sertifikat sebagaimana dimaksud dalam Pasal 21 ayat (3) dilarang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "letter",
+      "text": "a. membubuhkan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 22 ayat (1) pada Barang dan/atau kemasan atau label, papan pengenal, kop surat, dan/atau media lainnya di luar ketentuan yang ditetapkan dalam sertifikat; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "letter",
+      "text": "b. membubuhkan nomor SNI yang berbeda dengan nomor SNI pada sertifikatnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0203",
+      "kind": "subpart",
+      "text": "Paragraf 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0204",
+      "kind": "body",
+      "text": "Pemberlakuan SNI secara Wajib",
+      "part": "body"
+    },
+    {
+      "id": "p-0205",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "body"
+    },
+    {
+      "id": "p-0206",
+      "kind": "paragraph",
+      "text": "(1) Pemberlakuan SNI secara wajib dilakukan oleh menteri dan/atau kepala lembaga pemerintah nonkementerian dengan mempertimbangkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0207",
+      "kind": "letter",
+      "text": "a. keselamatan, keamanan, kesehatan, dan pelestarian fungsi lingkungan hidup;",
+      "part": "body"
+    },
+    {
+      "id": "p-0208",
+      "kind": "letter",
+      "text": "b. daya saing produsen nasional dan persaingan usaha yang sehat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0209",
+      "kind": "letter",
+      "text": "c. kemampuan dan kesiapan dunia usaha nasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0210",
+      "kind": "letter",
+      "text": "d. kesiapan infrastruktur LPK;",
+      "part": "body"
+    },
+    {
+      "id": "p-0211",
+      "kind": "letter",
+      "text": "e. budaya, adat istiadat, atau tradisi berdasarkan kearifan lokal; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0212",
+      "kind": "letter",
+      "text": "f. kepentingan nasional lainnya sesuai dengan ketentuan peraturan perundang-undangan. (2) Pemberlakuan SNI secara wajib sebagaimana dimaksud pada ayat (1) ditetapkan melalui peraturan menteri dan/atau kepala lembaga pemerintah nonkementerian sesuai dengan kewenangan berdasarkan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0213",
+      "kind": "paragraph",
+      "text": "(3) Pemberlakuan SNI secara wajib sebagaimana dimaksud pada ayat (2) harus didahului dengan mempertimbangkan hasil analisis dampak reguiasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0214",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan mengenai tata cara penyusunan analisis dampak regulasi diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0215",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "body"
+    },
+    {
+      "id": "p-0216",
+      "kind": "paragraph",
+      "text": "(1) Pelaku Usaha, kementerian/lembaga pemerintah nonkementerian, dan/atau Pemerintah Daerah wajib memiliki sertifikat untuk SNI yang telah diberlakukan secara wajib terhadap Barang, Jasa, Sistem, atau Proses sebagaimana dimaksud dalam Pasal 25 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0217",
+      "kind": "paragraph",
+      "text": "(2) Pelaku Usaha, kementerian, lembaga pemerintah nonkementerian, dan/atau Pemerintah Daerah wajib mempekerjakan Personal yang memiliki sertifikat SNI Personal, jika telah diberlakukan secara wajib sebagaimana dimaksud dalam Pasal 25 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0218",
+      "kind": "paragraph",
+      "text": "(3) Sertifikat sebagaimana dimaksud pada ayat (1) dan ayat (2) diterbitkan oleh LPK yang diakreditasi oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0219",
+      "kind": "paragraph",
+      "text": "(4) LPK sebagaimana dimaksud pada ayat (3) harus memenuhi persyaratan lain yang ditetapkan dalam peraturarr menteri dan/atau kepala lembaga pemerintah nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0220",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "body"
+    },
+    {
+      "id": "p-0221",
+      "kind": "paragraph",
+      "text": "(1) Pelaku Usaha sebagaimana dimaksud dalam Pasal 26 ayat (1) yang memproduksi, menghasilkan, dan/atau mengimpor Barang yang telah diberlakukan SNI secara wajib, wajib membubuhkan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 22 ayat (1) pada Barang dan/atau kemasan atau label yang akan diperdagangkan dan/atau diedarkan di wilayah. (2) Kewajiban sebagaimana dimaksud pada ayat (1) dikecualikan dalam hal Pelaku Usaha yang memproduksi dan/atau menghasilkan Barang sebagaimana dimaksud pada ayat (1) telah membuat perjanjian dengan Pelaku Usaha pemilik merek terdaftar dan/atau penerima lisensi merek terdaftar bahwa pembubuhan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal22 ayat (1) dilakukan oleh Pelaku Usaha pemilik merek terdaftar dan/atau penerima lisensi merek terdaftar.",
+      "part": "body"
+    },
+    {
+      "id": "p-0222",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal diperjanjikan sebagaimana dimaksud pada ayat (2), Pelaku Usaha pemilik merek terdaftar dan/atau penerima lisensi merek terdaftar wajib membubuhkan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 22 ayat (1) pada Barang dan/atau kemasan atau label yang akan diperdagangkan dan/atau diedarkan di wilayah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0223",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "body"
+    },
+    {
+      "id": "p-0224",
+      "kind": "body",
+      "text": "Dalam hal SNI untuk Jasa, Sistem, Proses, dan/atau Personal telah diberlakukan secara wajib, pembubuhan Tanda SNI dan/atau Tanda Kesesuaian untuk Jasa, Sistem, Proses, dan/atau Personal dapat dilakukan pada papan pengenal, kop surat, dan/atau media lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0225",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "body"
+    },
+    {
+      "id": "p-0226",
+      "kind": "paragraph",
+      "text": "(1) Pembubuhan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 27 dan Pasal 28 dilakukan setelah mendapat persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0227",
+      "kind": "paragraph",
+      "text": "(2) Persetujuan penggunaan Tanda SNI sebagaimana dimaksud pada ayat (1) diberikan oleh BSN kepada Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0228",
+      "kind": "paragraph",
+      "text": "(3) Persetujuan penggunaan Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) diberikan oleh kementerian dan/atau lembaga pemerintah nonkementerian sebagaimana dimaksud dalam Pasal 25 ayat (2) kepada Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0229",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "body"
+    },
+    {
+      "id": "p-0230",
+      "kind": "body",
+      "text": "Kementerian dan/atau lembaga pemerintah nonkementerian dan/atau Pemerintah Daerah yang telah memperoleh sertifikat sebagaimana dimaksud dalam Pasal 26 ayat (1) dapat membubuhkan Tanda SNI dan/atau Tanda Kesesuaian berdasarkan persetujuan penggunaan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0231",
+      "kind": "letter",
+      "text": "a. Tanda SNI dari BSN; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0232",
+      "kind": "letter",
+      "text": "b. Tanda Kesesuaian dari kementerian dan/atau lembaga pemerintah nonkementerian sebagaimana dimaksud dalam Pasal 25 ayat (2).",
+      "part": "body"
+    },
+    {
+      "id": "p-0233",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "body"
+    },
+    {
+      "id": "p-0234",
+      "kind": "body",
+      "text": "BSN melimpahkan kewenangan pemberian persetujuan penggunaan Tanda SNI sebagaimana dimaksud dalam Pasal 29 ayat (2) dan Pasal 30 huruf a kepada kementerian dan/atau lembaga pemerintah nonkementerian yang",
+      "part": "body"
+    },
+    {
+      "id": "p-0235",
+      "kind": "decision",
+      "text": "menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0236",
+      "kind": "body",
+      "text": "pemberlakuan SNI secara wajib sebagaimana dimaksud dalam Pasal 25 ayat (2).",
+      "part": "body"
+    },
+    {
+      "id": "p-0237",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "body"
+    },
+    {
+      "id": "p-0238",
+      "kind": "body",
+      "text": "Daiam hal SNI telah diberlakukan secara u,ajib, Pelaku Usaha wajib memperdagangkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0239",
+      "kind": "letter",
+      "text": "a. Barang yang telah dibubuhi Tanda SNI dan/atau Tanda Kesesuaian pada Barang dan/atau kemasan atau label; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0240",
+      "kind": "letter",
+      "text": "b. Jasa yang telah memiliki sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0241",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "body"
+    },
+    {
+      "id": "p-0242",
+      "kind": "body",
+      "text": "Dalam hal SNI diberlakukan secara wajib dengan peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0243",
+      "kind": "body",
+      "text": "menteri/kepala lembaga pemerintah nonkementerian, dokumen SNI menjadi lampiran yang tidak terpisahkan dari",
+      "part": "body"
+    },
+    {
+      "id": "p-0244",
+      "kind": "body",
+      "text": "peraturan menteri/keptrla lembaga pemerintah",
+      "part": "body"
+    },
+    {
+      "id": "p-0245",
+      "kind": "body",
+      "text": "nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0246",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "body"
+    },
+    {
+      "id": "p-0247",
+      "kind": "paragraph",
+      "text": "(1) Pelaku Usaha yang memperdagangkan Barang dan/atau Jasa yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 32 wajib menghentikan kegiatan perdagangan Barang dan/atau Jasa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0248",
+      "kind": "paragraph",
+      "text": "(2) Pelaku Usaha sebagaimana dimaksud dalam Pasal 27 ayat (1) dan ayat (3) yang tidak memenuhi SNI wajib dan tidak membubuhkan Tanda SNI dan/atau Tanda Kesesuaian wajib menarik Barang dari peredaran sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0249",
+      "kind": "paragraph",
+      "text": "(3) Kewajiban penghentian perdagangan Jasa sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0250",
+      "kind": "part",
+      "text": "Bagian Keempat",
+      "part": "body"
+    },
+    {
+      "id": "p-0251",
+      "kind": "body",
+      "text": "Pemeliharaan",
+      "part": "body"
+    },
+    {
+      "id": "p-0252",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "body"
+    },
+    {
+      "id": "p-0253",
+      "kind": "paragraph",
+      "text": "(1) Pemeliharaan SNI dilakukan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0254",
+      "kind": "letter",
+      "text": "a. menjaga kesesuaian SNI terhadap kepentingan nasional dan kebutuhan pasar;",
+      "part": "body"
+    },
+    {
+      "id": "p-0255",
+      "kind": "letter",
+      "text": "b. mengikuti perkembangan ilmu pengetahuan, inovasi, dan teknologi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0256",
+      "kind": "letter",
+      "text": "c. menilai kelayakan dan kekiniannya; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0257",
+      "kind": "letter",
+      "text": "d. menjamin ketersediaan SNI. (2) Pemeliharaan SNI sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c dapat dilakukan melalui kaji ulang SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0258",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "body"
+    },
+    {
+      "id": "p-0259",
+      "kind": "paragraph",
+      "text": "(1) BSN bertanggung jawab melaksanakan kaji ulang SNI paling sedikit 1 (satu) kali dalam 5 (lima) tahun setelah ditetapkan. (2) BSN menugaskan Komite Teknis untuk melakukan kaji ulang SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0260",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "body"
+    },
+    {
+      "id": "p-0261",
+      "kind": "body",
+      "text": "Hasil kaji ulang SNI sebagaimana dimaksud dalam Pasal 36 ayat (2) dapat direkomendasikan kepada Kepala BSN untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0262",
+      "kind": "letter",
+      "text": "a. menetapkan kembali SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0263",
+      "kind": "letter",
+      "text": "b. mengubah SNI; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0264",
+      "kind": "letter",
+      "text": "c. mengabolisi SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0265",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "body"
+    },
+    {
+      "id": "p-0266",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai kaji ulang SNI sebagaimana dimaksud dalam Pasal 36 dan Pasal 37 diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0267",
+      "kind": "chapter",
+      "text": "BAB III",
+      "part": "body"
+    },
+    {
+      "id": "p-0268",
+      "kind": "body",
+      "text": "KEGIATAN PENILAIAN KESESUAIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0269",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0270",
+      "kind": "body",
+      "text": "Persyaratan Acuan",
+      "part": "body"
+    },
+    {
+      "id": "p-0271",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "body"
+    },
+    {
+      "id": "p-0272",
+      "kind": "paragraph",
+      "text": "(1) Penilaian Kesesuaian dilakukan untuk menilai Barang, Jasa, Sistem, Proses, atau Personal berdasarkan Persyaratan Acuan. (2) Persyaratan Acuan sebagaimana dimaksud pada ayat (1) ditetapkan dalam:",
+      "part": "body"
+    },
+    {
+      "id": "p-0273",
+      "kind": "letter",
+      "text": "a. SNI yang ditetapkan oleh BSN sebagaimana dimaksud dalam Pasal 19;",
+      "part": "body"
+    },
+    {
+      "id": "p-0274",
+      "kind": "letter",
+      "text": "b. peraturan menteri atau peraturan kepala lembaga pemerintah nonkementerian tentang pemberlakuan keseluruhan atau sebagian parameter secara wajib dari satu atau lebih SNI sebagaimana dimaksud dalam Pasal 25;",
+      "part": "body"
+    },
+    {
+      "id": "p-0275",
+      "kind": "letter",
+      "text": "c. peraturan menteri atau peraturan kepala lembaga pemerintah nonkementerian tentang pemberlakuan persyaratan teknis, kualifikasi, dan kompetensi yang mengacu pada Standar lain atau ketentuan lainnya sebelum SNI ditetapkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0276",
+      "kind": "letter",
+      "text": "d. peraturan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0277",
+      "kind": "letter",
+      "text": "d. peraturan menteri atau peraturan kepala lembaga pemerintah nonkementerian tentang pemberlakuan keseluruhan atau sebagian parameter secara wajib dari satu atau lebih SNI sebagaimana dimaksud dalam Pasal 25, dan persyaratan teknis yang mengacu pada Standar lain dan/atau ketentuan lain sesuai dengan tujuan pemberlakuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0278",
+      "kind": "letter",
+      "text": "e. ketentuan yang termuat dalam keberterimaan terhadap hasil Penilaian Kesesuaian secara timbal balik; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0279",
+      "kind": "letter",
+      "text": "f. Standar dan/atau Persyaratan Acuan lain yang diperlukan untuk kepentingan nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0280",
+      "kind": "paragraph",
+      "text": "(3) Dalam rangka memberikan kemudahan bagi Pelaku Usaha untuk memperoleh layanan Penilaian Kesesuaian, BSN menerapkan sistem penggunaan data secara bersama (data sharing) dan terintegrasi secara elektronik (online).",
+      "part": "body"
+    },
+    {
+      "id": "p-0281",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "body"
+    },
+    {
+      "id": "p-0282",
+      "kind": "body",
+      "text": "Penilaian Kesesuaian sebagaimana dimaksud dalam Pasal 39 ayat (1) dilakukan melalui kegiatan pengujian, inspeksi, dan/atau Sertifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0283",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "body"
+    },
+    {
+      "id": "p-0284",
+      "kind": "paragraph",
+      "text": "(1) Jenis kegiatan Penilaian Kesesuaian dan tata cara yang diperlukan untuk membuktikan pemenuhan Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) ditetapkan dalam Skema Penilaian Kesesuaian. (2) Skema Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) dapat mencakup 1 (satu) atau lebih kegiatan Penilaian Kesesuaian sebagaimana dimaksud dalam Pasal 40.",
+      "part": "body"
+    },
+    {
+      "id": "p-0285",
+      "kind": "paragraph",
+      "text": "(3) Skema Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1), paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0286",
+      "kind": "letter",
+      "text": "a. Persyaratan Acuan untuk Barang, Jasa, Sistem, Proses, atau Personal;",
+      "part": "body"
+    },
+    {
+      "id": "p-0287",
+      "kind": "letter",
+      "text": "b. prosedur administratif;",
+      "part": "body"
+    },
+    {
+      "id": "p-0288",
+      "kind": "letter",
+      "text": "c. jenis kegiatan Penilaian Kesesuaian yang diperlukan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0289",
+      "kind": "letter",
+      "text": "d. bukti kesesuaian; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0290",
+      "kind": "letter",
+      "text": "e. pengawasan oleh LPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0291",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "body"
+    },
+    {
+      "id": "p-0292",
+      "kind": "paragraph",
+      "text": "(1) Skema Penilaian Kesesuaian terhadap SNI sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a disusun oleh",
+      "part": "body"
+    },
+    {
+      "id": "p-0293",
+      "kind": "body",
+      "text": "BSN. (2) Skema Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0294",
+      "kind": "paragraph",
+      "text": "(3) Penyusunan Skema Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 1 (satu) tahun sejak SNI ditetapkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0295",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "body"
+    },
+    {
+      "id": "p-0296",
+      "kind": "body",
+      "text": "Skema Penilaian Kesesuaian terhadap Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf b, huruf c, dan huruf d ditetapkan oleh menteri dan/atau kepala lembaga pemerintah nonkementerian yang memberlakukan Persyaratan Acuan dimaksud.",
+      "part": "body"
+    },
+    {
+      "id": "p-0297",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "body"
+    },
+    {
+      "id": "p-0298",
+      "kind": "body",
+      "text": "Skema Penilaian Kesesuaian terhadap Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf e ditetapkan oleh menteri atau kepala lembaga pemerintah nonkementerian terkait, sesuai dengan ketentuan di dalam perj anj ian saling pengakuan atau keberterimaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0299",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "body"
+    },
+    {
+      "id": "p-0300",
+      "kind": "body",
+      "text": "Skema Penilaian Kesesuaian terhadap Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf f ditetapkan oleh pemilik Skema Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0301",
+      "kind": "article",
+      "text": "Pasal 46",
+      "part": "body"
+    },
+    {
+      "id": "p-0302",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara penyusunan Skema Penilaian Kesesuaian sebagaimana dimaksud dalam Pasal 42 ayat (1) diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0303",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0304",
+      "kind": "body",
+      "text": "Bukti Kesesuaian",
+      "part": "body"
+    },
+    {
+      "id": "p-0305",
+      "kind": "article",
+      "text": "Pasal 47",
+      "part": "body"
+    },
+    {
+      "id": "p-0306",
+      "kind": "paragraph",
+      "text": "(1) Barang, Jasa, Sistem, Proses, atau Personal yang telah memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 diberikan bukti kesesuaian berupa sertifikat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0307",
+      "kind": "paragraph",
+      "text": "(2) Sertifikat sebagaimana dimaksud pada ayat (1) didasarkan pada hasil kegiatan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0308",
+      "kind": "paragraph",
+      "text": "(3) Sertifikat sebagaimana dimaksud pada ayat (1) menjadi dasar persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0309",
+      "kind": "article",
+      "text": "Pasal 48",
+      "part": "body"
+    },
+    {
+      "id": "p-0310",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal Indonesia terikat dengan perjanjian internasional, BSN melimpahkan persetujuan Penggunaan Tanda SNI dan/atau Tanda Kesesuaian kepada kementerian/lembaga pemerintah nonkementerian yang berwenang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0311",
+      "kind": "paragraph",
+      "text": "(2) Dalam memberikan persetujuan Penggunaan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud pada ayat (1), kementerian/lembaga pemerintah nonkementerian bekerja sama dengan LPK yang telah diakreditasi oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0312",
+      "kind": "article",
+      "text": "Pasal 49",
+      "part": "body"
+    },
+    {
+      "id": "p-0313",
+      "kind": "paragraph",
+      "text": "(1) Tanda SNI dan/atau Tanda Kesesuaian digunakan sebagai bukti kesesuaian untuk Barang, Jasa, Sistem, Proses, dan/atau Personal yang telah memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a, huruf b, dan huruf d. (2) Dalam memberikan persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 22 ayat (4), BSN bekerja sama dengan LPK yang telah diakreditasi oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0314",
+      "kind": "paragraph",
+      "text": "(3) Dalam memberikan persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 29 ayat (3) dan Pasal 31, kementerian/ lembaga pemerintah nonkementerian bekerja sama dengan LPK yang telah diakreditasi oleh KAN atau ditunjuk oleh menteri/kepala lembaga pemerintah nonkementerian yang memberlakukan SNI secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0315",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan mengenai tata cara pemberian persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0316",
+      "kind": "paragraph",
+      "text": "(5) Ketentuan mengenai tata cara pemberian persetujuan penggunaan Tanda SNI dan/atau Tanda Kesesuaian sebagaimana dimaksud pada ayat (3) diatur dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0317",
+      "kind": "body",
+      "text": "peraturan menteri/kepala lembaga pemerintah",
+      "part": "body"
+    },
+    {
+      "id": "p-0318",
+      "kind": "body",
+      "text": "nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0319",
+      "kind": "article",
+      "text": "Pasal 50",
+      "part": "body"
+    },
+    {
+      "id": "p-0320",
+      "kind": "paragraph",
+      "text": "(1) Tanda Kesesuaian digunakan sebagai bukti kesesuaian untuk Barang, Jasa, Sistem, Proses, dan/atau Personal yang telah memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf c, huruf e dan huruf f. (2) Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) dibubuhkan pada Barang dan/atau kemasan atau label, papan pengenal, kop surat dan/atau media lain yang sesuai dengan Barang, Jasa, Sistem, Proses dan/atau Personal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0321",
+      "kind": "paragraph",
+      "text": "(3) Persetujuan penggunaan Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) diberikan oleh menteri/kepala lembaga pemerintah nonkementerian kepada Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0322",
+      "kind": "paragraph",
+      "text": "(4) Persetujuan penggunaan Tanda Kesesuaian sebagaimana dimaksud pada ayat (3) didasarkan pada sertifikat hasil kegiatan Penilaian Kesesuaian sebagaimana dimaksud dalam Persal 40.",
+      "part": "body"
+    },
+    {
+      "id": "p-0323",
+      "kind": "paragraph",
+      "text": "(5) Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) ditetapl<an oleh menteri/kepala lembaga pemerintah nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0324",
+      "kind": "article",
+      "text": "Pasal 51",
+      "part": "body"
+    },
+    {
+      "id": "p-0325",
+      "kind": "paragraph",
+      "text": "(1) Dalam memberikan persetujuan penggunaan Tanda Kesesuaian sebagaimana dimaksud dalam Pasal 50 ayat (3), kementerian/lembaga pemerintah nonkementerian bekerja sama dengan LPK yang telah diakreditasi oleh",
+      "part": "body"
+    },
+    {
+      "id": "p-0326",
+      "kind": "body",
+      "text": "KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0327",
+      "kind": "paragraph",
+      "text": "(2) Ketentuan mengenai tata cara pemberian persetujuan penggunaan Tanda Kesesuaian sebagaimana dimaksud pada ayat (1) diatur dengan peraturan menteri/kepala lembaga pemerintah nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0328",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0329",
+      "kind": "body",
+      "text": "Efektivitas Penerapan SNI",
+      "part": "body"
+    },
+    {
+      "id": "p-0330",
+      "kind": "article",
+      "text": "Pasal 52",
+      "part": "body"
+    },
+    {
+      "id": "p-0331",
+      "kind": "paragraph",
+      "text": "(1) Untuk memastikan pencapaian tujuan penerapan SNI, BSN melakukan kegiatan pemantauan efektivitas penerapan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0332",
+      "kind": "paragraph",
+      "text": "(2) Kegiatan pemantauan efektivitas penerapan SNI sebagaimana dimaksud pada ayat (1) dapat dilakukan melalui uji petik kesesuaian terhadap SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0333",
+      "kind": "paragraph",
+      "text": "(3) Hasil uji petik sebagaimana dimaksud pada ayat (2) disampaikan kepada KAN, instansi pembina, dan kementerian/lembaga pemerintah nonkementerian yang bertanggung jawab melakukan pengawasan pasar sebagai masukan untuk tindak lanjut yang diperlukan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0334",
+      "kind": "paragraph",
+      "text": "(4) Dalam melakukan kegiatan uji petik sebagaimana dimaksud pada ayat (2), BSN berkoordinasi dengan kementerian/ lembaga pemerintah nonkementerian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0335",
+      "kind": "paragraph",
+      "text": "(5) Untuk menjamin efektivitas penerapan SNI, BSN mengembangkan sarana dan prasarana uji petik kesesuaian terhadap SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0336",
+      "kind": "chapter",
+      "text": "BAB IV",
+      "part": "body"
+    },
+    {
+      "id": "p-0337",
+      "kind": "body",
+      "text": "LEMBAGA PENILAIAN KESESUAIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0338",
+      "kind": "article",
+      "text": "Pasal 53",
+      "part": "body"
+    },
+    {
+      "id": "p-0339",
+      "kind": "paragraph",
+      "text": "(1) Kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan dilakukan oleh LPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0340",
+      "kind": "paragraph",
+      "text": "(2) LPK sebagaimana dimaksud pada ayat (1) wajib berbadan hukum Indonesia sesuai dengan peraturan perundang-undangan dan telah diakreditasi oleh KAN dengan ruang lingkup yang sesuai.",
+      "part": "body"
+    },
+    {
+      "id": "p-0341",
+      "kind": "article",
+      "text": "Pasal 54",
+      "part": "body"
+    },
+    {
+      "id": "p-0342",
+      "kind": "paragraph",
+      "text": "(1) Kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a dilakukan oleh LPK yang telah diakreditasi oleh KAN dengan ruang lingkup yang sesuai. (2) BSN bekerja sama dengan Pemangku Kepentingan",
+      "part": "body"
+    },
+    {
+      "id": "p-0343",
+      "kind": "decision",
+      "text": "menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0344",
+      "kind": "body",
+      "text": "dan melaksanakan program pengembangan",
+      "part": "body"
+    },
+    {
+      "id": "p-0345",
+      "kind": "body",
+      "text": "LPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0346",
+      "kind": "paragraph",
+      "text": "(3) Program pengembangan LPK sebagaimana dimaksud pada ayat 12) dilakukan untuk meningkatkan kompetensi LPK dalam memenuhi persyaratan Akreditasi KAN untuk ruang lingkup yang sesuai. (4) Dalam hal LPK sebagaimana dimaksud pada ayat (1) belum terakreditasi, BSN dapat menunjuk LPK dengan rulang lingkup berdasarkan persyaratan dalam ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0347",
+      "kind": "paragraph",
+      "text": "(5) Penunjukan sebagaimana dimaksud pada ayat (4) dilakukan paling lama untuk jangka waktu 2 (dua) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0348",
+      "kind": "paragraph",
+      "text": "(6) Kriteria penunjukan LPK sebagaimana dimaksud pada ayat (4) paling sedikit meliputi LPK yang ditunjuk harus sudah diakreditasi untuk ruang lingkup yang sejenis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0349",
+      "kind": "article",
+      "text": "Pasal 55",
+      "part": "body"
+    },
+    {
+      "id": "p-0350",
+      "kind": "paragraph",
+      "text": "(1) Kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan sebagaimana dimaksud dalam pasal 39 ayat (2) huruf b, huruf c, dan huruf d, dilakukan oleh LPK yang telah diakreditasi oleh KAN dengan ruang lingkup yang sesuai dan memenuhi persyaratan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0351",
+      "kind": "paragraph",
+      "text": "(2) Dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0352",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal LPK yang telah terakreditasi oleh KAN sebagaimana dimaksud pada ayat (1) belum tersedia,",
+      "part": "body"
+    },
+    {
+      "id": "p-0353",
+      "kind": "body",
+      "text": "menteri/kepala lembaga pemerintah nonkementerian dapat menunjuk LPK sesuai dengan ruang lingkupnya berdasarkan persyaratan dalam ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0354",
+      "kind": "paragraph",
+      "text": "(3) Penunjukan sebagaimana dimaksud pada ayat (2) dilakukan paling lama untuk jangka waktu 2 (dua) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0355",
+      "kind": "paragraph",
+      "text": "(4) Kriteria penunjukan LPK sebagaimana dimaksud pada ayat (2) paling sedikit meliputi LPK yang ditunjuk harus sudah diakreditasi untuk ruang lingkup yang sejenis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0356",
+      "kind": "article",
+      "text": "Pasal 56",
+      "part": "body"
+    },
+    {
+      "id": "p-0357",
+      "kind": "paragraph",
+      "text": "(1) LPK yang melakukan kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 55 harus terdaftar di lembaga yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang perdagangan. (2) Dalam rangka memberikan kemudahan pendaftaran bagi LPK sebagaimana dimaksud pada ayat (1), menteri yang menyelenggarakan urusan pemerintahan di bidang perdagangan menerapkan sistem penggunaan data secara bersama (data shaing) dan terintegrasi secara elektronik (online).",
+      "part": "body"
+    },
+    {
+      "id": "p-0358",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan mengenai tata cara pendaftaran LPK sebagaimana dimaksud pada ayat (1) diatur dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0359",
+      "kind": "body",
+      "text": "peraturan menteri yang menyelenggarakan urLlsan",
+      "part": "body"
+    },
+    {
+      "id": "p-0360",
+      "kind": "body",
+      "text": "pemerintahan di bidang perdagangan setelah berkoordinasi dengan menteri yang menyelenggarakan urusan pemerintahan di bidang perindustrian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0361",
+      "kind": "article",
+      "text": "Pasal 57",
+      "part": "body"
+    },
+    {
+      "id": "p-0362",
+      "kind": "body",
+      "text": "Kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf e, dapat dilakukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0363",
+      "kind": "letter",
+      "text": "a. LPI( dalam negeri dengan ruang lingkup yang sesuai dan telah diakreditasi oleh KAN dan memenuhi persyaratan LPK yang ditetapkan dalam perjanjian saling keberterimaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0364",
+      "kind": "letter",
+      "text": "b. LPK di luar negeri dengan ruang lingkup yang sesuai dan telah diakreditasi oleh badan akreditasi penandatangan perjanjian saling pengakuan dan memenuhi persyaratan I,P_K yang ditetapkan dalam perjanjian saling keberterimaan; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0365",
+      "kind": "letter",
+      "text": "c. LPK di luar negeri dengan ruang lingkup yang sesuai dan diakui berdasarkan perjanjian saling keberterimaan dan memenuhi persyaratan LPK yang ditetapkan dalam perjanj ian saling keberterimaarl.",
+      "part": "body"
+    },
+    {
+      "id": "p-0366",
+      "kind": "article",
+      "text": "Pasal 58",
+      "part": "body"
+    },
+    {
+      "id": "p-0367",
+      "kind": "body",
+      "text": "Kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf f dilakukan oleh LPK yang terakreditasi <lleh KAN dan memenuhi persyaratan yang ditetapkan oleh pemilik Skema Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0368",
+      "kind": "article",
+      "text": "Pasal 59",
+      "part": "body"
+    },
+    {
+      "id": "p-0369",
+      "kind": "paragraph",
+      "text": "(1) Hasil Penilaian Kesesuaian sebagaimana dimaksud dalam Pasal 54 ayat (1), Pasal 55 ayat (1), Pasal 57 huruf a, dan Pasal 58 dinyatakan dalam bentuk laporan dan/atau sertifikat yang memuat logo Akreditasi KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0370",
+      "kind": "paragraph",
+      "text": "(2) Hasil Penilaian Kesesuaian sebagaimana dimaksud dalam Pasal 57 huruf b dan huruf c dinyatakan dalam bentuk laporan dan/atar.r sertifikat yang memuat logo badan akreditasi penandatangan perjanjian saling pengakuan dan/atau tanda lain yang memenuhi persyaratan dalam perjanjian saling keberterimaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0371",
+      "kind": "article",
+      "text": "Pasal 60",
+      "part": "body"
+    },
+    {
+      "id": "p-0372",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal terdapat perjanjian saling pengakuan antara KAN dan lembaga akreditasi internasional, kegiatan Penilaian Kesesuaian untuk memenuhi Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a, huruf b, huruf c, huruf d, dan huruf f dapat dilakukan oleh LPK di luar negeri yang telah diakreditasi di negara tersebut berdasarkan asas timbal balik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0373",
+      "kind": "paragraph",
+      "text": "(2) Hasil Penilaian Kesesuaian dari LPK di luar negeri sebagaimana dimaksud pada ayat (1) dapat diterima sebagai bukti kesesuaian terhadap Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a, huruf b, huruf c, huruf d, dan huruf f berdasarkan perjanjian saling keberterimaan dengan mempertimbangkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0374",
+      "kind": "letter",
+      "text": "a. kepentingannasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0375",
+      "kind": "letter",
+      "text": "b. kewajiban Indonesia sebagai anggota organisasi internasional; dan/ atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0376",
+      "kind": "letter",
+      "text": "c. kewajiban Indonesia sebagai negara pihak dalam perjanjian internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0377",
+      "kind": "paragraph",
+      "text": "(3) Hasil Penilaian Kesesuaian sebetgaimana dimaksud pada ayat (1) dinyatakan dalam bentuk sertifikat dan/atau laporan yang memuat logo akreditasi, logo dan/atau pernyataan pengakuan kompetensi oleh organisasi internasional yang relevan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0378",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan mengenai persyaratan dan tata cara tentang keberterimaan hasil Penilaian Kesesuaian dari LPK di luar negeri diatur dengan peraturan menteri/kepala lembaga pemerintah nonkementerian sesuai dengan ketentuan dalam perjanjian yang Indonesia telah menjadi pihak.",
+      "part": "body"
+    },
+    {
+      "id": "p-0379",
+      "kind": "article",
+      "text": "Pasal 61",
+      "part": "body"
+    },
+    {
+      "id": "p-0380",
+      "kind": "paragraph",
+      "text": "(1) Kementerian atau lembaga pemerintah nonkementerian yang ditunjuk sebagai lembaga yang kompeten (designated bodg) dalanr perjanjian saling keberterimaan yang Indonesia telah menjadi pihak, menetapkan LPK di luar negeri yang melaksanakan Penilaian Kesesuaian sebagaimana dimaksud dalam Pasal 57 huruf b dan/atau Pasal 60 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0381",
+      "kind": "paragraph",
+      "text": "(2) Kementerian atau lembaga pemerintah nonkementerian sebagaimana dimaksud pada ayat (1) harus menyampaikan daftar LPK yang telah ditetapkan untuk didaftarkan di lembaga sebagaimana dimaksud dalam Pasal 56.",
+      "part": "body"
+    },
+    {
+      "id": "p-0382",
+      "kind": "article",
+      "text": "Pasal 62",
+      "part": "body"
+    },
+    {
+      "id": "p-0383",
+      "kind": "paragraph",
+      "text": "(1) Dalam melakukan kegiatan Penilaian Kesesuaian, LPK wajib memenuhi tanggung jawabnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0384",
+      "kind": "paragraph",
+      "text": "(2) Tanggung jawab LPK sebagaimana dimaksud pada ayat (1) meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0385",
+      "kind": "letter",
+      "text": "a. memenuhi ketentuan, tata cara, dan prosedur yang ditetapkan oleh KAN;",
+      "part": "body"
+    },
+    {
+      "id": "p-0386",
+      "kind": "letter",
+      "text": "b. melaksanakan Penilaian Kesesuaian dalam lingkup Akreditasi yang dimiliki secara benar berdasarkan fakta dan tidak memihak kepada kepentingan pihak yang dinilai, serta bebas dari tekanan pihak lain termasuk tekanan dari organisasi yang berkaitan atau yang membawahinya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0387",
+      "kind": "letter",
+      "text": "c. menerbitkan",
+      "part": "body"
+    },
+    {
+      "id": "p-0388",
+      "kind": "letter",
+      "text": "c. menerbitkan, memperpanjang, membekukan untuk sementara, atau mencabut sertifikat yang telah diterbitkan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0389",
+      "kind": "letter",
+      "text": "d. melaksanakan kewajiban lain sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0390",
+      "kind": "chapter",
+      "text": "BAB V",
+      "part": "body"
+    },
+    {
+      "id": "p-0391",
+      "kind": "body",
+      "text": "AKREDITASI LEMBAGA PENILAIAN KESESUAIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0392",
+      "kind": "article",
+      "text": "Pasal 63",
+      "part": "body"
+    },
+    {
+      "id": "p-0393",
+      "kind": "body",
+      "text": "Akreditasi LPK dilakukan untuk memberikan pengakuan formal bahwa LPK memiliki kompetensi untuk melakukan kegiatan Penilaian Kesesuaian tertentu sesuai dengan rLlang lingkup akreditasinya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0394",
+      "kind": "article",
+      "text": "Pasal 64",
+      "part": "body"
+    },
+    {
+      "id": "p-0395",
+      "kind": "body",
+      "text": "Tugas dan tanggung jawab Pemerintah Pusat di bidang Akreditasi LPK dilakukan oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0396",
+      "kind": "article",
+      "text": "Pasal 65",
+      "part": "body"
+    },
+    {
+      "id": "p-0397",
+      "kind": "body",
+      "text": "Dalam melaksanakan tugas dan tanggung jawab Pemerintah Pusat sebagaimana dimaksud dalam Pasal 64, KAN mengacu pada:",
+      "part": "body"
+    },
+    {
+      "id": "p-0398",
+      "kind": "letter",
+      "text": "a. kebijakan nasional Standardisasi dan Penilaian Kesesuaian yang ditetapkan oleh menteri yang mengoordinasikan kegiatan Standardisasi dan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0399",
+      "kind": "letter",
+      "text": "b. peraturan perundang-undangan di bidang Standardisasi dan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0400",
+      "kind": "letter",
+      "text": "c. persyaratan yang disepakati dalam perjanjian internasional di bidang Al<reditasi LPK yang Indonesia telah menjadi pihak; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0401",
+      "kind": "letter",
+      "text": "d. persyaratan internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0402",
+      "kind": "article",
+      "text": "Pasal 66",
+      "part": "body"
+    },
+    {
+      "id": "p-0403",
+      "kind": "body",
+      "text": "KAN mengembangkan dan menetapkan skema Akreditasi yang diperlukan oleh Pemangku Kepentingan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0404",
+      "kind": "article",
+      "text": "Pasal 67",
+      "part": "body"
+    },
+    {
+      "id": "p-0405",
+      "kind": "paragraph",
+      "text": "(1) Akreditasi LPK dilakukan oleh KAN berdasarkan permohonan yang diajukan oleh LPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0406",
+      "kind": "paragraph",
+      "text": "(2) Dalam rangka memberikan kemudahan bagi Pelaku Usaha untuk memperoleh Akreditasi LPK, KAN menerapkan sistem penggunaan data secara bersama (data shaing) dan terintegrasi secara elektronik (online).",
+      "part": "body"
+    },
+    {
+      "id": "p-0407",
+      "kind": "article",
+      "text": "Pasal 68",
+      "part": "body"
+    },
+    {
+      "id": "p-0408",
+      "kind": "paragraph",
+      "text": "(1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 67, KAN melakukan penilaian kompetensi dan kredibilitas LPK dengan mengacu pada persyaratan Akreditasi. (2) Persyaratan Akreditasi sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0409",
+      "kind": "article",
+      "text": "Pasal 69",
+      "part": "body"
+    },
+    {
+      "id": "p-0410",
+      "kind": "paragraph",
+      "text": "(1) KAN melakukan penilaian kompetensi dan kredibilitas LPK sebagaimana dimaksud dalam Pasal 68 ayat (1) paling Iama 1 (satu) tahun sejak permohonan diterima. (2) LPK yang telah memenuhi persyaratan Akreditasi sebagaimana dimaksud dalam Pasal 68 ayat (2) diberikan sertifikat Akreditasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0411",
+      "kind": "paragraph",
+      "text": "(3) Sertifikat Akreditasi sebagaimana dimaksud pada ayat (2) memuat ruang lingkup Akreditasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0412",
+      "kind": "article",
+      "text": "Pasal 70",
+      "part": "body"
+    },
+    {
+      "id": "p-0413",
+      "kind": "paragraph",
+      "text": "(1) LPK yang telah diakreditasi oleh KAN harus menggunakan logo Akreditasi KAN. (2) Logo Akreditasi KAN sebagaimana.dimaksud pada ayat (l) dicantumkan pada sertifikat dan laporan hasil Penilaian Kesesuaian sesuai dengan ruang lingkup Akreditasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0414",
+      "kind": "article",
+      "text": "Pasal 71",
+      "part": "body"
+    },
+    {
+      "id": "p-0415",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara Akreditasi LPK, diatur dengan Peraturan KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0416",
+      "kind": "article",
+      "text": "Pasal 72",
+      "part": "body"
+    },
+    {
+      "id": "p-0417",
+      "kind": "body",
+      "text": "Untuk menjamin keberterimaan hasil Penilaian Kesesuaian di tingkat internasional, KAN melakukan perjanjian saling pengakuan akreditasi melalui kerjasama akreditasi internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0418",
+      "kind": "article",
+      "text": "Pasal 73",
+      "part": "body"
+    },
+    {
+      "id": "p-0419",
+      "kind": "body",
+      "text": "LPK yang telah diakreditasi oleh KAN dapat menggunakan logo saling pengakuan akreditasi internasional sesuai dengan ruang lingkup perjanjian saling pengakuan sebagaimana dimaksud dalam Pasal 72.",
+      "part": "body"
+    },
+    {
+      "id": "p-0420",
+      "kind": "article",
+      "text": "Pasal 74",
+      "part": "body"
+    },
+    {
+      "id": "p-0421",
+      "kind": "body",
+      "text": "Ketentuan mengenai penggunaan logo Akreditasi KAN sebagaimana dimaksud dalam Pasal 70 dan logo saling pengakuan akreditasi internasional sebagaimana dimaksud dalam Pasal 73 diatur dengan Peraturan KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0422",
+      "kind": "chapter",
+      "text": "BAB VI",
+      "part": "body"
+    },
+    {
+      "id": "p-0423",
+      "kind": "body",
+      "text": "KETERTELUSURAN HASIL PENILAIAN KESESUAIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0424",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0425",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0426",
+      "kind": "article",
+      "text": "Pasal 75",
+      "part": "body"
+    },
+    {
+      "id": "p-0427",
+      "kind": "paragraph",
+      "text": "(1) Pengukuran dalam kegiatan Standardisasi dan Penilaian Kesesuaian harus tertelusur ke sistem satuan internasional. 12) Ketertelusuran ke sistem satuan internasional sebagaimana dimaksud pada ayat (1) dilakukan melalui pengelolaan SNSU, pengembangan Bahan Acuan, dan Kalibrasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0428",
+      "kind": "article",
+      "text": "Pasal 76",
+      "part": "body"
+    },
+    {
+      "id": "p-0429",
+      "kind": "body",
+      "text": "Ketertelusuran ke sistem satuan internasional sebagaimana dimaksud dalam Pasal 75, diwujudkan untuk memenuhi kebutuhan nasional dan memperkuat daya saing bangsa.",
+      "part": "body"
+    },
+    {
+      "id": "p-0430",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0431",
+      "kind": "body",
+      "text": "Pengelolaan SNSU",
+      "part": "body"
+    },
+    {
+      "id": "p-0432",
+      "kind": "article",
+      "text": "Pasal 77",
+      "part": "body"
+    },
+    {
+      "id": "p-0433",
+      "kind": "body",
+      "text": "SNSU sebagaimana dimaksud dalam Pasal 75 ayat (2)) digunakan sebagai acuan tertinggi untuk pengukuran di Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0434",
+      "kind": "article",
+      "text": "Pasal 78",
+      "part": "body"
+    },
+    {
+      "id": "p-0435",
+      "kind": "body",
+      "text": "SNSU sebagaimana dimaksud dalam Pasal 77 mencakup Standar untuk satuan dasar dan satuan turunan yang diperlukan untuk menjamin ketertelusuran hasil pengukuran dalam:",
+      "part": "body"
+    },
+    {
+      "id": "p-0436",
+      "kind": "letter",
+      "text": "a. penelitian dan pengembangan, proses produksi, dan penjaminan mutu; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0437",
+      "kind": "letter",
+      "text": "b. perlindungan kesehatan, keamanan, keselamatan masyarakat dan pelestarian fungsi lingkungan hidup serta transaksi perdagangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0438",
+      "kind": "article",
+      "text": "Pasal 79",
+      "part": "body"
+    },
+    {
+      "id": "p-0439",
+      "kind": "paragraph",
+      "text": "(1) Pengelolaan SNSU dilakukan oleh BSN sesuai dengan perkembangan ilmu pengetahuan dan teknologi. (2) Dalam melakukan pengelolaan SNSU, BSN bekerjasama dengan kementerian dan/atau lembaga pemerintah nonkementerian lainnya berdasarkan kompetensi teknisnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0440",
+      "kind": "paragraph",
+      "text": "(3) Pengelolaan SNSU sebagaimana dimaksud pada ayat (1) mencakup penyediaan, pengembangan, pemeliharaan dan diseminasi SNSU.",
+      "part": "body"
+    },
+    {
+      "id": "p-0441",
+      "kind": "article",
+      "text": "Pasal 80",
+      "part": "body"
+    },
+    {
+      "id": "p-0442",
+      "kind": "body",
+      "text": "BSN melakukan kerja sama internasional di bidang pengukuran untuk memperoleh pengakuan internasional terhadap hasil pengelolaan SNSU.",
+      "part": "body"
+    },
+    {
+      "id": "p-0443",
+      "kind": "article",
+      "text": "Pasal 81",
+      "part": "body"
+    },
+    {
+      "id": "p-0444",
+      "kind": "paragraph",
+      "text": "(1) Penyediaan SNSU dilakukan dalam bentuk standar ukuran yang sesuai dengan definisi dalam sistem satuan internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0445",
+      "kind": "paragraph",
+      "text": "(2) Penyediaan SNSU dilaksanakan berdasarkan kebutuhan SNSU yang diperlukan untuk kepentingan nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0446",
+      "kind": "article",
+      "text": "Pasal 82",
+      "part": "body"
+    },
+    {
+      "id": "p-0447",
+      "kind": "body",
+      "text": "Pengembangan dan pemeliharaan SNSU dilaksanakan sesuai dengan persyaratan pengembangan dan pemeliharaan SNSU yang ditetapkan dalam organisasi kerjasama internasional di bidang pengembangan dan pemeliharaan SNSU.",
+      "part": "body"
+    },
+    {
+      "id": "p-0448",
+      "kind": "article",
+      "text": "Pasal 83",
+      "part": "body"
+    },
+    {
+      "id": "p-0449",
+      "kind": "body",
+      "text": "Diseminasi SNSU dilakukan dalam bentuk pengembangan Bahan Acuan dan Kalibrasi sesuai dengan persyaratan diseminasi SNSU yang disepakati dalam perjanjian saling pengakuan di bidang pengelolaan SNSU.",
+      "part": "body"
+    },
+    {
+      "id": "p-0450",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0451",
+      "kind": "body",
+      "text": "Pengembangan Bahan Acuan",
+      "part": "body"
+    },
+    {
+      "id": "p-0452",
+      "kind": "article",
+      "text": "Pasal 84",
+      "part": "body"
+    },
+    {
+      "id": "p-0453",
+      "kind": "body",
+      "text": "Bahan Acuan sebagaimana dimaksud dalam Pasal 75 ayat (2) dikembangkan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0454",
+      "kind": "letter",
+      "text": "a. pengelola SNSU; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0455",
+      "kind": "letter",
+      "text": "b. produsen Bahan Acuan yang diakreditasi oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0456",
+      "kind": "article",
+      "text": "Pasal 85",
+      "part": "body"
+    },
+    {
+      "id": "p-0457",
+      "kind": "body",
+      "text": "Dalam hal pengembangan Bahan Acuan sebagaimana dimaksud dalam Pasal 84 tidak dapat dilakukan di Indonesia, pengembangan Bahan Acuan dapat dilakukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0458",
+      "kind": "letter",
+      "text": "a. pengelola SNSU negara lain yang diakui di tingkat internasional Calam lingkup Konvensi Meter; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0459",
+      "kind": "letter",
+      "text": "b. produsen Bahan Acuan negara lain yang diakreditasi oleh badan akreditasi yang diakui oleh KAN berdasarkan perjanjian saling pengakuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0460",
+      "kind": "article",
+      "text": "Pasal 86",
+      "part": "body"
+    },
+    {
+      "id": "p-0461",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara Akreditasi Produsen Bahan Acuan diatur dengan Peraturan I(AN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0462",
+      "kind": "part",
+      "text": "Bagian Keempat",
+      "part": "body"
+    },
+    {
+      "id": "p-0463",
+      "kind": "body",
+      "text": "Kalibrasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0464",
+      "kind": "article",
+      "text": "Pasal 87",
+      "part": "body"
+    },
+    {
+      "id": "p-0465",
+      "kind": "body",
+      "text": "Kalibrasi sebagaimana dimaksud dalam Pasal 75 ayat (2) dilakukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0466",
+      "kind": "letter",
+      "text": "a. pengelola SNSU;",
+      "part": "body"
+    },
+    {
+      "id": "p-0467",
+      "kind": "letter",
+      "text": "b. Iaboratorium Kalibrasi yang diakreditasi oleh KAN; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0468",
+      "kind": "letter",
+      "text": "c. laboratorium yang telah memenuhi persyaratan teknis untuk melakukan Kalibrasi secara internal sesuai dengan ketentuan yang diatur dalam Peraturan KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0469",
+      "kind": "article",
+      "text": "Pasal 88",
+      "part": "body"
+    },
+    {
+      "id": "p-0470",
+      "kind": "body",
+      "text": "Dalam hal Kalibrasi sebagaimana dimaksud dalam Pasal 87 tidak dapat dilakukan di Indonesia, Kalibrasi dapat dilakukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0471",
+      "kind": "letter",
+      "text": "a. pengelola SNSU negara lain yang diakui di tingkat internasional dalam lingkup Konvensi Meter; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0472",
+      "kind": "letter",
+      "text": "b. laboratorium",
+      "part": "body"
+    },
+    {
+      "id": "p-0473",
+      "kind": "letter",
+      "text": "b. laboratorium Kalibrasi negara lain yang diakreditasi oleh badan akreditasi yang diakui oleh KAN berdasarkan perjanjian saling pengakuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0474",
+      "kind": "article",
+      "text": "Pasal 89",
+      "part": "body"
+    },
+    {
+      "id": "p-0475",
+      "kind": "body",
+      "text": "Ketentuan lebih lanjut mengenai tata cara Akreditasi laboratorium Kalibrasi diatur dengan Peraturan KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0476",
+      "kind": "chapter",
+      "text": "BAB VII",
+      "part": "body"
+    },
+    {
+      "id": "p-0477",
+      "kind": "body",
+      "text": "PENELITIAN DAN PENGEMBANGAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0478",
+      "kind": "article",
+      "text": "Pasal 90",
+      "part": "body"
+    },
+    {
+      "id": "p-0479",
+      "kind": "paragraph",
+      "text": "(1) Dalam rangka pelaksanaan program dan kegiatan Standardisasi dan Penilaian Kesesuaian, BSN, dan/atau kementerian/ lembaga pemerintah nonkementerian lainnya dapat melakukan kegiatan penelitian dan pengembangan Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0480",
+      "kind": "paragraph",
+      "text": "(2) Pelaksanaan program dan kegiatan penelitian dan pengembangan Standardisasi dan Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) mengacu pada kebijakan nasional Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0481",
+      "kind": "paragraph",
+      "text": "(3) Kepemilikan dan pemanfaatan kekayaan intelektual hasil kegiatan penelitian dan pengembangan Standardisasi dan Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) ditetapkan berdasarkan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0482",
+      "kind": "article",
+      "text": "Pasal 91",
+      "part": "body"
+    },
+    {
+      "id": "p-0483",
+      "kind": "paragraph",
+      "text": "(1) Penelitian dan pengembangan Standardisasi dalam rangka perencanaan, perumusan, penetapan dan pemeliharaan SNI, dilakukan untuk mendukung kegiatan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0484",
+      "kind": "letter",
+      "text": "a. identifikasi kebutuhan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0485",
+      "kind": "letter",
+      "text": "b. harmonisasi SNI dengan standar internasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0486",
+      "kind": "letter",
+      "text": "c. pengembangan keunikan nasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0487",
+      "kind": "letter",
+      "text": "d. penguatan posisi dalam pengembangan standar internasional; dan/ atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0488",
+      "kind": "letter",
+      "text": "e. kebutuhan Standardisasi lainnya. (2) Penelitian dan pengembangan Standardisasi dalam rangka penerapan dan pemberlakuan SNI dilakukan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0489",
+      "kind": "letter",
+      "text": "a. dukungan pengembangan skema penerapan dan pemberlakuan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0490",
+      "kind": "letter",
+      "text": "b. dukungan pelaksanaan penerapan dan pemberlakuan",
+      "part": "body"
+    },
+    {
+      "id": "p-0491",
+      "kind": "body",
+      "text": "SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0492",
+      "kind": "letter",
+      "text": "c. dukungan pelaksanaan pengawasan penerapan dan pemberlakuan SNI; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0493",
+      "kind": "letter",
+      "text": "d. dukungan pelaksanaan evaluasi penerapan dan pemberlakuan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0494",
+      "kind": "paragraph",
+      "text": "(3) Penelitian dan pengembangan Penilaian Kesesuaian dilakukan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0495",
+      "kind": "letter",
+      "text": "a. pengembangan persyaratan, lingkup kegiatan, pengakuan dan keberterimaan hasil Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0496",
+      "kind": "letter",
+      "text": "b. pengembangan metode uji, metode inspeksi, dan metode penilaian kompetensi Personal untuk menjamin keabsahan dan kemutakhiran sesuai dengan perkembangan ilmu pengetahuan dan teknologi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0497",
+      "kind": "letter",
+      "text": "c. pengembangan SNSU, Bahan Acuan, dan metode Kalibrasi untuk menjamin ketertelusuran hasil pengukuran; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0498",
+      "kind": "letter",
+      "text": "d. kebutuhan Penilaian Kesesuaian lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0499",
+      "kind": "chapter",
+      "text": "BAB VIII",
+      "part": "body"
+    },
+    {
+      "id": "p-0500",
+      "kind": "body",
+      "text": "KERJASAMA",
+      "part": "body"
+    },
+    {
+      "id": "p-0501",
+      "kind": "article",
+      "text": "Pasal 92",
+      "part": "body"
+    },
+    {
+      "id": "p-0502",
+      "kind": "paragraph",
+      "text": "(1) Untuk mengembangkan Standardisasi, Penilaian Kesesuaian, dan Akreditasi, BSN dan/atau KAN dapat melakukan kerjasama internasional. (2) Kerjasama internasional sebagaimana dimaksud pada ayat (1) dapat berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0503",
+      "kind": "letter",
+      "text": "a. keanggotaan dan partisipasi aktif dalam organisasi standardisasi internasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0504",
+      "kind": "letter",
+      "text": "b. penelitian bersama;",
+      "part": "body"
+    },
+    {
+      "id": "p-0505",
+      "kind": "letter",
+      "text": "c. pendidikan dan pelatihan; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0506",
+      "kind": "letter",
+      "text": "d. bentuk kerjasama lain sesuai kesepakatan bersama termasuk kesepakatan dalam kerjasama regional dan/atau bilateral.",
+      "part": "body"
+    },
+    {
+      "id": "p-0507",
+      "kind": "paragraph",
+      "text": "(3) Kerja sama internasional sebagaimana dimaksud pada ayat (21huruf a dilakukan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0508",
+      "kind": "letter",
+      "text": "a. memperjuangkan kepentingan Indonesia dalam pengembangan standar internasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0509",
+      "kind": "letter",
+      "text": "b. memfasilitasi keberterimaan hasil Penilaian Kesesuaian untuk Barang, Jasa, Sistem, Proses, dan Personal di pasar internasional; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0510",
+      "kind": "letter",
+      "text": "c. memfasilitasi pencegahan terhadap masuknya Barang, Jasa, Sistem, Proses, dan Personal yang tidak memenuhi persyaratan yang ditetapkan dalam peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0511",
+      "kind": "paragraph",
+      "text": "(4) Kerja sama internasional sebagaimana dimaksud pada ayat (2) huruf b dan huruf c dilakukan untuk:",
+      "part": "body"
+    },
+    {
+      "id": "p-0512",
+      "kind": "letter",
+      "text": "a. pengembangan Standardisasi dan Penilaian Kesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0513",
+      "kind": "letter",
+      "text": "b. peningkatan kapasitas sumber daya manusia bidang Standardisasi dan Penilaian Kesesuaian'",
+      "part": "body"
+    },
+    {
+      "id": "p-0514",
+      "kind": "article",
+      "text": "Pasal 93",
+      "part": "body"
+    },
+    {
+      "id": "p-0515",
+      "kind": "paragraph",
+      "text": "(1) Untuk memenuhi kewajiban internasional di bidang Standardisasi dan Penilaian Kesesuaian, BSN harus bekerja sama dengan kementerian dan/atau lembaga pemerintah nonkementerian lainnya sesuai komitmen Pemerintah Indonesia dalam keanggotaan pada organisasi internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0516",
+      "kind": "paragraph",
+      "text": "(2) Pemenuhan kewajiban internasional sebagaimana dimaksud pada ayat (1) paling sedikit berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0517",
+      "kind": "letter",
+      "text": "a. notifikasi rancangan peraturan menteri/kepala lembaga pemerintah nonkementerian atau peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0518",
+      "kind": "body",
+      "text": "menteri/kepala lembaga pemerintah nonkementerian yang terkait dengan Standardisasi dan Penilaian Kesesuaian yang berpotensi menyebabkan hambatan perdagangan internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0519",
+      "kind": "letter",
+      "text": "b. notifikasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0520",
+      "kind": "letter",
+      "text": "b. notifikasi rancangan peraturan menteri/kepala lembaga pemerintah nonkementerian atau peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0521",
+      "kind": "body",
+      "text": "menteri/kepala lembaga pemerintah nonkementerian tentang pemberlakuan keseluruhan atau sebagian persyaratan SNI secara wajib;",
+      "part": "body"
+    },
+    {
+      "id": "p-0522",
+      "kind": "letter",
+      "text": "c. memantau kebijakan dan peraturan negara lain tentang pemberlakuan standar, persyaratan lain, dan skema penilaian kesesuaian yang berpengaruh terhadap kepentingan nasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0523",
+      "kind": "letter",
+      "text": "d. bekerja sama dengan kementerian, lembaga pemerintah nonkementerian, dan/atau pemangku kepentingan lainnya untuk menjawab pertanyaan dari negara lain terhadap notifikasi rancangan peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0524",
+      "kind": "body",
+      "text": "menteri/kepala lembaga pemerintah nonkementerian atau peraturan menteri/kepala lembaga pemerintah nonkementerian sebagaimana dimaksud pada huruf a dan huruf b; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0525",
+      "kind": "letter",
+      "text": "e. bekerjasama dengan kementerian, lembaga pemerintah nonkementerian, dan/atau pemangku kepentingan lainnya untuk mengajukan pertanyaan tentang peraturan negara lain sebagaimana dimaksud pada huruf c untuk memperjuangkan kepentingan nasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0526",
+      "kind": "paragraph",
+      "text": "(3) Pemberlakuan Persyaratan Acuan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf b, huruf c, huruf d, dan huruf e yang dilakukan oleh kementerian dan/atau lembaga pemerintah nonkementerian wajib memenuhi kewajiban internasional sebagaimana dimaksud pada ayat (2) huruf a dan/atau huruf b.",
+      "part": "body"
+    },
+    {
+      "id": "p-0527",
+      "kind": "paragraph",
+      "text": "(4) Pemenuhan kewajiban internasional sebagaimana dimaksud pada ayat (2) huruf a dan huruf b dilakukan oleh BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0528",
+      "kind": "paragraph",
+      "text": "(5) Pemenuhan kewajiban internasional sebagaimana dimaksud pada ayat (2) huruf c, huruf d, dan huruf e dilakukan oleh BSN bekerjasama dengan kementerian dan/atau lembaga pemerintah nonkementerian lainnya, atau Pemangku Kepentingan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0529",
+      "kind": "paragraph",
+      "text": "(6) Ketentuan mengenai tata cara pelaksanaan kewajiban internasional diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0530",
+      "kind": "chapter",
+      "text": "BAB IX",
+      "part": "body"
+    },
+    {
+      "id": "p-0531",
+      "kind": "body",
+      "text": "SISTEM INFORMASI STANDARDISASI DAN PENILAIAN KESESUAIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0532",
+      "kind": "article",
+      "text": "Pasal 94",
+      "part": "body"
+    },
+    {
+      "id": "p-0533",
+      "kind": "paragraph",
+      "text": "(1) BSN mengelola sistem informasi Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0534",
+      "kind": "paragraph",
+      "text": "(2) Sistem informasi Standardisasi dan Penilaian Kesesuaian memuat informasi Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0535",
+      "kind": "paragraph",
+      "text": "(3) Dalam menyediakan informasi Standardisasi dan Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1), BSN dapat meminta data dan informasi kepada Pemangku Kepentingan. (4) Pemangku Kepentingan menyampaikan data dan/atau informasi melalui sistem informasi Standardisasi dan Penilaian Kesesuaian kepada BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0536",
+      "kind": "paragraph",
+      "text": "(5) Sistem informasi Standardisasi dan Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) terintegrasi dengan sistem informasi kementerian, lembaga pemerintah nonkementerian, dan Pemerintah Daerah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0537",
+      "kind": "paragraph",
+      "text": "(6) Integrasi sebagaimana dimaksud pada ayat (5) dilakukan dengan memperhatikan mekanisme pertukaran data/informasi yang aman, efektif, dan efisien berdasarkan kesepakatan bersama. (7) BSN bersama Pemangku Kepentingan menyediakan akses sistem informasi Standardisasi dan Penilaian Kesesuaian untuk masyarakat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0538",
+      "kind": "paragraph",
+      "text": "(8) BSN dalam menyediakan akses sistem informasi Standardisasi dan Penilaian Kesesuaian sebagaimana dimaksud pada ayat (5) memublikasikan informasi Standardisasi dan Penilaian Kesesuaian dengan",
+      "part": "body"
+    },
+    {
+      "id": "p-0539",
+      "kind": "opening",
+      "text": "memperhatikan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0540",
+      "kind": "body",
+      "text": "perlindungan kekayaan intelektual.",
+      "part": "body"
+    },
+    {
+      "id": "p-0541",
+      "kind": "article",
+      "text": "Pasal 95",
+      "part": "body"
+    },
+    {
+      "id": "p-0542",
+      "kind": "paragraph",
+      "text": "(1) Informasi mengenai SNI dipublikasikan dalam sistem informasi Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0543",
+      "kind": "paragraph",
+      "text": "(2) Informasi sebagaimana dimaksud pada ayat (1) paling sedikit mencakup:",
+      "part": "body"
+    },
+    {
+      "id": "p-0544",
+      "kind": "letter",
+      "text": "a. PNPS tahun berjalan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0545",
+      "kind": "letter",
+      "text": "b. daftar SNI yang telah ditetapkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0546",
+      "kind": "letter",
+      "text": "c. daftar SNI yang telah diberlakukan secara wajib;",
+      "part": "body"
+    },
+    {
+      "id": "p-0547",
+      "kind": "letter",
+      "text": "d. daftar SNI yang diterapkan secara sukarela; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0548",
+      "kind": "letter",
+      "text": "e. data Pemangku Kepentingan yang menerapkan SNI, termasuk produk, LPK penerbit sertifikat, dan masa berlaku sertifikat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0549",
+      "kind": "article",
+      "text": "Pasal 96",
+      "part": "body"
+    },
+    {
+      "id": "p-0550",
+      "kind": "paragraph",
+      "text": "(1) Informasi mengenai Akreditasi LPK dipublikasikan dalam sistem informasi Standardisasi dan Penilaian Kesesuaian. (2) Informasi sebagaimana dimaksud pada ayat (1) paling sedikit mencakup:",
+      "part": "body"
+    },
+    {
+      "id": "p-0551",
+      "kind": "letter",
+      "text": "a. persyaratan Akreditasi LPK; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0552",
+      "kind": "letter",
+      "text": "b. daftar dan ruang lingkup LPK yang diakreditasi oleh",
+      "part": "body"
+    },
+    {
+      "id": "p-0553",
+      "kind": "body",
+      "text": "KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0554",
+      "kind": "article",
+      "text": "Pasal 97",
+      "part": "body"
+    },
+    {
+      "id": "p-0555",
+      "kind": "paragraph",
+      "text": "(1) Informasi yang terkait dengan penjaminan ketertelusuran hasil Penilaian Kesesuaian dipublikasikan dalam sistem informasi Standardisasi dan Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0556",
+      "kind": "paragraph",
+      "text": "(2) Informasi sebagaimana dimaksud pada ayat (1) paling sedikit mencakup:",
+      "part": "body"
+    },
+    {
+      "id": "p-0557",
+      "kind": "letter",
+      "text": "a. kemampuan Kalibrasi dan pengukuran dari pengelola",
+      "part": "body"
+    },
+    {
+      "id": "p-0558",
+      "kind": "body",
+      "text": "SNSU;",
+      "part": "body"
+    },
+    {
+      "id": "p-0559",
+      "kind": "letter",
+      "text": "b. ruang lingkup Kalibrasi dan pengukuran dari laboratorium Kalibrasi yang diakreditasi oleh KAN;",
+      "part": "body"
+    },
+    {
+      "id": "p-0560",
+      "kind": "letter",
+      "text": "c. ruang lingkup produsen Bahan Acuan yang diakreditasi oleh KAN; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0561",
+      "kind": "letter",
+      "text": "d. rurang lingkup penyelenggara uji profisiensi yang diakreditasi oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0562",
+      "kind": "article",
+      "text": "Pasal 98",
+      "part": "body"
+    },
+    {
+      "id": "p-0563",
+      "kind": "body",
+      "text": "Ketentuan mengenai tata cara pengelolaan sistem informasi Standardisasi dan Penilaian Kesesuaian diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0564",
+      "kind": "chapter",
+      "text": "BAB X",
+      "part": "body"
+    },
+    {
+      "id": "p-0565",
+      "kind": "chapter",
+      "text": "BAB X",
+      "part": "body"
+    },
+    {
+      "id": "p-0566",
+      "kind": "body",
+      "text": "PERAN SERTA MASYARAKAT",
+      "part": "body"
+    },
+    {
+      "id": "p-0567",
+      "kind": "article",
+      "text": "Pasal 99",
+      "part": "body"
+    },
+    {
+      "id": "p-0568",
+      "kind": "paragraph",
+      "text": "(1) Masyarakat dapat berperan serta dalam kegiatan Standardisasi dan Penilaian Kesesuaian. (2) Peran serta masyarakat dalam kegiatan Standardisasi dan Penilaian Kesesuaian sebagaimana dimaksud pada ayat (1) dapat berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0569",
+      "kind": "letter",
+      "text": "a. mengusulkan dan memberi masukan dalam proses perumusan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0570",
+      "kind": "letter",
+      "text": "b. mencari dan mendapatkan informasi untuk menerapkan SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0571",
+      "kind": "letter",
+      "text": "c. membangun budaya standar; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0572",
+      "kind": "letter",
+      "text": "d. melaporkan kepada kementerian, lembaga pemerintah nonkementerian, Pemerintah Daerah, aparat penegak hukum, dan/atau institusi terkait mengenai: 1) penyalahgunaan dan/atau pemalsuan SNI, sertifikat Barang, sertifikat Jasa, sertifikat Sistem, sertifikat Proses, atau sertifikat Personal; 2l penggunaan tanpa hak Tanda SNI dan/atau Tanda Kesesuaian; 3) pembubuhan Tanda SNI dan/atau Tanda Kesesuaian yang tidak sesuai dengan sertifikat pada Barang dan/atau kemasan atau label yang beredar di pasar; dan/atau 4l penyalahgunaan dan/atau pemalsuan sertifikat Akreditasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0573",
+      "kind": "chapter",
+      "text": "BAB XI",
+      "part": "body"
+    },
+    {
+      "id": "p-0574",
+      "kind": "body",
+      "text": "PEMBINAAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0575",
+      "kind": "article",
+      "text": "Pasal 100",
+      "part": "body"
+    },
+    {
+      "id": "p-0576",
+      "kind": "paragraph",
+      "text": "(1) BSN bekerja sama dengan kementerian, lembaga pemerintah nonkementerian lainnya, dan/atau Pemerintah Daerah melakukan pembinaan terhadap Pelaku Usaha dan masyarakat dalam penerapan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0577",
+      "kind": "paragraph",
+      "text": "(2) Pembinaan (2) Pembinaan sebagaimana dimaksud pada ayat (1) paling sedikit meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0578",
+      "kind": "letter",
+      "text": "a. pemberian bimbingan teknis penerapan Standar untuk Pelaku Usaha dan masyarakat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0579",
+      "kind": "letter",
+      "text": "b. pemberian insentif dan/atau pendampingan dalam proses Sertifikasi serta penggunaan Tanda SNI dan/atau Tanda Kesesuaian bagi usaha mikro dan kecil;",
+      "part": "body"
+    },
+    {
+      "id": "p-0580",
+      "kind": "letter",
+      "text": "c. fasilitasi pembiayaan dan pemeliharaan Sertifikasi untuk usaha mikro dan kecil;",
+      "part": "body"
+    },
+    {
+      "id": "p-0581",
+      "kind": "letter",
+      "text": "d. pengembangan LPK;",
+      "part": "body"
+    },
+    {
+      "id": "p-0582",
+      "kind": "letter",
+      "text": "e. edukasi masyarakat untuk meningkatkan kepercayaan konsumen terhadap produk bertanda SNI dan/atau Tanda Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0583",
+      "kind": "letter",
+      "text": "f. edukasi masyarakat untuk meningkatkan kepercayaan terhadap hasil Penilaian Kesesuaian dari LPK yang telah diakreditasi KAN;",
+      "part": "body"
+    },
+    {
+      "id": "p-0584",
+      "kind": "letter",
+      "text": "g. peningkatan kompetensi sumber daya manusia di bidang Standardisasi dan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0585",
+      "kind": "letter",
+      "text": "h. peningkatan kompetensi dan kapasitas Pemangku Kepentingan dalam memenuhi Persyaratan Acuan untuk Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0586",
+      "kind": "letter",
+      "text": "i. peningkatan pemahaman terhadap pentingnya infrastruktur mutu bagi Pemangku Kepentingan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0587",
+      "kind": "letter",
+      "text": "j. peningkatan peran serta masyarakat dalam kegiatan Standardisasi dan Penilaian Kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0588",
+      "kind": "letter",
+      "text": "k. pengembangan infrastruktur dan peningkatan kompetensi Kalibrasi, pembuatan Bahan Acuan, dan penyelenggaraan uji profisiensi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0589",
+      "kind": "number",
+      "text": "1. menumbuhkembangkan budaya standar melalui pendidikan formal dan non formal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0590",
+      "kind": "article",
+      "text": "Pasal 101",
+      "part": "body"
+    },
+    {
+      "id": "p-0591",
+      "kind": "paragraph",
+      "text": "(1) BSN, kementerian, lembaga pemerintah nonkementerian lainnya, institusi pendidikan, organisasi standardisasi regional dan internasional, dan/atau Pemerintah Daerah dapat menyelenggarakan peningkatan kompetensi sumber daya manusia di bidang Standardisasi dan Penilaian Kesesuaian. (2) Dalam menyelenggarakan peningkatan kompetensi sumber daya manusia di bidang Standardisasi dan Penilaian Kesesuaian, kementerian, lembaga pemerintah nonkementerian, institusi pendidikan, organisasi standardisasi regional dan internasional, dan/atau Pemerintah Daerah berkoordinasi dengan BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0592",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan mengenai peningkatan kompetensi sumber daya manusia di bidang Standardisasi dan Penilaian Kesesuaian diatur dengan Peraturan Kepala BSN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0593",
+      "kind": "article",
+      "text": "Pasal 102",
+      "part": "body"
+    },
+    {
+      "id": "p-0594",
+      "kind": "paragraph",
+      "text": "(1) BSN melakukan pembinaan berupa pengembangan infrastruktur dan peningkatan kompetensi dalam pengelolaan SNSU.",
+      "part": "body"
+    },
+    {
+      "id": "p-0595",
+      "kind": "paragraph",
+      "text": "(2) Dalam melakukan pembinaan sebagaimana dimaksud pada ayat (1), BSN berkoordinasi dengan kementerian dan/atau lembaga pemerintah nonkementerian lainnya berdasarkan kompetensi teknisnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0596",
+      "kind": "chapter",
+      "text": "BAB XII",
+      "part": "body"
+    },
+    {
+      "id": "p-0597",
+      "kind": "body",
+      "text": "PENGAWASAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0598",
+      "kind": "article",
+      "text": "Pasal 103",
+      "part": "body"
+    },
+    {
+      "id": "p-0599",
+      "kind": "paragraph",
+      "text": "(1) Pengawasan terhadap penerapan SNI sebagaimana dimaksud dalam Pasal 21 dan pemberlakuan SNI secara wajib sebagaimana dimaksud dalam Pasal 25 serta pemberlakuan Persyaratan Acuan lainnya secara wajib sebagaimana dimaksud dalam Pasal 39 terdiri dari:",
+      "part": "body"
+    },
+    {
+      "id": "p-0600",
+      "kind": "letter",
+      "text": "a. pengawasan terhadap Barang dan Jasa sebelum diedarkan, Sistem dan Proses sebelum dioperasikan, dan/atau Personal sebelum melakukan kegiatan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0601",
+      "kind": "letter",
+      "text": "b. pengawasan terhadap Barang dan Jasa setelah diedarkan, Sistem dan Proses setelah dioperasikan, dan/atau Personal yang telah melakukan kegiatan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0602",
+      "kind": "paragraph",
+      "text": "(2) Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan oleh menteri atau kepala lembaga pemerintah nonkementerian sesuai dengan kewenangannya berdasarkan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0603",
+      "kind": "article",
+      "text": "Pasal 104",
+      "part": "body"
+    },
+    {
+      "id": "p-0604",
+      "kind": "paragraph",
+      "text": "(1) Penga'*,asan terhadap LPK yang telah diakreditasi dilakukan oleh KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0605",
+      "kind": "paragraph",
+      "text": "(2) Ketentuan lebih lanjut mengenai ruang lingkup dan tata cara pengawasan LPK sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan KAN.",
+      "part": "body"
+    },
+    {
+      "id": "p-0606",
+      "kind": "article",
+      "text": "Pasal 105",
+      "part": "body"
+    },
+    {
+      "id": "p-0607",
+      "kind": "paragraph",
+      "text": "(1) Pengawasan terhadap pemenuhan kewajiban LPK untuk melaksanakan Penilaian Kesesuaian terhadap Persyaratan Acuan sebagaimana dimaksud dalam Pasal 55 dilakukan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang perdagangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0608",
+      "kind": "paragraph",
+      "text": "(2) Ketentuan lebih lanjut tentang ruang lingkup dan tata cara pengawasan pemenuhan kewajiban LPK sebagaimana dimaksud pada ayat (1) ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang perdagangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0609",
+      "kind": "chapter",
+      "text": "BAB XIII",
+      "part": "body"
+    },
+    {
+      "id": "p-0610",
+      "kind": "body",
+      "text": "SANKSI ADMINISTRATIF",
+      "part": "body"
+    },
+    {
+      "id": "p-0611",
+      "kind": "article",
+      "text": "Pasal 106",
+      "part": "body"
+    },
+    {
+      "id": "p-0612",
+      "kind": "body",
+      "text": "Pelaku Usaha yang melanggar ketentuan Pasal 22 ayat (Ll dikenai sanksi administratif berupa teguran tertulis dan perintah untuk membubuhkan Tanda SNI dan/atau Tanda Kesesuaian pada Barang dan/atau kemasan atau label.",
+      "part": "body"
+    },
+    {
+      "id": "p-0613",
+      "kind": "article",
+      "text": "Pasal 107",
+      "part": "body"
+    },
+    {
+      "id": "p-0614",
+      "kind": "body",
+      "text": "Pelaku Usaha yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 24 ayat (1) dikenai sanksi administratif berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0615",
+      "kind": "letter",
+      "text": "a. penarikan Barang dari peredaran; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0616",
+      "kind": "letter",
+      "text": "b. melakukan penghapusan Tanda SNI dan/atau Tanda Kesesuaian pada Barang dan/atau kemasan atau label, papan pengenal, kop surat, dan/atau media lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0617",
+      "kind": "article",
+      "text": "Pasal 108",
+      "part": "body"
+    },
+    {
+      "id": "p-0618",
+      "kind": "body",
+      "text": "Pelaku Usaha yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 24 ayat (2) dikenai sanksi administratif berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0619",
+      "kind": "letter",
+      "text": "a. penarikan Barang dari peredaran; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0620",
+      "kind": "letter",
+      "text": "b. melakukan perbaikan pembubuhan Tanda SNI dan/atau Tanda Kesesuaian atau pembubuhan nomor SNI sesuai dengan nomor SNI pada sertifikat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0621",
+      "kind": "article",
+      "text": "Pasal 109",
+      "part": "body"
+    },
+    {
+      "id": "p-0622",
+      "kind": "paragraph",
+      "text": "(1) Penarikan Barang sebagaimana dimaksud dalam Pasal 107 huruf a dan Pasal 108 huruf a dilakukan oleh Pelaku Usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0623",
+      "kind": "paragraph",
+      "text": "(2) Penarikan Barang sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0624",
+      "kind": "article",
+      "text": "Pasal 110",
+      "part": "body"
+    },
+    {
+      "id": "p-0625",
+      "kind": "body",
+      "text": "Sanksi administratif sebagaimana dimaksud dalam Pasal 106, Pasal 107, Pasal 108, dan Pasal 109 dikenakan oleh menteri dan/atau kepala lembaga pemerintah nonkementerian kepada Pelaku Usaha berdasarkan hasil pengawasan sebagaimana dimaksud dalam Pasal 103 sesuai dengan kewenangan yang diberikan oleh peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0626",
+      "kind": "article",
+      "text": "Pasal 111",
+      "part": "body"
+    },
+    {
+      "id": "p-0627",
+      "kind": "paragraph",
+      "text": "(1) LPK yang tidak dapat memenuhi tanggung jawab sebagaimana dimaksud dalam Pasal 62 dikenai sanksi administratif berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0628",
+      "kind": "letter",
+      "text": "a. pembekuan Akreditasi LPK; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0629",
+      "kind": "letter",
+      "text": "b. pencabutan Akreditasi LPK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0630",
+      "kind": "paragraph",
+      "text": "(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dikenakan oleh KAN berdasarkan hasil pengawasan terhadap LPK sebagairnana dimaksud dalam Pasal 104.",
+      "part": "body"
+    },
+    {
+      "id": "p-0631",
+      "kind": "chapter",
+      "text": "BAB XIV",
+      "part": "body"
+    },
+    {
+      "id": "p-0632",
+      "kind": "body",
+      "text": "KETENTUAN PERALIHAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0633",
+      "kind": "article",
+      "text": "Pasal 112",
+      "part": "body"
+    },
+    {
+      "id": "p-0634",
+      "kind": "body",
+      "text": "Pada saat Peraturan Pemerintah ini mulai berlaku, dalam jangka waktu paling lama 5 (lima) tahun sejak diundangkannya Peraturan Pemerintah ini:",
+      "part": "body"
+    },
+    {
+      "id": "p-0635",
+      "kind": "letter",
+      "text": "a. pengoordinasian Panitia Teknis sebagaimana diatur dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0636",
+      "kind": "body",
+      "text": "Peraturan Pemerintah Nomor lO2 Tahun 2000 tentang",
+      "part": "body"
+    },
+    {
+      "id": "p-0637",
+      "kind": "body",
+      "text": "Standardisasi Nasional yang dilaksanakan oleh instansi teknis dialihkan kepada BSN;",
+      "part": "body"
+    },
+    {
+      "id": "p-0638",
+      "kind": "letter",
+      "text": "b. BSN menetapkan Skema Penilaian Kesesuaian untuk SNI yang diterapkan secara sukarela yang belum memiliki Skema Penilaian Kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0639",
+      "kind": "chapter",
+      "text": "BAB XV",
+      "part": "body"
+    },
+    {
+      "id": "p-0640",
+      "kind": "body",
+      "text": "KETENTUAN PENUTUP",
+      "part": "body"
+    },
+    {
+      "id": "p-0641",
+      "kind": "article",
+      "text": "Pasal 113",
+      "part": "body"
+    },
+    {
+      "id": "p-0642",
+      "kind": "body",
+      "text": "Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan yang mengatur tentang Standardisasi dan Penilaian Kesesuaian dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0643",
+      "kind": "body",
+      "text": "Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0644",
+      "kind": "article",
+      "text": "Pasal 114",
+      "part": "body"
+    },
+    {
+      "id": "p-0645",
+      "kind": "body",
+      "text": "Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor lO2 Tahun 2000 tentang Standardisasi Nasional (Lembaran Negara Tahun 2000 Nomor 199, Tambahan Lembaran Negara Nomor 402Ol, dicabut dan dinyatakan tidak berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0646",
+      "kind": "article",
+      "text": "Pasal 115",
+      "part": "body"
+    },
+    {
+      "id": "p-0647",
+      "kind": "body",
+      "text": "Peraturan Pemerintah ini mulai berlaku pada tanggal",
+      "part": "body"
+    },
+    {
+      "id": "p-0648",
+      "kind": "body",
+      "text": "diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0649",
+      "kind": "body",
+      "text": "Agar Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0650",
+      "kind": "body",
+      "text": "Ditetapkan di Jakarta pada tanggal 20 Juli 2018",
+      "part": "body"
+    },
+    {
+      "id": "p-0651",
+      "kind": "body",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0652",
+      "kind": "body",
+      "text": "ttd",
+      "part": "body"
+    },
+    {
+      "id": "p-0653",
+      "kind": "body",
+      "text": "JOKO WIDODO",
+      "part": "body"
+    },
+    {
+      "id": "p-0654",
+      "kind": "closing",
+      "text": "Diundangkan di Jakarta pada tanggal 20 Juli 2018",
+      "part": "body"
+    },
+    {
+      "id": "p-0655",
+      "kind": "body",
+      "text": "MENTERI HUKUM DAN HAK ASASI MANUSIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0656",
+      "kind": "body",
+      "text": ",",
+      "part": "body"
+    },
+    {
+      "id": "p-0657",
+      "kind": "body",
+      "text": "ttd",
+      "part": "body"
+    },
+    {
+      "id": "p-0658",
+      "kind": "body",
+      "text": "YASONNA H. LAOLY",
+      "part": "body"
+    },
+    {
+      "id": "p-0659",
+      "kind": "closing",
+      "text": "LEMBARAN NEGARA TAHUN 2018 NOMOR 110",
+      "part": "body"
+    },
+    {
+      "id": "p-0660",
+      "kind": "body",
+      "text": "Salinan sesuai dengan aslinya",
+      "part": "body"
+    },
+    {
+      "id": "p-0661",
+      "kind": "body",
+      "text": "KEMENTERIAN SEKRETARIAT NEGARA Hukum dan Perundang-undangan,",
+      "part": "body"
+    },
+    {
+      "id": "p-0662",
+      "kind": "body",
+      "text": "vanna Djaman",
+      "part": "body"
+    },
+    {
+      "id": "p-0663",
+      "kind": "explanation_heading",
+      "text": "PENJELASAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0664",
+      "kind": "explanation_heading",
+      "text": "ATAS",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0665",
+      "kind": "explanation_body",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0666",
+      "kind": "explanation_body",
+      "text": "NOMOR 34 TAHUN 2018",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0667",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0668",
+      "kind": "explanation_body",
+      "text": "SISTEM STANDARDISASI DAN PENILAIAN KESESUAIAN NASIONAL",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0669",
+      "kind": "explanation_heading",
+      "text": "I. UMUM",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0670",
+      "kind": "explanation_body",
+      "text": "Kegiatan Standardisasi dan Penilaian Kesesuaian di Indonesia pada hakikatnya telah berlangsung cukup lama. Salah satu informasi yang memberikan gambaran mengenai hal tersebut adalah Indonesia pernah memiliki Peraturan Pemerintah Nomor 9 Tahun 1964 tentang Standar Industri dimana salah satu tujuan dari Standar Industri sebagaimana tercantum dalam Peraturan Pemerintah tersebut adalah untuk meninggikan mutu dan hasil industri. Seiring berkembangnya zamarL, kebutuhan mengenai Standardisasi dan Penilaian Kesesuaian semakin meningkat ditandai dengan banyaknya pengaturan mengenai kegiatan Standardisasi dan Penilaian Kesesuaian yang tersebar dalam berbagai peraturan perundang-undangan. Puncak pengaturan mengenai Standardisasi dan Penilaian Kesesuaian adalah lahirnya Undang-Undang Nomor 20 Tahun 2014 tentang Standardisasi dan Penilaian Kesesuaian. Dengan lahirnya undang-undang tersebut diharapkan pengaturan mengenai Standardisasi dan Penilaian Kesesuaian lebih harmonis dan komprehensif. Untuk mencapai tujuan tersebut, diperlukan suatu Peraturan Pemerintah. Pengaturan dalam Peraturan Pemerintah ini memuat materi pokok yang meliputi Standardisasi, kegiatan Penilaian Kesesuaian, kelembagaan, ketertelusuran hasil Penilaian Kesesuaian, penelitian dan pengembangan, kerjasama, sistem informasi Standardisasi dan Penilaian Kesesuaian, pembinaan dan pengawasan, serta peran serta masyarakat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0671",
+      "kind": "explanation_heading",
+      "text": "II. PASAL DEMI PASAL",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0672",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0673",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0674",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0675",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0676",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0677",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0678",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0679",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0680",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0681",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0682",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0683",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0684",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0685",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"karakteristik, batasan dan/atau keragaman\" yang dapat diatur dalam Standar, antara lain adalah: - karakteristik yang diperlukan untuk memastikan bahwa piranti listrik rumah tangga aman bagi seluruh penghuni rumah; - sarana dan prasarana yang harus dimiliki oleh penyedia Jasa tertentu; - karakteristik atau elemen proses yang diperlukan untuk menghasilkan Barang dan/atau Jasa; - keragaman ukuran Barang untuk memudahkan pembeli memilih sesuai dengan kebutuhannya; - persyaratan sistem manajemen yang diperlukan untuk mengelola kegiatan tertentu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0686",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0687",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"kesesuaian hubungan\" yang dapat diatur di dalam Standar, antara lain adalah: - ketentuan tentang ukuran ulir mur dan baut sehingga dapat digunakan untuk berbagai jenis konstruksi dan/atau peralatan; - ketentuan tentang bahasa pemrograman piranti lunak yang dapat digunakan dalam sistem operasi tertentu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0688",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0689",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0690",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0691",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0692",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0693",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0694",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0695",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0696",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0697",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0698",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0699",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0700",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0701",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0702",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0703",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0704",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0705",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0706",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0707",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0708",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0709",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0710",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0711",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0712",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0713",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0714",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"SNI dapat dirumuskan tidak selaras dengan standar internasional\" adalah SNI dirumuskan tidak hanya mengacu pada satu standar internasional yang relevan, namun mengacu pada beberapa standar/referensi lain. Hal ini dilakukan untuk mengakomodasi kepentingan nasional.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0715",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0716",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0717",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0718",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0719",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0720",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0721",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0722",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"metode lain\" adalah jajak pendapat dapat dilakukan dengan temu dengan komunitas, dan lain sebagainya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0723",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0724",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"validasi\" adalah tindakan untuk membuktikan bahwa isi dari perbaikan rancangan SNI sudah sesuai dengan masukan dan hasil jajak pendapat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0725",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0726",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0727",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"kepentingan nasional\" adalah melaksanakan kebijakan Presiden dan/atau melaksanakan peraturan perundang-undangan yang diundangkan setelah PNPS ditetapkan dan mengharuskan penetapan SNI dilakukan pada tahun berjalan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0728",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0729",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0730",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0731",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0732",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0733",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0734",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"urgensi perumusan\" adalah alasan, latar belakang atau kondisi yang dihadapi sedemikian hingga proses perumusan SNI yang diusulkan tidak dapat ditunda.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0735",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0736",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0737",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0738",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0739",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0740",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0741",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0742",
+      "kind": "explanation_body",
+      "text": "Cukup jelas. Ayat (a) Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0743",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0744",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0745",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0746",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0747",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0748",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0749",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0750",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0751",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0752",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0753",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0754",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0755",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0756",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0757",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0758",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0759",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0760",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0761",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0762",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0763",
+      "kind": "explanation_body",
+      "text": "Analisis dampak regulasi dilakukan untuk melihat kesiapan pemberlakuan SNI secara wajib serta kemungkinan dampak implementasinya baik terhadap Pelaku Usaha, LPK, maupun pemangku kepentingan lainnya. Ayat (a) Peraturan Kepala BSN mengatur ketentuan umum penyusunan analisis dampak regulasi dengan memperhatikan kepentingan Pelaku Usaha, kementerian dan/atau lembaga pemerintah nonkementerian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0764",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0765",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0766",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0767",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0768",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mempekerjakan Personal\" adalah Pelaku Usaha, kementerian, lembaga pemerintah non kementerian, dan/atau Pemerintah Daerah wajib memastikan bahwa Personal yang bekerja memiliki kompetensi yang dibuktikan dengan sertifikat.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0769",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0770",
+      "kind": "explanation_body",
+      "text": "Cukup jelas. Ayat (a) Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0771",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0772",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0773",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"memproduksi\" adalah merancang dan/atau menghasilkan Barang.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0774",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0775",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0776",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0777",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0778",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0779",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0780",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0781",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0782",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0783",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0784",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0785",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0786",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0787",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0788",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0789",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0790",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0791",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0792",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0793",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0794",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0795",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0796",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0797",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0798",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"menetapkan kembali SNI\" adalah penetapan kembali SNI tanpa perubahan substansi dan perubahan editorial didasarkan pada hasil kaji ulang bahwa iubstansi dan editorial SNI tersebut masih relevan, tidak memerlukan pemutakhiran substansi maupun revisi editorial.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0799",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0800",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mengubah SNI\" adalah substansi dan/atau editorial SNI mengalami perubahan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0801",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0802",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mengabolisi SNI\" adalah pencabutan SNI didasarkan pada hasil kaji ulang bahwa substansi SNI tersebut tidak dapat diterapkan terhadap Barang, Jasa, Sistem, Proses, dan/atau Personal yang diatur dengan ketentuan di dalam SNI tersebut. Abolisi SNI dapat dilakukan setelah mempertimbangkan rekomendasi dari Komite Teknis serta kementerian dan/atau lembaga pemerintah nonkementerian terkait.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0803",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0804",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0805",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0806",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0807",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0808",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"Sertifikasi\" mencakup berbagai kegiatan lain yan; diperlukan untuk menyatakan pemenuhan dan penerbitan i.rtinUf kesesuaian terhadap persyaratan tertentu, antara lain: - verifikasi legalitas kayu; - verifikasi dan validasi gas rumah kaca.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0809",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0810",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0811",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0812",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0813",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0814",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0815",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0816",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0817",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0818",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan 'pemilik Skema Penilaian Kesesuaian\" adalah lembaga yang bertanggung jawab mengembangkan dan memelihara skema sertifikasi tertentu. Pemilik Skema Penilaian Kesesuaian dapat berupa pemerintah negara lain, lembaga standardisasi nasional negara lain, asosiasi pembeli di negara lain, atau organisasi lainnya yang menetapkan skema sertifikasi untuk kepentingannya, yang dapat berpengaruh terhadap keberterimaan Barang, Jasa, Sistem, Proses, atau Personal nasional di pasar tertentu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0819",
+      "kind": "article",
+      "text": "Pasal 46",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0820",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0821",
+      "kind": "article",
+      "text": "Pasal 47",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0822",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0823",
+      "kind": "article",
+      "text": "Pasal 48",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0824",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0825",
+      "kind": "article",
+      "text": "Pasal 49",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0826",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0827",
+      "kind": "article",
+      "text": "Pasal 50",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0828",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0829",
+      "kind": "article",
+      "text": "Pasal 51",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0830",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0831",
+      "kind": "article",
+      "text": "Pasal 52",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0832",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0833",
+      "kind": "explanation_body",
+      "text": "Cukup jelas. Ayat (2) Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0834",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0835",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0836",
+      "kind": "explanation_body",
+      "text": "Ayat (a) Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0837",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0838",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mengembangkan sarana dan prasarana uji petik\" adalah BSN bekerjasama dengan Pemangku Kepentingan mengembangkan kompetensi laboratorium pengujian sehingga memenuhi persyaratan Akreditasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0839",
+      "kind": "article",
+      "text": "Pasal 53",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0840",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0841",
+      "kind": "article",
+      "text": "Pasal 54",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0842",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0843",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0844",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0845",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0846",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0847",
+      "kind": "explanation_body",
+      "text": "Cukup jelas. Ayat (a) Yang dimaksud dengan \"persyaratan\" adalah persyaratan untuk LPK yang ditunjuk dalam pelaksanaan Peraturan Kepala BSN.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0848",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0849",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0850",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0851",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"ruang lingkup yang sejenis\" adalah adanya kesamaan pada obyek antara lain paramater, metode uji, dan/atau material. Dapat dijelaskan dengan contoh yaitu ruang lingkup LPK yang telah terakreditasi adalah untuk komoditi kakao dan komoditi teh, maka LPK dimaksud dapat ditunjuk untuk ruang lingkup komoditi kopi. Hal tersebut dikarenakan obyek ketiganya memiliki parameter dan metode uji yang sama.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0852",
+      "kind": "article",
+      "text": "Pasal 55",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0853",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0854",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0855",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0856",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"persyaratan\" adalah persyaratan untuk LPK yang ditunjuk dalam pelaksanaan peraturan menteri dan/atau peraturan kepala lembaga pemerintah nonkementerian.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0857",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0858",
+      "kind": "explanation_body",
+      "text": "Cukup jelas. Ayat (a) Yang dimaksud dengan \"ruang lingkup yang sejenis\" adalah adanya kesamaan pada obyek antara lain paramater, metode uji, dan/atau material. Dapat dijelaskan dengan contoh yaitu ruang lingkup LPK yang telah terakreditasi adalah untuk komoditi kakao dan komoditi teh, maka LPK dimaksud dapat ditunjuk untuk rLrang lingkup komoditi kopi. Hal tersebut dikarenakan obyek ketiganya memiliki parameter dan metode uji yang sama.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0859",
+      "kind": "article",
+      "text": "Pasal 56",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0860",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0861",
+      "kind": "article",
+      "text": "Pasal 57",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0862",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0863",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"saling keberterimaan\" adalah hasil Penilaian Kesesuaian dari LPK yang diakreditasi oleh badan akreditasi di negara lain dapat diterima sebagai bukti pemenuhan regulasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0864",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0865",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"saling pengakuan\" adalah memberikan pengakuan terhadap kompetensi LPK yang diakreditasi oleh badan akreditasi di negara lain sesama pihak mufital recognition agreement (MRA).",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0866",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0867",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0868",
+      "kind": "article",
+      "text": "Pasal 58",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0869",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0870",
+      "kind": "article",
+      "text": "Pasal 59",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0871",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0872",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"logo Akreditasi KAN\" adalah \"logo KAN\" yang dilengkapi dengan identitas status Akreditasi LPK yang dapat digunakan oleh LPK untuk menyatakan status akreditasinya.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0873",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0874",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"badan akreditasi\" yaitu organisasi internasional seperti Intemational Accreditation Foru.m (IAF), International Laboratory Accreditation Cooperation (ILAC), Asio. Pacific Laboratoru Accreditation Cooperation (APLAC) dan Pacific Accre dit ation C o op er ation ( PAC ).",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0875",
+      "kind": "article",
+      "text": "Pasal 60",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0876",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0877",
+      "kind": "article",
+      "text": "Pasal 61",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0878",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0879",
+      "kind": "article",
+      "text": "Pasal 62",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0880",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0881",
+      "kind": "article",
+      "text": "Pasal 63",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0882",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0883",
+      "kind": "article",
+      "text": "Pasal 64",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0884",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0885",
+      "kind": "article",
+      "text": "Pasal 65",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0886",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0887",
+      "kind": "article",
+      "text": "Pasal 66",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0888",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"skema Akreditasi\" adalah aturan, prosedur, dan manajemen yang berlaku untuk melaksanakan penilaian terhadap",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0889",
+      "kind": "explanation_body",
+      "text": "LPK.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0890",
+      "kind": "article",
+      "text": "Pasal 67",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0891",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0892",
+      "kind": "article",
+      "text": "Pasal 68",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0893",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0894",
+      "kind": "article",
+      "text": "Pasal 69",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0895",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0896",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"permohonan diterima\" adalah dokumen permohonan yang disampaikan oleh LPK telah dinyatakan lengkap sesuai dengan persyaratan permohonan Akreditasi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0897",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0898",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0899",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0900",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"ruang lingkup Akreditasi\" adalah pernyataan kemampuan LPK untuk melaksanakan kegiatan pengujian, inspeksi, atau Sertifikasi terhadap jenis Barang, Jasa, Sistem, Proses, atau kompetensi Personal tertentu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0901",
+      "kind": "article",
+      "text": "Pasal 70",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0902",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0903",
+      "kind": "article",
+      "text": "Pasal 71",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0904",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0905",
+      "kind": "article",
+      "text": "Pasal 72",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0906",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0907",
+      "kind": "article",
+      "text": "Pasal 73",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0908",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"logo saling pengakuan akreditasi internasional\" adalah logo yang ditetapkan oleh organisasi kerjasama akreditasi internasional sebagai bukti bah',r'a LPK telah diakreditasi oleh badan akreditasi yang memenuhi persyaratan saling pengakuan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0909",
+      "kind": "article",
+      "text": "Pasal 74",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0910",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0911",
+      "kind": "article",
+      "text": "Pasal 75",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0912",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0913",
+      "kind": "article",
+      "text": "Pasal 76",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0914",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0915",
+      "kind": "article",
+      "text": "Pasal 77",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0916",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0917",
+      "kind": "article",
+      "text": "Pasal 78",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0918",
+      "kind": "explanation_body",
+      "text": "Cukup jelas",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0919",
+      "kind": "article",
+      "text": "Pasal 79",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0920",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0921",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0922",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0923",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"kompetensi teknis\" adalah kemampuan pemenuhan persyaratan pengelolaan standar nasional satuan ukuran yang disepakati dalam Konvensi Meter mengenai sistem satuan internasional.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0924",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0925",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"diseminasi SNSU\" adalah kegiatan untuk menurLlnkan nilai SNSU ke Standar dengan tingkat ketelitian yang lebih rendah.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0926",
+      "kind": "article",
+      "text": "Pasal 80",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0927",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0928",
+      "kind": "article",
+      "text": "Pasal 81",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0929",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0930",
+      "kind": "article",
+      "text": "Pasal 82",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0931",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0932",
+      "kind": "article",
+      "text": "Pasal 83",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0933",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0934",
+      "kind": "article",
+      "text": "Pasal 84",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0935",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0936",
+      "kind": "article",
+      "text": "Pasal 85",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0937",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0938",
+      "kind": "article",
+      "text": "Pasal 86",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0939",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0940",
+      "kind": "article",
+      "text": "Pasal 87",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0941",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0942",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0943",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0944",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0945",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0946",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"Kalibrasi secara internal\" adalah Kalibrasi yang dilakukan sendiri oleh laboratorium.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0947",
+      "kind": "article",
+      "text": "Pasal 88",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0948",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0949",
+      "kind": "article",
+      "text": "Pasal 89",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0950",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0951",
+      "kind": "article",
+      "text": "Pasal 90",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0952",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0953",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0954",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0955",
+      "kind": "explanation_body",
+      "text": "Acuan pada kebijakan nasional Standardisasi dan Penilaian Kesesuaian dilakukan sepanjang kebijakan nasional telah ditetapkan oleh menteri yang mengoordinasikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0956",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0957",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"peraturan perundang-undangan\" adalah ketentuan yang diatur dalam undang-undang terkait hak kekayaan intelektual dan undang-undang terkait ilmu pengetahuan dan teknologi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0958",
+      "kind": "article",
+      "text": "Pasal 91",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0959",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0960",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0961",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0962",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0963",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0964",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0965",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"keunikan nasional\" adalah persyaratan dalam SNI yang berbeda dengan ketentuan di dalam standar internasional atau standar lain untuk memperkuat kepentingan Indonesia.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0966",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0967",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0968",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0969",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0970",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0971",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0972",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0973",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0974",
+      "kind": "article",
+      "text": "Pasal 92",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0975",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0976",
+      "kind": "article",
+      "text": "Pasal 93",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0977",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0978",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0979",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0980",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0981",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"notifikasi\" adalah kegiatan pemenuhan kewajiban internasional untuk menginformasikan rancangan peraturan menteri/kepala lembaga pemerintah nonkementerian atau peraturan menteri/kepala lembaga pemerintah nonkementerian yang terkait dengan Standardisasi dan Penilaian Kesesuaian yang berpotensi menyebabkan hambatan perdagangan internasional.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0982",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0983",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0984",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0985",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0986",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0987",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0988",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0989",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0990",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0991",
+      "kind": "explanation_body",
+      "text": "Cukup jelas. Ayat (a) Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0992",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0993",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0994",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0995",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0996",
+      "kind": "article",
+      "text": "Pasal 94",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0997",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0998",
+      "kind": "article",
+      "text": "Pasal 95",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0999",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1000",
+      "kind": "article",
+      "text": "Pasal 96",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1001",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1002",
+      "kind": "article",
+      "text": "Pasal 97",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1003",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1004",
+      "kind": "article",
+      "text": "Pasal 98",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1005",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1006",
+      "kind": "article",
+      "text": "Pasal 99",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1007",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1008",
+      "kind": "article",
+      "text": "Pasal 100",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1009",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1010",
+      "kind": "article",
+      "text": "Pasal 101",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1011",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1012",
+      "kind": "article",
+      "text": "Pasal 102",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1013",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1014",
+      "kind": "article",
+      "text": "Pasal 103",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1015",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1016",
+      "kind": "article",
+      "text": "Pasal 104",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1017",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1018",
+      "kind": "article",
+      "text": "Pasal 105",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1019",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1020",
+      "kind": "article",
+      "text": "Pasal 106",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1021",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1022",
+      "kind": "article",
+      "text": "Pasal 107",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1023",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1024",
+      "kind": "article",
+      "text": "Pasal 108",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1025",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1026",
+      "kind": "article",
+      "text": "Pasal 109",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1027",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1028",
+      "kind": "article",
+      "text": "Pasal 110",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1029",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1030",
+      "kind": "article",
+      "text": "Pasal 111",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1031",
+      "kind": "explanation_body",
+      "text": "REPUELIK INDONESIA",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1032",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1033",
+      "kind": "article",
+      "text": "Pasal 112",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1034",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1035",
+      "kind": "article",
+      "text": "Pasal 113",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1036",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1037",
+      "kind": "article",
+      "text": "Pasal 114",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1038",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1039",
+      "kind": "article",
+      "text": "Pasal 115",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1040",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-1041",
+      "kind": "closing",
+      "text": "TAMBAHAN LEMBARAN NEGARA NOMOR 6225",
+      "part": "explanation"
+    }
+  ]
+}

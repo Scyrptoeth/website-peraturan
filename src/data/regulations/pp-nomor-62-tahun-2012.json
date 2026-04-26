@@ -1,0 +1,4906 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/PP Nomor 62 Tahun 2012.pdf",
+    "source_sha256": "ba700517fa53b69b41e6d6315862c95902f74ff3cab4780961e8a2736489f3f5",
+    "document_type": "PP",
+    "number": "62",
+    "year": "2012",
+    "title": "USAHA JASA PENUNJANG TENAGA LISTRIK",
+    "slug": "pp-nomor-62-tahun-2012",
+    "pdf_info": {
+      "pages": "36",
+      "title": "PERATURAN PEMERINTAH REPUBLIK INDONESIA",
+      "tagged": "yes",
+      "encrypted": "no",
+      "pdf_version": "1.5"
+    },
+    "generated_at": "2026-04-26T03:19:40.072681+00:00"
+  },
+  "quality": {
+    "paragraph_count": 812,
+    "body_article_count": 27,
+    "explanation_article_count": 27,
+    "chapter_count": 7,
+    "part_count": 4,
+    "letter_count": 204,
+    "number_count": 13,
+    "has_explanation": true,
+    "has_state_gazette": false,
+    "has_supplement": false,
+    "quality_flags": []
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "title",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "NOMOR 62 TAHUN 2012",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "USAHA JASA PENUNJANG TENAGA LISTRIK",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "opening",
+      "text": "Menimbang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "body",
+      "text": "bahwa untuk melaksanakan ketentuan Pasal 16 ayat (4), Pasal 26, dan Pasal 48 ayat (3) Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan, perlu menetapkan Peraturan Pemerintah tentang Usaha Jasa Penunjang Tenaga Listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "number",
+      "text": "1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Tahun 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "number",
+      "text": "2. Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan (Lembaran Negara Tahun 2009 Nomor 133, Tambahan Lembaran Negara Nomor 5052);",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "body",
+      "text": "PERATURAN PEMERINTAH TENTANG USAHA JASA",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "body",
+      "text": "PENUNJANG TENAGA LISTRIK.",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "chapter",
+      "text": "BAB I",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "body",
+      "text": "KETENTUAN UMUM",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "body",
+      "text": "Dalam Peraturan Pemerintah ini yang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "number",
+      "text": "1. Klasifikasi adalah penetapan penggolongan usaha menurut bidang dan subbidang usaha tertentu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "number",
+      "text": "2. Kualifikasi adalah penetapan penggolongan usaha menurut tingkat kemampuan usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "number",
+      "text": "3. Sertifikasi Badan Usaha adalah proses penilaian untuk mendapatkan pengakuan formal terhadap Klasifikasi dan Kualifikasi atas kemampuan badan usaha di bidang usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "number",
+      "text": "4. Instalasi Penyediaan Tenaga Listrik adalah instalasi tenaga listrik yang digunakan untuk pengadaan tenaga listrik meliputi instalasi pembangkitan, instalasi transmisi, dan instalasi distribusi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "number",
+      "text": "5. Instalasi Pemanfaatan Tenaga Listrik adalah instalasi tenaga listrik yang digunakan untuk pemanfaatan tenaga listrik oleh konsumen akhir.",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "number",
+      "text": "6. Tenaga Teknik Ketenagalistrikan adalah perorangan yang berpendidikan di bidang teknik dan/atau memiliki pengalaman kerja di bidang ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "number",
+      "text": "7. Sertifikasi Kompetensi Tenaga Teknik adalah proses penilaian untuk mendapatkan pengakuan formal terhadap Klasifikasi dan Kualifikasi atas kompetensi dan kemampuan Tenaga Teknik di bidang usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "number",
+      "text": "8. Kompetensi Tenaga Teknik Ketenagalistrikan yang selanjutnya disebut Kompetensi adalah kemampuan Tenaga Teknik untuk mengerjakan suatu tugas dan pekerjaan yang dilandasi oleh pengetahuan, keterampilan, dan sikap kerja.",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "number",
+      "text": "9. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang energi dan sumber daya mineral.",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "body",
+      "text": "Usaha jasa penunjang tenaga listrik meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "letter",
+      "text": "a. konsultansi dalam bidang Instalasi Penyediaan Tenaga Listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "letter",
+      "text": "b. pembangunan dan pemasangan Instalasi Penyediaan Tenaga Listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "letter",
+      "text": "c. pemeriksaan dan pengujian instalasi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "letter",
+      "text": "d. pengoperasian instalasi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "letter",
+      "text": "e. pemeliharaan instalasi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "letter",
+      "text": "f. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "letter",
+      "text": "g. pendidikan dan pelatihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "letter",
+      "text": "h. laboratorium pengujian peralatan dan pemanfaat tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "letter",
+      "text": "i. sertifikasi peralatan dan pemanfaat tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "letter",
+      "text": "j. Sertifikasi Kompetensi Tenaga Teknik Ketenagalistrikan; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "letter",
+      "text": "k. usaha jasa lain yang secara langsung berkaitan dengan penyediaan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa penunjang tenaga listrik dilaksanakan oleh badan usaha, yang meliputi badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, dan koperasi yang berbadan hukum Indonesia dan berusaha di bidang usaha jasa penunjang tenaga listrik sesuai dengan Klasifikasi, Kualifikasi, dan/atau sertifikat usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "paragraph",
+      "text": "(2) Badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, dan koperasi sebagaimana dimaksud pada ayat (1) melakukan kegiatan usaha jasa penunjang tenaga listrik setelah mendapat izin usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "chapter",
+      "text": "BAB II",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "body",
+      "text": "KLASIFIKASI, KUALIFIKASI, DAN SERTIFIKASI",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "body",
+      "text": "USAHA JASA PENUNJANG TENAGA LISTRIK",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "body",
+      "text": "Klasifikasi Usaha Jasa Penunjang Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa konsultansi sebagaimana dimaksud dalam Pasal 2 huruf a meliputi usaha jasa perencanaan dan/atau pengawasan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa konsultansi diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "letter",
+      "text": "d. Instalasi Pemanfaatan Tenaga Listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa konsultansi di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (2) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "letter",
+      "text": "a. pembangkit listrik tenaga uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "letter",
+      "text": "b. pembangkit listrik tenaga gas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "letter",
+      "text": "c. pembangkit listrik tenaga gas-uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "letter",
+      "text": "d. pembangkit listrik tenaga panas bumi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "letter",
+      "text": "e. pembangkit listrik tenaga air;",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "letter",
+      "text": "f. pembangkit listrik tenaga air skala kecil dan menengah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "letter",
+      "text": "g. pembangkit listrik tenaga diesel;",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "letter",
+      "text": "h. pembangkit listrik tenaga nuklir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "letter",
+      "text": "i. pembangkit listrik tenaga energi baru lainnya dan tenaga energi terbarukan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa konsultansi di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (2) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "letter",
+      "text": "a. jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "letter",
+      "text": "b. gardu induk.",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "paragraph",
+      "text": "(5) Usaha jasa konsultansi di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (2) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "letter",
+      "text": "a. jaringan distribusi tenaga listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "letter",
+      "text": "b. jaringan distribusi tenaga listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "paragraph",
+      "text": "(6) Usaha jasa konsultansi di bidang Instalasi Pemanfaatan Tenaga Listrik sebagaimana dimaksud pada ayat (2) huruf d diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "letter",
+      "text": "a. Instalasi Pemanfaatan Tenaga Listrik tegangan tinggi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "letter",
+      "text": "b. Instalasi Pemanfaatan Tenaga Listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "letter",
+      "text": "c. Instalasi Pemanfaatan Tenaga Listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa pembangunan dan pemasangan sebagaimana dimaksud dalam Pasal 2 huruf b diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "letter",
+      "text": "d. Instalasi Pemanfaatan Tenaga Listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa pembangunan dan pemasangan di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (1) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "letter",
+      "text": "a. pembangkit listrik tenaga uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "letter",
+      "text": "b. pembangkit listrik tenaga gas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "letter",
+      "text": "c. pembangkit listrik tenaga gas-uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "letter",
+      "text": "d. pembangkit listrik tenaga panas bumi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "letter",
+      "text": "e. pembangkit listrik tenaga air;",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "letter",
+      "text": "f. pembangkit listrik tenaga air skala kecil dan menengah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "letter",
+      "text": "g. pembangkit listrik tenaga diesel;",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "letter",
+      "text": "h. pembangkit listrik tenaga nuklir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "letter",
+      "text": "i. pembangkit listrik tenaga energi baru lainnya dan tenaga energi terbarukan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa pembangunan dan pemasangan di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "letter",
+      "text": "a. jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "letter",
+      "text": "b. gardu induk.",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa pembangunan dan pemasangan di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "letter",
+      "text": "a. jaringan distribusi tenaga listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "letter",
+      "text": "b. jaringan distribusi tenaga listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "paragraph",
+      "text": "(5) Usaha jasa pembangunan dan pemasangan di bidang Instalasi Pemanfaatan Tenaga Listrik sebagaimana dimaksud pada ayat (1) huruf d diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "letter",
+      "text": "a. Instalasi Pemanfaatan Tenaga Listrik tegangan tinggi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "letter",
+      "text": "b. Instalasi Pemanfaatan Tenaga Listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "letter",
+      "text": "c. Instalasi Pemanfaatan Tenaga Listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "paragraph",
+      "text": "(6) Klasifikasi, Kualifikasi, dan sertifikasi perencana, pelaksana, dan pengawas bangunan sipil dan gedung untuk instalasi penyediaan tenaga listrik mengikuti ketentuan peraturan perundang-undangan di bidang jasa konstruksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa pemeriksaan dan pengujian instalasi tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf c diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "letter",
+      "text": "d. Instalasi Pemanfaatan Tenaga Listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa pemeriksaan dan pengujian di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (1) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "letter",
+      "text": "a. pembangkit listrik tenaga uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "letter",
+      "text": "b. pembangkit listrik tenaga gas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "letter",
+      "text": "c. pembangkit listrik tenaga gas-uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "letter",
+      "text": "d. pembangkit listrik tenaga panas bumi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "letter",
+      "text": "e. pembangkit listrik tenaga air;",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "letter",
+      "text": "f. pembangkit listrik tenaga air skala kecil dan menengah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "letter",
+      "text": "g. pembangkit listrik tenaga diesel;",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "letter",
+      "text": "h. pembangkit listrik tenaga nuklir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "letter",
+      "text": "i. pembangkit listrik tenaga energi baru lainnya dan tenaga energi terbarukan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa pemeriksaan dan pengujian di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "letter",
+      "text": "a. jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "letter",
+      "text": "b. gardu induk.",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa pemeriksaan dan pengujian di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "letter",
+      "text": "a. jaringan distribusi tenaga listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "letter",
+      "text": "b. jaringan distribusi tenaga listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "paragraph",
+      "text": "(5) Usaha jasa pemeriksaan dan pengujian di bidang Instalasi Pemanfaatan Tenaga Listrik sebagaimana dimaksud pada ayat (1) huruf d diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "letter",
+      "text": "a. Instalasi Pemanfaatan Tenaga Listrik tegangan tinggi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "letter",
+      "text": "b. Instalasi Pemanfaatan Tenaga Listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "letter",
+      "text": "c. Instalasi Pemanfaatan Tenaga Listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa pengoperasian instalasi tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf d diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa pengoperasian di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (1) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "letter",
+      "text": "a. pembangkit listrik tenaga uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "letter",
+      "text": "b. pembangkit listrik tenaga gas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "letter",
+      "text": "c. pembangkit listrik tenaga gas-uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "letter",
+      "text": "d. pembangkit listrik tenaga panas bumi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "letter",
+      "text": "e. pembangkit listrik tenaga air;",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "letter",
+      "text": "f. pembangkit listrik tenaga air skala kecil dan menengah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "letter",
+      "text": "g. pembangkit listrik tenaga diesel;",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "letter",
+      "text": "h. pembangkit listrik tenaga nuklir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "letter",
+      "text": "i. pembangkit listrik tenaga energi baru lainnya dan tenaga energi terbarukan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa pengoperasian di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "letter",
+      "text": "a. jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "letter",
+      "text": "b. gardu induk.",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa pengoperasian di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "letter",
+      "text": "a. jaringan distribusi tenaga listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "letter",
+      "text": "b. jaringan distribusi tenaga listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa pemeliharaan instalasi tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf e diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa pemeliharaan di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (1) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "letter",
+      "text": "a. pembangkit listrik tenaga uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "letter",
+      "text": "b. pembangkit listrik tenaga gas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "letter",
+      "text": "c. pembangkit listrik tenaga gas-uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "letter",
+      "text": "d. pembangkit listrik tenaga panas bumi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "letter",
+      "text": "e. pembangkit listrik tenaga air;",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "letter",
+      "text": "f. pembangkit listrik tenaga air skala kecil dan menengah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "letter",
+      "text": "g. pembangkit listrik tenaga diesel;",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "letter",
+      "text": "h. pembangkit listrik tenaga nuklir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "letter",
+      "text": "i. pembangkit listrik tenaga energi baru lainnya dan tenaga energi terbarukan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa pemeliharaan di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "letter",
+      "text": "a. jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "letter",
+      "text": "b. gardu induk.",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa pemeliharaan di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "letter",
+      "text": "a. jaringan distribusi tenaga listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "letter",
+      "text": "b. jaringan distribusi tenaga listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa pendidikan dan pelatihan sebagaimana dimaksud dalam Pasal 2 huruf g diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "letter",
+      "text": "d. instalasi pemanfaatan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "letter",
+      "text": "e. asesor ketenagalistrikan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "letter",
+      "text": "f. industri penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa pendidikan dan pelatihan di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (1) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "letter",
+      "text": "a. pembangkit listrik tenaga uap;.",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "letter",
+      "text": "b. pembangkit listrik tenaga gas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "letter",
+      "text": "c. pembangkit listrik tenaga gas-uap;",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "letter",
+      "text": "d. pembangkit listrik tenaga panas bumi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "letter",
+      "text": "e. pembangkit listrik tenaga air;",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "letter",
+      "text": "f. pembangkit listrik tenaga air skala kecil dan menengah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "letter",
+      "text": "g. pembangkit listrik tenaga diesel;",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "letter",
+      "text": "h. pembangkit listrik tenaga nuklir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "letter",
+      "text": "i. pembangkit listrik tenaga energi baru lainnya dan tenaga energi terbarukan lainnya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa pendidikan dan pelatihan di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "letter",
+      "text": "a. jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "letter",
+      "text": "b. gardu induk.",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa pendidikan dan pelatihan di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "letter",
+      "text": "a. jaringan distribusi tenaga listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "letter",
+      "text": "b. jaringan distribusi tenaga listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "paragraph",
+      "text": "(5) Usaha jasa pendidikan dan pelatihan di bidang Instalasi Pemanfaatan Tenaga Listrik sebagaimana dimaksud pada ayat (1) huruf d diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "letter",
+      "text": "a. Instalasi Pemanfaatan Tenaga Listrik tegangan tinggi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "letter",
+      "text": "b. Instalasi Pemanfaatan Tenaga Listrik tegangan menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "letter",
+      "text": "c. Instalasi Pemanfaatan Tenaga Listrik tegangan rendah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "paragraph",
+      "text": "(6) Usaha jasa pendidikan dan pelatihan di bidang asesor ketenagalistrikan sebagaimana dimaksud pada ayat (1) huruf e diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0203",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0204",
+      "kind": "letter",
+      "text": "d. instalasi pemanfaatan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0205",
+      "kind": "paragraph",
+      "text": "(7) Usaha jasa pendidikan dan pelatihan di bidang industri penunjang tenaga listrik sebagaimana dimaksud pada ayat (1) huruf f diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0206",
+      "kind": "letter",
+      "text": "a. peralatan tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0207",
+      "kind": "letter",
+      "text": "b. pemanfaat tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0208",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0209",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa Sertifikasi Kompetensi Tenaga Teknik Ketenagalistrikan sebagaimana dimaksud dalam Pasal 2 huruf j diklasifikasikan dalam bidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0210",
+      "kind": "letter",
+      "text": "a. pembangkitan tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0211",
+      "kind": "letter",
+      "text": "b. transmisi tenaga listrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0212",
+      "kind": "letter",
+      "text": "c. distribusi tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0213",
+      "kind": "letter",
+      "text": "d. Instalasi Pemanfaatan Tenaga Listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0214",
+      "kind": "paragraph",
+      "text": "(2) Usaha jasa Sertifikasi Kompetensi Tenaga Teknik Ketenagalistrikan di bidang pembangkitan tenaga listrik sebagaimana dimaksud pada ayat (1) huruf a diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0215",
+      "kind": "letter",
+      "text": "a. konsultansi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0216",
+      "kind": "letter",
+      "text": "b. pembangunan dan pemasangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0217",
+      "kind": "letter",
+      "text": "c. pemeriksaan dan pengujian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0218",
+      "kind": "letter",
+      "text": "d. pengoperasian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0219",
+      "kind": "letter",
+      "text": "e. pemeliharaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0220",
+      "kind": "letter",
+      "text": "f. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0221",
+      "kind": "letter",
+      "text": "g. pendidikan dan pelatihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0222",
+      "kind": "letter",
+      "text": "h. laboratorium penguji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0223",
+      "kind": "letter",
+      "text": "i. asesor ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0224",
+      "kind": "letter",
+      "text": "j. usaha jasa lain yang secara langsung berkaitan dengan pembangkitan tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0225",
+      "kind": "paragraph",
+      "text": "(3) Usaha jasa Sertifikasi Kompetensi Tenaga Teknik Ketenagalistrikan di bidang transmisi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf b diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0226",
+      "kind": "letter",
+      "text": "a. konsultansi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0227",
+      "kind": "letter",
+      "text": "b. pembangunan dan pemasangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0228",
+      "kind": "letter",
+      "text": "c. pemeriksaan dan pengujian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0229",
+      "kind": "letter",
+      "text": "d. pengoperasian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0230",
+      "kind": "letter",
+      "text": "e. pemeliharaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0231",
+      "kind": "letter",
+      "text": "f. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0232",
+      "kind": "letter",
+      "text": "g. pendidikan dan pelatihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0233",
+      "kind": "letter",
+      "text": "h. laboratorium penguji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0234",
+      "kind": "letter",
+      "text": "i. asesor ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0235",
+      "kind": "letter",
+      "text": "j. usaha jasa lain yang secara langsung berkaitan dengan transmisi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0236",
+      "kind": "paragraph",
+      "text": "(4) Usaha jasa Sertifikasi Kompetensi Tenaga Teknik Ketenagalistrikan di bidang distribusi tenaga listrik sebagaimana dimaksud pada ayat (1) huruf c diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0237",
+      "kind": "letter",
+      "text": "a. konsultansi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0238",
+      "kind": "letter",
+      "text": "b. pembangunan dan pemasangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0239",
+      "kind": "letter",
+      "text": "c. pemeriksaan dan pengujian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0240",
+      "kind": "letter",
+      "text": "d. pengoperasian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0241",
+      "kind": "letter",
+      "text": "e. pemeliharaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0242",
+      "kind": "letter",
+      "text": "f. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0243",
+      "kind": "letter",
+      "text": "g. pendidikan dan pelatihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0244",
+      "kind": "letter",
+      "text": "h. laboratorium penguji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0245",
+      "kind": "letter",
+      "text": "i. asesor ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0246",
+      "kind": "letter",
+      "text": "j. usaha jasa lain yang secara langsung berkaitan dengan distribusi tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0247",
+      "kind": "paragraph",
+      "text": "(5) Usaha jasa Sertifikasi Kompetensi Tenaga Teknik Ketenagalistrikan di bidang Instalasi Pemanfaatan Tenaga Listrik sebagaimana dimaksud pada ayat (1) huruf d diklasifikasikan dalam subbidang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0248",
+      "kind": "letter",
+      "text": "a. konsultansi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0249",
+      "kind": "letter",
+      "text": "b. pembangunan dan pemasangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0250",
+      "kind": "letter",
+      "text": "c. pemeriksaan dan pengujian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0251",
+      "kind": "letter",
+      "text": "d. pemeliharaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0252",
+      "kind": "letter",
+      "text": "e. penelitian dan pengembangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0253",
+      "kind": "letter",
+      "text": "f. pendidikan dan pelatihan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0254",
+      "kind": "letter",
+      "text": "g. laboratorium penguji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0255",
+      "kind": "letter",
+      "text": "h. asesor ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0256",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0257",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf f, huruf h, dan huruf i diklasifikasikan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0258",
+      "kind": "paragraph",
+      "text": "(2) Klasifikasi untuk usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf k diatur dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0259",
+      "kind": "body",
+      "text": "Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0260",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0261",
+      "kind": "body",
+      "text": "Kualifikasi Usaha Jasa Penunjang Tenaga Listrik",
+      "part": "body"
+    },
+    {
+      "id": "p-0262",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "body"
+    },
+    {
+      "id": "p-0263",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf a, huruf b, huruf c, huruf d, huruf e, huruf g, dan huruf j dikualifikasikan dalam:",
+      "part": "body"
+    },
+    {
+      "id": "p-0264",
+      "kind": "letter",
+      "text": "a. Kualifikasi usaha besar;",
+      "part": "body"
+    },
+    {
+      "id": "p-0265",
+      "kind": "letter",
+      "text": "b. Kualifikasi usaha menengah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0266",
+      "kind": "letter",
+      "text": "c. Kualifikasi usaha kecil.",
+      "part": "body"
+    },
+    {
+      "id": "p-0267",
+      "kind": "paragraph",
+      "text": "(2) Kualifikasi usaha jasa penunjang tenaga listrik sebagaimana dimaksud pada ayat (1) ditetapkan berdasarkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0268",
+      "kind": "letter",
+      "text": "a. tingkat kemampuan usaha; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0269",
+      "kind": "letter",
+      "text": "b. keahlian kerja orang perseorangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0270",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan lebih lanjut mengenai Kualifikasi usaha jasa penunjang tenaga listrik sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0271",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0272",
+      "kind": "paragraph",
+      "text": "(1) Usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf f, huruf h, dan huruf i dikualifikasikan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0273",
+      "kind": "paragraph",
+      "text": "(2) Kualifikasi untuk usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf k diatur dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0274",
+      "kind": "body",
+      "text": "Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0275",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0276",
+      "kind": "body",
+      "text": "Sertifikasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0277",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0278",
+      "kind": "paragraph",
+      "text": "(1) Sertifikat sebagaimana dimaksud dalam Pasal 3 ayat (1) diperoleh melalui sertifikasi badan usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0279",
+      "kind": "paragraph",
+      "text": "(2) Sertifikat sebagaimana dimaksud pada ayat (1) untuk usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf a, huruf b, huruf c, huruf d, huruf e, dan huruf j diberikan oleh lembaga sertifikasi badan usaha yang terakreditasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0280",
+      "kind": "paragraph",
+      "text": "(3) Sertifikat sebagaimana dimaksud pada ayat (1) untuk usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf f, huruf g, huruf h, huruf i, dan huruf k diberikan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0281",
+      "kind": "paragraph",
+      "text": "(4) Ketentuan lebih lanjut mengenai tata cara sertifikasi badan usaha diatur dalam Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0282",
+      "kind": "part",
+      "text": "Bagian Keempat",
+      "part": "body"
+    },
+    {
+      "id": "p-0283",
+      "kind": "body",
+      "text": "Akreditasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0284",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0285",
+      "kind": "paragraph",
+      "text": "(1) Akreditasi sebagaimana dimaksud dalam Pasal 14 ayat (2) diberikan oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0286",
+      "kind": "paragraph",
+      "text": "(2) Dalam pelaksanaan akreditasi sebagaimana dimaksud pada ayat (1), Menteri dapat dibantu oleh panitia akreditasi ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0287",
+      "kind": "paragraph",
+      "text": "(3) Ketentuan lebih lanjut mengenai tata cara akreditasi diatur dalam Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0288",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0289",
+      "kind": "body",
+      "text": "Akreditasi usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 2 huruf f, huruf g, huruf h, huruf i, dan huruf k dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0290",
+      "kind": "chapter",
+      "text": "BAB III",
+      "part": "body"
+    },
+    {
+      "id": "p-0291",
+      "kind": "body",
+      "text": "IZIN USAHA JASA PENUNJANG TENAGA LISTRIK",
+      "part": "body"
+    },
+    {
+      "id": "p-0292",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0293",
+      "kind": "paragraph",
+      "text": "(1) Izin usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 3 ayat (2) diberikan sesuai dengan Klasifikasi, Kualifikasi, dan/atau sertifikat yang dimiliki badan usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0294",
+      "kind": "paragraph",
+      "text": "(2) Izin usaha jasa penunjang tenaga listrik sebagaimana dimaksud pada ayat (1) diberikan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0295",
+      "kind": "letter",
+      "text": "a. Menteri, untuk usaha jasa penunjang tenaga listrik yang dilakukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0296",
+      "kind": "number",
+      "text": "1. badan usaha milik negara; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0297",
+      "kind": "number",
+      "text": "2. badan usaha swasta yang mayoritas sahamnya dimiliki oleh penanam modal asing.",
+      "part": "body"
+    },
+    {
+      "id": "p-0298",
+      "kind": "letter",
+      "text": "b. bupati/walikota untuk badan usaha yang mayoritas sahamnya dimiliki oleh penanam modal dalam negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0299",
+      "kind": "paragraph",
+      "text": "(3) Izin usaha jasa penunjang tenaga listrik yang diberikan oleh bupati/walikota sebagaimana dimaksud pada ayat (2) huruf b, tidak termasuk untuk usaha jasa pemeriksaan dan pengujian di bidang Instalasi Pemanfaatan Tenaga Listrik tegangan rendah sebagaimana dimaksud dalam Pasal 6 ayat (5) huruf c.",
+      "part": "body"
+    },
+    {
+      "id": "p-0300",
+      "kind": "paragraph",
+      "text": "(4) Izin untuk usaha jasa pemeriksaan dan pengujian di bidang Instalasi Pemanfaatan Tenaga Listrik tegangan rendah sebagaimana dimaksud pada ayat (3) diberikan oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0301",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0302",
+      "kind": "paragraph",
+      "text": "(1) Untuk mendapatkan izin usaha jasa penunjang tenaga listrik sebagaimana dimaksud dalam Pasal 17 ayat (1), badan usaha mengajukan permohonan kepada Menteri atau bupati/walikota sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0303",
+      "kind": "paragraph",
+      "text": "(2) Permohonan sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan administratif dan persyaratan teknis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0304",
+      "kind": "paragraph",
+      "text": "(3) Persyaratan administratif sebagaimana dimaksud pada ayat (2) meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0305",
+      "kind": "letter",
+      "text": "a. identitas pemohon;",
+      "part": "body"
+    },
+    {
+      "id": "p-0306",
+      "kind": "letter",
+      "text": "b. akta pendirian badan usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0307",
+      "kind": "letter",
+      "text": "c. profil badan usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0308",
+      "kind": "letter",
+      "text": "d. Nomor Pokok Wajib Pajak; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0309",
+      "kind": "letter",
+      "text": "e. surat keterangan domisili dari instansi yang berwenang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0310",
+      "kind": "paragraph",
+      "text": "(4) Persyaratan teknis sebagaimana dimaksud pada ayat (2) meliputi kepemilikan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0311",
+      "kind": "letter",
+      "text": "a. sertifikat badan usaha sesuai dengan Klasifikasi dan kualifikasinya, kecuali untuk usaha jasa pemeriksaan dan pengujian di bidang Instalasi Pemanfaatan Tenaga Listrik tegangan rendah;",
+      "part": "body"
+    },
+    {
+      "id": "p-0312",
+      "kind": "letter",
+      "text": "b. Tenaga Teknik yang bersertifikat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0313",
+      "kind": "letter",
+      "text": "c. penanggung jawab teknik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0314",
+      "kind": "letter",
+      "text": "d. sistem manajemen mutu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0315",
+      "kind": "paragraph",
+      "text": "(5) Ketentuan lebih lanjut mengenai tata cara permohonan izin usaha jasa penunjang tenaga listrik diatur dengan Peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0316",
+      "kind": "body",
+      "text": "Menteri atau peraturan bupati/walikota sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0317",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "body"
+    },
+    {
+      "id": "p-0318",
+      "kind": "paragraph",
+      "text": "(1) Tenaga Teknik sebagaimana dimaksud dalam Pasal 18 ayat (4) huruf b wajib memiliki sertifikat kompetensi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0319",
+      "kind": "paragraph",
+      "text": "(2) Penanggung jawab teknik sebagaimana dimaksud dalam Pasal 18 ayat (4) huruf c merupakan Tenaga Teknik yang ditetapkan sebagai penanggung jawab oleh pimpinan badan usaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0320",
+      "kind": "paragraph",
+      "text": "(3) Sertifikat sebagaimana dimaksud pada ayat (1) diberikan oleh lembaga sertifikasi kompetensi kepada Tenaga Teknik yang memenuhi standar kompetensi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0321",
+      "kind": "paragraph",
+      "text": "(4) Lembaga sebagaimana dimaksud pada ayat (3) wajib diakreditasi oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0322",
+      "kind": "paragraph",
+      "text": "(5) Dalam pelaksanaan akreditasi sebagaimana dimaksud pada ayat (4), Menteri dapat dibantu oleh panitia akreditasi ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0323",
+      "kind": "paragraph",
+      "text": "(6) Standar kompetensi sebagaimana dimaksud pada ayat (3) ditetapkan oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0324",
+      "kind": "paragraph",
+      "text": "(7) Ketentuan lebih lanjut mengenai tata cara Sertifikasi Kompetensi Tenaga Teknik diatur dalam Peraturan Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0325",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "body"
+    },
+    {
+      "id": "p-0326",
+      "kind": "body",
+      "text": "Pemegang izin usaha jasa penunjang tenaga listrik wajib:",
+      "part": "body"
+    },
+    {
+      "id": "p-0327",
+      "kind": "letter",
+      "text": "a. memberikan jasa dengan mutu dan pelayanan yang baik sesuai dengan sistem manajemen mutu;",
+      "part": "body"
+    },
+    {
+      "id": "p-0328",
+      "kind": "letter",
+      "text": "b. memenuhi standar teknis dan ketentuan keselamatan ketenagalistrikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0329",
+      "kind": "letter",
+      "text": "c. mengutamakan produk dan potensi dalam negeri sesuai dengan ketentuan peraturan perundang-undangan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0330",
+      "kind": "letter",
+      "text": "d. memberikan laporan secara berkala 1 (satu) tahun sekali kepada Menteri atau bupati/walikota sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0331",
+      "kind": "chapter",
+      "text": "BAB IV",
+      "part": "body"
+    },
+    {
+      "id": "p-0332",
+      "kind": "body",
+      "text": "PEMBINAAN DAN PENGAWASAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0333",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "body"
+    },
+    {
+      "id": "p-0334",
+      "kind": "paragraph",
+      "text": "(1) Menteri atau bupati/walikota sesuai dengan kewenangannya melakukan pembinaan dan pengawasan usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0335",
+      "kind": "paragraph",
+      "text": "(2) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) dilakukan terhadap:",
+      "part": "body"
+    },
+    {
+      "id": "p-0336",
+      "kind": "letter",
+      "text": "a. pemenuhan persyaratan keteknikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0337",
+      "kind": "letter",
+      "text": "b. pengutamaan produk dan potensi dalam negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0338",
+      "kind": "letter",
+      "text": "c. penggunaan tenaga kerja asing;",
+      "part": "body"
+    },
+    {
+      "id": "p-0339",
+      "kind": "letter",
+      "text": "d. pemenuhan persyaratan kewajiban dalam izin usaha jasa penunjang tenaga listrik; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0340",
+      "kind": "letter",
+      "text": "e. pemenuhan standar mutu pelayanan sesuai dengan sistem manajemen mutu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0341",
+      "kind": "paragraph",
+      "text": "(3) Menteri atau bupati/walikota sesuai dengan kewenangannya melakukan pembinaan terhadap usaha jasa penunjang tenaga listrik dalam bentuk penyuluhan, bimbingan, dan pelatihan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0342",
+      "kind": "paragraph",
+      "text": "(4) Dalam melakukan pengawasan sebagaimana dimaksud pada ayat (1), Menteri atau bupati/walikota sesuai dengan kewenangannya dapat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0343",
+      "kind": "letter",
+      "text": "a. melakukan pemeriksaan di lapangan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0344",
+      "kind": "letter",
+      "text": "b. meminta laporan pelaksanaan usaha jasa penunjang tenaga listrik sesuai dengan bidang dan subbidang usahanya; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0345",
+      "kind": "letter",
+      "text": "c. melakukan analisis dan evaluasi atas laporan pelaksanaan usaha di bidang usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0346",
+      "kind": "paragraph",
+      "text": "(5) Dalam melaksanakan pengawasan terhadap pemenuhan persyaratan keteknikan sebagaimana dimaksud pada ayat (2) huruf a, Menteri atau bupati/walikota sesuai dengan kewenangannya dibantu oleh inspektur ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0347",
+      "kind": "paragraph",
+      "text": "(6) Dalam hal pada kabupaten/kota belum terdapat inspektur ketenagalistrikan sebagaimana dimaksud pada ayat (5), bupati/walikota dapat menunjuk pejabat yang bertanggung jawab di bidang ketenagalistrikan untuk melakukan pengawasan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0348",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "body"
+    },
+    {
+      "id": "p-0349",
+      "kind": "body",
+      "text": "Menteri menetapkan norma, standar, prosedur dan kriteria di bidang usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0350",
+      "kind": "chapter",
+      "text": "BAB V",
+      "part": "body"
+    },
+    {
+      "id": "p-0351",
+      "kind": "body",
+      "text": "SANKSI ADMINISTRATIF",
+      "part": "body"
+    },
+    {
+      "id": "p-0352",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "body"
+    },
+    {
+      "id": "p-0353",
+      "kind": "paragraph",
+      "text": "(1) Setiap pemegang izin usaha jasa penunjang tenaga listrik yang melanggar ketentuan dalam Pasal 19 ayat (1) atau ayat (2), Pasal 20 huruf a, huruf b, huruf c, atau huruf d, dikenai sanksi administratif oleh Menteri atau bupati/walikota sesuai dengan kewenangannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0354",
+      "kind": "paragraph",
+      "text": "(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0355",
+      "kind": "letter",
+      "text": "a. teguran tertulis;",
+      "part": "body"
+    },
+    {
+      "id": "p-0356",
+      "kind": "letter",
+      "text": "b. pembekuan kegiatan sementara; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0357",
+      "kind": "letter",
+      "text": "c. pencabutan izin usaha jasa penunjang tenaga listrik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0358",
+      "kind": "paragraph",
+      "text": "(3) Teguran tertulis sebagaimana dimaksud pada ayat (2) huruf a diberikan paling banyak 3 (tiga) kali.",
+      "part": "body"
+    },
+    {
+      "id": "p-0359",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal tertentu teguran tertulis sebagaimana dimaksud pada ayat (3) dapat dilakukan hanya 1 (satu) kali apabila kegiatan usaha jasa penunjang tenaga listrik yang dilakukan membahayakan keselamatan ketenagalistrikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0360",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal pemegang izin usaha jasa penunjang tenaga listrik yang dikenai sanksi teguran tertulis setelah berakhirnya jangka waktu teguran tertulis sebagaimana dimaksud pada ayat (3) atau ayat (4) belum melaksanakan kewajibannya, Menteri atau bupati/walikota sesuai dengan kewenangannya memberikan sanksi administratif berupa pembekuan kegiatan sementara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0361",
+      "kind": "paragraph",
+      "text": "(6) Sanksi administratif berupa pembekuan kegiatan sementara sebagaimana dimaksud pada ayat (5) dikenakan untuk jangka waktu paling lama 3 (tiga) bulan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0362",
+      "kind": "paragraph",
+      "text": "(7) Sanksi administratif berupa pencabutan izin sebagaimana dimaksud pada ayat (2) huruf c dikenai kepada pemegang izin usaha jasa penunjang tenaga listrik yang tidak melaksanakan kewajiban sampai dengan berakhirnya jangka waktu pengenaan sanksi pembekuan kegiatan sementara sebagaimana dimaksud pada ayat (6).",
+      "part": "body"
+    },
+    {
+      "id": "p-0363",
+      "kind": "paragraph",
+      "text": "(8) Pencabutan izin sebagaimana dimaksud pada ayat (7) tidak menghapus kewajiban pemegang izin usaha jasa penunjang tenaga listrik kepada pihak ketiga.",
+      "part": "body"
+    },
+    {
+      "id": "p-0364",
+      "kind": "chapter",
+      "text": "BAB VI",
+      "part": "body"
+    },
+    {
+      "id": "p-0365",
+      "kind": "body",
+      "text": "KETENTUAN PERALIHAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0366",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "body"
+    },
+    {
+      "id": "p-0367",
+      "kind": "paragraph",
+      "text": "(1) Izin Usaha Jasa Penunjang Tenaga Listrik dan Sertifikat yang telah diberikan sebelum Peraturan Pemerintah ini diundangkan, tetap berlaku sampai berakhirnya jangka waktu izin Usaha Jasa Penunjang Tenaga Listrik dan Sertifikat.",
+      "part": "body"
+    },
+    {
+      "id": "p-0368",
+      "kind": "paragraph",
+      "text": "(2) Permohonan Izin Usaha Jasa Penunjang Tenaga Listrik yang telah diajukan kepada Menteri atau bupati/walikota dan masih dalam proses, wajib menyesuaikan dengan ketentuan dalam Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0369",
+      "kind": "chapter",
+      "text": "BAB VII",
+      "part": "body"
+    },
+    {
+      "id": "p-0370",
+      "kind": "body",
+      "text": "KETENTUAN PENUTUP",
+      "part": "body"
+    },
+    {
+      "id": "p-0371",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "body"
+    },
+    {
+      "id": "p-0372",
+      "kind": "body",
+      "text": "Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan pelaksanaan dari Peraturan Pemerintah Nomor 25 Tahun 1995 tentang Usaha Penunjang Tenaga Listrik (Lembaran Negara Tahun 1995 Nomor 46, Tambahan",
+      "part": "body"
+    },
+    {
+      "id": "p-0373",
+      "kind": "closing",
+      "text": "Lembaran Negara Nomor 3603), dinyatakan",
+      "part": "body"
+    },
+    {
+      "id": "p-0374",
+      "kind": "body",
+      "text": "tetap berlaku sepanjang tidak bertentangan dengan Peraturan Pemerintah ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0375",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "body"
+    },
+    {
+      "id": "p-0376",
+      "kind": "body",
+      "text": "Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 25 Tahun 1995 tentang Usaha Penunjang Tenaga Listrik (Lembaran Negara Tahun",
+      "part": "body"
+    },
+    {
+      "id": "p-0377",
+      "kind": "body",
+      "text": "1995 Nomor 46, Tambahan Lembaran Negara Nomor 3603), dicabut dan dinyatakan tidak berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0378",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "body"
+    },
+    {
+      "id": "p-0379",
+      "kind": "body",
+      "text": "Peraturan Pemerintah ini mulai berlaku pada tanggal",
+      "part": "body"
+    },
+    {
+      "id": "p-0380",
+      "kind": "body",
+      "text": "diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0381",
+      "kind": "body",
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0382",
+      "kind": "body",
+      "text": "Ditetapkan di Jakarta pada tanggal 6 Juli 2012",
+      "part": "body"
+    },
+    {
+      "id": "p-0383",
+      "kind": "body",
+      "text": "PRESIDEN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0384",
+      "kind": "body",
+      "text": "ttd.",
+      "part": "body"
+    },
+    {
+      "id": "p-0385",
+      "kind": "body",
+      "text": "DR. H. SUSILO BAMBANG YUDHOYONO",
+      "part": "body"
+    },
+    {
+      "id": "p-0386",
+      "kind": "closing",
+      "text": "Diundangkan di Jakarta pada tanggal 6 Juli 2012",
+      "part": "body"
+    },
+    {
+      "id": "p-0387",
+      "kind": "body",
+      "text": "MENTERI HUKUM DAN HAK ASASI MANUSIA",
+      "part": "body"
+    },
+    {
+      "id": "p-0388",
+      "kind": "body",
+      "text": ",",
+      "part": "body"
+    },
+    {
+      "id": "p-0389",
+      "kind": "body",
+      "text": "ttd.",
+      "part": "body"
+    },
+    {
+      "id": "p-0390",
+      "kind": "body",
+      "text": "AMIR SYAMSUDIN",
+      "part": "body"
+    },
+    {
+      "id": "p-0391",
+      "kind": "closing",
+      "text": "LEMBARAN NEGARA TAHUN 2012 NOMOR 141",
+      "part": "body"
+    },
+    {
+      "id": "p-0392",
+      "kind": "explanation_heading",
+      "text": "PENJELASAN",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0393",
+      "kind": "explanation_heading",
+      "text": "ATAS",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0394",
+      "kind": "explanation_body",
+      "text": "PERATURAN PEMERINTAH",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0395",
+      "kind": "explanation_body",
+      "text": "NOMOR 62 TAHUN 2012",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0396",
+      "kind": "explanation_body",
+      "text": "TENTANG",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0397",
+      "kind": "explanation_body",
+      "text": "USAHA JASA PENUNJANG TENAGA LISTRIK",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0398",
+      "kind": "explanation_heading",
+      "text": "I. UMUM",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0399",
+      "kind": "explanation_body",
+      "text": "Usaha jasa penunjang tenaga listrik berperan penting dalam menunjang kegiatan usaha penyediaan tenaga listrik untuk mewujudkan penyediaan tenaga listrik yang andal, aman, dan ramah lingkungan. Untuk mewujudkan usaha jasa penunjang tenaga listrik yang mampu memberikan pelayanan yang profesional, perlu dilakukan pengaturan terhadap usaha jasa penunjang tenaga listrik. Usaha jasa penunjang tenaga listrik antara lain, konsultansi, pembangunan dan pemasangan, pemeriksaan dan pengujian, pengoperasian dan pemeliharaan instalasi tenaga listrik. Usaha jasa penunjang tenaga listrik harus dilakukan oleh badan usaha.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0400",
+      "kind": "explanation_body",
+      "text": "Peraturan Pemerintah ini mengatur ketentuan mengenai Klasifikasi,",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0401",
+      "kind": "explanation_body",
+      "text": "Kualifikasi, dan sertifikasi, izin, pembinaan dan pengawasan usaha jasa penunjang tenaga listrik, serta sanksi administratif. Peraturan Pemerintah ini juga mengatur bahwa instalasi tenaga listrik dikerjakan oleh Tenaga Teknik yang memiliki kompetensi.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0402",
+      "kind": "explanation_heading",
+      "text": "II. PASAL DEMI PASAL",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0403",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0404",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0405",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0406",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0407",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0408",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0409",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0410",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0411",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0412",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0413",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0414",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0415",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0416",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0417",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0418",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0419",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0420",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pembangkit listrik tenaga gas-uap\" adalah combine cycle.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0421",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0422",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0423",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0424",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0425",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0426",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tenaga air skala kecil\" adalah mini, mikro, dan pico.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0427",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0428",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0429",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0430",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0431",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0432",
+      "kind": "explanation_body",
+      "text": "Jenis tenaga energi baru lainnya dan tenaga energi terbarukan lainnya antara lain, pembangkit listrik tenaga bayu (PLTB), pembangkit listrik tenaga biomas (PLTBM), pembangkit listrik tenaga surya (PLTS), energi laut, dan hidrogen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0433",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0434",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0435",
+      "kind": "explanation_body",
+      "text": "Jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi dalam ketentuan ini meliputi saluran udara, saluran bawah tanah dan saluran bawah air, dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0436",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0437",
+      "kind": "explanation_body",
+      "text": "Gardu induk dalam ketentuan ini termasuk peralatan konverter dan inverter untuk instalasi arus searah dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0438",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0439",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0440",
+      "kind": "explanation_body",
+      "text": "Jaringan distribusi tenaga listrik tegangan menengah dalam ketentuan ini termasuk gardu distribusi dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0441",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0442",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0443",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0444",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0445",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0446",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0447",
+      "kind": "explanation_body",
+      "text": "Usaha jasa pembangunan dan pemasangan Instalasi Penyediaan Tenaga Listrik termasuk proteksi terhadap petir.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0448",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0449",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0450",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0451",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0452",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0453",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0454",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pembangkit listrik tenaga gas-uap\" adalah combine cycle.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0455",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0456",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0457",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0458",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0459",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0460",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tenaga air skala kecil\" adalah mini, mikro, dan pico.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0461",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0462",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0463",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0464",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0465",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0466",
+      "kind": "explanation_body",
+      "text": "Jenis tenaga energi baru lainnya dan tenaga energi terbarukan lainnya antara lain, pembangkit listrik tenaga bayu (PLTB), pembangkit listrik tenaga biomas (PLTBM), pembangkit listrik tenaga surya (PLTS), energi laut, dan hidrogen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0467",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0468",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0469",
+      "kind": "explanation_body",
+      "text": "Jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi dalam ketentuan ini meliputi saluran udara, saluran bawah tanah dan saluran bawah air, dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0470",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0471",
+      "kind": "explanation_body",
+      "text": "Gardu induk dalam ketentuan ini termasuk peralatan konverter dan inverter untuk instalasi arus searah dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0472",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0473",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0474",
+      "kind": "explanation_body",
+      "text": "Jaringan distribusi tenaga listrik tegangan menengah dalam ketentuan ini termasuk gardu distribusi dan peralatan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0475",
+      "kind": "explanation_body",
+      "text": "SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0476",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0477",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0478",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0479",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0480",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0481",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0482",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0483",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0484",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0485",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0486",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0487",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0488",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0489",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0490",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0491",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pembangkit listrik tenaga gas-uap\" adalah combine cycle.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0492",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0493",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0494",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0495",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0496",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0497",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tenaga air skala kecil\" adalah mini, mikro, dan pico.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0498",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0499",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0500",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0501",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0502",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0503",
+      "kind": "explanation_body",
+      "text": "Jenis tenaga energi baru lainnya dan tenaga energi terbarukan lainnya antara lain, pembangkit listrik tenaga bayu (PLTB), pembangkit listrik tenaga biomas (PLTBM), pembangkit listrik tenaga surya (PLTS), energi laut, dan hidrogen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0504",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0505",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0506",
+      "kind": "explanation_body",
+      "text": "Jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi dalam ketentuan ini meliputi saluran udara, saluran bawah tanah dan saluran bawah air, dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0507",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0508",
+      "kind": "explanation_body",
+      "text": "Gardu induk dalam ketentuan ini termasuk peralatan konverter dan inverter untuk instalasi arus searah dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0509",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0510",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0511",
+      "kind": "explanation_body",
+      "text": "Jaringan distribusi tenaga listrik tegangan menengah dalam ketentuan ini termasuk gardu distribusi dan peralatan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0512",
+      "kind": "explanation_body",
+      "text": "SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0513",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0514",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0515",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0516",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0517",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0518",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0519",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0520",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0521",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0522",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0523",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0524",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0525",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0526",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pembangkit listrik tenaga gas-uap\" adalah combine cycle.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0527",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0528",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0529",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0530",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0531",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0532",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tenaga air skala kecil\" adalah mini, mikro, dan pico.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0533",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0534",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0535",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0536",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0537",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0538",
+      "kind": "explanation_body",
+      "text": "Jenis tenaga energi baru lainnya dan tenaga energi terbarukan lainnya antara lain, pembangkit listrik tenaga bayu (PLTB), pembangkit listrik tenaga biomas (PLTBM), pembangkit listrik tenaga surya (PLTS), energi laut, dan hidrogen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0539",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0540",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0541",
+      "kind": "explanation_body",
+      "text": "Jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi dalam ketentuan ini meliputi saluran udara, saluran bawah tanah dan saluran bawah air, dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0542",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0543",
+      "kind": "explanation_body",
+      "text": "Gardu induk dalam ketentuan ini termasuk peralatan konverter dan inverter untuk instalasi arus searah dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0544",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0545",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0546",
+      "kind": "explanation_body",
+      "text": "Jaringan distribusi tenaga listrik tegangan menengah dalam ketentuan ini termasuk gardu distribusi dan peralatan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0547",
+      "kind": "explanation_body",
+      "text": "SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0548",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0549",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0550",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0551",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0552",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0553",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0554",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0555",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0556",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0557",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0558",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0559",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pembangkit listrik tenaga gas-uap\" adalah combine cycle.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0560",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0561",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0562",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0563",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0564",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0565",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tenaga air skala kecil\" adalah mini, mikro, dan pico.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0566",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0567",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0568",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0569",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0570",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0571",
+      "kind": "explanation_body",
+      "text": "Jenis tenaga energi baru lainnya dan tenaga energi terbarukan lainnya antara lain, pembangkit listrik tenaga bayu (PLTB), pembangkit listrik tenaga biomas (PLTBM), pembangkit listrik tenaga surya (PLTS), energi laut, dan hidrogen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0572",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0573",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0574",
+      "kind": "explanation_body",
+      "text": "Jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi dalam ketentuan ini meliputi saluran udara, saluran bawah tanah dan saluran bawah air, dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0575",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0576",
+      "kind": "explanation_body",
+      "text": "Gardu induk dalam ketentuan ini termasuk peralatan konverter dan inverter untuk instalasi arus searah dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0577",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0578",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0579",
+      "kind": "explanation_body",
+      "text": "Jaringan distribusi tenaga listrik tegangan menengah dalam ketentuan ini termasuk gardu distribusi dan peralatan",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0580",
+      "kind": "explanation_body",
+      "text": "SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0581",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0582",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0583",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0584",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0585",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0586",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0587",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0588",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0589",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0590",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0591",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0592",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"pembangkit listrik tenaga gas-uap\" adalah combine cycle.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0593",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0594",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0595",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0596",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0597",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0598",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tenaga air skala kecil\" adalah mini, mikro, dan pico.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0599",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0600",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0601",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0602",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0603",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0604",
+      "kind": "explanation_body",
+      "text": "Jenis tenaga energi baru lainnya dan tenaga energi terbarukan lainnya antara lain, pembangkit listrik tenaga bayu (PLTB), pembangkit listrik tenaga biomas (PLTBM), pembangkit listrik tenaga surya (PLTS), energi laut, dan hidrogen.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0605",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0606",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0607",
+      "kind": "explanation_body",
+      "text": "Jaringan transmisi tenaga listrik tegangan tinggi dan/atau tegangan ekstra tinggi dalam ketentuan ini meliputi saluran udara, saluran bawah tanah dan saluran bawah air, dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0608",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0609",
+      "kind": "explanation_body",
+      "text": "Gardu induk dalam ketentuan ini termasuk peralatan konverter dan inverter untuk instalasi arus searah dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0610",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0611",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0612",
+      "kind": "explanation_body",
+      "text": "Jaringan distribusi tegangan menengah dalam ketentuan ini termasuk gardu distribusi dan peralatan SCADA.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0613",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0614",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0615",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0616",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0617",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0618",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0619",
+      "kind": "explanation_item",
+      "text": "Ayat (7)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0620",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0621",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0622",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0623",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0624",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0625",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0626",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"konsultansi\" meliputi usaha jasa perencanaan dan/atau pengawasan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0627",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0628",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0629",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0630",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0631",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0632",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0633",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0634",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0635",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0636",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0637",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0638",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0639",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0640",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0641",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0642",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0643",
+      "kind": "explanation_item",
+      "text": "Huruf j",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0644",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0645",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0646",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0647",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"konsultansi\" meliputi usaha jasa perencanaan dan/atau pengawasan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0648",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0649",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0650",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0651",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0652",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0653",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0654",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0655",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0656",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0657",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0658",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0659",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0660",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0661",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0662",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0663",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0664",
+      "kind": "explanation_item",
+      "text": "Huruf j",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0665",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0666",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0667",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0668",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"konsultansi\" meliputi usaha jasa perencanaan dan/atau pengawasan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0669",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0670",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0671",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0672",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0673",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0674",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0675",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0676",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0677",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0678",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0679",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0680",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0681",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0682",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0683",
+      "kind": "explanation_item",
+      "text": "Huruf i",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0684",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0685",
+      "kind": "explanation_item",
+      "text": "Huruf j",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0686",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0687",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0688",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0689",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud \"konsultansi\" meliputi usaha jasa perencanaan dan/atau pengawasan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0690",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0691",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0692",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0693",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0694",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0695",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0696",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0697",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0698",
+      "kind": "explanation_item",
+      "text": "Huruf f",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0699",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0700",
+      "kind": "explanation_item",
+      "text": "Huruf g",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0701",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0702",
+      "kind": "explanation_item",
+      "text": "Huruf h",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0703",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0704",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0705",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0706",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0707",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0708",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0709",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0710",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0711",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"tingkat kemampuan usaha\" antara lain, penilaian mengenai keuangan, personalia, dan persyaratan teknis tertentu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0712",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0713",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0714",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0715",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0716",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0717",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0718",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0719",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0720",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0721",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0722",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0723",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0724",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0725",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0726",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0727",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0728",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0729",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mayoritas sahamnya dimiliki oleh penanam modal asing\" adalah saham yang dimiliki pada saat pengajuan permohonan dan perpanjangan Izin usaha jasa penunjang tenaga listrik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0730",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0731",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"mayoritas sahamnya dimiliki oleh penanam modal dalam negeri\" adalah saham yang mayoritasnya dimiliki oleh penanam modal dalam negeri pada saat pengajuan permohonan dan perpanjangan izin usaha jasa penunjang tenaga listrik.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0732",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0733",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0734",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0735",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0736",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0737",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0738",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0739",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0740",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0741",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0742",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0743",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0744",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0745",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0746",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0747",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0748",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0749",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0750",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0751",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"sistem manajemen mutu\" adalah kesatuan dari kebijakan, prosedur, manual, struktur organisasi, dan aturan lain untuk mengatur aktivitas terkait dengan mutu.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0752",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0753",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0754",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0755",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0756",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"Tenaga Teknik\" termasuk asesor ketenagalistrikan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0757",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0758",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0759",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0760",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0761",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0762",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0763",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0764",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0765",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0766",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0767",
+      "kind": "explanation_item",
+      "text": "Ayat (7)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0768",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0769",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0770",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0771",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0772",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0773",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0774",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0775",
+      "kind": "explanation_body",
+      "text": "Yang dimaksud dengan \"produk\" meliputi barang dan jasa.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0776",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0777",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0778",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0779",
+      "kind": "explanation_item",
+      "text": "Ayat (1)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0780",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0781",
+      "kind": "explanation_item",
+      "text": "Ayat (2)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0782",
+      "kind": "explanation_item",
+      "text": "Huruf a",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0783",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0784",
+      "kind": "explanation_item",
+      "text": "Huruf b",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0785",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0786",
+      "kind": "explanation_item",
+      "text": "Huruf c",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0787",
+      "kind": "explanation_body",
+      "text": "Dalam melakukan pembinaan dan pengawasan terhadap penggunaan tenaga kerja asing, dilakukan berkoordinasi dengan instansi yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0788",
+      "kind": "explanation_item",
+      "text": "Huruf d",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0789",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0790",
+      "kind": "explanation_item",
+      "text": "Huruf e",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0791",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0792",
+      "kind": "explanation_item",
+      "text": "Ayat (3)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0793",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0794",
+      "kind": "explanation_item",
+      "text": "Ayat (4)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0795",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0796",
+      "kind": "explanation_item",
+      "text": "Ayat (5)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0797",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0798",
+      "kind": "explanation_item",
+      "text": "Ayat (6)",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0799",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0800",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0801",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0802",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0803",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0804",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0805",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0806",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0807",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0808",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0809",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0810",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0811",
+      "kind": "explanation_body",
+      "text": "Cukup jelas.",
+      "part": "explanation"
+    },
+    {
+      "id": "p-0812",
+      "kind": "closing",
+      "text": "TAMBAHAN LEMBARAN NEGARA NOMOR 5326",
+      "part": "explanation"
+    }
+  ]
+}
