@@ -1,6 +1,7 @@
 ---
 import "../../styles/global.css";
-import { articleAnchors, displayTitle, regulations, type LegalParagraph, type RegulationPayload } from "../../lib/regulations";
+import SiteHeader from "../../components/SiteHeader.astro";
+import { articleAnchors, displayTitle, regulations, regulationStatus, type LegalParagraph, type RegulationPayload } from "../../lib/regulations";
 
 export function getStaticPaths() {
   return regulations.map((regulation) => ({
@@ -20,6 +21,7 @@ const shortTitle = `${regulation.metadata.document_type} ${regulation.metadata.n
 const isReversePromptResult = regulation.metadata.slug !== "uu-nomor-30-tahun-2009";
 const topicTags = tagsFor(regulation);
 const qualityTags = qualityLabels(regulation);
+const status = regulationStatus(regulation);
 
 function tagsFor(payload: RegulationPayload): string[] {
   const typeLabels: Record<string, string> = {
@@ -67,16 +69,7 @@ function splitListLabel(paragraph: LegalParagraph): { label: string; body: strin
     <title>{title}</title>
   </head>
   <body>
-    <header class="site-header">
-      <a class="brand" href="/">
-        <strong>Website Peraturan</strong>
-        <span>Energi Indonesia</span>
-      </a>
-      <nav class="nav-links" aria-label="Navigasi utama">
-        <a href="/">Pencarian</a>
-        <a href="/prototype/reverse-prompt/">QA Pipeline</a>
-      </nav>
-    </header>
+    <SiteHeader />
 
     <main class="page-shell">
       <section class="detail-hero" aria-labelledby="document-title">
@@ -89,7 +82,7 @@ function splitListLabel(paragraph: LegalParagraph): { label: string; body: strin
         </nav>
         <div class="badge-row">
           <span class="badge">{regulation.metadata.document_type}</span>
-          <span class="badge badge-status">Berlaku</span>
+          <span class="badge badge-status">{status}</span>
           <span class="badge">{isReversePromptResult ? "Hasil Reverse Prompt" : "Konten Utama"}</span>
         </div>
         <h1 id="document-title">{shortTitle}</h1>
@@ -97,7 +90,7 @@ function splitListLabel(paragraph: LegalParagraph): { label: string; body: strin
         <dl class="metadata-grid">
           <div>
             <dt>Status</dt>
-            <dd>Berlaku</dd>
+            <dd>{status}</dd>
           </div>
           <div>
             <dt>Tahun</dt>

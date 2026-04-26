@@ -38,6 +38,7 @@ export type RegulationPayload = {
     year: string;
     title: string;
     slug: string;
+    status?: string;
     extraction_method?: string;
     pdf_info: Record<string, string>;
     generated_at: string;
@@ -60,6 +61,21 @@ export type RegulationPayload = {
     quality_flags: string[];
   };
   paragraphs: LegalParagraph[];
+};
+
+export type RegulationSearchRow = {
+  slug: string;
+  title: string;
+  searchTitle: string;
+  documentType: string;
+  documentTypeAlias: string;
+  number: string;
+  year: string;
+  id: string;
+  kind: string;
+  label: string;
+  part: string;
+  text: string;
 };
 
 export const regulations = [
@@ -88,6 +104,100 @@ export const regulations = [
   perpres12_2021 as RegulationPayload
 ];
 export const conversionReports = [uu20 as RegulationPayload];
+
+export type RegulationCollectionRow = {
+  slug: string;
+  title: string;
+  shortTitle: string;
+  description: string;
+  type: string;
+  typeAlias: string;
+  year: string;
+  status: string;
+  sortYear: number;
+  generatedAt: string;
+};
+
+export const typeSearchAliases: Record<string, string> = {
+  UU: "Undang-Undang",
+  PP: "Peraturan Pemerintah",
+  PERPRES: "Peraturan Presiden",
+  "PERMEN ESDM": "Peraturan Menteri ESDM",
+  "PERMEN LHK": "Peraturan Menteri LHK",
+  PERMENPERIN: "Peraturan Menteri Perindustrian",
+  PERMEN: "Peraturan Menteri"
+};
+
+export function documentTypeAlias(documentType: string): string {
+  return typeSearchAliases[documentType] ?? documentType;
+}
+
+export function shortTitle(payload: RegulationPayload): string {
+  return `${payload.metadata.document_type} ${payload.metadata.number}/${payload.metadata.year}`;
+}
+
+export function regulationStatus(payload: RegulationPayload): string {
+  return payload.metadata.status || "Berlaku";
+}
+
+export function collectionRow(payload: RegulationPayload): RegulationCollectionRow {
+  return {
+    slug: payload.metadata.slug,
+    title: displayTitle(payload),
+    shortTitle: shortTitle(payload),
+    description: toTitleCase(payload.metadata.title),
+    type: payload.metadata.document_type,
+    typeAlias: documentTypeAlias(payload.metadata.document_type),
+    year: payload.metadata.year,
+    status: regulationStatus(payload),
+    sortYear: Number(payload.metadata.year) || 0,
+    generatedAt: payload.metadata.generated_at || ""
+  };
+}
+
+export function newestPublishedRegulations(): RegulationPayload[] {
+  return [...regulations].sort((a, b) => {
+    const yearDiff = (Number(b.metadata.year) || 0) - (Number(a.metadata.year) || 0);
+    if (yearDiff !== 0) return yearDiff;
+    return String(b.metadata.generated_at || "").localeCompare(String(a.metadata.generated_at || ""));
+  });
+}
+
+export function latestAddedRegulations(): RegulationPayload[] {
+  return [...regulations].sort((a, b) => {
+    const generatedDiff = String(b.metadata.generated_at || "").localeCompare(String(a.metadata.generated_at || ""));
+    if (generatedDiff !== 0) return generatedDiff;
+    return (Number(b.metadata.year) || 0) - (Number(a.metadata.year) || 0);
+  });
+}
+
+export function collectionRowsByNewestYear(): RegulationCollectionRow[] {
+  return newestPublishedRegulations().map(collectionRow);
+}
+
+export function regulationSearchRows(): RegulationSearchRow[] {
+  return regulations.flatMap((item) => {
+    const title = displayTitle(item);
+    const alias = documentTypeAlias(item.metadata.document_type);
+    const expandedTitle = title.startsWith(item.metadata.document_type)
+      ? `${alias}${title.slice(item.metadata.document_type.length)}`
+      : title;
+    return item.paragraphs.map((paragraph) => ({
+      slug: item.metadata.slug,
+      title,
+      searchTitle: `${title} ${expandedTitle} ${alias}`,
+      documentType: item.metadata.document_type,
+      documentTypeAlias: alias,
+      number: item.metadata.number,
+      year: item.metadata.year,
+      id: paragraph.id,
+      kind: paragraph.kind,
+      label: kindLabel(paragraph.kind),
+      part: paragraph.part,
+      text: paragraph.text
+    }));
+  });
+}
 
 export function displayTitle(payload: RegulationPayload): string {
   const meta = payload.metadata;

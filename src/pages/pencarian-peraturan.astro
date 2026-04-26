@@ -1,15 +1,21 @@
 ---
 import "../styles/global.css";
 import SiteHeader from "../components/SiteHeader.astro";
-import { latestAddedRegulations, regulations, regulationSearchRows, shortTitle, toTitleCase } from "../lib/regulations";
+import { documentTypeAlias, regulations, regulationSearchRows } from "../lib/regulations";
 
-const title = "Website Peraturan Energi";
+const title = "Pencarian Peraturan";
 const searchRows = regulationSearchRows();
-const activeRegulationCount = regulations.length;
-const regulationTypeCount = new Set(regulations.map((item) => item.metadata.document_type)).size;
-const years = regulations.map((item) => Number(item.metadata.year)).filter(Number.isFinite);
-const yearRange = `${Math.min(...years)}-${Math.max(...years)}`;
-const latestRegulations = latestAddedRegulations().slice(0, 3);
+const documentTypes = [...new Set(regulations.map((item) => item.metadata.document_type))].sort();
+const popularQueries = [
+  "ketenagalistrikan",
+  "perizinan berusaha",
+  "standardisasi",
+  "pengadaan barang",
+  "limbah B3",
+  "kendaraan listrik",
+  "pemberantasan korupsi",
+  "SNI bus bar"
+];
 ---
 
 <!doctype html>
@@ -17,68 +23,59 @@ const latestRegulations = latestAddedRegulations().slice(0, 3);
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Prototipe website full-text peraturan energi Indonesia." />
-    <title>{title}</title>
+    <meta name="description" content="Pencarian full-text peraturan energi dan peraturan pendukung yang sudah live." />
+    <title>{title} | Website Peraturan Energi</title>
   </head>
   <body>
     <SiteHeader />
 
-    <main>
-      <section class="home-hero" aria-labelledby="page-title">
-        <div class="home-hero-inner">
-          <p class="eyebrow">Arsip Digital Peraturan Energi</p>
-          <h1 id="page-title">Website Peraturan Energi Indonesia</h1>
-          <p class="home-lede">
-            Pencarian full-text ke dalam judul, pasal, batang tubuh, dan penjelasan peraturan
-            energi. Dibangun sebagai arsip digital yang cepat dibaca dan mudah ditelusuri.
-          </p>
+    <main class="page-shell public-page">
+      <section class="public-hero" aria-labelledby="search-title">
+        <p class="eyebrow">Pencarian Peraturan</p>
+        <h1 id="search-title">Cari kata kunci sampai ke isi peraturan.</h1>
+        <p class="lede">
+          Masukkan kata, frasa, nomor, tahun, atau topik hukum untuk menelusuri judul,
+          batang tubuh, dan penjelasan peraturan yang sudah tersedia di website ini.
+        </p>
+      </section>
 
-          <section id="pencarian" class="home-search" aria-label="Pencarian peraturan">
-            <form class="search-form" id="site-search-form">
-              <label class="sr-only" for="site-search">Cari peraturan</label>
+      <section class="search-workspace" aria-label="Pencarian peraturan">
+        <div class="search-main panel">
+          <form class="search-form search-form-stacked" id="site-search-form">
+            <label for="site-search">Cari peraturan</label>
+            <div class="search-action-row">
               <input
                 id="site-search"
                 type="search"
                 autocomplete="off"
-                placeholder="Cari contoh: tarif listrik"
+                placeholder="Contoh: tarif listrik, PP 28 2025, limbah B3"
               />
               <button type="submit">Cari</button>
-            </form>
-            <div id="search-summary" class="search-summary" aria-live="polite"></div>
-            <div id="search-results" class="search-results is-hidden"></div>
-          </section>
+            </div>
+          </form>
+          <div class="quick-query-group" aria-label="Pencarian populer">
+            <p class="eyebrow">Pencarian Populer</p>
+            <div class="quick-pills">
+              {popularQueries.map((query) => <button class="filter-chip" type="button" data-query={query}>{query}</button>)}
+            </div>
+          </div>
+          <div id="search-summary" class="search-summary" aria-live="polite"></div>
+          <div id="search-results" class="search-results is-hidden"></div>
         </div>
 
-        <div class="home-preview-strip latest-preview-strip" aria-label="Peraturan terbaru yang ditambahkan">
-          {
-            latestRegulations.map((item, index) => (
-              <a class={`preview-card ${index === 1 ? "preview-card-tall" : ""}`} href={`/peraturan/${item.metadata.slug}/`}>
-                <span>Peraturan Terbaru Yang Ditambahkan</span>
-                <strong>{shortTitle(item)}</strong>
-                <em>{toTitleCase(item.metadata.title)}</em>
-              </a>
-            ))
-          }
-        </div>
-      </section>
-
-      <section class="home-stats" aria-label="Statistik koleksi">
-        <div>
-          <strong>{regulations.length}</strong>
-          <span>Total Peraturan</span>
-        </div>
-        <div>
-          <strong>{activeRegulationCount}</strong>
-          <span>Peraturan Berlaku</span>
-        </div>
-        <div>
-          <strong>{regulationTypeCount}</strong>
-          <span>Jenis Peraturan</span>
-        </div>
-        <div>
-          <strong>{yearRange}</strong>
-          <span>Rentang Tahun</span>
-        </div>
+        <aside class="panel guide-panel" aria-labelledby="search-guide-title">
+          <p class="eyebrow">Jelajahi Berdasarkan Jenis</p>
+          <div class="quick-pills type-pills">
+            {documentTypes.map((type) => <button class="filter-chip" type="button" data-query={documentTypeAlias(type)}>{type}</button>)}
+          </div>
+          <h2 id="search-guide-title">Tips Pencarian</h2>
+          <ul class="plain-list">
+            <li>Gunakan kata tunggal untuk topik umum, misalnya <strong>standardisasi</strong>.</li>
+            <li>Gunakan frasa untuk konteks yang lebih spesifik, misalnya <strong>perizinan berusaha</strong>.</li>
+            <li>Gunakan nomor dan tahun untuk menemukan dokumen tertentu, misalnya <strong>PP 28 2025</strong>.</li>
+            <li>Gunakan istilah bidang usaha untuk melihat keterkaitan lintas peraturan.</li>
+          </ul>
+        </aside>
       </section>
     </main>
 
@@ -104,6 +101,7 @@ const latestRegulations = latestAddedRegulations().slice(0, 3);
       const form = document.getElementById("site-search-form") as HTMLFormElement | null;
       const results = document.getElementById("search-results");
       const summary = document.getElementById("search-summary");
+      const queryButtons = Array.from(document.querySelectorAll("[data-query]")) as HTMLButtonElement[];
 
       type SearchGroup = {
         slug: string;
@@ -228,7 +226,8 @@ const latestRegulations = latestAddedRegulations().slice(0, 3);
       }
 
       function runSearch() {
-        const query = normalizeSearchValue(String(input?.value || ""));
+        const rawQuery = String(input?.value || "");
+        const query = normalizeSearchValue(rawQuery);
         if (query.length < 2) {
           if (results && summary) {
             results.replaceChildren();
@@ -267,7 +266,7 @@ const latestRegulations = latestAddedRegulations().slice(0, 3);
             return { item, score, index };
           })
           .filter((entry): entry is { item: SearchRow; score: number; index: number } => entry !== null)
-          .sort((a, b) => b.score - a.score || a.index - b.index);
+          .sort((a, b) => b.score - a.score || a.index - b.index)
         const grouped = new Map<string, SearchGroup>();
         for (const match of matches) {
           const current = grouped.get(match.item.slug);
@@ -288,7 +287,7 @@ const latestRegulations = latestAddedRegulations().slice(0, 3);
           }
         }
         const groups = [...grouped.values()].sort((a, b) => b.score - a.score || a.index - b.index);
-        renderGroups(groups, matches.length, queryTerms, String(input?.value || ""));
+        renderGroups(groups, matches.length, queryTerms, rawQuery);
       }
 
       form?.addEventListener("submit", (event) => {
@@ -296,6 +295,14 @@ const latestRegulations = latestAddedRegulations().slice(0, 3);
         runSearch();
       });
       input?.addEventListener("input", runSearch);
+      for (const button of queryButtons) {
+        button.addEventListener("click", () => {
+          if (!input) return;
+          input.value = String(button.dataset.query || "");
+          input.focus();
+          runSearch();
+        });
+      }
       runSearch();
     </script>
   </body>

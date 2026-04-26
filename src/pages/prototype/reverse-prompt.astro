@@ -1,5 +1,6 @@
 ---
 import "../../styles/global.css";
+import SiteHeader from "../../components/SiteHeader.astro";
 import { conversionReports, displayTitle } from "../../lib/regulations";
 
 const [conversion] = conversionReports;
@@ -35,16 +36,7 @@ const checks = [
     <title>{title}</title>
   </head>
   <body>
-    <header class="site-header">
-      <a class="brand" href="/">
-        <strong>Website Peraturan</strong>
-        <span>Energi Indonesia</span>
-      </a>
-      <nav class="nav-links" aria-label="Navigasi utama">
-        <a href="/">Pencarian</a>
-        <a href="/peraturan/uu-nomor-30-tahun-2009/">Konten Website</a>
-      </nav>
-    </header>
+    <SiteHeader />
 
     <main class="page-shell">
       <section class="panel" aria-labelledby="qa-title">

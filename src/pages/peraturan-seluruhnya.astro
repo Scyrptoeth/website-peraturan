@@ -1,0 +1,164 @@
+---
+import "../styles/global.css";
+import SiteHeader from "../components/SiteHeader.astro";
+import { collectionRowsByNewestYear } from "../lib/regulations";
+
+const title = "Peraturan Seluruhnya";
+const collectionRows = collectionRowsByNewestYear();
+const years = [...new Set(collectionRows.map((item) => item.year))].sort((a, b) => Number(b) - Number(a));
+const documentTypes = [...new Set(collectionRows.map((item) => item.type))].sort();
+const statuses = [...new Set(collectionRows.map((item) => item.status))].sort();
+---
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Seluruh peraturan yang sudah live di Website Peraturan Energi." />
+    <title>{title} | Website Peraturan Energi</title>
+  </head>
+  <body>
+    <SiteHeader />
+
+    <main class="page-shell public-page">
+      <section class="public-hero public-hero-left collection-hero" aria-labelledby="collection-title">
+        <p class="eyebrow">Koleksi Peraturan</p>
+        <h1 id="collection-title">Seluruh peraturan yang sudah live.</h1>
+        <p class="lede">
+          Daftar ini memuat peraturan energi dan peraturan pendukung yang telah dipromosikan
+          sebagai konten utama, bisa dibaca penuh, dan bisa ditelusuri dari halaman pencarian.
+        </p>
+      </section>
+
+      <section class="collection-layout" aria-label="Daftar seluruh peraturan">
+        <aside class="collection-filter" aria-labelledby="filter-title">
+          <p class="eyebrow">Filter</p>
+          <h2 id="filter-title">Cari Peraturan</h2>
+          <label for="collection-search">Kata kunci</label>
+          <input id="collection-search" type="search" autocomplete="off" placeholder="Cari judul, nomor, atau topik" />
+
+          <fieldset class="filter-check-group">
+            <legend>Status</legend>
+            {statuses.map((status) => (
+              <label class="filter-check">
+                <input type="checkbox" name="collection-status" value={status} checked={status === "Berlaku"} />
+                <span>{status}</span>
+              </label>
+            ))}
+          </fieldset>
+
+          <fieldset class="filter-check-group">
+            <legend>Jenis Peraturan</legend>
+            {documentTypes.map((type) => (
+              <label class="filter-check">
+                <input type="checkbox" name="collection-type" value={type} />
+                <span>{type}</span>
+              </label>
+            ))}
+          </fieldset>
+
+          <fieldset class="filter-check-group filter-year-group">
+            <legend>Tahun</legend>
+            {years.map((year) => (
+              <label class="filter-check">
+                <input type="checkbox" name="collection-year" value={year} />
+                <span>{year}</span>
+              </label>
+            ))}
+          </fieldset>
+
+          <button id="collection-reset" class="reset-filter-button" type="button">Reset Filter</button>
+        </aside>
+
+        <div class="collection-results">
+          <div class="collection-heading">
+            <div>
+              <p class="eyebrow">Peraturan Seluruhnya</p>
+              <h2>{collectionRows.length} peraturan</h2>
+            </div>
+            <p id="collection-summary" aria-live="polite">
+              Semua peraturan yang sudah tersedia ditampilkan.
+            </p>
+          </div>
+          <div id="collection-list" class="collection-list">
+            {
+              collectionRows.map((item) => (
+                <a
+                  class="collection-card"
+                  href={`/peraturan/${item.slug}/`}
+                  data-title={`${item.title} ${item.shortTitle} ${item.description} ${item.typeAlias}`.toLowerCase()}
+                  data-type={item.type}
+                  data-year={item.year}
+                  data-status={item.status}
+                >
+                  <div class="collection-card-main">
+                    <div class="collection-card-meta">
+                      <span class="type-badge">{item.type}</span>
+                      <span class="status-badge">{item.status}</span>
+                    </div>
+                    <strong>{item.shortTitle}</strong>
+                    <em>{item.description}</em>
+                  </div>
+                  <time datetime={item.year}>{item.year}</time>
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const input = document.getElementById("collection-search") as HTMLInputElement | null;
+      const resetButton = document.getElementById("collection-reset") as HTMLButtonElement | null;
+      const summary = document.getElementById("collection-summary");
+      const cards = Array.from(document.querySelectorAll(".collection-card")) as HTMLElement[];
+      const statusInputs = Array.from(document.querySelectorAll("input[name='collection-status']")) as HTMLInputElement[];
+      const typeInputs = Array.from(document.querySelectorAll("input[name='collection-type']")) as HTMLInputElement[];
+      const yearInputs = Array.from(document.querySelectorAll("input[name='collection-year']")) as HTMLInputElement[];
+
+      function checkedValues(inputs: HTMLInputElement[]) {
+        return inputs.filter((item) => item.checked).map((item) => item.value);
+      }
+
+      function normalize(value: string) {
+        return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
+      }
+
+      function applyFilters() {
+        const query = normalize(String(input?.value || ""));
+        const activeStatuses = checkedValues(statusInputs);
+        const activeTypes = checkedValues(typeInputs);
+        const activeYears = checkedValues(yearInputs);
+        let visible = 0;
+        for (const card of cards) {
+          const matchesQuery = query.length < 2 || normalize(String(card.dataset.title || "")).includes(query);
+          const matchesStatus = activeStatuses.length === 0 || activeStatuses.includes(String(card.dataset.status || ""));
+          const matchesType = activeTypes.length === 0 || activeTypes.includes(String(card.dataset.type || ""));
+          const matchesYear = activeYears.length === 0 || activeYears.includes(String(card.dataset.year || ""));
+          const show = matchesQuery && matchesStatus && matchesType && matchesYear;
+          card.classList.toggle("is-hidden", !show);
+          if (show) visible += 1;
+        }
+        if (summary) {
+          summary.textContent = visible === cards.length
+            ? "Semua peraturan yang sudah tersedia ditampilkan."
+            : `${visible} dari ${cards.length} peraturan cocok dengan filter.`;
+        }
+      }
+
+      input?.addEventListener("input", applyFilters);
+      for (const checkbox of [...statusInputs, ...typeInputs, ...yearInputs]) {
+        checkbox.addEventListener("change", applyFilters);
+      }
+      resetButton?.addEventListener("click", () => {
+        if (input) input.value = "";
+        for (const checkbox of statusInputs) checkbox.checked = checkbox.value === "Berlaku";
+        for (const checkbox of [...typeInputs, ...yearInputs]) checkbox.checked = false;
+        applyFilters();
+      });
+      applyFilters();
+    </script>
+  </body>
+</html>

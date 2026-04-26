@@ -1,0 +1,29 @@
+---
+const navItems = [
+  { href: "/pencarian-peraturan/", label: "Pencarian" },
+  { href: "/peraturan-seluruhnya/", label: "Koleksi" },
+  { href: "/tentang/", label: "Tentang" }
+];
+
+const currentPath = Astro.url.pathname;
+
+function isCurrentPath(href: string) {
+  return currentPath === href || currentPath === href.replace(/\/$/, "");
+}
+---
+
+<header class="site-header">
+  <a class="brand" href="/">
+    <strong>Website Peraturan</strong>
+    <span>Energi Indonesia</span>
+  </a>
+  <nav class="nav-links" aria-label="Navigasi utama">
+    {
+      navItems.map((item) => (
+        <a href={item.href} aria-current={isCurrentPath(item.href) ? "page" : undefined}>
+          {item.label}
+        </a>
+      ))
+    }
+  </nav>
+</header>

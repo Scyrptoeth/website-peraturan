@@ -1,0 +1,94 @@
+---
+import "../styles/global.css";
+import SiteHeader from "../components/SiteHeader.astro";
+import { regulations } from "../lib/regulations";
+
+const title = "Tentang Website";
+---
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Tentang Website Peraturan Energi dan gagasan pembuatannya." />
+    <title>{title} | Website Peraturan Energi</title>
+  </head>
+  <body>
+    <SiteHeader />
+
+    <main class="page-shell public-page">
+      <section class="public-hero public-hero-left" aria-labelledby="about-title">
+        <p class="eyebrow">Tentang Website</p>
+        <h1 id="about-title">Inisiatif pembelajaran hukum untuk ekosistem energi Indonesia.</h1>
+        <p class="lede">
+          Website Peraturan Energi Indonesia digagas sebagai ruang baca profesional yang
+          memudahkan penelusuran peraturan secara lebih cepat, terarah, dan relevan dengan
+          kebutuhan kerja legal di sektor industri.
+        </p>
+      </section>
+
+      <section class="about-layout">
+        <article class="panel narrative-panel">
+          <p>
+            Penggagas ide website ini adalah <strong>Lasmaria Marito Sinabutar</strong>, seorang
+            Sarjana Hukum (S-1) yang memiliki perhatian kuat terhadap perkembangan hukum di
+            Indonesia dan keinginan untuk terus memperdalam pemahaman legal pada bidang usaha
+            tempat ia berkarya.
+          </p>
+          <p>
+            Inisiatif ini disusun sebagai bagian dari upaya profesional Lasmaria untuk melamar
+            pekerjaan di <strong>PT Trafoindo Prima Perkasa</strong>. Melalui website ini, Lasmaria
+            ingin menunjukkan keseriusan, kedisiplinan belajar, dan kepedulian terhadap kebutuhan
+            kerja legal yang menuntut ketelitian membaca peraturan, kemampuan menelusuri informasi,
+            serta kemauan memahami konteks bisnis perusahaan.
+          </p>
+          <p>
+            PT Trafoindo Prima Perkasa bergerak dalam ekosistem industri yang erat dengan aspek
+            ketenagalistrikan, standardisasi, keselamatan, lingkungan, perizinan, dan kepatuhan
+            usaha. Karena itu, website ini diarahkan untuk membantu proses pembelajaran hukum yang
+            berkaitan dengan bidang tersebut, sehingga pengetahuan legal dapat dipahami bukan hanya
+            sebagai teori, tetapi juga sebagai bekal kerja yang konkret.
+          </p>
+          <p>
+            Banyak sumber hukum digital di Indonesia masih berfokus pada pencarian berdasarkan
+            judul peraturan. Website ini mengambil pendekatan yang lebih praktis bagi pembelajar
+            dan pekerja legal: informasi dapat ditelusuri sampai ke kata kunci di dalam isi
+            peraturan, termasuk pasal, batang tubuh, dan penjelasan. Dengan cara itu, proses
+            menemukan dasar hukum menjadi lebih efisien dan mendukung kualitas analisis.
+          </p>
+          <p>
+            Tujuan utama website ini adalah memperlihatkan kesiapan Lasmaria untuk belajar secara
+            mandiri, memahami kebutuhan industri, dan menghubungkan kemampuan hukum dengan manfaat
+            nyata bagi pekerjaan. Inisiatif ini sekaligus menjadi bukti bahwa perhatian terhadap
+            legal compliance dapat diterjemahkan menjadi alat belajar yang tertata, mudah dibaca,
+            dan bermanfaat bagi lingkungan kerja.
+          </p>
+        </article>
+
+        <aside class="panel about-summary" aria-labelledby="about-summary-title">
+          <p class="eyebrow">Fokus Inisiatif</p>
+          <h2 id="about-summary-title">Nilai yang ingin ditunjukkan</h2>
+          <div class="summary-list">
+            <div>
+              <strong>Kepedulian hukum</strong>
+              <span>Memahami peraturan sebagai bagian penting dari tata kelola usaha.</span>
+            </div>
+            <div>
+              <strong>Kesiapan belajar</strong>
+              <span>Menghubungkan pendidikan hukum dengan kebutuhan sektor ketenagalistrikan.</span>
+            </div>
+            <div>
+              <strong>Manfaat kerja</strong>
+              <span>Mendukung penelusuran informasi hukum yang lebih cepat dan terarah.</span>
+            </div>
+            <div>
+              <strong>Koleksi aktif</strong>
+              <span>{regulations.length} peraturan sudah tersedia sebagai bahan baca.</span>
+            </div>
+          </div>
+        </aside>
+      </section>
+    </main>
+  </body>
+</html>
