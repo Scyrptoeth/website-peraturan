@@ -17,12 +17,19 @@ const { regulation } = Astro.props;
 const title = displayTitle(regulation);
 const anchors = articleAnchors(regulation);
 const shortTitle = `${regulation.metadata.document_type} ${regulation.metadata.number}/${regulation.metadata.year}`;
-const qualityLabel = regulation.quality.quality_flags.length ? regulation.quality.quality_flags.join(", ") : "Bersih";
 const isReversePromptResult = regulation.metadata.slug !== "uu-nomor-30-tahun-2009";
 const topicTags = tagsFor(regulation);
+const qualityTags = qualityLabels(regulation);
 
 function tagsFor(payload: RegulationPayload): string[] {
-  const tags = [payload.metadata.document_type === "PP" ? "Peraturan Pemerintah" : "Undang-Undang"];
+  const typeLabels: Record<string, string> = {
+    PP: "Peraturan Pemerintah",
+    UU: "Undang-Undang",
+    "PERMEN ESDM": "Peraturan Menteri ESDM",
+    PERMENPERIN: "Peraturan Menteri Perindustrian",
+    PERMEN: "Peraturan Menteri"
+  };
+  const tags = [typeLabels[payload.metadata.document_type] ?? "Peraturan"];
   const titleText = payload.metadata.title.toUpperCase();
   if (titleText.includes("TENAGA LISTRIK")) tags.push("Ketenagalistrikan");
   if (titleText.includes("STANDARDISASI")) tags.push("Standardisasi");
@@ -30,6 +37,14 @@ function tagsFor(payload: RegulationPayload): string[] {
   if (titleText.includes("PERIZINAN BERUSAHA")) tags.push("Perizinan Berusaha");
   if (isReversePromptResult) tags.push("Hasil Reverse Prompt");
   return tags;
+}
+
+function qualityLabels(payload: RegulationPayload): string[] {
+  if (!payload.quality.quality_flags.length) return ["Bersih"];
+  return payload.quality.quality_flags.map((flag) => {
+    if (flag === "skipped_non_text_attachment") return "Lampiran non-teks dilewati";
+    return flag.replaceAll("_", " ");
+  });
 }
 
 function splitListLabel(paragraph: LegalParagraph): { label: string; body: string } | null {
@@ -92,7 +107,7 @@ function splitListLabel(paragraph: LegalParagraph): { label: string; body: strin
         </dl>
         <div class="tag-row" aria-label="Klasifikasi">
           {topicTags.map((tag) => <span>{tag}</span>)}
-          <span>{qualityLabel}</span>
+          {qualityTags.map((tag) => <span>{tag}</span>)}
         </div>
         <div class="search-block">
           <label for="document-search">Cari di dokumen ini</label>

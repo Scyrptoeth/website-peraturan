@@ -5,6 +5,10 @@ import pp23 from "../data/regulations/pp-nomor-23-tahun-2014.json";
 import pp62 from "../data/regulations/pp-nomor-62-tahun-2012.json";
 import pp34 from "../data/regulations/pp-nomor-34-tahun-2018.json";
 import pp28 from "../data/regulations/pp-nomor-28-tahun-2025.json";
+import pp22 from "../data/regulations/pp-nomor-22-tahun-2021.json";
+import permenperin54 from "../data/regulations/permenperin-nomor-54-tahun-2024.json";
+import permenEsdm11 from "../data/regulations/permen-esdm-nomor-11-tahun-2021.json";
+import permenEsdm10 from "../data/regulations/permen-esdm-nomor-10-tahun-2021.json";
 
 export type LegalParagraph = {
   id: string;
@@ -22,6 +26,7 @@ export type RegulationPayload = {
     year: string;
     title: string;
     slug: string;
+    extraction_method?: string;
     pdf_info: Record<string, string>;
     generated_at: string;
   };
@@ -29,6 +34,8 @@ export type RegulationPayload = {
     paragraph_count: number;
     body_article_count: number;
     explanation_article_count: number;
+    body_article_sequence_gap_count?: number;
+    explanation_article_sequence_gap_count?: number;
     chapter_count: number;
     part_count: number;
     letter_count: number;
@@ -36,6 +43,8 @@ export type RegulationPayload = {
     has_explanation: boolean;
     has_state_gazette: boolean;
     has_supplement: boolean;
+    skipped_attachment_paragraph_count?: number;
+    skipped_noise_paragraph_count?: number;
     quality_flags: string[];
   };
   paragraphs: LegalParagraph[];
@@ -48,7 +57,11 @@ export const regulations = [
   pp23 as RegulationPayload,
   pp62 as RegulationPayload,
   pp34 as RegulationPayload,
-  pp28 as RegulationPayload
+  pp28 as RegulationPayload,
+  pp22 as RegulationPayload,
+  permenperin54 as RegulationPayload,
+  permenEsdm11 as RegulationPayload,
+  permenEsdm10 as RegulationPayload
 ];
 export const conversionReports = [uu20 as RegulationPayload];
 

@@ -1,0 +1,4139 @@
+{
+  "metadata": {
+    "source_file": "/Users/persiapantubel/Desktop/codex/website-hukum/Permenperin No. 54 Tahun 2024.pdf",
+    "source_sha256": "5f4e37593ec6c9f8797bb6cd0afef8107e550da15f275b8832af60f030eb9147",
+    "document_type": "PERMENPERIN",
+    "number": "54",
+    "year": "2024",
+    "title": "PEMBERLAKUAN STANDAR NASIONAL INDONESIA UNTUK BUS BAR TEMBAGA (COPPER BUS BARS) SECARA WAJIB",
+    "slug": "permenperin-nomor-54-tahun-2024",
+    "extraction_method": "pdftotext_layout",
+    "pdf_info": {
+      "pages": "52",
+      "title": "KONSEP BHO 06/01/2014",
+      "tagged": "yes",
+      "encrypted": "no",
+      "pdf_version": "1.7"
+    },
+    "generated_at": "2026-04-26T04:38:18.552073+00:00"
+  },
+  "quality": {
+    "paragraph_count": 683,
+    "body_article_count": 59,
+    "explanation_article_count": 0,
+    "body_article_sequence_gap_count": 0,
+    "explanation_article_sequence_gap_count": 0,
+    "chapter_count": 7,
+    "part_count": 4,
+    "letter_count": 201,
+    "number_count": 137,
+    "has_explanation": false,
+    "has_state_gazette": false,
+    "has_supplement": false,
+    "skipped_attachment_paragraph_count": 194,
+    "skipped_noise_paragraph_count": 8,
+    "quality_flags": [
+      "skipped_non_text_attachment"
+    ]
+  },
+  "paragraphs": [
+    {
+      "id": "p-0001",
+      "kind": "title",
+      "text": "MENTERI PERINDUSTRIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0002",
+      "kind": "title",
+      "text": "PERATURAN MENTERI PERINDUSTRIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0003",
+      "kind": "title",
+      "text": "NOMOR 54 TAHUN 2024",
+      "part": "body"
+    },
+    {
+      "id": "p-0004",
+      "kind": "title",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0005",
+      "kind": "title",
+      "text": "PEMBERLAKUAN STANDAR NASIONAL INDONESIA UNTUK BUS BAR",
+      "part": "body"
+    },
+    {
+      "id": "p-0006",
+      "kind": "title",
+      "text": "TEMBAGA (COPPER BUS BARS) SECARA WAJIB",
+      "part": "body"
+    },
+    {
+      "id": "p-0007",
+      "kind": "title",
+      "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+      "part": "body"
+    },
+    {
+      "id": "p-0008",
+      "kind": "title",
+      "text": "MENTERI PERINDUSTRIAN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0009",
+      "kind": "opening",
+      "text": "Menimbang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0010",
+      "kind": "letter",
+      "text": "a. bahwa untuk menjamin keamanan, kesehatan,dan keselamatan manusia serta pelestarian fungsi lingkungan hidup dari penggunaan bus bar tembaga (copper bus bars), meningkatkan daya saing, efisiensi, dan kinerja industri bus bar tembaga (copper bus bars), dan menciptakan persaingan usaha yang sehat, telah ditetapkan pemberlakuan standar nasional Indonesia untuk batang konduktor dari tembaga (copper bus bars) secara wajib;",
+      "part": "body"
+    },
+    {
+      "id": "p-0011",
+      "kind": "letter",
+      "text": "b. bahwa Peraturan Menteri Perindustrian Nomor 2 Tahun 2021 tentang Pemberlakuan Standar Nasional Indonesia Batang Konduktor dari Tembaga (Copper Bus Bars) Secara Wajib sudah tidak sesuai dengan kebijakan standardisasi industri, sehingga perlu diganti;",
+      "part": "body"
+    },
+    {
+      "id": "p-0012",
+      "kind": "letter",
+      "text": "c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 52 ayat (1) Undang-Undang Nomor 3 Tahun 2014 tentang Perindustrian sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, perlu menetapkan Peraturan Menteri Perindustrian tentang Pemberlakuan Standar Nasional Indonesia untuk Bus Bar Tembaga (Copper Bus Bars) Secara Wajib;",
+      "part": "body"
+    },
+    {
+      "id": "p-0013",
+      "kind": "opening",
+      "text": "Mengingat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0014",
+      "kind": "number",
+      "text": "1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Tahun 1945;",
+      "part": "body"
+    },
+    {
+      "id": "p-0015",
+      "kind": "number",
+      "text": "2. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Tahun 2008 Nomor 166, Tambahan Lembaran Negara Nomor 4916)",
+      "part": "body"
+    },
+    {
+      "id": "p-0016",
+      "kind": "body",
+      "text": "sebagaimana telah diubah dengan Undang-Undang Nomor 61 Tahun 2024 tentang Perubahan atas",
+      "part": "body"
+    },
+    {
+      "id": "p-0017",
+      "kind": "body",
+      "text": "Undang-Undang Nomor 39 Tahun 2008 tentang",
+      "part": "body"
+    },
+    {
+      "id": "p-0018",
+      "kind": "body",
+      "text": "Kementerian Negara (Lembaran Negara Tahun 2024 Nomor 225, Tambahan Lembaran Negara Nomor 6994);",
+      "part": "body"
+    },
+    {
+      "id": "p-0019",
+      "kind": "number",
+      "text": "3. Undang-Undang Nomor 3 Tahun 2014 tentang Perindustrian (Lembaran Negara Tahun 2014 Nomor 4, Tambahan Lembaran Negara Nomor 5492) sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti",
+      "part": "body"
+    },
+    {
+      "id": "p-0020",
+      "kind": "body",
+      "text": "Undang-Undang Nomor 2 Tahun 2022 tentang Cipta",
+      "part": "body"
+    },
+    {
+      "id": "p-0021",
+      "kind": "body",
+      "text": "Kerja Menjadi Undang-Undang (Lembaran Negara Tahun 2023 Nomor 41, Tambahan Lembaran Negara Nomor 6856);",
+      "part": "body"
+    },
+    {
+      "id": "p-0022",
+      "kind": "number",
+      "text": "4. Undang-Undang Nomor 20 Tahun 2014 tentang Standardisasi dan Penilaian Kesesuaian (Lembaran Negara Tahun 2014 Nomor 216, Tambahan Lembaran Negara Nomor 5584);",
+      "part": "body"
+    },
+    {
+      "id": "p-0023",
+      "kind": "number",
+      "text": "5. Peraturan Pemerintah Nomor 2 Tahun 2017 tentang Pembangunan Sarana dan Prasarana Industri (Lembaran Negara Tahun 2017 Nomor 9, Tambahan Lembaran Negara Nomor 6016);",
+      "part": "body"
+    },
+    {
+      "id": "p-0024",
+      "kind": "number",
+      "text": "6. Peraturan Pemerintah Nomor 34 Tahun 2018 tentang Sistem Standardisasi dan Penilaian Kesesuaian Nasional (Lembaran Negara Tahun",
+      "part": "body"
+    },
+    {
+      "id": "p-0025",
+      "kind": "body",
+      "text": "2018 Nomor 110, Tambahan Lembaran Negara Nomor 6225);",
+      "part": "body"
+    },
+    {
+      "id": "p-0026",
+      "kind": "number",
+      "text": "7. Peraturan Pemerintah Nomor 28 Tahun 2021 tentang Penyelenggaraan Bidang Perindustrian (Lembaran Negara Tahun 2021 Nomor 38, Tambahan Lembaran Negara Nomor 6640) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 46 Tahun 2023 tentang Perubahan atas Peraturan Pemerintah Nomor 28 Tahun 2021 tentang Penyelenggaraan Bidang Perindustrian (Lembaran Negara Tahun 2023 Nomor 119, Tambahan Lembaran Negara Nomor 6891);",
+      "part": "body"
+    },
+    {
+      "id": "p-0027",
+      "kind": "number",
+      "text": "8. Peraturan Presiden Nomor 107 Tahun 2020 tentang Kementerian Perindustrian (Lembaran Negara Tahun 2020 Nomor 254);",
+      "part": "body"
+    },
+    {
+      "id": "p-0028",
+      "kind": "number",
+      "text": "9. Peraturan Menteri Perindustrian Nomor 45 Tahun 2022 tentang Standardisasi Industri (Berita Negara Tahun 2022 Nomor 1120);",
+      "part": "body"
+    },
+    {
+      "id": "p-0029",
+      "kind": "number",
+      "text": "10. Peraturan Menteri Perindustrian Nomor 8 Tahun 2023 tentang Organisasi dan Tata Kerja Kementerian Perindustrian (Berita Negara Tahun",
+      "part": "body"
+    },
+    {
+      "id": "p-0030",
+      "kind": "body",
+      "text": "2023 Nomor 384);",
+      "part": "body"
+    },
+    {
+      "id": "p-0031",
+      "kind": "decision",
+      "text": "MEMUTUSKAN:",
+      "part": "body"
+    },
+    {
+      "id": "p-0032",
+      "kind": "decision",
+      "text": "Menetapkan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0033",
+      "kind": "body",
+      "text": "PERATURAN MENTERI PERINDUSTRIAN TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0034",
+      "kind": "body",
+      "text": "PEMBERLAKUAN STANDAR NASIONAL INDONESIA UNTUK",
+      "part": "body"
+    },
+    {
+      "id": "p-0035",
+      "kind": "body",
+      "text": "BUS BAR TEMBAGA (COPPER BUS BARS) SECARA WAJIB.",
+      "part": "body"
+    },
+    {
+      "id": "p-0036",
+      "kind": "chapter",
+      "text": "BAB I",
+      "part": "body"
+    },
+    {
+      "id": "p-0037",
+      "kind": "body",
+      "text": "KETENTUAN UMUM",
+      "part": "body"
+    },
+    {
+      "id": "p-0038",
+      "kind": "article",
+      "text": "Pasal 1",
+      "part": "body"
+    },
+    {
+      "id": "p-0039",
+      "kind": "body",
+      "text": "Dalam Peraturan Menteri ini yang dimaksud dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0040",
+      "kind": "number",
+      "text": "1. Standar Nasional Indonesia yang selanjutnya disingkat SNI adalah standar yang ditetapkan oleh lembaga pemerintah nonkementerian yang bertugas dan bertanggung jawab di bidang standardisasi dan penilaian kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0041",
+      "kind": "number",
+      "text": "2. Bus Bar Tembaga (Copper Bus Bars) adalah tembaga berpenampang persegi yang berfungsi sebagai penghantar listrik yang digunakan pada panel, transformator, dan untuk pentanahan (grounding).",
+      "part": "body"
+    },
+    {
+      "id": "p-0042",
+      "kind": "number",
+      "text": "3. Pelaku Usaha adalah orang perseorangan atau badan usaha baik yang berbentuk badan hukum maupun bukan badan hukum yang didirikan dan berkedudukan atau melakukan kegiatan dalam wilayah hukum Negara Kesatuan, baik sendiri maupun bersama-sama melalui perjanjian menyelenggarakan kegiatan usaha dalam berbagai bidang ekonomi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0043",
+      "kind": "number",
+      "text": "4. Perusahaan Industri adalah orang perseorangan atau badan usaha yang melakukan kegiatan di bidang usaha industri untuk memproduksi Bus Bar Tembaga (Copper Bus Bars) dan berkedudukan di Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0044",
+      "kind": "number",
+      "text": "5. Produsen di Luar Negeri adalah orang perseorangan atau badan usaha yang melakukan kegiatan di bidang usaha industri untuk memproduksi Bus Bar Tembaga (Copper Bus Bars) dan berkedudukan di luar wilayah hukum Negara Kesatuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0045",
+      "kind": "number",
+      "text": "6. Perwakilan Resmi adalah badan usaha yang berbentuk badan hukum yang didirikan dan berkedudukan di wilayah hukum Negara Kesatuan yang berfungsi sebagai perwakilan Produsen di Luar Negeri di wilayah hukum Negara Kesatuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0046",
+      "kind": "number",
+      "text": "7. Sertifikat SNI adalah sertifikat yang diterbitkan oleh lembaga sertifikasi produk untuk Perusahaan Industri atau Produsen di Luar Negeri yang mampu memproduksi Bus Bar Tembaga (Copper Bus Bars) sesuai dengan ketentuan pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0047",
+      "kind": "number",
+      "text": "8. Tanda SNI adalah tanda sertifikasi yang ditetapkan oleh lembaga pemerintah nonkementerian yang bertugas dan bertanggung jawab di bidang standardisasi dan penilaian kesesuaian untuk menyatakan telah terpenuhinya persyaratan SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0048",
+      "kind": "number",
+      "text": "9. Klasifikasi Baku Lapangan Usaha Indonesia yang selanjutnya disebut KBLI adalah kode klasifikasi yang diatur oleh lembaga pemerintah nonkementerian yang",
+      "part": "body"
+    },
+    {
+      "id": "p-0049",
+      "kind": "body",
+      "text": "menyelenggarakan urusan pemerintahan di bidang statistik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0050",
+      "kind": "number",
+      "text": "10. Surat Persetujuan Penggunaan Tanda SNI yang selanjutnya disebut SPPT SNI adalah tanda bukti pemberian persetujuan penggunaan Tanda SNI dari pejabat yang berwenang di Kementerian Perindustrian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0051",
+      "kind": "number",
+      "text": "11. Sistem Informasi Industri Nasional yang selanjutnya disebut SIINas adalah tatanan prosedur dan mekanisme kerja yang terintegrasi meliputi unsur institusi, sumber daya manusia, basis data, perangkat keras dan lunak, serta jaringan komunikasi data yang terkait satu sama lain dengan tujuan untuk penyampaian, pengelolaan, penyajian, pelayanan, serta penyebarluasan data dan/atau informasi industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0052",
+      "kind": "number",
+      "text": "12. Lembaga Sertifikasi Produk yang selanjutnya disebut LSPro adalah lembaga terakreditasi yang melakukan sertifikasi produk barang dan/atau jasa industri dan menerbitkan Sertifikat SNI sesuai dengan persyaratan SNI yang diberlakukan secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0053",
+      "kind": "number",
+      "text": "13. Laboratorium Uji adalah lembaga terakreditasi yang melakukan kegiatan pengujian kesesuaian mutu terhadap contoh barang sesuai dengan persyaratan SNI yang diberlakukan secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0054",
+      "kind": "number",
+      "text": "14. Komite Akreditasi Nasional yang selanjutnya disingkat KAN adalah lembaga nonstruktural yang bertugas dan bertanggung jawab di bidang akreditasi lembaga penilaian kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0055",
+      "kind": "number",
+      "text": "15. Surveilen adalah pengulangan sistematik penilaian kesesuaian sebagai dasar untuk memelihara validitas pernyataan kesesuaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0056",
+      "kind": "number",
+      "text": "16. Petugas Pengawas Standar Industri yang selanjutnya disingkat PPSI adalah pegawai negeri sipil pusat atau daerah yang ditugaskan untuk melakukan pengawasan terhadap pelaksanaan penerapan atau pemberlakuan standar bidang industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0057",
+      "kind": "number",
+      "text": "17. Menteri adalah menteri yang menyelenggarakan urusan pemerintah di bidang perindustrian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0058",
+      "kind": "number",
+      "text": "18. Badan adalah unit kerja pimpinan tinggi madya di lingkungan Kementerian Perindustrian yang mempunyai tugas menyelenggarakan koordinasi, perumusan, penerapan, pemberlakuan, dan pengawasan standardisasi industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0059",
+      "kind": "number",
+      "text": "19. Kepala Badan adalah pejabat pimpinan tinggi madya di lingkungan Kementerian Perindustrian yang mempunyai tugas menyelenggarakan koordinasi, perumusan, penerapan, pemberlakuan, dan pengawasan standardisasi industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0060",
+      "kind": "number",
+      "text": "20. Direktur Jenderal adalah pejabat pimpinan tinggi madya di lingkungan Kementerian Perindustrian yang mempunyai tugas melakukan pembinaan terhadap industri Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0061",
+      "kind": "chapter",
+      "text": "BAB II",
+      "part": "body"
+    },
+    {
+      "id": "p-0062",
+      "kind": "body",
+      "text": "LINGKUP PEMBERLAKUAN STANDAR NASIONAL",
+      "part": "body"
+    },
+    {
+      "id": "p-0063",
+      "kind": "body",
+      "text": "INDONESIA SECARA WAJIB",
+      "part": "body"
+    },
+    {
+      "id": "p-0064",
+      "kind": "article",
+      "text": "Pasal 2",
+      "part": "body"
+    },
+    {
+      "id": "p-0065",
+      "kind": "paragraph",
+      "text": "(1) Memberlakukan SNI 8760:2019 untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0066",
+      "kind": "paragraph",
+      "text": "(2) Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) memiliki nomor pos tarif/harmonized system ex. 7407.10.41 dan ex. 7407.10.49.",
+      "part": "body"
+    },
+    {
+      "id": "p-0067",
+      "kind": "paragraph",
+      "text": "(3) Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (2) termasuk Bus Bar Tembaga (Copper Bus Bars) dengan penampang melintang yang membentuk sudut melingkar berdasarkan radius tertentu atau membentuk sisi melingkar.",
+      "part": "body"
+    },
+    {
+      "id": "p-0068",
+      "kind": "paragraph",
+      "text": "(4) Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (2) merupakan hasil produksi dalam negeri dan/atau impor yang dipasarkan di dalam wilayah Negara Kesatuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0069",
+      "kind": "article",
+      "text": "Pasal 3",
+      "part": "body"
+    },
+    {
+      "id": "p-0070",
+      "kind": "paragraph",
+      "text": "(1) Pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib sebagaimana dimaksud dalam Pasal 2 dikecualikan bagi Bus Bar Tembaga (Copper Bus Bars) yang:",
+      "part": "body"
+    },
+    {
+      "id": "p-0071",
+      "kind": "letter",
+      "text": "a. sifat teknisnya merupakan produk sejenis yang memiliki standar tersendiri dengan ruang lingkup, klasifikasi, dan/atau syarat mutu yang berbeda dengan standar yang diwajibkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0072",
+      "kind": "letter",
+      "text": "b. digunakan sebagai barang contoh untuk keperluan riset dan pengembangan produk dengan jumlah paling banyak 2 (dua) batang dengan panjang maksimal 4 (empat) meter untuk masing-masing batang; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0073",
+      "kind": "letter",
+      "text": "c. digunakan sebagai barang contoh dalam rangka pengujian untuk memperoleh Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0074",
+      "kind": "paragraph",
+      "text": "(2) Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) huruf b dan huruf c tidak boleh untuk diperjualbelikan atau dipindahtangankan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0075",
+      "kind": "paragraph",
+      "text": "(3) Barang contoh untuk keperluan riset dan pengembangan produk sebagaimana dimaksud pada ayat (1) huruf b tidak dapat digunakan sebagai tes pasar.",
+      "part": "body"
+    },
+    {
+      "id": "p-0076",
+      "kind": "article",
+      "text": "Pasal 4",
+      "part": "body"
+    },
+    {
+      "id": "p-0077",
+      "kind": "paragraph",
+      "text": "(1) Pengecualian terhadap Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a dibuktikan dengan surat keterangan yang diterbitkan oleh Direktur Jenderal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0078",
+      "kind": "paragraph",
+      "text": "(2) Pengecualian terhadap Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b dibuktikan dengan surat keterangan dari:",
+      "part": "body"
+    },
+    {
+      "id": "p-0079",
+      "kind": "letter",
+      "text": "a. lembaga atau Perusahaan Industri yang akan melaksanakan riset dan pengembangan; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0080",
+      "kind": "letter",
+      "text": "b. perjanjian kerja sama dengan laboratorium penelitian dan pengembangan, di Negara Kesatuan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0081",
+      "kind": "paragraph",
+      "text": "(3) Pengecualian terhadap Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf c dibuktikan dengan dokumen berita acara pengambilan contoh dan label contoh uji dari LSPro yang telah ditunjuk oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0082",
+      "kind": "article",
+      "text": "Pasal 5",
+      "part": "body"
+    },
+    {
+      "id": "p-0083",
+      "kind": "paragraph",
+      "text": "(1) Pelaku Usaha yang memproduksi, mengimpor, dan/atau mengedarkan Bus Bar Tembaga (Copper Bus Bars) di wilayah Negara Kesatuan wajib memenuhi ketentuan pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib sebagaimana dimaksud dalam Pasal 2.",
+      "part": "body"
+    },
+    {
+      "id": "p-0084",
+      "kind": "paragraph",
+      "text": "(2) Pelaku Usaha yang melanggar ketentuan sebagaimana dimaksud pada ayat (1) dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0085",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal pengenaan sanksi sebagaimana dimaksud pada ayat (2) berupa sanksi pidana, pengenaan sanksi pidana dapat disertai dengan pencabutan Sertifikat SNI dan/atau SPPT SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0086",
+      "kind": "paragraph",
+      "text": "(4) Pencabutan Sertifikat SNI sebagaimana dimaksud pada ayat (3) dilakukan oleh LSPro yang menerbitkan Sertifikat SNI berdasarkan rekomendasi Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0087",
+      "kind": "paragraph",
+      "text": "(5) Pencabutan SPPT SNI sebagaimana dimaksud pada ayat (3) dilakukan oleh Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0088",
+      "kind": "chapter",
+      "text": "BAB III",
+      "part": "body"
+    },
+    {
+      "id": "p-0089",
+      "kind": "body",
+      "text": "PENILAIAN KESESUAIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0090",
+      "kind": "part",
+      "text": "Bagian Kesatu",
+      "part": "body"
+    },
+    {
+      "id": "p-0091",
+      "kind": "body",
+      "text": "Umum",
+      "part": "body"
+    },
+    {
+      "id": "p-0092",
+      "kind": "article",
+      "text": "Pasal 6",
+      "part": "body"
+    },
+    {
+      "id": "p-0093",
+      "kind": "paragraph",
+      "text": "(1) Pemenuhan terhadap pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 2 dilakukan melalui kegiatan penilaian kesesuaian dengan sistem sertifikasi tipe 5 (lima).",
+      "part": "body"
+    },
+    {
+      "id": "p-0094",
+      "kind": "paragraph",
+      "text": "(2) Kegiatan penilaian kesesuaian dengan sistem sertifikasi tipe 5 (lima) sebagaimana dimaksud pada ayat (1) dilakukan melalui:",
+      "part": "body"
+    },
+    {
+      "id": "p-0095",
+      "kind": "letter",
+      "text": "a. audit proses produksi dan penerapan sistem manajemen mutu sesuai dengan ISO 9001:2015;",
+      "part": "body"
+    },
+    {
+      "id": "p-0096",
+      "kind": "body",
+      "text": "dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0097",
+      "kind": "letter",
+      "text": "b. pengujian kesesuaian mutu sesuai dengan ketentuan SNI sebagaimana dimaksud dalam Pasal 2 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0098",
+      "kind": "paragraph",
+      "text": "(3) Hasil kegiatan penilaian kesesuaian sebagaimana dimaksud pada ayat (2) dinyatakan dalam bentuk Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0099",
+      "kind": "article",
+      "text": "Pasal 7",
+      "part": "body"
+    },
+    {
+      "id": "p-0100",
+      "kind": "paragraph",
+      "text": "(1) Audit sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf a dilakukan oleh LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0101",
+      "kind": "paragraph",
+      "text": "(2) LSPro sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0102",
+      "kind": "letter",
+      "text": "a. telah diakreditasi oleh KAN sesuai dengan lingkup SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 2; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0103",
+      "kind": "letter",
+      "text": "b. ditunjuk oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0104",
+      "kind": "paragraph",
+      "text": "(3) Pengujian kesesuaian mutu sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf b dilakukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0105",
+      "kind": "letter",
+      "text": "a. Laboratorium Uji di dalam negeri; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0106",
+      "kind": "letter",
+      "text": "b. Laboratorium Uji di luar negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0107",
+      "kind": "paragraph",
+      "text": "(4) Laboratorium Uji di dalam negeri sebagaimana dimaksud pada ayat (3) huruf a harus memenuhi persyaratan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0108",
+      "kind": "letter",
+      "text": "a. telah diakreditasi oleh KAN sesuai dengan lingkup SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 2; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0109",
+      "kind": "letter",
+      "text": "b. ditunjuk oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0110",
+      "kind": "paragraph",
+      "text": "(5) Laboratorium Uji di luar negeri sebagaimana dimaksud pada ayat (3) huruf b harus memenuhi persyaratan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0111",
+      "kind": "letter",
+      "text": "a. telah diakreditasi dengan ruang lingkup yang sesuai oleh badan akreditasi penanda tangan perjanjian saling pengakuan melalui kerja sama akreditasi internasional;",
+      "part": "body"
+    },
+    {
+      "id": "p-0112",
+      "kind": "letter",
+      "text": "b. negara tempat Laboratorium Uji berada memiliki perjanjian bilateral atau multilateral di bidang regulasi teknis dengan pemerintah; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0113",
+      "kind": "letter",
+      "text": "c. ditunjuk oleh Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0114",
+      "kind": "article",
+      "text": "Pasal 8",
+      "part": "body"
+    },
+    {
+      "id": "p-0115",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0116",
+      "kind": "letter",
+      "text": "a. belum tersedia LSPro atau Laboratorium Uji yang telah terakreditasi oleh KAN sesuai dengan lingkup SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 2 namun telah terakreditasi dengan ruang lingkup yang sejenis; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0117",
+      "kind": "letter",
+      "text": "b. telah tersedia LSPro atau Laboratorium Uji yang telah terakreditasi oleh KAN sesuai dengan lingkup SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 2 namun jumlahnya belum memadai,",
+      "part": "body"
+    },
+    {
+      "id": "p-0118",
+      "kind": "body",
+      "text": "Menteri dapat menunjuk LSPro dan/atau Laboratorium Uji yang terakreditasi oleh KAN dengan ruang lingkup yang sejenis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0119",
+      "kind": "paragraph",
+      "text": "(2) LSPro dan/atau Laboratorium Uji yang ditunjuk oleh",
+      "part": "body"
+    },
+    {
+      "id": "p-0120",
+      "kind": "body",
+      "text": "Menteri sebagaimana dimaksud pada ayat (1) harus telah diakreditasi oleh KAN sesuai dengan lingkup SNI untuk Bus Bar Tembaga (Copper Bus Bars) paling lama 2 (dua) tahun terhitung sejak tanggal penunjukan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0121",
+      "kind": "article",
+      "text": "Pasal 9",
+      "part": "body"
+    },
+    {
+      "id": "p-0122",
+      "kind": "paragraph",
+      "text": "(1) Sertifikat SNI sebagaimana dimaksud dalam Pasal 6 ayat (3) hanya dapat dimiliki oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0123",
+      "kind": "letter",
+      "text": "a. Perusahaan Industri; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0124",
+      "kind": "letter",
+      "text": "b. Produsen di Luar Negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0125",
+      "kind": "paragraph",
+      "text": "(2) Perusahaan Industri atau Produsen di Luar Negeri sebagaimana dimaksud pada ayat (1) hanya dapat memiliki 1 (satu) Sertifikat SNI untuk 1 (satu) lokasi produksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0126",
+      "kind": "paragraph",
+      "text": "(3) Dalam Sertifikat SNI sebagaimana dimaksud pada ayat (2) hanya dapat dicantumkan 1 (satu) merek.",
+      "part": "body"
+    },
+    {
+      "id": "p-0127",
+      "kind": "paragraph",
+      "text": "(4) Sertifikat SNI sebagaimana dimaksud pada ayat (2) berlaku untuk jangka waktu 5 (lima) tahun terhitung sejak tanggal penerbitan Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0128",
+      "kind": "article",
+      "text": "Pasal 10",
+      "part": "body"
+    },
+    {
+      "id": "p-0129",
+      "kind": "body",
+      "text": "Perusahaan Industri sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a harus memenuhi persyaratan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0130",
+      "kind": "letter",
+      "text": "a. memiliki perizinan berusaha di bidang industri sesuai dengan lingkup KBLI 24204 dan/atau 27320;",
+      "part": "body"
+    },
+    {
+      "id": "p-0131",
+      "kind": "letter",
+      "text": "b. memiliki merek sendiri untuk produk Bus Bar Tembaga (Copper Bus Bars) kelas 9 (sembilan);",
+      "part": "body"
+    },
+    {
+      "id": "p-0132",
+      "kind": "letter",
+      "text": "c. memiliki fasilitas produksi paling sedikit berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0133",
+      "kind": "number",
+      "text": "1. fasilitas peleburan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0134",
+      "kind": "number",
+      "text": "2. fasilitas ekstrusi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0135",
+      "kind": "number",
+      "text": "3. draw bench;",
+      "part": "body"
+    },
+    {
+      "id": "p-0136",
+      "kind": "letter",
+      "text": "d. memiliki peralatan uji paling sedikit berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0137",
+      "kind": "number",
+      "text": "1. peralatan uji dimensi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0138",
+      "kind": "number",
+      "text": "2. peralatan uji sudut penampang profil;",
+      "part": "body"
+    },
+    {
+      "id": "p-0139",
+      "kind": "number",
+      "text": "3. peralatan uji puntir;",
+      "part": "body"
+    },
+    {
+      "id": "p-0140",
+      "kind": "number",
+      "text": "4. peralatan uji kelurusan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0141",
+      "kind": "number",
+      "text": "5. peralatan uji kerataan melintang; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0142",
+      "kind": "number",
+      "text": "6. peralatan uji konduktivitas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0143",
+      "kind": "letter",
+      "text": "e. telah menerapkan sistem manajemen mutu ISO 9001:2015; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0144",
+      "kind": "letter",
+      "text": "f. memiliki akun SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0145",
+      "kind": "article",
+      "text": "Pasal 11",
+      "part": "body"
+    },
+    {
+      "id": "p-0146",
+      "kind": "paragraph",
+      "text": "(1) Produsen di Luar Negeri sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf b harus memenuhi persyaratan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0147",
+      "kind": "letter",
+      "text": "a. melakukan kegiatan usaha industri Bus Bar Tembaga (Copper Bus Bars);",
+      "part": "body"
+    },
+    {
+      "id": "p-0148",
+      "kind": "letter",
+      "text": "b. memiliki merek sendiri untuk produk Bus Bar Tembaga (Copper Bus Bars) kelas 9 (sembilan);",
+      "part": "body"
+    },
+    {
+      "id": "p-0149",
+      "kind": "letter",
+      "text": "c. memiliki fasilitas produksi paling sedikit berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0150",
+      "kind": "number",
+      "text": "1. fasilitas peleburan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0151",
+      "kind": "number",
+      "text": "2. fasilitas ekstrusi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0152",
+      "kind": "number",
+      "text": "3. draw bench;",
+      "part": "body"
+    },
+    {
+      "id": "p-0153",
+      "kind": "letter",
+      "text": "d. memiliki peralatan uji paling sedikit berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0154",
+      "kind": "number",
+      "text": "1. peralatan uji dimensi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0155",
+      "kind": "number",
+      "text": "2. peralatan uji sudut penampang profil;",
+      "part": "body"
+    },
+    {
+      "id": "p-0156",
+      "kind": "number",
+      "text": "3. peralatan uji puntir;",
+      "part": "body"
+    },
+    {
+      "id": "p-0157",
+      "kind": "number",
+      "text": "4. peralatan uji kelurusan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0158",
+      "kind": "number",
+      "text": "5. peralatan uji kerataan melintang; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0159",
+      "kind": "number",
+      "text": "6. peralatan uji konduktivitas;",
+      "part": "body"
+    },
+    {
+      "id": "p-0160",
+      "kind": "letter",
+      "text": "e. telah menerapkan sistem manajemen mutu ISO 9001:2015; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0161",
+      "kind": "letter",
+      "text": "f. memiliki Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0162",
+      "kind": "paragraph",
+      "text": "(2) Perwakilan Resmi sebagaimana dimaksud pada ayat (1) huruf f harus memenuhi ketentuan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0163",
+      "kind": "letter",
+      "text": "a. ditunjuk oleh Produsen di Luar Negeri sebagai perwakilannya di wilayah hukum Negara Kesatuan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0164",
+      "kind": "letter",
+      "text": "b. mendapatkan lisensi untuk menggunakan dan bertanggung jawab atas merek untuk produk Bus Bar Tembaga (Copper Bus Bars) kelas 9 (sembilan) dari Produsen di Luar Negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0165",
+      "kind": "letter",
+      "text": "c. menguasai gudang di kabupaten/kota yang sama atau kabupaten/kota terdekat dengan tempat kedudukan Perwakilan Resmi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0166",
+      "kind": "letter",
+      "text": "d. bertindak sebagai importir untuk Bus Bar Tembaga (Copper Bus Bars) hasil produksi Produsen di Luar Negeri; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0167",
+      "kind": "letter",
+      "text": "e. memiliki akun SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0168",
+      "kind": "paragraph",
+      "text": "(3) Perwakilan Resmi sebagaimana dimaksud pada ayat (2):",
+      "part": "body"
+    },
+    {
+      "id": "p-0169",
+      "kind": "letter",
+      "text": "a. hanya mewakili 1 (satu) Produsen di Luar Negeri; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0170",
+      "kind": "letter",
+      "text": "b. dapat mewakili lebih dari 1 (satu) Produsen di Luar Negeri dalam hal Produsen di Luar Negeri yang diwakili merupakan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0171",
+      "kind": "number",
+      "text": "1. induk perusahaan dari Perwakilan Resmi dan Produsen di Luar Negeri lainnya yang diwakili;",
+      "part": "body"
+    },
+    {
+      "id": "p-0172",
+      "kind": "number",
+      "text": "2. anak perusahaan dari induk perusahaan yang sama dengan Perwakilan Resmi dan Produsen di Luar Negeri lainnya yang diwakili; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0173",
+      "kind": "number",
+      "text": "3. anak perusahaan dari Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0174",
+      "kind": "paragraph",
+      "text": "(4) Induk perusahaan sebagaimana dimaksud pada ayat (3) huruf b angka 1 dan angka 2 harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0175",
+      "kind": "letter",
+      "text": "a. melakukan kegiatan usaha industri Bus Bar Tembaga (Copper Bus Bars); dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0176",
+      "kind": "letter",
+      "text": "b. memiliki saham di anak perusahaan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0177",
+      "kind": "paragraph",
+      "text": "(5) Produsen di Luar Negeri sebagaimana dimaksud pada ayat (1) hanya dapat menunjuk 1 (satu) Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0178",
+      "kind": "paragraph",
+      "text": "(6) Dalam hal Produsen di Luar Negeri mengganti Perwakilan Resmi sebelum masa berlaku Sertifikat SNI berakhir, Sertifikat SNI dinyatakan berakhir masa berlakunya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0179",
+      "kind": "part",
+      "text": "Bagian Kedua",
+      "part": "body"
+    },
+    {
+      "id": "p-0180",
+      "kind": "body",
+      "text": "Tata Cara Memperoleh Sertifikat Standar Nasional Indonesia",
+      "part": "body"
+    },
+    {
+      "id": "p-0181",
+      "kind": "article",
+      "text": "Pasal 12",
+      "part": "body"
+    },
+    {
+      "id": "p-0182",
+      "kind": "paragraph",
+      "text": "(1) Permohonan penerbitan Sertifikat SNI diajukan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0183",
+      "kind": "letter",
+      "text": "a. Perusahaan Industri; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0184",
+      "kind": "letter",
+      "text": "b. Produsen di Luar Negeri melalui Perwakilan Resmi, secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0185",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal Perusahaan Industri atau Produsen di Luar Negeri memiliki lebih dari 1 (satu) lokasi produksi, Perusahaan Industri atau Produsen di Luar Negeri melalui Perwakilan Resmi harus mengajukan permohonan penerbitan Sertifikat SNI untuk setiap lokasi produksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0186",
+      "kind": "article",
+      "text": "Pasal 13",
+      "part": "body"
+    },
+    {
+      "id": "p-0187",
+      "kind": "paragraph",
+      "text": "(1) Pada laman SIINas, Perusahaan Industri sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf a harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0188",
+      "kind": "letter",
+      "text": "a. menginput data dengan mengisi formulir isian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0189",
+      "kind": "letter",
+      "text": "b. memilih SNI yang akan diajukan penilaian kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0190",
+      "kind": "letter",
+      "text": "c. memilih LSPro yang akan melakukan penilaian kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0191",
+      "kind": "letter",
+      "text": "d. mengunggah bukti kepemilikan merek berupa sertifikat merek untuk produk Bus Bar Tembaga (Copper Bus Bars) kelas 9 (sembilan) yang diterbitkan oleh Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum dan Hak Asasi Manusia; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0192",
+      "kind": "letter",
+      "text": "e. mengunggah dokumen pendukung lain berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0193",
+      "kind": "number",
+      "text": "1. surat permohonan yang dicetak melalui SIINas dan ditandatangani oleh pimpinan Perusahaan Industri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0194",
+      "kind": "number",
+      "text": "2. salinan akta pendirian perusahaan dan perubahannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0195",
+      "kind": "number",
+      "text": "3. perizinan berusaha dengan lingkup kegiatan usaha industri Bus Bar Tembaga (Copper Bus Bars) dengan lingkup KBLI 24204 dan/atau 27320;",
+      "part": "body"
+    },
+    {
+      "id": "p-0196",
+      "kind": "number",
+      "text": "4. sertifikat sistem manajemen mutu ISO 9001:2015;",
+      "part": "body"
+    },
+    {
+      "id": "p-0197",
+      "kind": "number",
+      "text": "5. surat pernyataan bermeterai yang dicetak melalui SIINas dan ditandatangani oleh pimpinan Perusahaan Industri yang menyatakan tidak akan mengedarkan, memasarkan, dan/atau memindahtangankan produk Bus Bar Tembaga (Copper Bus Bars) sebelum memperoleh Sertifikat SNI dan SPPT",
+      "part": "body"
+    },
+    {
+      "id": "p-0198",
+      "kind": "number",
+      "text": "6. diagram alir proses produksi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0199",
+      "kind": "number",
+      "text": "7. informasi produk Bus Bar Tembaga (Copper Bus Bars) yang mencakup merek, jenis, ukuran, dan tingkat temper;",
+      "part": "body"
+    },
+    {
+      "id": "p-0200",
+      "kind": "number",
+      "text": "8. Data spesifikasi teknis (technical data sheet) untuk semua jenis, tingkat temper dan jenis Bus Bar Tembaga (Copper Bus Bars) yang diajukan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0201",
+      "kind": "number",
+      "text": "9. daftar fasilitas produksi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0202",
+      "kind": "number",
+      "text": "10. daftar peralatan uji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0203",
+      "kind": "number",
+      "text": "11. ilustrasi pembubuhan Tanda SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0204",
+      "kind": "number",
+      "text": "12. daftar informasi terdokumentasi sesuai ISO 9001:2015;",
+      "part": "body"
+    },
+    {
+      "id": "p-0205",
+      "kind": "number",
+      "text": "13. struktur organisasi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0206",
+      "kind": "number",
+      "text": "14. proses bisnis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0207",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal Perusahaan Industri mengajukan permohonan penerbitan Sertifikat SNI dalam jangka waktu paling lama 1 (satu) tahun setelah tanggal pendaftaran merek di Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum dan Hak Asasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0208",
+      "kind": "body",
+      "text": "Manusia namun sertifikat merek belum diterbitkan, Perusahaan Industri dapat mengunggah bukti pendaftaran merek sebagai pengganti sertifikat merek sebagaimana dimaksud pada ayat (1) huruf d.",
+      "part": "body"
+    },
+    {
+      "id": "p-0209",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal Perusahaan Industri mengajukan permohonan penerbitan Sertifikat SNI dalam jangka waktu paling lama 1 (satu) tahun setelah tanggal penerbitan perizinan berusaha di bidang industri Bus Bar Tembaga (Copper Bus Bars), Perusahaan Industri dapat mengunggah surat pernyataan penerapan sistem manajemen mutu ISO 9001:2015 sebagai pengganti salinan sertifikat sistem manajemen mutu ISO 9001:2015 sebagaimana dimaksud pada ayat (1) huruf e angka 4.",
+      "part": "body"
+    },
+    {
+      "id": "p-0210",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal Perusahaan Industri pada saat pengajuan permohonan mengunggah bukti pendaftaran merek sebagaimana dimaksud pada ayat (2) dan/atau surat pernyataan penerapan sistem manajemen mutu sebagaimana dimaksud pada ayat (3), Perusahaan Industri yang bersangkutan harus memiliki sertifikat merek dan sertifikat sistem manajemen mutu ISO 9001:2015 pada saat pelaksanaan Surveilen kedua.",
+      "part": "body"
+    },
+    {
+      "id": "p-0211",
+      "kind": "article",
+      "text": "Pasal 14",
+      "part": "body"
+    },
+    {
+      "id": "p-0212",
+      "kind": "paragraph",
+      "text": "(1) Pada laman SIINas, Perwakilan Resmi sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf b harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0213",
+      "kind": "letter",
+      "text": "a. menginput data dengan mengisi formulir isian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0214",
+      "kind": "letter",
+      "text": "b. memilih SNI yang akan diajukan penilaian kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0215",
+      "kind": "letter",
+      "text": "c. memilih LSPro yang akan melakukan penilaian kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0216",
+      "kind": "letter",
+      "text": "d. mengunggah bukti kepemilikan merek berupa sertifikat merek untuk produk Bus Bar Tembaga (Copper Bus Bars) kelas 9 (sembilan) yang diterbitkan oleh Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum dan Hak Asasi Manusia; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0217",
+      "kind": "letter",
+      "text": "e. mengunggah dokumen pendukung lain berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0218",
+      "kind": "number",
+      "text": "1. surat permohonan yang dicetak melalui SIINas dan ditandatangani oleh pimpinan Perwakilan Resmi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0219",
+      "kind": "number",
+      "text": "2. salinan akta pendirian Produsen di Luar Negeri dan perubahannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0220",
+      "kind": "number",
+      "text": "3. perizinan berusaha dengan ruang lingkup kegiatan usaha industri Bus Bar Tembaga (Copper Bus Bars) atau surat keterangan dari otoritas yang berwenang di negara setempat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0221",
+      "kind": "number",
+      "text": "4. sertifikat sistem manajemen mutu ISO 9001:2015;",
+      "part": "body"
+    },
+    {
+      "id": "p-0222",
+      "kind": "number",
+      "text": "5. surat pernyataan bermeterai yang dicetak melalui SIINas dan ditandatangani oleh pimpinan Perwakilan Resmi yang menyatakan tidak akan mengedarkan, memasarkan, dan/atau memindahtangankan produk Bus",
+      "part": "body"
+    },
+    {
+      "id": "p-0223",
+      "kind": "body",
+      "text": "Bar Tembaga (Copper Bus Bars) sebelum memperoleh Sertifikat SNI dan SPPT SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0224",
+      "kind": "number",
+      "text": "6. diagram alir proses produksi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0225",
+      "kind": "number",
+      "text": "7. informasi produk Bus Bar Tembaga (Copper Bus Bars) yang mencakup merek, jenis, ukuran, dan tingkat temper;",
+      "part": "body"
+    },
+    {
+      "id": "p-0226",
+      "kind": "number",
+      "text": "8. Data spesifikasi teknis (technical data sheet) untuk semua jenis, tingkat temper dan jenis Bus Bar Tembaga (Copper Bus Bars) yang diajukan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0227",
+      "kind": "number",
+      "text": "9. daftar fasilitas produksi;",
+      "part": "body"
+    },
+    {
+      "id": "p-0228",
+      "kind": "number",
+      "text": "10. daftar peralatan uji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0229",
+      "kind": "number",
+      "text": "11. ilustrasi pembubuhan Tanda SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0230",
+      "kind": "number",
+      "text": "12. daftar informasi terdokumentasi sesuai ISO 9001:2015;",
+      "part": "body"
+    },
+    {
+      "id": "p-0231",
+      "kind": "number",
+      "text": "13. struktur organisasi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0232",
+      "kind": "number",
+      "text": "14. proses bisnis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0233",
+      "kind": "paragraph",
+      "text": "(2) Dokumen sebagaimana dimaksud pada ayat (1) huruf e angka 2 dan angka 3 harus diunggah sebanyak 2 (dua) salinan dengan ketentuan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0234",
+      "kind": "letter",
+      "text": "a. 1 (satu) salinan asli yang dilegalisasi oleh pejabat diplomatik di bidang perindustrian/ekonomi atau perwakilan konsuler Indonesia di negara setempat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0235",
+      "kind": "body",
+      "text": "dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0236",
+      "kind": "letter",
+      "text": "b. 1 (satu) salinan terjemahan dalam bahasa Indonesia yang diterjemahkan oleh penerjemah tersumpah.",
+      "part": "body"
+    },
+    {
+      "id": "p-0237",
+      "kind": "paragraph",
+      "text": "(3) Dokumen sebagaimana dimaksud pada ayat (1) huruf e angka 6, angka 7, angka 9, angka 10, angka 12, angka 13, dan angka 14 diterjemahkan dalam bahasa Indonesia.",
+      "part": "body"
+    },
+    {
+      "id": "p-0238",
+      "kind": "paragraph",
+      "text": "(4) Selain mengunggah dokumen sebagaimana dimaksud pada ayat (1), Perwakilan Resmi juga harus mengunggah dokumen legalitas Perwakilan Resmi berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0239",
+      "kind": "letter",
+      "text": "a. salinan akta pendirian perusahaan dan perubahannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0240",
+      "kind": "letter",
+      "text": "b. perizinan berusaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0241",
+      "kind": "letter",
+      "text": "c. bukti penunjukan sebagai Perwakilan Resmi dalam bentuk akta otentik yang dibuat di hadapan notaris di wilayah hukum Negara Kesatuan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0242",
+      "kind": "letter",
+      "text": "d. perjanjian lisensi merek untuk produk Bus Bar Tembaga (Copper Bus Bars) kelas 9 (sembilan) dari Produsen di Luar Negeri sebagai pemilik merek kepada Perwakilan Resmi yang dicatatkan di Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum dan Hak Asasi Manusia;",
+      "part": "body"
+    },
+    {
+      "id": "p-0243",
+      "kind": "letter",
+      "text": "e. bukti pencatatan perjanjian lisensi merek untuk produk Bus Bar Tembaga (Copper Bus Bars) dari Produsen di Luar Negeri sebagai pemilik merek kepada Perwakilan Resmi yang diterbitkan oleh Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum dan Hak Asasi Manusia; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0244",
+      "kind": "letter",
+      "text": "f. bukti menguasai gudang di kabupaten/kota yang sama atau kabupaten/kota terdekat dengan tempat kedudukan Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0245",
+      "kind": "paragraph",
+      "text": "(5) Dalam melakukan legalisasi dokumen, pejabat diplomatik di bidang perindustrian/ekonomi atau perwakilan konsuler Indonesia di negara setempat sebagaimana dimaksud pada ayat (2) huruf a dapat melakukan verifikasi kebenaran dokumen yang akan dilegalisasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0246",
+      "kind": "paragraph",
+      "text": "(6) Dalam hal merek sebagaimana dimaksud pada ayat (1) huruf d dimiliki oleh Perwakilan Resmi, perjanjian lisensi merek sebagaimana dimaksud pada ayat (4) huruf d dapat digantikan dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0247",
+      "kind": "letter",
+      "text": "a. sertifikat merek atas nama Perwakilan Resmi; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0248",
+      "kind": "letter",
+      "text": "b. bukti bahwa Produsen di Luar Negeri merupakan milik atau anak perusahaan dari Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0249",
+      "kind": "paragraph",
+      "text": "(7) Dalam hal Perwakilan Resmi sebagaimana dimaksud pada ayat (1) memiliki lebih dari 1 (satu) lokasi, tempat kedudukan Perwakilan Resmi sebagaimana dimaksud pada ayat (4) huruf f mengacu pada 1 (satu) alamat utama, alamat kantor, atau korespondensi sebagaimana tercantum dalam dokumen perizinan berusaha.",
+      "part": "body"
+    },
+    {
+      "id": "p-0250",
+      "kind": "article",
+      "text": "Pasal 15",
+      "part": "body"
+    },
+    {
+      "id": "p-0251",
+      "kind": "body",
+      "text": "Sertifikat sistem manajemen mutu sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf e angka 4 dan Pasal 14 ayat (1) huruf e angka 4 harus diterbitkan oleh:",
+      "part": "body"
+    },
+    {
+      "id": "p-0252",
+      "kind": "letter",
+      "text": "a. lembaga sertifikasi sistem manajemen mutu yang telah diakreditasi oleh KAN; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0253",
+      "kind": "letter",
+      "text": "b. lembaga sertifikasi sistem manajemen mutu yang telah diakreditasi oleh badan akreditasi penanda tangan perjanjian saling pengakuan melalui kerja sama akreditasi internasional.",
+      "part": "body"
+    },
+    {
+      "id": "p-0254",
+      "kind": "article",
+      "text": "Pasal 16",
+      "part": "body"
+    },
+    {
+      "id": "p-0255",
+      "kind": "paragraph",
+      "text": "(1) Kepala Badan melakukan verifikasi atas kebenaran isian formulir dan kelengkapan dokumen yang diunggah oleh Perusahaan Industri atau Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0256",
+      "kind": "paragraph",
+      "text": "(2) Dalam melakukan verifikasi sebagaimana dimaksud pada ayat (1), Kepala Badan menugaskan unit kerja yang memiliki tugas dan fungsi perumusan, penerapan, dan pemberlakuan standardisasi industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0257",
+      "kind": "paragraph",
+      "text": "(3) Verifikasi sebagaimana dimaksud pada ayat (1) dilakukan paling lama 3 (tiga) hari kerja terhitung sejak permohonan diterima.",
+      "part": "body"
+    },
+    {
+      "id": "p-0258",
+      "kind": "article",
+      "text": "Pasal 17",
+      "part": "body"
+    },
+    {
+      "id": "p-0259",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal berdasarkan hasil verifikasi sebagaimana dimaksud dalam Pasal 16 ditemukan ketidaksesuaian, Kepala Badan melalui SIINas meminta Perusahaan Industri atau Perwakilan Resmi untuk melakukan klarifikasi dan/atau melengkapi dokumen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0260",
+      "kind": "paragraph",
+      "text": "(2) Perusahaan Industri atau Perwakilan Resmi harus melakukan klarifikasi dan/atau melengkapi dokumen paling lama 5 (lima) hari kerja terhitung sejak tanggal permintaan dari Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0261",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal Perusahaan Industri atau Perwakilan Resmi tidak menyampaikan klarifikasi dan/atau tidak melengkapi dokumen sampai dengan batas waktu sebagaimana dimaksud pada ayat (2), pengajuan permohonan penerbitan Sertifikat SNI dinyatakan batal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0262",
+      "kind": "article",
+      "text": "Pasal 18",
+      "part": "body"
+    },
+    {
+      "id": "p-0263",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal isian formulir dan kelengkapan dokumen permohonan penerbitan Sertifikat SNI dinyatakan telah sesuai dan lengkap, Kepala Badan melalui SIINas meneruskan kepada LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0264",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal LSPro sebagaimana dimaksud pada ayat (1) membutuhkan dokumen tambahan terkait penilaian kesesuaian, Perusahaan Industri atau Perwakilan Resmi harus melengkapi dan menyampaikannya kepada LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0265",
+      "kind": "article",
+      "text": "Pasal 19",
+      "part": "body"
+    },
+    {
+      "id": "p-0266",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal LSPro telah selesai melakukan penilaian kesesuaian, LSPro menyampaikan hasil penilaian kesesuaian kepada Kepala Badan melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0267",
+      "kind": "paragraph",
+      "text": "(2) Hasil penilaian kesesuaian sebagaimana dimaksud pada ayat (1) paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0268",
+      "kind": "letter",
+      "text": "a. tanggal pelaksanaan audit kecukupan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0269",
+      "kind": "letter",
+      "text": "b. skema sertifikasi dan tanggal audit kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0270",
+      "kind": "letter",
+      "text": "c. nama auditor;",
+      "part": "body"
+    },
+    {
+      "id": "p-0271",
+      "kind": "letter",
+      "text": "d. nama petugas pengambil contoh;",
+      "part": "body"
+    },
+    {
+      "id": "p-0272",
+      "kind": "letter",
+      "text": "e. hasil pelaksanaan audit kecukupan dan audit kesesuaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0273",
+      "kind": "letter",
+      "text": "f. uraian produk Bus Bar Tembaga (Copper Bus Bars) yang mencakup merek, jenis, ukuran, dan tingkat temper;",
+      "part": "body"
+    },
+    {
+      "id": "p-0274",
+      "kind": "letter",
+      "text": "g. Laboratorium Uji yang digunakan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0275",
+      "kind": "letter",
+      "text": "h. konsep Sertifikat SNI yang akan diterbitkan beserta lampirannya; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0276",
+      "kind": "letter",
+      "text": "i. laporan hasil uji yang meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0277",
+      "kind": "number",
+      "text": "1. nomor dan judul SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0278",
+      "kind": "number",
+      "text": "2. tanggal penerimaan contoh uji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0279",
+      "kind": "number",
+      "text": "3. tanggal pelaksanaan pengujian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0280",
+      "kind": "number",
+      "text": "4. nomor dan tanggal laporan hasil uji; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0281",
+      "kind": "number",
+      "text": "5. hasil uji.",
+      "part": "body"
+    },
+    {
+      "id": "p-0282",
+      "kind": "article",
+      "text": "Pasal 20",
+      "part": "body"
+    },
+    {
+      "id": "p-0283",
+      "kind": "paragraph",
+      "text": "(1) Kepala Badan melakukan evaluasi terhadap hasil penilaian kesesuaian yang disampaikan oleh LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0284",
+      "kind": "paragraph",
+      "text": "(2) Evaluasi sebagaimana dimaksud pada ayat (1) meliputi pemeriksaan terhadap proses penilaian kesesuaian yang dilakukan oleh LSPro sesuai dengan ketentuan dalam Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0285",
+      "kind": "paragraph",
+      "text": "(3) Evaluasi sebagaimana dimaksud pada ayat (2) dilakukan paling lama 5 (lima) hari kerja terhitung sejak hasil penilaian kesesuaian disampaikan oleh LSPro secara lengkap.",
+      "part": "body"
+    },
+    {
+      "id": "p-0286",
+      "kind": "paragraph",
+      "text": "(4) Dalam melakukan evaluasi sebagaimana dimaksud pada ayat (2), Kepala Badan menugaskan unit kerja yang memiliki tugas dan fungsi perumusan, penerapan, dan pemberlakuan standardisasi industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0287",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal berdasarkan hasil evaluasi sebagaimana dimaksud pada ayat (1) ditemukan adanya ketidaksesuaian, Kepala Badan meminta LSPro untuk memberikan klarifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0288",
+      "kind": "paragraph",
+      "text": "(6) Permintaan Kepala Badan sebagaimana dimaksud pada ayat (5) disampaikan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0289",
+      "kind": "article",
+      "text": "Pasal 21",
+      "part": "body"
+    },
+    {
+      "id": "p-0290",
+      "kind": "paragraph",
+      "text": "(1) LSPro harus memberikan klarifikasi paling lama 5 (lima) hari kerja terhitung sejak tanggal permintaan klarifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0291",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal LSPro:",
+      "part": "body"
+    },
+    {
+      "id": "p-0292",
+      "kind": "letter",
+      "text": "a. tidak memberikan klarifikasi sampai dengan batas waktu sebagaimana dimaksud pada ayat (1); atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0293",
+      "kind": "letter",
+      "text": "b. telah memberikan klarifikasi namun tetap tidak dapat memenuhi ketentuan penilaian kesesuaian yang dipersyaratkan sesuai dengan ketentuan dalam Peraturan Menteri ini, Kepala Badan tidak memberikan validasi terhadap pelaksanaan penilaian kesesuaian dan permohonan penerbitan Sertifikat SNI dinyatakan gagal.",
+      "part": "body"
+    },
+    {
+      "id": "p-0294",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0295",
+      "kind": "letter",
+      "text": "a. berdasarkan laporan hasil evaluasi dinyatakan proses penilaian kesesuaian telah dilaksanakan sesuai dengan ketentuan dalam Peraturan Menteri ini; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0296",
+      "kind": "letter",
+      "text": "b. LSPro telah melakukan perbaikan atas ketidaksesuaian, Kepala Badan memberikan validasi terhadap pelaksanaan penilaian kesesuaian oleh LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0297",
+      "kind": "article",
+      "text": "Pasal 22",
+      "part": "body"
+    },
+    {
+      "id": "p-0298",
+      "kind": "paragraph",
+      "text": "(1) Bukti validasi terhadap pelaksanaan penilaian kesesuaian sebagaimana dimaksud dalam Pasal 21 ayat (3) berupa tanda elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0299",
+      "kind": "paragraph",
+      "text": "(2) Tanda elektonik sebagaimana dimaksud pada ayat (1) memuat tautan elektronik ke informasi sertifikat yang terdapat dalam SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0300",
+      "kind": "paragraph",
+      "text": "(3) Tanda elektronik sebagaimana dimaksud pada ayat (1) disampaikan kepada LSPro secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0301",
+      "kind": "article",
+      "text": "Pasal 23",
+      "part": "body"
+    },
+    {
+      "id": "p-0302",
+      "kind": "paragraph",
+      "text": "(1) Berdasarkan hasil penilaian kesesuaian sebagaimana dimaksud dalam Pasal 19 dan hasil evaluasi sebagaimana dimaksud dalam Pasal 20, LSPro menerbitkan Sertifikat SNI paling lama 5 (lima) hari",
+      "part": "body"
+    },
+    {
+      "id": "p-0303",
+      "kind": "body",
+      "text": "kerja setelah mendapatkan tanda elektronik sebagaimana dimaksud dalam Pasal 22 ayat (3).",
+      "part": "body"
+    },
+    {
+      "id": "p-0304",
+      "kind": "paragraph",
+      "text": "(2) Sertifikat SNI sebagaimana dimaksud pada ayat (1) harus dibubuhi tanda elektronik sebagaimana dimaksud dalam Pasal 22 ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0305",
+      "kind": "paragraph",
+      "text": "(3) LSPro sebagaimana dimaksud pada ayat (1):",
+      "part": "body"
+    },
+    {
+      "id": "p-0306",
+      "kind": "letter",
+      "text": "a. menyampaikan sertifikat SNI yang telah dibubuhi tanda elektronik kepada Perusahaan Industri atau Produsen di Luar Negeri; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0307",
+      "kind": "letter",
+      "text": "b. mengunggah sertifikat SNI yang telah dibubuhi tanda elektronik ke dalam SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0308",
+      "kind": "paragraph",
+      "text": "(4) Sertifikat SNI sebagaimana dimaksud pada ayat (1) paling sedikit mencantumkan informasi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0309",
+      "kind": "letter",
+      "text": "a. nama dan alamat Perusahaan Industri atau Produsen di Luar Negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0310",
+      "kind": "letter",
+      "text": "b. alamat pabrik;",
+      "part": "body"
+    },
+    {
+      "id": "p-0311",
+      "kind": "letter",
+      "text": "c. merek;",
+      "part": "body"
+    },
+    {
+      "id": "p-0312",
+      "kind": "letter",
+      "text": "d. jenis, ukuran, dan tingkat temper;",
+      "part": "body"
+    },
+    {
+      "id": "p-0313",
+      "kind": "letter",
+      "text": "e. nomor dan judul SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0314",
+      "kind": "letter",
+      "text": "f. tanggal terbit Sertifikat SNI; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0315",
+      "kind": "letter",
+      "text": "g. masa berlaku Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0316",
+      "kind": "paragraph",
+      "text": "(5) Selain informasi sebagaimana dimaksud pada ayat (4), Sertifikat SNI untuk Bus Bar Tembaga (Copper Bus Bars) asal impor juga harus mencantumkan nama dan alamat Perwakilan Resmi dan alamat gudang Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0317",
+      "kind": "article",
+      "text": "Pasal 24",
+      "part": "body"
+    },
+    {
+      "id": "p-0318",
+      "kind": "paragraph",
+      "text": "(1) Tata cara memperoleh Sertifikat SNI mengacu pada skema sertifikasi SNI untuk Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0319",
+      "kind": "paragraph",
+      "text": "(2) Skema sertifikasi SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0320",
+      "kind": "part",
+      "text": "Bagian Ketiga",
+      "part": "body"
+    },
+    {
+      "id": "p-0321",
+      "kind": "body",
+      "text": "Persetujuan Penggunaan Tanda Standar Nasional Indonesia",
+      "part": "body"
+    },
+    {
+      "id": "p-0322",
+      "kind": "article",
+      "text": "Pasal 25",
+      "part": "body"
+    },
+    {
+      "id": "p-0323",
+      "kind": "paragraph",
+      "text": "(1) Bus Bar Tembaga (Copper Bus Bars) yang telah memenuhi ketentuan SNI sebagaimana dimaksud dalam Pasal 2 dan telah memiliki Sertifikat SNI harus dibubuhi Tanda SNI dan tanda elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0324",
+      "kind": "paragraph",
+      "text": "(2) Pembubuhan Tanda SNI dan tanda elektronik sebagaimana dimaksud pada ayat (1) dilakukan setelah memperoleh persetujuan penggunaan Tanda SNI dari Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0325",
+      "kind": "paragraph",
+      "text": "(3) Persetujuan penggunaan Tanda SNI sebagaimana dimaksud pada ayat (2) diberikan dalam bentuk SPPT",
+      "part": "body"
+    },
+    {
+      "id": "p-0326",
+      "kind": "article",
+      "text": "Pasal 26",
+      "part": "body"
+    },
+    {
+      "id": "p-0327",
+      "kind": "paragraph",
+      "text": "(1) SPPT SNI sebagaimana dimaksud dalam Pasal 25 ayat (3) diberikan kepada:",
+      "part": "body"
+    },
+    {
+      "id": "p-0328",
+      "kind": "letter",
+      "text": "a. Perusahaan Industri; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0329",
+      "kind": "letter",
+      "text": "b. Perwakilan Resmi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0330",
+      "kind": "paragraph",
+      "text": "(2) SPPT SNI sebagaimana dimaksud pada ayat (1) diberikan untuk jangka waktu 1 (satu) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0331",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal masa berlaku Sertifikat SNI belum berakhir, SPPT SNI dapat diperpanjang untuk setiap periode 1 (satu) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0332",
+      "kind": "article",
+      "text": "Pasal 27",
+      "part": "body"
+    },
+    {
+      "id": "p-0333",
+      "kind": "paragraph",
+      "text": "(1) Untuk mendapatkan SPPT SNI, Perusahaan Industri atau Perwakilan Resmi sebagaimana dimaksud dalam Pasal 26 ayat (1) mengajukan permohonan penerbitan SPPT SNI kepada Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0334",
+      "kind": "paragraph",
+      "text": "(2) Pengajuan permohonan penerbitan SPPT SNI sebagaimana dimaksud pada ayat (1) dilakukan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0335",
+      "kind": "paragraph",
+      "text": "(3) Dalam mengajukan permohonan penerbitan SPPT SNI sebagaimana dimaksud pada ayat (1), pemohon SPPT SNI harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0336",
+      "kind": "letter",
+      "text": "a. menginput data dengan mengisi formulir isian pada laman SIINas; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0337",
+      "kind": "letter",
+      "text": "b. mengunggah dokumen pendukung yang diperlukan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0338",
+      "kind": "number",
+      "text": "1. untuk Perusahaan Industri berupa bukti kapasitas produksi, tingkat utilisasi, rencana produksi, dan realisasi produksi tahun sebelumnya; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0339",
+      "kind": "number",
+      "text": "2. untuk Perwakilan Resmi berupa bukti kapasitas produksi Produsen di Luar Negeri, rencana importasi, dan realisasi tahunan importasi terakhir.",
+      "part": "body"
+    },
+    {
+      "id": "p-0340",
+      "kind": "paragraph",
+      "text": "(4) Dokumen realisasi produksi tahun sebelumnya sebagaimana dimaksud pada ayat (3) huruf b angka 1 atau realisasi tahunan importasi terakhir sebagaimana dimaksud pada ayat (3) huruf b angka 2 dikecualikan bagi Perusahaan Industri atau Perwakilan Resmi yang baru mengajukan permohonan penerbitan SPPT SNI untuk pertama kali.",
+      "part": "body"
+    },
+    {
+      "id": "p-0341",
+      "kind": "article",
+      "text": "Pasal 28",
+      "part": "body"
+    },
+    {
+      "id": "p-0342",
+      "kind": "paragraph",
+      "text": "(1) Kepala Badan melakukan evaluasi atas permohonan penerbitan SPPT SNI sebagaimana dimaksud dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0343",
+      "kind": "article",
+      "text": "Pasal 29",
+      "part": "body"
+    },
+    {
+      "id": "p-0344",
+      "kind": "paragraph",
+      "text": "(2) Dalam melakukan evaluasi sebagaimana dimaksud pada ayat (1), Kepala Badan membentuk tim.",
+      "part": "body"
+    },
+    {
+      "id": "p-0345",
+      "kind": "paragraph",
+      "text": "(3) Tim sebagaimana dimaksud pada ayat (2) paling sedikit terdiri atas unsur:",
+      "part": "body"
+    },
+    {
+      "id": "p-0346",
+      "kind": "letter",
+      "text": "a. Badan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0347",
+      "kind": "letter",
+      "text": "b. direktorat jenderal di lingkungan Kementerian Perindustrian yang mempunyai tugas melakukan pembinaan terhadap industri Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0348",
+      "kind": "paragraph",
+      "text": "(1) Dalam melaksanakan evaluasi sebagaimana dimaksud dalam Pasal 28, tim melakukan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0349",
+      "kind": "letter",
+      "text": "a. pemeriksaan atas kesesuaian isian formulir dengan dokumen pendukung; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0350",
+      "kind": "letter",
+      "text": "b. penilaian kelayakan penggunaan Tanda SNI yang diajukan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0351",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal ditemukan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0352",
+      "kind": "letter",
+      "text": "a. ketidaksesuaian antara isian formulir dan dokumen pendukung; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0353",
+      "kind": "letter",
+      "text": "b. ketidaklayakan antara permintaan penggunaan Tanda SNI yang diajukan dan dokumen pendukung, tim meminta pemohon SPPT SNI untuk memberikan klarifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0354",
+      "kind": "paragraph",
+      "text": "(3) Pemohon SPPT SNI harus memberikan klarifikasi dalam jangka waktu paling lama 3 (tiga) hari kerja terhitung sejak disampaikannya permintaan klarifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0355",
+      "kind": "paragraph",
+      "text": "(4) Tim menyampaikan laporan hasil evaluasi kepada Kepala Badan paling lama 5 (lima) hari kerja terhitung sejak diterimanya permohonan penerbitan SPPT SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0356",
+      "kind": "article",
+      "text": "Pasal 30",
+      "part": "body"
+    },
+    {
+      "id": "p-0357",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal berdasarkan laporan hasil evaluasi dinyatakan pemohon SPPT SNI:",
+      "part": "body"
+    },
+    {
+      "id": "p-0358",
+      "kind": "letter",
+      "text": "a. tidak memberikan klarifikasi sampai dengan batas waktu sebagaimana dimaksud dalam Pasal 29 ayat (3); atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0359",
+      "kind": "letter",
+      "text": "b. tidak melakukan perbaikan atas ketidaksesuaian dan/atau ketidaklayakan permohonan penerbitan",
+      "part": "body"
+    },
+    {
+      "id": "p-0360",
+      "kind": "body",
+      "text": "SPPT SNI, Kepala Badan menolak permohonan penerbitan SPPT",
+      "part": "body"
+    },
+    {
+      "id": "p-0361",
+      "kind": "paragraph",
+      "text": "(2) Penolakan permohonan penerbitan SPPT SNI sebagaimana dimaksud pada ayat (1) disampaikan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0362",
+      "kind": "article",
+      "text": "Pasal 31",
+      "part": "body"
+    },
+    {
+      "id": "p-0363",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal berdasarkan laporan hasil evaluasi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0364",
+      "kind": "letter",
+      "text": "a. permohonan penerbitan SPPT SNI dinyatakan telah sesuai dan lengkap; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0365",
+      "kind": "letter",
+      "text": "b. pemohon SPPT SNI telah melakukan perbaikan atas ketidaksesuaian dan/atau ketidaklayakan, Kepala Badan menerbitkan SPPT SNI paling lama 5 (lima) hari kerja terhitung sejak diterimanya laporan hasil evaluasi dari tim.",
+      "part": "body"
+    },
+    {
+      "id": "p-0366",
+      "kind": "paragraph",
+      "text": "(2) Penerbitan SPPT SNI sebagaimana dimaksud pada ayat (1) disertai dengan tanda elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0367",
+      "kind": "paragraph",
+      "text": "(3) Tanda elektronik sebagaimana dimaksud pada ayat (2) memuat tautan elektronik yang berisi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0368",
+      "kind": "letter",
+      "text": "a. informasi Sertifikat SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0369",
+      "kind": "letter",
+      "text": "b. informasi produk; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0370",
+      "kind": "letter",
+      "text": "c. jangka waktu sesuai dengan SPPT SNI yang telah ditetapkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0371",
+      "kind": "paragraph",
+      "text": "(4) SPPT SNI dan tanda elektronik sebagaimana dimaksud pada ayat (2) disampaikan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0372",
+      "kind": "article",
+      "text": "Pasal 32",
+      "part": "body"
+    },
+    {
+      "id": "p-0373",
+      "kind": "body",
+      "text": "Tata cara pengajuan permohonan penerbitan SPPT SNI sebagaimana dimaksud dalam Pasal 27 sampai dengan Pasal 31 berlaku secara mutatis mutandis terhadap perpanjangan SPPT SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0374",
+      "kind": "article",
+      "text": "Pasal 33",
+      "part": "body"
+    },
+    {
+      "id": "p-0375",
+      "kind": "paragraph",
+      "text": "(1) Tata cara mengenai pembubuhan Tanda SNI dan tanda elektronik mengacu pada skema sertifikasi SNI untuk Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0376",
+      "kind": "paragraph",
+      "text": "(2) Skema sertifikasi SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0377",
+      "kind": "part",
+      "text": "Bagian Keempat",
+      "part": "body"
+    },
+    {
+      "id": "p-0378",
+      "kind": "body",
+      "text": "Surveilen",
+      "part": "body"
+    },
+    {
+      "id": "p-0379",
+      "kind": "article",
+      "text": "Pasal 34",
+      "part": "body"
+    },
+    {
+      "id": "p-0380",
+      "kind": "paragraph",
+      "text": "(1) LSPro yang telah menerbitkan Sertifikat SNI sebagaimana dimaksud dalam Pasal 23 ayat (1) wajib melakukan Surveilen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0381",
+      "kind": "paragraph",
+      "text": "(2) Surveilen sebagaimana dimaksud pada ayat (1) dilaksanakan secara berkala dan secara khusus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0382",
+      "kind": "paragraph",
+      "text": "(3) Surveilen secara berkala sebagaimana dimaksud pada ayat (2) dilakukan 1 (satu) kali dalam 1 (satu) tahun.",
+      "part": "body"
+    },
+    {
+      "id": "p-0383",
+      "kind": "paragraph",
+      "text": "(4) Surveilen secara khusus sebagaimana dimaksud pada ayat (2) dilakukan sewaktu-waktu dalam hal terdapat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0384",
+      "kind": "letter",
+      "text": "a. pengaduan dari orang perseorangan, masyarakat, instansi, dan/atau lembaga; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0385",
+      "kind": "letter",
+      "text": "b. instruksi dari Menteri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0386",
+      "kind": "paragraph",
+      "text": "(5) Dalam melaksanakan Surveilen secara berkala sebagaimana dimaksud pada ayat (3), LSPro harus memberitahukan jadwal pelaksanaan Surveilen kepada Perusahaan Industri atau Produsen di Luar Negeri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0387",
+      "kind": "article",
+      "text": "Pasal 35",
+      "part": "body"
+    },
+    {
+      "id": "p-0388",
+      "kind": "paragraph",
+      "text": "(1) LSPro melaporkan hasil Surveilen secara berkala dan hasil Surveilen secara khusus kepada Kepala Badan melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0389",
+      "kind": "paragraph",
+      "text": "(2) Pelaporan sebagaimana dimaksud pada ayat (1) paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0390",
+      "kind": "letter",
+      "text": "a. tanggal pelaksanaan Surveilen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0391",
+      "kind": "letter",
+      "text": "b. nama auditor;",
+      "part": "body"
+    },
+    {
+      "id": "p-0392",
+      "kind": "letter",
+      "text": "c. nama petugas pengambil contoh;",
+      "part": "body"
+    },
+    {
+      "id": "p-0393",
+      "kind": "letter",
+      "text": "d. hasil pelaksanaan Surveilen; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0394",
+      "kind": "letter",
+      "text": "e. nomor dan tanggal laporan hasil uji.",
+      "part": "body"
+    },
+    {
+      "id": "p-0395",
+      "kind": "paragraph",
+      "text": "(3) Kepala Badan melakukan evaluasi atas hasil Surveilen secara berkala dan hasil Surveilen secara khusus.",
+      "part": "body"
+    },
+    {
+      "id": "p-0396",
+      "kind": "paragraph",
+      "text": "(4) Dalam melakukan evaluasi atas hasil Surveilen secara berkala, Kepala Badan menugaskan unit kerja yang",
+      "part": "body"
+    },
+    {
+      "id": "p-0397",
+      "kind": "body",
+      "text": "mempunyai tugas dan fungsi perumusan, penerapan, dan pemberlakuan standardisasi industri.",
+      "part": "body"
+    },
+    {
+      "id": "p-0398",
+      "kind": "paragraph",
+      "text": "(5) Dalam melakukan evaluasi atas hasil Surveilen secara khusus, Kepala Badan membentuk tim.",
+      "part": "body"
+    },
+    {
+      "id": "p-0399",
+      "kind": "paragraph",
+      "text": "(6) Tim sebagaimana dimaksud pada ayat (5) paling sedikit terdiri atas unsur:",
+      "part": "body"
+    },
+    {
+      "id": "p-0400",
+      "kind": "letter",
+      "text": "a. pejabat di lingkungan Badan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0401",
+      "kind": "letter",
+      "text": "b. PPSI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0402",
+      "kind": "paragraph",
+      "text": "(7) Dalam melakukan evaluasi, unit kerja yang mempunyai tugas dan fungsi perumusan, penerapan, dan pemberlakuan standardisasi industri sebagaimana dimaksud pada ayat (4) dan tim sebagaimana dimaksud pada ayat (5):",
+      "part": "body"
+    },
+    {
+      "id": "p-0403",
+      "kind": "letter",
+      "text": "a. memeriksa kelengkapan dan kebenaran dokumen laporan yang disampaikan oleh LSPro; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0404",
+      "kind": "letter",
+      "text": "b. memastikan proses Surveilen telah dilaksanakan sesuai dengan ketentuan dalam Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0405",
+      "kind": "paragraph",
+      "text": "(8) Unit kerja yang mempunyai tugas dan fungsi perumusan, penerapan, dan pemberlakuan standardisasi industri dan tim menyampaikan laporan hasil evaluasi kepada Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0406",
+      "kind": "article",
+      "text": "Pasal 36",
+      "part": "body"
+    },
+    {
+      "id": "p-0407",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal berdasarkan laporan hasil evaluasi sebagaimana dimaksud dalam Pasal 35 ayat (8) dinyatakan dokumen dan proses Surveilen belum sesuai dengan ketentuan dalam Peraturan Menteri ini, Kepala Badan menerbitkan surat pemberitahuan kepada LSPro untuk memberikan klarifikasi, memperbaiki, dan/atau melengkapi dokumen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0408",
+      "kind": "paragraph",
+      "text": "(2) Surat pemberitahuan sebagaimana dimaksud pada ayat (1) disampaikan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0409",
+      "kind": "paragraph",
+      "text": "(3) LSPro sebagaimana dimaksud pada ayat (1) wajib memberikan klarifikasi, memperbaiki, dan/atau melengkapi dokumen dalam jangka waktu paling lama 30 (tiga puluh) hari kalender terhitung sejak surat pemberitahuan disampaikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0410",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal LSPro:",
+      "part": "body"
+    },
+    {
+      "id": "p-0411",
+      "kind": "letter",
+      "text": "a. tidak memberikan klarifikasi sampai dengan batas waktu sebagaimana dimaksud pada ayat (3); dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0412",
+      "kind": "letter",
+      "text": "b. tidak melakukan perbaikan atas pemenuhan penilaian kesesuaian yang dipersyaratkan sesuai dengan ketentuan dalam Peraturan Menteri ini sampai dengan batas waktu sebagaimana dimaksud pada ayat (3), Kepala Badan memerintahkan LSPro untuk membekukan Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0413",
+      "kind": "article",
+      "text": "Pasal 37",
+      "part": "body"
+    },
+    {
+      "id": "p-0414",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal berdasarkan laporan hasil evaluasi sebagaimana dimaksud dalam Pasal 35 ayat (8) dinyatakan dokumen dan proses Surveilen telah sesuai dengan ketentuan dalam Peraturan Menteri ini, Kepala",
+      "part": "body"
+    },
+    {
+      "id": "p-0415",
+      "kind": "body",
+      "text": "Badan melakukan validasi atas pelaksanaan penilaian kesesuaian dalam rangka Surveilen.",
+      "part": "body"
+    },
+    {
+      "id": "p-0416",
+      "kind": "paragraph",
+      "text": "(2) Validasi sebagaimana dimaksud pada ayat (1) dilakukan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0417",
+      "kind": "article",
+      "text": "Pasal 38",
+      "part": "body"
+    },
+    {
+      "id": "p-0418",
+      "kind": "body",
+      "text": "LSPro yang tidak melakukan Surveilen sebagaimana dimaksud dalam Pasal 34 dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0419",
+      "kind": "article",
+      "text": "Pasal 39",
+      "part": "body"
+    },
+    {
+      "id": "p-0420",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal Perusahaan Industri menggunakan bukti pendaftaran merek dan/atau surat pernyataan penerapan sistem manajemen mutu pada saat pengajuan permohonan penerbitan Sertifkat SNI, LSPro pada saat pelaksanaan Surveilan kedua harus memastikan bahwa Perusahaan Industri telah memiliki:",
+      "part": "body"
+    },
+    {
+      "id": "p-0421",
+      "kind": "letter",
+      "text": "a. sertifikat merek untuk menggantikan bukti pendaftaran merek; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0422",
+      "kind": "letter",
+      "text": "b. sertifikat sistem manajemen mutu ISO 9001:2015 untuk menggantikan surat pernyataan penerapan sistem manajemen mutu.",
+      "part": "body"
+    },
+    {
+      "id": "p-0423",
+      "kind": "paragraph",
+      "text": "(2) Apabila pada saat Surveilen sebagaimana dimaksud pada ayat (1) Perusahaan Industri belum memiliki sertifikat merek dan sertifikat sistem manajemen mutu ISO 9001:2015, LSPro mencabut Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0424",
+      "kind": "article",
+      "text": "Pasal 40",
+      "part": "body"
+    },
+    {
+      "id": "p-0425",
+      "kind": "paragraph",
+      "text": "(1) Tata cara pelaksanaan Surveilen mengacu pada skema sertifikasi SNI untuk Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0426",
+      "kind": "paragraph",
+      "text": "(2) Skema sertifikasi SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0427",
+      "kind": "chapter",
+      "text": "BAB IV",
+      "part": "body"
+    },
+    {
+      "id": "p-0428",
+      "kind": "body",
+      "text": "TATA CARA PENERBITAN SURAT KETERANGAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0429",
+      "kind": "article",
+      "text": "Pasal 41",
+      "part": "body"
+    },
+    {
+      "id": "p-0430",
+      "kind": "paragraph",
+      "text": "(1) Untuk memperoleh surat keterangan sebagaimana dimaksud dalam Pasal 4 ayat (1), Pelaku Usaha harus mengajukan permohonan penerbitan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0431",
+      "kind": "paragraph",
+      "text": "(2) Pengajuan permohonan penerbitan surat keterangan sebagaimana dimaksud pada ayat (1) dilakukan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0432",
+      "kind": "paragraph",
+      "text": "(3) Pada laman SIINas, Pelaku Usaha sebagaimana dimaksud pada ayat (1) harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0433",
+      "kind": "letter",
+      "text": "a. menginput data dengan mengisi formulir isian berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0434",
+      "kind": "number",
+      "text": "1. nomor pos tarif/harmonized system;",
+      "part": "body"
+    },
+    {
+      "id": "p-0435",
+      "kind": "number",
+      "text": "2. uraian barang;",
+      "part": "body"
+    },
+    {
+      "id": "p-0436",
+      "kind": "number",
+      "text": "3. spesifikasi barang dan/atau standar acuan produk yang dikecualikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0437",
+      "kind": "number",
+      "text": "4. nomor SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0438",
+      "kind": "number",
+      "text": "5. kegunaan atau keperluan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0439",
+      "kind": "number",
+      "text": "6. pelabuhan tujuan, untuk barang asal impor.",
+      "part": "body"
+    },
+    {
+      "id": "p-0440",
+      "kind": "letter",
+      "text": "b. memilih lembaga yang melakukan sertifikasi dan pengujian Bus Bar Tembaga (Copper Bus Bars); dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0441",
+      "kind": "letter",
+      "text": "c. mengunggah dokumen, berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0442",
+      "kind": "number",
+      "text": "1. salinan akta pendirian perusahaan atau perubahannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0443",
+      "kind": "number",
+      "text": "2. perizinan berusaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0444",
+      "kind": "number",
+      "text": "3. surat pernyataan dari Pelaku Usaha yang menyatakan bahwa Bus Bar Tembaga (Copper Bus Bars) yang diajukan pengecualiannya memiliki standar, ruang lingkup, klasifikasi, dan/atau syarat mutu yang berbeda dengan standar yang diwajibkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0445",
+      "kind": "number",
+      "text": "4. foto atau gambar produk jadi yang akan dibuat;",
+      "part": "body"
+    },
+    {
+      "id": "p-0446",
+      "kind": "body",
+      "text": "dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0447",
+      "kind": "number",
+      "text": "5. mill certificate;",
+      "part": "body"
+    },
+    {
+      "id": "p-0448",
+      "kind": "paragraph",
+      "text": "(4) Lembaga sebagaimana dimaksud pada ayat (3) huruf b merupakan Lembaga yang ditunjuk oleh Menteri sebagai LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0449",
+      "kind": "article",
+      "text": "Pasal 42",
+      "part": "body"
+    },
+    {
+      "id": "p-0450",
+      "kind": "paragraph",
+      "text": "(1) Berdasarkan permohonan penerbitan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib sebagaimana dimaksud dalam Pasal 41 ayat (1), Lembaga melakukan pemeriksaan terhadap:",
+      "part": "body"
+    },
+    {
+      "id": "p-0451",
+      "kind": "letter",
+      "text": "a. kesesuaian data yang diisi sebagaimana dimaksud dalam Pasal 41 ayat (3) huruf a; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0452",
+      "kind": "letter",
+      "text": "b. kelengkapan dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 41 ayat (3) huruf c.",
+      "part": "body"
+    },
+    {
+      "id": "p-0453",
+      "kind": "paragraph",
+      "text": "(2) Penilaian terhadap kesesuaian data dan kelengkapan kesesuaian dokumen sebagaimana dimaksud pada ayat (1) dapat dilakukan melalui pemeriksaan secara langsung di lokasi produksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0454",
+      "kind": "paragraph",
+      "text": "(3) Pemeriksaan secara langsung di lokasi produksi sebagaimana dimaksud pada ayat (2) dilakukan melalui:",
+      "part": "body"
+    },
+    {
+      "id": "p-0455",
+      "kind": "letter",
+      "text": "a. Pemeriksaan kesesuaian data pengendalian mutu barang dengan uraian barang yang tercantum dalam permohonan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0456",
+      "kind": "letter",
+      "text": "b. pengambilan contoh uji, apabila diperlukan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0457",
+      "kind": "article",
+      "text": "Pasal 43",
+      "part": "body"
+    },
+    {
+      "id": "p-0458",
+      "kind": "paragraph",
+      "text": "(1) Pemeriksaan secara langsung di lokasi produksi sebagaimana dimaksud dalam Pasal 42 ayat (3) dilakukan oleh personel lembaga yang memiliki kompetensi produk Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0459",
+      "kind": "paragraph",
+      "text": "(2) Dalam hal terdapat pengambilan contoh uji pada saat pemeriksaan secara langsung, terhadap contoh uji akan",
+      "part": "body"
+    },
+    {
+      "id": "p-0460",
+      "kind": "body",
+      "text": "dilakukan pengujian pada laboratorium yang ditunjuk oleh Menteri sebagai Laboratorium Uji.",
+      "part": "body"
+    },
+    {
+      "id": "p-0461",
+      "kind": "paragraph",
+      "text": "(3) Personel lembaga sebagaimana dimaksud pada ayat (1) melakukan penilaian terhadap hasil pemeriksaan secara langsung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0462",
+      "kind": "article",
+      "text": "Pasal 44",
+      "part": "body"
+    },
+    {
+      "id": "p-0463",
+      "kind": "paragraph",
+      "text": "(1) Pada saat penilaian telah selesai, lembaga sebagaimana dimaksud dalam Pasal 41 ayat (4) menyusun hasil penilaian.",
+      "part": "body"
+    },
+    {
+      "id": "p-0464",
+      "kind": "paragraph",
+      "text": "(2) Hasil penilaian sebagaimana dimaksud pada ayat (1) paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0465",
+      "kind": "letter",
+      "text": "a. tanggal pelaksanaan pemeriksaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0466",
+      "kind": "letter",
+      "text": "b. nama personel penilai;",
+      "part": "body"
+    },
+    {
+      "id": "p-0467",
+      "kind": "letter",
+      "text": "c. hasil pemeriksaan data dan dokumen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0468",
+      "kind": "letter",
+      "text": "d. nomor pos tarif/harmonized system;",
+      "part": "body"
+    },
+    {
+      "id": "p-0469",
+      "kind": "letter",
+      "text": "e. uraian barang;",
+      "part": "body"
+    },
+    {
+      "id": "p-0470",
+      "kind": "letter",
+      "text": "f. spesifikasi barang dan standar acuan produk yang dikecualikan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0471",
+      "kind": "letter",
+      "text": "g. rekomendasi hasil penilaian;",
+      "part": "body"
+    },
+    {
+      "id": "p-0472",
+      "kind": "paragraph",
+      "text": "(3) Dalam hal dilakukan pengambilan contoh uji pada saat penilaian, hasil penilaian sebagaimana dimaksud pada ayat (2) dilengkapi dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0473",
+      "kind": "letter",
+      "text": "a. tanggal pelaksanaan pemeriksaan secara langsung;",
+      "part": "body"
+    },
+    {
+      "id": "p-0474",
+      "kind": "letter",
+      "text": "b. laboratorium uji yang digunakan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0475",
+      "kind": "letter",
+      "text": "c. laporan hasil uji yang meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0476",
+      "kind": "number",
+      "text": "1. nomor dan judul SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0477",
+      "kind": "number",
+      "text": "2. tanggal penerimaan contoh uji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0478",
+      "kind": "number",
+      "text": "3. tanggal pelaksanaan pengujian; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0479",
+      "kind": "number",
+      "text": "4. hasil uji.",
+      "part": "body"
+    },
+    {
+      "id": "p-0480",
+      "kind": "paragraph",
+      "text": "(4) Lembaga menyampaikan hasil penilaian sebagaimana dimaksud pada ayat (2) dan ayat (3) kepada Direktur Jenderal secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0481",
+      "kind": "article",
+      "text": "Pasal 45",
+      "part": "body"
+    },
+    {
+      "id": "p-0482",
+      "kind": "paragraph",
+      "text": "(1) Berdasarkan hasil penilaian sebagaimana dimaksud dalam Pasal 44 ayat (4), Direktur Jenderal melakukan evaluasi terhadap kesesuaian proses penilaian dengan ketentuan dalam Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0483",
+      "kind": "paragraph",
+      "text": "(2) Dalam melakukan evaluasi sebagaimana dimaksud pada ayat (1), Direktur Jenderal menugaskan pejabat pimpinan tinggi pratama yang memiliki tugas dan fungsi melakukan pembinaan terhadap industri Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0484",
+      "kind": "paragraph",
+      "text": "(3) Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan dalam waktu paling lama 5 (lima) hari kerja terhitung sejak tanggal hasil penilaian disampaikan secara lengkap dan sesuai.",
+      "part": "body"
+    },
+    {
+      "id": "p-0485",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal hasil evaluasi sebagaimana dimaksud dalam ayat 3 menyatakan hasil penilaian telah lengkap dan sesuai, Direktur Jenderal menerbitkan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0486",
+      "kind": "article",
+      "text": "Pasal 46",
+      "part": "body"
+    },
+    {
+      "id": "p-0487",
+      "kind": "paragraph",
+      "text": "(1) Dalam hal hasil evaluasi sebagaimana dimaksud dalam Pasal 45 ditemukan ketidaksesuaian, Direktur Jenderal meminta lembaga untuk memberikan klarifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0488",
+      "kind": "paragraph",
+      "text": "(2) Permintaan Direktur Jenderal kepada lembaga sebagaimana dimaksud pada ayat (1) disampaikan secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0489",
+      "kind": "paragraph",
+      "text": "(3) Berdasarkan permintaan sebagaimana dimaksud dalam ayat (2), lembaga harus memberikan klarifikasi dalam waktu paling lama 5 (lima) hari kerja terhitung sejak tanggal permintaan klarifikasi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0490",
+      "kind": "paragraph",
+      "text": "(4) Dalam hal hasil evaluasi atas klarifikasi sebagaimana dimaksud pada ayat (3) menyatakan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0491",
+      "kind": "letter",
+      "text": "a. proses penilaian telah sesuai dengan ketentuan dalam Peraturan Menteri ini; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0492",
+      "kind": "letter",
+      "text": "b. lembaga telah melakukan perbaikan atas ketidaksesuaian, Direktur Jenderal menerbitkan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0493",
+      "kind": "paragraph",
+      "text": "(5) Dalam hal hasil evaluasi atas klarifikasi sebagaimana dimaksud pada ayat (3) menyatakan lembaga:",
+      "part": "body"
+    },
+    {
+      "id": "p-0494",
+      "kind": "letter",
+      "text": "a. tidak memberikan klarifikasi sampai dengan batas waktu sebagaimana dimaksud pada ayat (1); atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0495",
+      "kind": "letter",
+      "text": "b. telah memberikan klarifikasi namun tetap tidak dapat memenuhi ketentuan penilaian kesesuaian yang dipersyaratkan sesuai dengan ketentuan dalam Peraturan Menteri ini, Direktur Jenderal menolak untuk menerbitkan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0496",
+      "kind": "article",
+      "text": "Pasal 47",
+      "part": "body"
+    },
+    {
+      "id": "p-0497",
+      "kind": "paragraph",
+      "text": "(1) Direktur Jenderal menyampaikan surat keterangan pengecualian sebagaimana dimaksud dalam Pasal 45 ayat (4) dan Pasal 46 ayat (4) kepada Pelaku Usaha secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0498",
+      "kind": "paragraph",
+      "text": "(2) Direktur Jenderal menyampaikan surat penolakan sebagaimana dimaksud dalam Pasal 46 ayat (5) kepada Pelaku Usaha secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0499",
+      "kind": "article",
+      "text": "Pasal 48",
+      "part": "body"
+    },
+    {
+      "id": "p-0500",
+      "kind": "paragraph",
+      "text": "(1) Surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud dalam Pasal 47 ayat (1) memuat paling sedikit informasi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0501",
+      "kind": "letter",
+      "text": "a. nama Pelaku Usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0502",
+      "kind": "letter",
+      "text": "b. bidang usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0503",
+      "kind": "letter",
+      "text": "c. alamat Pelaku Usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0504",
+      "kind": "letter",
+      "text": "d. nomor pos tarif;",
+      "part": "body"
+    },
+    {
+      "id": "p-0505",
+      "kind": "letter",
+      "text": "e. uraian barang; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0506",
+      "kind": "letter",
+      "text": "f. spesifikasi dan standar acuan produk yang dikecualikan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0507",
+      "kind": "paragraph",
+      "text": "(2) Surat keterangan sebagaimana dimaksud pada ayat (1) berlaku untuk 1 (satu) tahun takwim.",
+      "part": "body"
+    },
+    {
+      "id": "p-0508",
+      "kind": "article",
+      "text": "Pasal 49",
+      "part": "body"
+    },
+    {
+      "id": "p-0509",
+      "kind": "body",
+      "text": "Tata cara penerbitan surat keterangan sebagaimana dimaksud dalam Pasal 41 ayat (1) tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari",
+      "part": "body"
+    },
+    {
+      "id": "p-0510",
+      "kind": "body",
+      "text": "Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0511",
+      "kind": "chapter",
+      "text": "BAB V",
+      "part": "body"
+    },
+    {
+      "id": "p-0512",
+      "kind": "body",
+      "text": "KETENTUAN LAIN-LAIN",
+      "part": "body"
+    },
+    {
+      "id": "p-0513",
+      "kind": "article",
+      "text": "Pasal 50",
+      "part": "body"
+    },
+    {
+      "id": "p-0514",
+      "kind": "paragraph",
+      "text": "(1) Bus Bar Tembaga (Copper Bus Bars) yang diproduksi oleh Produsen di Luar Negeri harus dimasukkan ke dalam gudang yang dikuasai oleh Perwakilan Resmi sebagaimana dimaksud dalam Pasal 11 ayat (2) huruf c sebelum diedarkan atau dipindahtangankan kepemilikannya.",
+      "part": "body"
+    },
+    {
+      "id": "p-0515",
+      "kind": "paragraph",
+      "text": "(2) Pemasukan Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) dilakukan dengan verifikasi atau penelusuran teknis.",
+      "part": "body"
+    },
+    {
+      "id": "p-0516",
+      "kind": "paragraph",
+      "text": "(3) Verifikasi atau penelusuran teknis sebagaimana dimaksud pada ayat (2) dilakukan untuk memastikan kesesuaian alamat pengiriman yang tercantum dalam dokumen importasi dengan alamat gudang yang dikuasai oleh Perwakilan Resmi sebagaimana dimaksud pada ayat (1).",
+      "part": "body"
+    },
+    {
+      "id": "p-0517",
+      "kind": "paragraph",
+      "text": "(4) Verifikasi atau penelusuran teknis sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0518",
+      "kind": "article",
+      "text": "Pasal 51",
+      "part": "body"
+    },
+    {
+      "id": "p-0519",
+      "kind": "body",
+      "text": "Dalam hal masa berlaku Sertifikat SNI dan/atau SPPT SNI telah berakhir, Bus Bar Tembaga (Copper Bus Bars) yang telah diproduksi atau telah diimpor masih dapat diedarkan hingga ke konsumen akhir apabila:",
+      "part": "body"
+    },
+    {
+      "id": "p-0520",
+      "kind": "letter",
+      "text": "a. telah diproduksi pada masa Sertifikat SNI dan SPPT SNI masih berlaku untuk hasil produksi dalam negeri;",
+      "part": "body"
+    },
+    {
+      "id": "p-0521",
+      "kind": "letter",
+      "text": "b. telah menyelesaikan kewajiban pabean pada masa Sertifikat SNI dan SPPT SNI masih berlaku untuk hasil impor; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0522",
+      "kind": "letter",
+      "text": "c. mutu produk sesuai dengan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0523",
+      "kind": "body",
+      "text": "Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0524",
+      "kind": "article",
+      "text": "Pasal 52",
+      "part": "body"
+    },
+    {
+      "id": "p-0525",
+      "kind": "body",
+      "text": "Pengawasan terhadap pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib dilaksanakan sesuai dengan ketentuan peruaturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0526",
+      "kind": "article",
+      "text": "Pasal 53",
+      "part": "body"
+    },
+    {
+      "id": "p-0527",
+      "kind": "body",
+      "text": "Ketentuan dan tata cara untuk memiliki akun SIINas dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0528",
+      "kind": "article",
+      "text": "Pasal 54",
+      "part": "body"
+    },
+    {
+      "id": "p-0529",
+      "kind": "body",
+      "text": "Segala biaya yang diperlukan dalam rangka:",
+      "part": "body"
+    },
+    {
+      "id": "p-0530",
+      "kind": "letter",
+      "text": "a. kegiatan penilaian kesesuaian oleh LSPro dan Laboratorium Uji dibebankan kepada Perusahaan",
+      "part": "body"
+    },
+    {
+      "id": "p-0531",
+      "kind": "body",
+      "text": "Industri atau Produsen di Luar Negeri melalui Perwakilan Resmi yang mengajukan permohonan penerbitan Sertifikat SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0532",
+      "kind": "letter",
+      "text": "b. kegiatan permohonan penerbitan Surat Keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib dibebankan kepada Pelaku Usaha yang mengajukan permohonan penerbitan Surat Keterangan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0533",
+      "kind": "chapter",
+      "text": "BAB VI",
+      "part": "body"
+    },
+    {
+      "id": "p-0534",
+      "kind": "body",
+      "text": "KETENTUAN PERALIHAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0535",
+      "kind": "article",
+      "text": "Pasal 55",
+      "part": "body"
+    },
+    {
+      "id": "p-0536",
+      "kind": "paragraph",
+      "text": "(1) Sertifikat produk penggunaan Tanda SNI untuk Bus Bar Tembaga (Copper Bus Bars) yang telah diterbitkan berdasarkan ketentuan dalam Peraturan Menteri Perindustrian Nomor 2 Tahun 2021 tentang Pemberlakuan Standar Nasional Indonesia Batang Konduktor dari Tembaga (Copper Bus Bars) Secara Wajib dan masih berlaku, dinyatakan berlaku sebagai Sertifikat SNI dan SPPT SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0537",
+      "kind": "paragraph",
+      "text": "(2) Sertifikat produk penggunaan Tanda SNI untuk Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1), harus disesuaikan dengan ketentuan dalam Peraturan Menteri ini dalam jangka waktu paling lama 1 (satu) tahun terhitung sejak Peraturan Menteri ini berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0538",
+      "kind": "article",
+      "text": "Pasal 56",
+      "part": "body"
+    },
+    {
+      "id": "p-0539",
+      "kind": "paragraph",
+      "text": "(1) Bus Bar Tembaga (Copper Bus Bars) yang telah dibubuhi Tanda SNI berdasarkan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0540",
+      "kind": "body",
+      "text": "Peraturan Menteri Perindustrian Nomor 2 Tahun 2021",
+      "part": "body"
+    },
+    {
+      "id": "p-0541",
+      "kind": "body",
+      "text": "tentang Pemberlakuan Standar Nasional Indonesia Batang Konduktor dari Tembaga (Copper Bus Bars) Secara Wajib dikecualikan dari kewajiban pembubuhan tanda elektronik.",
+      "part": "body"
+    },
+    {
+      "id": "p-0542",
+      "kind": "paragraph",
+      "text": "(2) Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) hasil produksi dalam negeri dan telah diproduksi paling lama 12 (dua belas) bulan terhitung sejak Peraturan Menteri ini berlaku masih dapat beredar hingga pengguna akhir.",
+      "part": "body"
+    },
+    {
+      "id": "p-0543",
+      "kind": "paragraph",
+      "text": "(3) Bus Bar Tembaga (Copper Bus Bars) sebagaimana dimaksud pada ayat (1) hasil produksi dan telah menyelesaikan kewajiban pabean paling lama 12 (dua belas) bulan terhitung sejak Peraturan Menteri ini berlaku masih dapat beredar hingga pengguna akhir.",
+      "part": "body"
+    },
+    {
+      "id": "p-0544",
+      "kind": "article",
+      "text": "Pasal 57",
+      "part": "body"
+    },
+    {
+      "id": "p-0545",
+      "kind": "body",
+      "text": "Pelaku Usaha yang telah mengajukan permohonan penerbitan sertifikat produk penggunaan Tanda SNI sebelum Peraturan Menteri ini berlaku dan masih dalam proses penilaian kesesuaian, harus menyesuaikan dengan proses penilaian kesesuaian sesuai dengan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0546",
+      "kind": "body",
+      "text": "Peraturan Menteri ini.",
+      "part": "body"
+    },
+    {
+      "id": "p-0547",
+      "kind": "chapter",
+      "text": "BAB VII",
+      "part": "body"
+    },
+    {
+      "id": "p-0548",
+      "kind": "body",
+      "text": "KETENTUAN PENUTUP",
+      "part": "body"
+    },
+    {
+      "id": "p-0549",
+      "kind": "article",
+      "text": "Pasal 58",
+      "part": "body"
+    },
+    {
+      "id": "p-0550",
+      "kind": "body",
+      "text": "Pada saat Peraturan Menteri ini mulai berlaku Peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0551",
+      "kind": "body",
+      "text": "Menteri Perindustrian Nomor 2 Tahun 2021 tentang Pemberlakuan Standar Nasional Indonesia Batang Konduktor dari Tembaga (Copper Bus Bars) Secara Wajib (Berita Negara Tahun 2021 Nomor 114), dicabut dan dinyatakan tidak berlaku.",
+      "part": "body"
+    },
+    {
+      "id": "p-0552",
+      "kind": "article",
+      "text": "Pasal 59",
+      "part": "body"
+    },
+    {
+      "id": "p-0553",
+      "kind": "body",
+      "text": "Peraturan Menteri ini mulai berlaku setelah 6 (enam) bulan",
+      "part": "body"
+    },
+    {
+      "id": "p-0554",
+      "kind": "body",
+      "text": "terhitung sejak tanggal diundangkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0555",
+      "kind": "body",
+      "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri dengan mi",
+      "part": "body"
+    },
+    {
+      "id": "p-0556",
+      "kind": "body",
+      "text": "penempatannya dalam Berita Negara.",
+      "part": "body"
+    },
+    {
+      "id": "p-0557",
+      "kind": "body",
+      "text": "Ditetapkan di Jakarta pada tanggal 15 Oktober 2024",
+      "part": "body"
+    },
+    {
+      "id": "p-0558",
+      "kind": "body",
+      "text": "MENTERI PERINDUSTRIAN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0559",
+      "kind": "body",
+      "text": "AGUS GUMIWANG KARTASASMITA",
+      "part": "body"
+    },
+    {
+      "id": "p-0560",
+      "kind": "closing",
+      "text": "Diundangkan di Jakarta pada tanggal 18 Oktober 2024",
+      "part": "body"
+    },
+    {
+      "id": "p-0561",
+      "kind": "body",
+      "text": "PLT. DIREKTUR JENDERAL",
+      "part": "body"
+    },
+    {
+      "id": "p-0562",
+      "kind": "body",
+      "text": "PERATURAN PERUNDANG-UNDANGAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0563",
+      "kind": "body",
+      "text": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA,",
+      "part": "body"
+    },
+    {
+      "id": "p-0564",
+      "kind": "body",
+      "text": "ASEP N. MULYANA",
+      "part": "body"
+    },
+    {
+      "id": "p-0565",
+      "kind": "body",
+      "text": "BERITA NEGARA TAHUN 2024 NOMOR 738",
+      "part": "body"
+    },
+    {
+      "id": "p-0566",
+      "kind": "body",
+      "text": "SQsuai dengan aslinya / Sei^ti^at Jenderal",
+      "part": "body"
+    },
+    {
+      "id": "p-0567",
+      "kind": "body",
+      "text": "r? Ke';^^^^ Hukum,.V",
+      "part": "body"
+    },
+    {
+      "id": "p-0568",
+      "kind": "body",
+      "text": "\"‘'\\Perindustrian iv",
+      "part": "body"
+    },
+    {
+      "id": "p-0569",
+      "kind": "body",
+      "text": "% I Jkanft ^o^sye Ardianingsih",
+      "part": "body"
+    },
+    {
+      "id": "p-0570",
+      "kind": "attachment",
+      "text": "LAMPIRAN I",
+      "part": "body"
+    },
+    {
+      "id": "p-0571",
+      "kind": "body",
+      "text": "PERATURAN MENTERI PERINDUSTRIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0572",
+      "kind": "body",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0573",
+      "kind": "body",
+      "text": "PEMBERLAKUAN STANDAR NASIONAL",
+      "part": "body"
+    },
+    {
+      "id": "p-0574",
+      "kind": "body",
+      "text": "INDONESIA UNTUK BUS BAR TEMBAGA",
+      "part": "body"
+    },
+    {
+      "id": "p-0575",
+      "kind": "body",
+      "text": "(COPPER BUS BARS) SECARA WAJIB",
+      "part": "body"
+    },
+    {
+      "id": "p-0576",
+      "kind": "body",
+      "text": "Skema Sertifikasi Standar Nasional Indonesia Untuk Bus Bar Tembaga (Copper Bus Bars)",
+      "part": "body"
+    },
+    {
+      "id": "p-0577",
+      "kind": "body",
+      "text": "A. Ruang Lingkup Skema ini berlaku untuk sertifikasi awal, Surveilen, dan sertifikasi ulang/resertifikasi dalam rangka pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib.",
+      "part": "body"
+    },
+    {
+      "id": "p-0578",
+      "kind": "body",
+      "text": "B. Acuan Normatif Dokumen yang dijadikan acuan dalam skema ini adalah:",
+      "part": "body"
+    },
+    {
+      "id": "p-0579",
+      "kind": "number",
+      "text": "1. Peraturan Menteri Perindustrian Nomor 45 Tahun 2022 tentang Standardisasi Industri; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0580",
+      "kind": "number",
+      "text": "2. SNI 8760:2019 Bus Bars Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0581",
+      "kind": "body",
+      "text": "C. Prosedur Sertifikasi Prosedur sertifikasi menggunakan sistem sertifikasi tipe 5 (lima).",
+      "part": "body"
+    },
+    {
+      "id": "p-0582",
+      "kind": "body",
+      "text": "F. Penandaan Pembubuhan Tanda SNI dan Tanda Elektronik",
+      "part": "body"
+    },
+    {
+      "id": "p-0583",
+      "kind": "number",
+      "text": "1. Tanda SNI dan tanda elektronik digunakan sebagai bukti kesesuaian untuk produk Bus Bar Tembaga (Copper Bus Bars) yang memenuhi ketentuan SNI 8760:2019.",
+      "part": "body"
+    },
+    {
+      "id": "p-0584",
+      "kind": "number",
+      "text": "2. Pembubuhan Tanda SNI dan tanda elektronik dibubuhkan setelah mendapatkan persetujuan penggunaan Tanda SNI melalui SPPT SNI yang dikeluarkan oleh Kepala Badan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0585",
+      "kind": "number",
+      "text": "3. Pembubuhan Tanda SNI dan tanda elektronik dilaksanakan dengan ketentuan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0586",
+      "kind": "letter",
+      "text": "a. dilakukan pada setiap kemasan dari Bus Bar Tembaga (Copper Bus Bars) dengan cara penandaan yang tidak mudah hilang serta ditempat yang mudah dilihat dan dibaca;",
+      "part": "body"
+    },
+    {
+      "id": "p-0587",
+      "kind": "letter",
+      "text": "b. dilakukan dengan menempelkan sticker, label, atau printing pada kemasan Bus Bar Tembaga (Copper Bus Bars); dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0588",
+      "kind": "letter",
+      "text": "c. tanda elektronik dicantumkan tepat di bawah atau di samping Tanda SNI.",
+      "part": "body"
+    },
+    {
+      "id": "p-0589",
+      "kind": "number",
+      "text": "4. Selain pembubuhan Tanda SNI dan tanda elektronik sebagaimana dimaksud pada angka 3, penandaan pada setiap kemasan produk Bus Bar Tembaga (Copper Bus Bars) harus mencantumkan label yang memuat informasi paling sedikit berupa merek, nama produsen, jenis, tingkat temper, ukur an (tebal x lebar x panjang), dan nomor produksi.",
+      "part": "body"
+    },
+    {
+      "id": "p-0590",
+      "kind": "number",
+      "text": "5. Pada setiap produk Bus Bar Tembaga (Copper Bus Bars) harus diberikan tanda paling sedikit berupa Tanda SNI, merek, jenis, ukuran, dan tingkat temper, yang dilakukan dengan cara yang tidak mudah hilang.",
+      "part": "body"
+    },
+    {
+      "id": "p-0591",
+      "kind": "attachment",
+      "text": "LAMPIRAN II",
+      "part": "body"
+    },
+    {
+      "id": "p-0592",
+      "kind": "body",
+      "text": "PERATURAN MENTERI PERINDUSTRIAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0593",
+      "kind": "body",
+      "text": "NOMOR 54 TAHUN 2024",
+      "part": "body"
+    },
+    {
+      "id": "p-0594",
+      "kind": "body",
+      "text": "TENTANG",
+      "part": "body"
+    },
+    {
+      "id": "p-0595",
+      "kind": "body",
+      "text": "PEMBERLAKUAN STANDAR NASIONAL",
+      "part": "body"
+    },
+    {
+      "id": "p-0596",
+      "kind": "body",
+      "text": "INDONESIA UNTUK BUS BAR TEMBAGA",
+      "part": "body"
+    },
+    {
+      "id": "p-0597",
+      "kind": "body",
+      "text": "(COPPER BUS BARS) SECARA WAJIB",
+      "part": "body"
+    },
+    {
+      "id": "p-0598",
+      "kind": "body",
+      "text": "TATA CARA PENERBITAN SURAT KETERANGAN",
+      "part": "body"
+    },
+    {
+      "id": "p-0599",
+      "kind": "body",
+      "text": "A. Ruang Lingkup Permohonan penerbitan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib berdasarkan alasan teknis, memiliki standar sendiri dengan ruang lingkup, klasifikasi, dan/atau syarat mutu yang berbeda dengan SNI untuk Bus Bar Tembaga (Copper Bus Bars).",
+      "part": "body"
+    },
+    {
+      "id": "p-0600",
+      "kind": "body",
+      "text": "B. Seleksi",
+      "part": "body"
+    },
+    {
+      "id": "p-0601",
+      "kind": "number",
+      "text": "1. Permohonan 1.1 dilakukan secara elektronik melalui SIINas; 1.2 pada laman SIINas, Pelaku Usaha harus:",
+      "part": "body"
+    },
+    {
+      "id": "p-0602",
+      "kind": "letter",
+      "text": "a. menginput data dengan mengisi formular isian:",
+      "part": "body"
+    },
+    {
+      "id": "p-0603",
+      "kind": "number",
+      "text": "1. nomor pos tarif/harmonized system;",
+      "part": "body"
+    },
+    {
+      "id": "p-0604",
+      "kind": "number",
+      "text": "2. uraian barang;",
+      "part": "body"
+    },
+    {
+      "id": "p-0605",
+      "kind": "number",
+      "text": "3. spesifikasi barang dan/atau standar acuan produk yang dikecualikan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0606",
+      "kind": "number",
+      "text": "4. nomor SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0607",
+      "kind": "number",
+      "text": "5. kegunaan atau keperluan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0608",
+      "kind": "number",
+      "text": "6. Pelabuhan tujuan untuk barang asal impor.",
+      "part": "body"
+    },
+    {
+      "id": "p-0609",
+      "kind": "letter",
+      "text": "b. memilih lembaga yang melakukan sertifikasi dan pengujian di bidang Bus Bar Tembaga (Copper Bus Bars); dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0610",
+      "kind": "letter",
+      "text": "c. mengunggah dokumen berupa:",
+      "part": "body"
+    },
+    {
+      "id": "p-0611",
+      "kind": "number",
+      "text": "1. salinan akta pendirian perusahaan atau perubahannya;",
+      "part": "body"
+    },
+    {
+      "id": "p-0612",
+      "kind": "number",
+      "text": "2. perizinan berusaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0613",
+      "kind": "number",
+      "text": "3. surat pernyataan dari Pelaku Usaha yang menyatakan bahwa Bus Bar Tembaga (Copper Bus Bars) yang diajukan pengecualiannya memiliki standar, ruang lingkup, klasifikasi, dan/atau syarat mutu yang berbeda dengan standar yang diwajibkan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0614",
+      "kind": "number",
+      "text": "4. foto atau gambar produk jadi yang akan dibuat; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0615",
+      "kind": "number",
+      "text": "5. mill certificate.",
+      "part": "body"
+    },
+    {
+      "id": "p-0616",
+      "kind": "number",
+      "text": "2. Personel Pemeriksa",
+      "part": "body"
+    },
+    {
+      "id": "p-0617",
+      "kind": "letter",
+      "text": "a. memiliki kompetensi setara dengan auditor untuk produk Bus Bar Tembaga (Copper Bus Bars);",
+      "part": "body"
+    },
+    {
+      "id": "p-0618",
+      "kind": "letter",
+      "text": "b. memiliki kompetensi sebagai petugas pengambil contoh;",
+      "part": "body"
+    },
+    {
+      "id": "p-0619",
+      "kind": "letter",
+      "text": "c. merupakan Warga Negara Indonesia yang berdomisili di Indonesia;",
+      "part": "body"
+    },
+    {
+      "id": "p-0620",
+      "kind": "letter",
+      "text": "d. lancar berbahasa Indonesia;",
+      "part": "body"
+    },
+    {
+      "id": "p-0621",
+      "kind": "letter",
+      "text": "e. memahami ketentuan peraturan perundang-undangan terkait;",
+      "part": "body"
+    },
+    {
+      "id": "p-0622",
+      "kind": "letter",
+      "text": "f. telah di-registrasi oleh Menteri sebagai auditor melalui SIINas; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0623",
+      "kind": "letter",
+      "text": "g. terdaftar di Lembaga yang memberikan penugasan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0624",
+      "kind": "number",
+      "text": "3. Lembaga yang melakukan penilaian Lembaga yang akan melakukan sertifikasi dan pengujian produk Bus Bar Tembaga (Copper Bus Bars) merupakan lembaga yang ditunjuk oleh Menteri sebagai LSPro.",
+      "part": "body"
+    },
+    {
+      "id": "p-0625",
+      "kind": "number",
+      "text": "4. Laboratorium yang digunakan Laboratorium yang ditunjuk oleh Menteri sebagai Laboratorium Uji.",
+      "part": "body"
+    },
+    {
+      "id": "p-0626",
+      "kind": "number",
+      "text": "5. Durasi pemeriksaan secara langsung",
+      "part": "body"
+    },
+    {
+      "id": "p-0627",
+      "kind": "letter",
+      "text": "a. Pemeriksaan secara langsung dilakukan 1 (satu) manday (orang hari).",
+      "part": "body"
+    },
+    {
+      "id": "p-0628",
+      "kind": "letter",
+      "text": "b. Dalam hal terdapat pengambilan contoh uji, pengambilan contoh uji dilakukan oleh orang yang sama yang melakukan pemeriksaan secara langsung.",
+      "part": "body"
+    },
+    {
+      "id": "p-0629",
+      "kind": "body",
+      "text": "C. Determinasi",
+      "part": "body"
+    },
+    {
+      "id": "p-0630",
+      "kind": "number",
+      "text": "1. Penilaian 1.1. Dilakukan oleh personel pemeriksa jika data yang diisi dan dokumen pada tahap seleksi telah lengkap. 1.2. Personel pemeriksa melakukan penilaian terhadap:",
+      "part": "body"
+    },
+    {
+      "id": "p-0631",
+      "kind": "letter",
+      "text": "a. kesesuaian data yang diisi sebagaimana dimaksud dalam huruf B angka 1.2 huruf a; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0632",
+      "kind": "letter",
+      "text": "b. kelengkapan dan kesesuaian dokumen sebagaimana dimaksud dalam huruf B angka 1.2 huruf c. 1.3. Personel pemeriksa memastikan kebenaran data dan kesesuaian dokumen yang disampaikan oleh pemohon.",
+      "part": "body"
+    },
+    {
+      "id": "p-0633",
+      "kind": "number",
+      "text": "2. Pemeriksaan Secara Langsung 2.1. Dalam hal pemeriksaan secara langsung dilakukan, pemeriksaan dilakukan oleh personel pemeriksa di lokasi produksi. 2.2. Personel pemeriksa melakukan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0634",
+      "kind": "letter",
+      "text": "a. pemeriksaan kesesuaian data pengendalian mutu produk dengan uraian produk yang tercantum dalam permohonan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0635",
+      "kind": "letter",
+      "text": "b. pengambilan contoh uji, apabila diperlukan. 2.3. Pemeriksaan kesesuaian data pengendalian mutu produk sebagaimana dimaksud pada angka 2.2 huruf a meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0636",
+      "kind": "letter",
+      "text": "a. data pengendalian mutu produk dari mulai bahan baku sampai produk akhir; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0637",
+      "kind": "letter",
+      "text": "b. hasil pengujian rutin produk. 2.4. Dalam hal terdapat pengambilan contoh uji, personel pemeriksa menentukan jumlah dan keterwakilan contoh uji. 2.5. Pengambilan contoh uji dilakukan di lokasi produksi dan/atau gudang produksi. 2.6. Contoh uji yang telah diambil harus dikemas, diberi label contoh uji, dan disegel. 2.7. Contoh uji dikirimkan ke Laboratorium oleh pemohon.",
+      "part": "body"
+    },
+    {
+      "id": "p-0638",
+      "kind": "number",
+      "text": "3. Cara Pengujian Cara pengujian dilakukan sesuai SNI 8760:2019.",
+      "part": "body"
+    },
+    {
+      "id": "p-0639",
+      "kind": "number",
+      "text": "4. Laporan Hasil Uji Laporan hasil uji mencantumkan hasil uji dan syarat mutu sesuai dengan SNI 8760:2019.",
+      "part": "body"
+    },
+    {
+      "id": "p-0640",
+      "kind": "body",
+      "text": "D. Tinjauan dan Hasil Penilaian",
+      "part": "body"
+    },
+    {
+      "id": "p-0641",
+      "kind": "number",
+      "text": "1. Tinjauan terhadap laporan hasil uji 1.1. Tinjauan laporan hasil uji dilakukan oleh personel pemeriksa. 1.2. Ketentuan kesesuaian untuk tinjauan laporan hasil uji:",
+      "part": "body"
+    },
+    {
+      "id": "p-0642",
+      "kind": "letter",
+      "text": "a. Nilai hasil pengukuran ketebalan tidak boleh lebih rendah dari 2,0 mm; dan/atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0643",
+      "kind": "letter",
+      "text": "b. Nilai kandungan unsur tembaga menunjukkan kesesuaian terhadap standar tersendiri dengan ruang lingkup, klasifikasi, dan/atau syarat mutu yang berbeda dengan SNI 8760:2019.",
+      "part": "body"
+    },
+    {
+      "id": "p-0644",
+      "kind": "number",
+      "text": "2. Hasil Penilaian 2.1. Pada saat penilaian telah selesai, lembaga menyusun hasil penilaian 2.2. Hasil penilaian sebagaimana dimaksud pada angka 2.1 paling sedikit memuat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0645",
+      "kind": "letter",
+      "text": "a. tanggal pelaksanaan pemeriksaan;",
+      "part": "body"
+    },
+    {
+      "id": "p-0646",
+      "kind": "letter",
+      "text": "b. nama personel pemeriksa;",
+      "part": "body"
+    },
+    {
+      "id": "p-0647",
+      "kind": "letter",
+      "text": "c. hasil pemeriksaan data dan dokumen;",
+      "part": "body"
+    },
+    {
+      "id": "p-0648",
+      "kind": "letter",
+      "text": "d. nomor pos tarif/harmonized system;",
+      "part": "body"
+    },
+    {
+      "id": "p-0649",
+      "kind": "letter",
+      "text": "e. uraian barang;",
+      "part": "body"
+    },
+    {
+      "id": "p-0650",
+      "kind": "letter",
+      "text": "f. spesifikasi barang; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0651",
+      "kind": "letter",
+      "text": "g. rekomendasi hasil penilaian. 2.3. Dalam hal dilakukan pengambilan contoh uji pada saat penilaian, hasil penilaian sebagaimana dimaksud pada angka 2.2 dilengkapi dengan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0652",
+      "kind": "letter",
+      "text": "a. tanggal pelaksanaan pemeriksaan secara langsung;",
+      "part": "body"
+    },
+    {
+      "id": "p-0653",
+      "kind": "letter",
+      "text": "b. laboratorium uji yang digunakan; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0654",
+      "kind": "letter",
+      "text": "c. laporan hasil uji yang meliputi:",
+      "part": "body"
+    },
+    {
+      "id": "p-0655",
+      "kind": "number",
+      "text": "1. nomor dan judul SNI;",
+      "part": "body"
+    },
+    {
+      "id": "p-0656",
+      "kind": "number",
+      "text": "2. tanggal penerimaan contoh uji;",
+      "part": "body"
+    },
+    {
+      "id": "p-0657",
+      "kind": "number",
+      "text": "3. tanggal pelaksanaan pengujian; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0658",
+      "kind": "number",
+      "text": "4. hasil uji. 2.4. Rekomendasi hasil penilaian sebagaimana dimaksud pada angka 2.2 huruf g menyatakan:",
+      "part": "body"
+    },
+    {
+      "id": "p-0659",
+      "kind": "letter",
+      "text": "a. permohonan penerbitan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib sesuai; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0660",
+      "kind": "letter",
+      "text": "b. permohonan penerbitan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib tidak sesuai.",
+      "part": "body"
+    },
+    {
+      "id": "p-0661",
+      "kind": "body",
+      "text": "E. Penerbitan Surat Keterangan",
+      "part": "body"
+    },
+    {
+      "id": "p-0662",
+      "kind": "number",
+      "text": "1. Evaluasi 1.1. Direktur Jenderal melakukan evaluasi terhadap hasil penilaian yang disampaikan oleh Lembaga. 1.2. Evaluasi sebagaimana dimaksud pada angka 1.1 meliputi pemeriksaan terhadap proses penilaian yang dilakukan oleh Lembaga sesuai dengan ketentuan Peraturan Menteri ini. 1.3. Evaluasi sebagaimana dimaksud pada angka 1.2 dilakukan paling lama 5 (lima) hari kerja terhitung sejak hasil penilaian disampaikan oleh Lembaga secara lengkap. 1.4. Dalam melakukan evaluasi sebagaimana dimaksud pada angka 1.1, Direktur Jenderal menugaskan pejabat pimpinan tinggi pratama di lingkungan Kementerian Perindustrian yang mempunyai tugas melakukan pembinaan terhadap industri produk Bus Bar Tembaga (Copper Bus Bars). 1.5. Dalam hal berdasarkan hasil evaluasi sebagaimana dimaksud pada angka 1.1 ditemukan adanya ketidaksesuaian, Direktur Jenderal meminta lembaga untuk memberikan klarifikasi. 1.6. Permintaan Direktur Jenderal sebagaimana dimaksud pada angka 1.5 disampaikan secara elektronik melalui SIINas. 1.7. Lembaga harus memberikan klarifikasi paling lama 5 (lima) hari kerja terhitung sejak tanggal permintaan klarifikasi. 1.8. Dalam hal lembaga:",
+      "part": "body"
+    },
+    {
+      "id": "p-0663",
+      "kind": "letter",
+      "text": "a. tidak memberikan klarifikasi sampai dengan batas waktu sebagaimana dimaksud pada angka 1.7; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0664",
+      "kind": "letter",
+      "text": "b. telah memberikan klarifikasi namun tetap tidak dapat memenuhi ketentuan penilaian kesesuaian yang dipersyaratkan sesuai dengan ketentuan dalam Peraturan",
+      "part": "body"
+    },
+    {
+      "id": "p-0665",
+      "kind": "body",
+      "text": "Menteri ini, permohonan penerbitan surat keterangan dinyatakan gagal. 1.9. Dalam hal:",
+      "part": "body"
+    },
+    {
+      "id": "p-0666",
+      "kind": "letter",
+      "text": "a. berdasarkan laporan hasil evaluasi dinyatakan proses penilaian telah dilaksanakan sesuai dengan ketentuan dalam",
+      "part": "body"
+    },
+    {
+      "id": "p-0667",
+      "kind": "body",
+      "text": "Peraturan Menteri ini; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0668",
+      "kind": "letter",
+      "text": "b. lembaga telah melakukan perbaikan atas ketidaksesuaian, proses permohonan penerbitan surat keterangan dapat dilanjutkan.",
+      "part": "body"
+    },
+    {
+      "id": "p-0669",
+      "kind": "number",
+      "text": "2. Keputusan 2.1. Berdasarkan evaluasi terhadap hasil penilaian yang disampaikan oleh Lembaga, Direktur Jenderal dapat:",
+      "part": "body"
+    },
+    {
+      "id": "p-0670",
+      "kind": "letter",
+      "text": "a. menerbitkan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib; atau",
+      "part": "body"
+    },
+    {
+      "id": "p-0671",
+      "kind": "letter",
+      "text": "b. menolak untuk menerbitkan surat keterangan pengecualian pemberlakuan SNI untuk Bus Bar Tembaga (Copper Bus Bars) secara wajib. 2.2. Dalam hal rekomendasi hasil penilaian menyatakan permohonan sesuai, Direktur Jenderal menerbitkan surat keterangan sebagaimana dimaksud pada angka 2.1 huruf a.",
+      "part": "body"
+    },
+    {
+      "id": "p-0672",
+      "kind": "body",
+      "text": "2,3. Dalam hal rekomendasi basil penilaian menyatakan permohonan tidak sesuai, Direktur Jenderal menolak untuk menerbitkansurat keterangan sebagaimana dimaksud pada angka 2.1 hurufb. 2.4. Direktur Jenderal menyampaikan surat keterangan sebagaimana dimaksud pada angka 2.2 kepada Pelaku Usaha secaraelektronik melalui SIINas. 2.5. Direktur Jenderal menyampaikan penolakan untuk menerbitkan surat keterangan sebagaimana dimaksud pada angka 2.3kepada Pelaku Usaha secara elektronik melalui SIINas.",
+      "part": "body"
+    },
+    {
+      "id": "p-0673",
+      "kind": "number",
+      "text": "3. Surat Keterangan 3.1. Surat keterangan memuat informasi paling sedikit:",
+      "part": "body"
+    },
+    {
+      "id": "p-0674",
+      "kind": "letter",
+      "text": "a. nama Pelaku Usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0675",
+      "kind": "letter",
+      "text": "b. bidang usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0676",
+      "kind": "letter",
+      "text": "c. alamat Pelaku Usaha;",
+      "part": "body"
+    },
+    {
+      "id": "p-0677",
+      "kind": "letter",
+      "text": "d. nomor pos tarif;",
+      "part": "body"
+    },
+    {
+      "id": "p-0678",
+      "kind": "letter",
+      "text": "e. uraian barang; dan",
+      "part": "body"
+    },
+    {
+      "id": "p-0679",
+      "kind": "letter",
+      "text": "f. spesifikasi dan/atau standar acuan produk yang dikecualikan. 3.2. Surat keterangan sebagaimana dimaksud pada angka3.1 berlaku untuk 1 (satu) tahun takwim.",
+      "part": "body"
+    },
+    {
+      "id": "p-0680",
+      "kind": "body",
+      "text": "MENTERI PERINDUSTRIAN,",
+      "part": "body"
+    },
+    {
+      "id": "p-0681",
+      "kind": "body",
+      "text": "AGUS GUMIWANG KARTASASMITA",
+      "part": "body"
+    },
+    {
+      "id": "p-0682",
+      "kind": "body",
+      "text": "Salinan sesuai dengan aslinya /<^^S^^etariat vViR‘..lK INrsj. • Jenderal Penndustnan $ 'o Hukum, If?'-",
+      "part": "body"
+    },
+    {
+      "id": "p-0683",
+      "kind": "body",
+      "text": "e Ardianingsih",
+      "part": "body"
+    }
+  ]
+}

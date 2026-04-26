@@ -7,6 +7,10 @@ const [conversion] = conversionReports;
 const electricityRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-14-tahun-2012") ?? primaryRegulation;
 const standardizationRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-34-tahun-2018") ?? conversion;
 const licensingRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-28-tahun-2025") ?? primaryRegulation;
+const environmentRegulation = regulations.find((item) => item.metadata.slug === "pp-nomor-22-tahun-2021") ?? primaryRegulation;
+const safetyRegulation = regulations.find((item) => item.metadata.slug === "permen-esdm-nomor-10-tahun-2021") ?? electricityRegulation;
+const businessRegulation = regulations.find((item) => item.metadata.slug === "permen-esdm-nomor-11-tahun-2021") ?? electricityRegulation;
+const busbarRegulation = regulations.find((item) => item.metadata.slug === "permenperin-nomor-54-tahun-2024") ?? standardizationRegulation;
 const title = "Website Peraturan Energi";
 const searchRows = regulations.flatMap((item) =>
   item.paragraphs.map((paragraph) => ({
@@ -130,7 +134,11 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
           <h2>Jalur Cepat</h2>
           <div class="category-links">
             <a href={`/peraturan/${electricityRegulation.metadata.slug}/`}>Ketenagalistrikan</a>
+            <a href={`/peraturan/${safetyRegulation.metadata.slug}/`}>Keselamatan Ketenagalistrikan</a>
+            <a href={`/peraturan/${businessRegulation.metadata.slug}/`}>Usaha Ketenagalistrikan</a>
+            <a href={`/peraturan/${environmentRegulation.metadata.slug}/`}>Lingkungan Hidup</a>
             <a href={`/peraturan/${standardizationRegulation.metadata.slug}/`}>Standardisasi</a>
+            <a href={`/peraturan/${busbarRegulation.metadata.slug}/`}>SNI Bus Bar Tembaga</a>
             <a href={`/peraturan/${standardizationRegulation.metadata.slug}/`}>Penilaian Kesesuaian</a>
             <a href={`/peraturan/${licensingRegulation.metadata.slug}/`}>Perizinan Berusaha</a>
             <a href="/prototype/reverse-prompt/">QA Pipeline</a>
@@ -183,7 +191,24 @@ const totalParagraphs = regulations.reduce((sum, item) => sum + item.quality.par
           renderRows([], "Ketik minimal 2 karakter untuk mencari isi dokumen.");
           return;
         }
-        const matches = rows.filter((item) => item.text.toLowerCase().includes(query));
+        const matches = rows
+          .map((item, index) => {
+            const title = item.title.toLowerCase();
+            const text = item.text.toLowerCase();
+            const inTitle = title.includes(query);
+            const inText = text.includes(query);
+            const titleRow = item.kind === "title";
+            if (!inText && !(inTitle && titleRow)) return null;
+            const score =
+              (inTitle && titleRow ? 1000 : 0) +
+              (text.startsWith(query) ? 100 : 0) +
+              (titleRow ? 50 : 0) +
+              (item.kind === "chapter" ? 25 : 0);
+            return { item, score, index };
+          })
+          .filter((entry): entry is { item: SearchRow; score: number; index: number } => entry !== null)
+          .sort((a, b) => b.score - a.score || a.index - b.index)
+          .map((entry) => entry.item);
         renderRows(matches, `${matches.length} hasil ditemukan untuk "${query}".`);
       }
 

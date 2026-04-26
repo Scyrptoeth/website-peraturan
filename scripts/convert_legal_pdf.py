@@ -68,6 +68,65 @@ def pdf_text(pdf_path: Path) -> str:
     return run_command(["pdftotext", "-layout", "-enc", "UTF-8", str(pdf_path), "-"])
 
 
+def ocr_pdf_text(pdf_path: Path, cache_base: Path, dpi: int) -> str:
+    if not shutil.which("pdftoppm"):
+        raise RuntimeError("pdftoppm is required for OCR extraction but is not available in PATH.")
+    if not shutil.which("tesseract"):
+        raise RuntimeError("tesseract is required for OCR extraction but is not available in PATH.")
+
+    source_hash = sha256_file(pdf_path)[:16]
+    cache_dir = cache_base / f"{slugify(pdf_path.stem)}-{source_hash}-{dpi}dpi"
+    page_dir = cache_dir / "pages"
+    text_path = cache_dir / "ocr.txt"
+    if text_path.exists():
+        return text_path.read_text(encoding="utf-8")
+
+    info = pdf_info(pdf_path)
+    pages_value = info.get("Pages", "")
+    if not pages_value.isdigit():
+        raise RuntimeError("OCR extraction requires a detected PDF page count.")
+
+    page_dir.mkdir(parents=True, exist_ok=True)
+    page_count = int(pages_value)
+    page_texts: list[str] = []
+    for index in range(1, page_count + 1):
+        stem = f"page-{index:04d}"
+        page_txt = page_dir / f"{stem}.txt"
+        if not page_txt.exists():
+            if index == 1 or index == page_count or index % 25 == 0:
+                print(f"OCR {pdf_path.name}: page {index}/{page_count}", file=sys.stderr)
+            image_prefix = page_dir / stem
+            image = page_dir / f"{stem}.tif"
+            run_command([
+                "pdftoppm",
+                "-f",
+                str(index),
+                "-l",
+                str(index),
+                "-r",
+                str(dpi),
+                "-tiff",
+                "-singlefile",
+                str(pdf_path),
+                str(image_prefix),
+            ])
+            completed = subprocess.run(
+                ["tesseract", image.name, image.stem, "-l", "ind+eng", "--psm", "4"],
+                cwd=page_dir,
+                text=True,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+            )
+            if completed.returncode != 0:
+                raise RuntimeError(completed.stderr.strip() or f"OCR failed for {image.name}")
+            image.unlink(missing_ok=True)
+        page_texts.append(page_txt.read_text(encoding="utf-8"))
+
+    text = "\f".join(page_texts)
+    text_path.write_text(text, encoding="utf-8")
+    return text
+
+
 def pdf_info(pdf_path: Path) -> dict[str, str]:
     info: dict[str, str] = {}
     try:
@@ -91,7 +150,7 @@ def normalize_space(value: str) -> str:
 
 
 def split_label_line(line: str) -> list[str]:
-    match = re.match(r"^(Menimbang|Mengingat|Memperhatikan|Menetapkan)\s*:?\s+(.+)$", line, re.IGNORECASE)
+    match = re.match(r"^(Menimbang|Mengingat|Memperhatikan|Menetapkan)\s*[:;]?\s+(.+)$", line, re.IGNORECASE)
     if not match:
         return [line]
     label = match.group(1)
@@ -167,12 +226,17 @@ def is_noise_line(line: str) -> bool:
         return True
     if SK_NUMBER_RE.match(stripped):
         return True
+    if re.search(r"\bSK\s*No\.?\b", stripped, re.IGNORECASE):
+        return True
     if PAGE_HEADER_RE.match(stripped):
         return True
     if PAGE_NUMBER_RE.match(stripped):
         return True
     if OCR_PAGE_NUMBER_RE.match(stripped):
         return True
+    article_candidate = normalize_legal_text(stripped)
+    if re.match(r"^Pasal\s+[0-9A-Z]+\s*(?:\.|\u2026|\s)*$", article_candidate, re.IGNORECASE):
+        return False
     if ELLIPSIS_POINTER_RE.search(stripped):
         return True
     return False
@@ -296,7 +360,7 @@ def clean_and_reflow(raw_text: str) -> list[str]:
             if is_noise_line(raw_line):
                 continue
 
-            stripped = normalize_space(raw_line)
+            stripped = normalize_legal_text(normalize_space(raw_line))
             if not stripped:
                 if current:
                     if re.search(r"\b(ayat|huruf|angka|pasal)$", current.rstrip(), re.IGNORECASE):
@@ -337,12 +401,79 @@ def clean_and_reflow(raw_text: str) -> list[str]:
     return merge_split_article_headings(cleaned)
 
 
+def normalize_x_noise(text: str) -> str:
+    whitelist = {"Toxicity", "dioxins", "NOx", "ex", "X", "IX", "XI", "XII", "XIII", "XIV", "XV", "XIIJ"}
+
+    def replace_word(match: re.Match[str]) -> str:
+        word = match.group(0)
+        if word in whitelist or word.upper() in whitelist or len(word) <= 2:
+            return word
+        if word.isupper():
+            return word
+        return word.replace("x", "k").replace("X", "K")
+
+    return re.sub(r"\b[A-Za-z]*[xX][A-Za-z]*\b", replace_word, text)
+
+
 def normalize_legal_text(text: str) -> str:
     replacements = {
         "UNDANG–UNDANG": "UNDANG-UNDANG",
         "Undang–Undang": "Undang-Undang",
         "undang–undang": "undang-undang",
         "PERATURAN–PEMERINTAH": "PERATURAN PEMERINTAH",
+        "PERLI N DU NGAN": "PERLINDUNGAN",
+        "PERLINDI.INGAN": "PERLINDUNGAN",
+        "PENGELO I-AAN": "PENGELOLAAN",
+        "TENTANC}": "TENTANG",
+        "Pasa!": "Pasal",
+        "Pasai": "Pasal",
+        "PasaI": "Pasal",
+        "MEN,IUTUSI(AN": "MEMUTUSKAN",
+        "UI\\.{UM": "UMUM",
+        "ENERGl": "ENERGI",
+        "Keija": "Kerja",
+        "keija": "kerja",
+        "hasi!": "hasil",
+        "Hasi!": "Hasil",
+        "hasil!": "hasil",
+        "menghasi!kan": "menghasilkan",
+        "Penghasi!": "Penghasil",
+        "penghasi!": "penghasil",
+        "memenuh!": "memenuhi",
+        "operasiona!": "operasional",
+        "profi!": "profil",
+        "nila!": "nilai",
+        "ha!": "hal",
+        "ha! ": "hal ",
+        "ftuph!": "(tujuh)",
+        "dimaxsud": "dimaksud",
+        "dimaxksud": "dimaksud",
+        "cimaxsud": "dimaksud",
+        "melakuxan": "melakukan",
+        "melaxsanakan": "melaksanakan",
+        "diexspor": "diekspor",
+        "untux": "untuk",
+        "tidax": "tidak",
+        "jarax": "jarak",
+        "Radionuxfida": "Radionuklida",
+        "nelaxsanaan": "pelaksanaan",
+        "dimanfactxan": "dimanfaatkan",
+        "xelas": "kelas",
+        "xewenangannya": "kewenangannya",
+        "Sarxsi": "Sanksi",
+        "Penganghuten": "Pengangkutan",
+        "diakukean": "dilakukan",
+        "menggunaran": "menggunakan",
+        "Pengargkut": "Pengangkut",
+        "dilengkani": "dilengkapi",
+        "dilengxap": "dilengkap",
+        "memenubi": "memenuhi",
+        "Lunbah": "Limbah",
+        "Limban": "Limbah",
+        "Linibhah": "Limbah",
+        "Lirubah": "Limbah",
+        "Lirnbah": "Limbah",
+        "Uraban": "Limbah",
         "PRES IOEN": "PRESIDEN",
         "PRES I DEN": "PRESIDEN",
         "PRES IDEN": "PRESIDEN",
@@ -355,8 +486,6 @@ def normalize_legal_text(text: str) -> str:
         "REPUBUK": "REPUBLIK",
         "REFUBLIK": "REPUBLIK",
         "R.EPUBLIK": "REPUBLIK",
-        "Pasai": "Pasal",
-        "PasaI": "Pasal",
         "Menirnbang": "Menimbang",
         "Nornor": "Nomor",
         "Pcrarturan": "Peraturan",
@@ -369,6 +498,22 @@ def normalize_legal_text(text: str) -> str:
     for old, new in replacements.items():
         text = text.replace(old, new)
     text = text.replace("“", '"').replace("”", '"').replace("„", '"').replace("’", "'")
+    text = text.replace("{", "(").replace("}", ")")
+    text = re.sub(r"\(!\)", "(1)", text)
+    text = re.sub(r"\((\d+)!\)", r"(\1)", text)
+    text = re.sub(r"\((\d+)!", r"(\1)", text)
+    text = re.sub(r"\bayat\s+!([0-9])\)", r"ayat (\1)", text, flags=re.IGNORECASE)
+    text = re.sub(r"\((satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh)!", r"(\1)", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bParagraf\s+!\b", "Paragraf 1", text, flags=re.IGNORECASE)
+    text = text.replace("VI!", "VII")
+    text = re.sub(r"\b(?:Fasai|Fasal|Pasat|Pasai|Passl|Pasaj|Pasi)\b", "Pasal", text)
+    text = re.sub(r"\b(?:Pasal!|Pasal\)|Pasa:|Pasa\?!|Fasa\)|Puasa!)\s+", "Pasal ", text)
+    text = re.sub(r"^Pasal\s+(\d{2,}):$", r"Pasal \g<1>1", text, flags=re.IGNORECASE)
+    text = re.sub(r"^(Pasal\s+[0-9A-Z]+)\s*(?:\.|\u2026)+$", r"\1", text, flags=re.IGNORECASE)
+    text = re.sub(r"^[A-Za-z0-9]{1,3}\s+SALINAN$", "SALINAN", text)
+    text = re.sub(r"^BAB\s+\|$", "BAB I", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bPasal\s+S5\s+ayat\b", "Pasal 5 ayat", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bPasal\s+5\s+ayat\s+12\)", "Pasal 5 ayat (2)", text, flags=re.IGNORECASE)
     text = re.sub(r"\{(\d+[A-Z]?)\)", r"(\1)", text)
     text = re.sub(r"\{(\d+[A-Z]?)\b", r"(\1)", text)
     text = re.sub(r"\((\d+[A-Z]?)[1lI]\b", r"(\1)", text)
@@ -382,6 +527,10 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\b2[OoIil|]18\b", "2018", text)
     text = re.sub(r"\bZOZ[|Il1]\b", "2021", text)
     text = re.sub(r"(?<=\d)O(?=\d|\b)", "0", text)
+    text = re.sub(r"\b2OOg\b", "2009", text)
+    text = re.sub(r"\b2OO9\b", "2009", text)
+    text = re.sub(r"\b2O2O\b", "2020", text)
+    text = re.sub(r"\b2O21\b", "2021", text)
     text = re.sub(r"\bPasal\s+(\d+)l[:,]uruf\b", r"Pasal \1 huruf", text, flags=re.IGNORECASE)
     text = re.sub(r"\bPasal\s+(\d+)[lI]\b", r"Pasal \g<1>1", text, flags=re.IGNORECASE)
     text = re.sub(r"\bNomor\s+S\s+Tahun\s+2021\b", "Nomor 5 Tahun 2021", text, flags=re.IGNORECASE)
@@ -397,7 +546,10 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\bdanlatau\b", "dan/atau", text, flags=re.IGNORECASE)
     text = re.sub(r"(?<=[a-z])danlatau\b", " dan/atau", text, flags=re.IGNORECASE)
     text = re.sub(r"\bdan/ataul\b", "dan/atau", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bd\^\s+", "dan ", text, flags=re.IGNORECASE)
     text = re.sub(r"(?<=[a-z])lzin\b", " Izin", text)
+    text = normalize_x_noise(text)
+    text = text.replace("!", "l")
     text = text.replace("pemegan g Izin", "pemegang Izin")
     text = re.sub(r"\blfrequently asked questionsl\b", "(frequently asked questions)", text, flags=re.IGNORECASE)
     text = text.replace("perLlndang", "perundang")
@@ -408,6 +560,7 @@ def normalize_legal_text(text: str) -> str:
     text = re.sub(r"\b(?:TIEPUBLIK|R\.?E?P[UO]BLIK|REFUBLIK|REPUBUK)\s+INDONESI[\\\/A!]*\b", "", text, flags=re.IGNORECASE)
     text = re.sub(r"(?:'\s*){2,}\s*sK\s*No\s+[A-Za-z0-9]+\s*[A-Z]?", "", text)
     text = re.sub(r"\bSK\s*No\.?\s*[0-9Il|l'MABTt]+(?:\s*[0-9Il|l'MABTt]+)*\s*[ABM]?\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+[A-Za-z]{0,4}\s+x[.)]?\s*[^A-Za-z0-9]*(?:[A-Za-z]{0,4}[.)]?)?,?\s*$", "", text)
     text = re.sub(r"\s+[-_–—]\s*[0-9tloIr!]+\s*[-_–—]\s*$", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\b([A-Za-z]+)-\s+([A-Za-z]+)\b", r"\1-\2", text)
     text = re.sub(r"\bperundangundangan\b", "perundang-undangan", text, flags=re.IGNORECASE)
@@ -501,6 +654,80 @@ def normalized_article_key(text: str) -> str:
     return roman_match.group(0) if roman_match else normalized
 
 
+def article_heading_number(text: str) -> str | None:
+    normalized = normalize_article_heading(text)
+    match = re.fullmatch(r"Pasal\s+([0-9A-Z]+)", normalized, flags=re.IGNORECASE)
+    return match.group(1).upper() if match else None
+
+
+def close_numeric_token(value: str, expected: int) -> bool:
+    expected_text = str(expected)
+    if value == expected_text:
+        return False
+    if value.startswith(expected_text) and len(value) > len(expected_text):
+        return True
+    if len(value) == len(expected_text):
+        return sum(left != right for left, right in zip(value, expected_text)) <= 1
+    return False
+
+
+def coerce_article_number(token: str, expected: int | None) -> int | None:
+    if token.isdigit():
+        return int(token)
+    if expected is None:
+        return None
+
+    candidates: list[str] = []
+    if re.fullmatch(r"\d+[A-Z]", token):
+        tail_map = {"O": "0", "C": "0", "D": "0", "Q": "0", "U": "0", "S": "5", "B": "8"}
+        replacement = tail_map.get(token[-1])
+        if replacement:
+            candidates.append(token[:-1] + replacement)
+    if re.fullmatch(r"[I1L|]+", token):
+        candidates.append(token.replace("I", "1").replace("L", "1").replace("|", "1"))
+
+    for candidate in candidates:
+        if candidate.isdigit() and (int(candidate) == expected or close_numeric_token(candidate, expected)):
+            return int(candidate)
+    return None
+
+
+def normalize_article_sequences(paragraphs: list[Paragraph]) -> list[Paragraph]:
+    previous_number: dict[str, int | None] = {"body": None, "explanation": None}
+    result: list[Paragraph] = []
+
+    for paragraph in paragraphs:
+        if paragraph.kind != "article":
+            result.append(paragraph)
+            continue
+
+        token = article_heading_number(paragraph.text)
+        previous = previous_number[paragraph.part]
+        expected = previous + 1 if previous is not None else None
+        current = coerce_article_number(token, expected) if token else None
+        if current is not None:
+            if expected is not None and current != expected:
+                if current <= previous:
+                    if close_numeric_token(token, expected):
+                        paragraph = Paragraph(id=paragraph.id, kind=paragraph.kind, text=f"Pasal {expected}", part=paragraph.part)
+                        current = expected
+                    else:
+                        continue
+                elif current - expected == 1:
+                    pass
+                elif close_numeric_token(token, expected) or (current > expected + 50 and len(token) > len(str(expected))):
+                    paragraph = Paragraph(id=paragraph.id, kind=paragraph.kind, text=f"Pasal {expected}", part=paragraph.part)
+                    current = expected
+                elif current - expected > 20:
+                    continue
+            elif token != str(current):
+                paragraph = Paragraph(id=paragraph.id, kind=paragraph.kind, text=f"Pasal {current}", part=paragraph.part)
+            previous_number[paragraph.part] = current
+        result.append(paragraph)
+
+    return result
+
+
 def remove_repeated_article_noise(paragraphs: list[Paragraph]) -> list[Paragraph]:
     result: list[Paragraph] = []
     seen: dict[str, set[str]] = {"body": set(), "explanation": set()}
@@ -541,7 +768,7 @@ def remove_repeated_article_noise(paragraphs: list[Paragraph]) -> list[Paragraph
     return [Paragraph(id=f"p-{idx + 1:04d}", kind=p.kind, text=p.text, part=p.part) for idx, p in enumerate(result)]
 
 
-def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str, str]) -> dict[str, object]:
+def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str, str], extraction_method: str) -> dict[str, object]:
     texts = [p.text for p in paragraphs]
     joined = "\n".join(texts[:80])
     doc_type = ""
@@ -555,6 +782,12 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
             break
         if upper.startswith("PERATURAN PRESIDEN"):
             doc_type = "PERPRES"
+            break
+        if upper.startswith("PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL"):
+            doc_type = "PERMEN ESDM"
+            break
+        if upper.startswith("PERATURAN MENTERI PERINDUSTRIAN"):
+            doc_type = "PERMENPERIN"
             break
         if upper.startswith("PERATURAN MENTERI"):
             doc_type = "PERMEN"
@@ -579,7 +812,11 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
         break
     title = " ".join(title_lines).strip()
 
-    slug_parts = [doc_type.lower() or "peraturan", "nomor", number.lower(), "tahun", year]
+    slug_type = {
+        "PERMEN ESDM": "permen-esdm",
+        "PERMENPERIN": "permenperin",
+    }.get(doc_type, doc_type.lower() or "peraturan")
+    slug_parts = [slug_type, "nomor", number.lower(), "tahun", year]
     slug = slugify(" ".join(part for part in slug_parts if part))
 
     return {
@@ -590,6 +827,7 @@ def extract_metadata(paragraphs: list[Paragraph], pdf_path: Path, info: dict[str
         "year": year,
         "title": title,
         "slug": slug,
+        "extraction_method": extraction_method,
         "pdf_info": {
             "pages": info.get("Pages", ""),
             "title": info.get("Title", ""),
@@ -616,7 +854,104 @@ def sha256_file(path: Path) -> str:
     return digest.hexdigest()
 
 
-def quality_report(raw_text: str, paragraphs: list[Paragraph]) -> dict[str, object]:
+def is_non_text_attachment_paragraph(paragraph: Paragraph) -> bool:
+    text = paragraph.text.strip()
+    if not text:
+        return True
+    compact = re.sub(r"\s+", "", text)
+    if re.search(r"(?:\.|\u2026){3,}", compact):
+        return True
+    if re.search(r"_{3,}", compact):
+        return True
+    if re.search(r"\b(?:PT|PLT|MW|MVA|kV|KV)\s*(?:\.|\u2026){2,}", text):
+        return True
+    if re.search(r"\bTAHUN\s*(?:\.|\u2026){2,}", text, re.IGNORECASE):
+        return True
+    if len(text) <= 2 and not re.search(r"[A-Za-z]", text):
+        return True
+    return False
+
+
+def starts_attachment_section(text: str) -> bool:
+    return bool(re.match(r"^[A-Z]\.\s+", text))
+
+
+def starts_attachment_table(text: str) -> bool:
+    table_patterns = [
+        r"\bNo\.?\s+(?:Ketentuan|Persyaratan|Parameter|Jenis|Uraian|Kegiatan|Dokumen|Tahapan|Rekaman)\b",
+        r"\btabel\s+berikut\b",
+        r"\bTahapan\s+proses/\s*Alat\s+Uji/",
+        r"\bUntuk\s+Perusahaan\s+Industri\s+Untuk\s+Produsen\b",
+    ]
+    return any(re.search(pattern, text, re.IGNORECASE) for pattern in table_patterns)
+
+
+def filter_non_text_attachments(paragraphs: list[Paragraph]) -> tuple[list[Paragraph], int]:
+    filtered: list[Paragraph] = []
+    skipped = 0
+    in_attachment = False
+    in_attachment_table = False
+
+    for paragraph in paragraphs:
+        if paragraph.kind == "attachment":
+            in_attachment = True
+            in_attachment_table = False
+            filtered.append(paragraph)
+            continue
+        if not in_attachment:
+            filtered.append(paragraph)
+            continue
+        starts_section = starts_attachment_section(paragraph.text)
+        if starts_section and in_attachment_table:
+            in_attachment_table = False
+        if starts_attachment_table(paragraph.text):
+            in_attachment_table = True
+            skipped += 1
+            continue
+        if in_attachment_table or is_non_text_attachment_paragraph(paragraph):
+            skipped += 1
+            continue
+        filtered.append(paragraph)
+
+    return [Paragraph(id=f"p-{idx + 1:04d}", kind=p.kind, text=p.text, part=p.part) for idx, p in enumerate(filtered)], skipped
+
+
+def is_short_ocr_noise(paragraph: Paragraph) -> bool:
+    if paragraph.kind in {"letter", "number"} and re.fullmatch(r"(?:[a-z]|\d+)\.\s*[^A-Za-z0-9]{1,3}", paragraph.text.strip()):
+        return True
+    if re.search(r"\bx\b", paragraph.text.strip()) and len(paragraph.text.strip()) <= 20:
+        return True
+    if paragraph.kind not in {"body", "explanation_body"}:
+        return False
+    text = paragraph.text.strip()
+    if text == 'EN ax "Be':
+        return True
+    if text in {"dan", "atau", "Umum"}:
+        return False
+    if len(text) <= 6:
+        return True
+    return False
+
+
+def filter_ocr_noise(paragraphs: list[Paragraph]) -> tuple[list[Paragraph], int]:
+    filtered: list[Paragraph] = []
+    skipped = 0
+    for paragraph in paragraphs:
+        text = re.sub(r"^SALINAN\s+\w{1,3}$", "SALINAN", paragraph.text.strip())
+        candidate = Paragraph(id=paragraph.id, kind=paragraph.kind, text=text, part=paragraph.part)
+        if is_short_ocr_noise(candidate):
+            skipped += 1
+            continue
+        filtered.append(candidate)
+    return [Paragraph(id=f"p-{idx + 1:04d}", kind=p.kind, text=p.text, part=p.part) for idx, p in enumerate(filtered)], skipped
+
+
+def quality_report(
+    raw_text: str,
+    paragraphs: list[Paragraph],
+    skipped_attachment_paragraph_count: int,
+    skipped_noise_paragraph_count: int,
+) -> dict[str, object]:
     texts = [p.text for p in paragraphs]
     flags: list[str] = []
     joined = "\n".join(texts)
@@ -624,10 +959,8 @@ def quality_report(raw_text: str, paragraphs: list[Paragraph]) -> dict[str, obje
         flags.append("replacement_character_found")
     if re.search(r"(?:\.\s*){3,}", joined):
         flags.append("ellipsis_pointer_possible_residue")
-    if any(p.kind == "attachment" for p in paragraphs):
-        flags.append("attachment_detected_review_if_non_text")
-    if "PENJELASAN" not in {p.text.upper() for p in paragraphs}:
-        flags.append("explanation_not_detected")
+    if skipped_attachment_paragraph_count:
+        flags.append("skipped_non_text_attachment")
     if not any(p.kind == "article" for p in paragraphs):
         flags.append("article_headings_not_detected")
 
@@ -641,29 +974,62 @@ def quality_report(raw_text: str, paragraphs: list[Paragraph]) -> dict[str, obje
 
     body_articles = {article_number(p.text) for p in paragraphs if p.kind == "article" and p.part == "body"}
     explanation_articles = {article_number(p.text) for p in paragraphs if p.kind == "article" and p.part == "explanation"}
+    has_explanation = any(p.text.upper() == "PENJELASAN" for p in paragraphs)
+    if has_explanation and body_articles and explanation_articles and len(body_articles) != len(explanation_articles):
+        flags.append("body_explanation_article_count_mismatch")
+
+    def sequence_gap_count(part: str) -> int:
+        previous: int | None = None
+        gaps = 0
+        for paragraph in paragraphs:
+            if paragraph.kind != "article" or paragraph.part != part:
+                continue
+            token = article_heading_number(paragraph.text)
+            if not token or not token.isdigit():
+                continue
+            current = int(token)
+            if previous is not None and current != previous + 1:
+                gaps += 1
+            previous = current
+        return gaps
+
+    body_sequence_gap_count = sequence_gap_count("body")
+    explanation_sequence_gap_count = sequence_gap_count("explanation")
+    if body_sequence_gap_count:
+        flags.append("body_article_sequence_gap")
+    if explanation_sequence_gap_count:
+        flags.append("explanation_article_sequence_gap")
 
     return {
         "paragraph_count": len(paragraphs),
         "body_article_count": len(body_articles),
         "explanation_article_count": len(explanation_articles),
+        "body_article_sequence_gap_count": body_sequence_gap_count,
+        "explanation_article_sequence_gap_count": explanation_sequence_gap_count,
         "chapter_count": sum(1 for p in paragraphs if p.kind == "chapter"),
         "part_count": sum(1 for p in paragraphs if p.kind == "part"),
         "letter_count": sum(1 for p in paragraphs if p.kind == "letter"),
         "number_count": sum(1 for p in paragraphs if p.kind == "number"),
-        "has_explanation": any(p.text.upper() == "PENJELASAN" for p in paragraphs),
+        "has_explanation": has_explanation,
         "has_state_gazette": "LEMBARAN NEGARA REPUBLIK INDONESIA" in joined,
         "has_supplement": "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA" in joined,
+        "skipped_attachment_paragraph_count": skipped_attachment_paragraph_count,
+        "skipped_noise_paragraph_count": skipped_noise_paragraph_count,
         "quality_flags": flags,
     }
 
 
-def regulation_payload(pdf_path: Path) -> dict[str, object]:
-    raw_text = pdf_text(pdf_path)
+def regulation_payload(pdf_path: Path, output_dir: Path, force_ocr: bool, ocr_dpi: int) -> dict[str, object]:
     info = pdf_info(pdf_path)
+    extraction_method = "tesseract_ocr" if force_ocr else "pdftotext_layout"
+    raw_text = ocr_pdf_text(pdf_path, output_dir / "_ocr-cache", ocr_dpi) if force_ocr else pdf_text(pdf_path)
     raw_paragraphs = clean_and_reflow(raw_text)
-    paragraphs = remove_repeated_article_noise(build_paragraphs(raw_paragraphs))
-    metadata = extract_metadata(paragraphs, pdf_path, info)
-    quality = quality_report(raw_text, paragraphs)
+    paragraphs = normalize_article_sequences(build_paragraphs(raw_paragraphs))
+    paragraphs = remove_repeated_article_noise(paragraphs)
+    paragraphs, skipped_attachment_paragraph_count = filter_non_text_attachments(paragraphs)
+    paragraphs, skipped_noise_paragraph_count = filter_ocr_noise(paragraphs)
+    metadata = extract_metadata(paragraphs, pdf_path, info, extraction_method)
+    quality = quality_report(raw_text, paragraphs, skipped_attachment_paragraph_count, skipped_noise_paragraph_count)
     return {
         "metadata": metadata,
         "quality": quality,
@@ -906,8 +1272,8 @@ def output_stem(payload: dict[str, object], fallback: Path) -> str:
     return slugify(fallback.stem)
 
 
-def convert_pdf(pdf_path: Path, output_dir: Path) -> dict[str, object]:
-    payload = regulation_payload(pdf_path)
+def convert_pdf(pdf_path: Path, output_dir: Path, force_ocr: bool, ocr_dpi: int) -> dict[str, object]:
+    payload = regulation_payload(pdf_path, output_dir, force_ocr, ocr_dpi)
     dirs = ensure_dirs(output_dir)
     stem = output_stem(payload, pdf_path)
     json_path = dirs["json"] / f"{stem}.json"
@@ -939,6 +1305,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("pdfs", nargs="*", help="PDF file(s) to convert.")
     parser.add_argument("--input-dir", help="Directory containing PDF files.")
     parser.add_argument("--output-dir", default="generated", help="Output directory.")
+    parser.add_argument("--force-ocr", action="store_true", help="Use Tesseract OCR instead of the embedded text layer.")
+    parser.add_argument("--ocr-dpi", type=int, default=300, help="Rasterization DPI for --force-ocr.")
     args = parser.parse_args(argv)
 
     if not shutil.which("pdftotext"):
@@ -961,7 +1329,7 @@ def main(argv: list[str] | None = None) -> int:
             failures.append({"source_file": str(pdf_path), "error": "file_not_found"})
             continue
         try:
-            payload = convert_pdf(pdf_path, output_dir)
+            payload = convert_pdf(pdf_path, output_dir, args.force_ocr, args.ocr_dpi)
         except Exception as exc:  # noqa: BLE001 - CLI should continue batch conversion
             failures.append({"source_file": str(pdf_path), "error": str(exc)})
             continue
